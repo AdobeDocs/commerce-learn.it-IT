@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video e Tutorials
 user-guide-description: Una raccolta di video e tutorial per Adobe Commerce e Magenti Open Source.
-source-git-commit: 84481eda6064560e7aeedef3899f07a8d3a75fd4
+source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Video e Tutorials di Adobe Commerce {#tutorials}
 
-+ [[!DNL Commerce] Video e Tutorials](overview.md) {#overview}
++ [[!DNL Commerce] Video e Tutorials](overview.md)
 
 + Guida introduttiva {#getting-started}
    + [!DNL Commerce] sull&#39;infrastruttura cloud  {#cloud}
@@ -74,7 +74,7 @@ ht-degree: 0%
    + [Creare una pagina](developer/create-new-page.md)
 
 + PWA Studi {#pwa-studio}
-   + Introduzione a PWA Studi {#introduction}s
+   + Introduzione a PWA Studi {#introduction}
       + [1 - Panoramica](./pwa/introduction/1-overview.md)
       + [2 - Strumenti PWA Studi](./pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Launch](pwa/introduction/3-launch.md)
