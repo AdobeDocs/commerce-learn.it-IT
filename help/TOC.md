@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video e Tutorials
-user-guide-description: Una raccolta di video e tutorial per Adobe Commerce e Magenti Open Source.
-source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
+user-guide-description: Raccolta di video e tutorial per Adobe Commerce e Magenti Open Source.
+source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 + [[!DNL Commerce] Video e Tutorials](overview.md)
 
-+ Guida introduttiva {#getting-started}
-   + [!DNL Commerce] sull&#39;infrastruttura cloud  {#cloud}
++ Introduzione {#getting-started}
+   + [!DNL Commerce] sull&#39;infrastruttura cloud {#cloud}
       + [1 - Panoramica](./cloud/1-overview.md)
       + [2 - Account in hosting](./cloud/2-accounts.md)
       + [3 - Progetti cloud](./cloud/3-projects.md)
       + [4 - Implementazione](./cloud/4-deployment.md)
       + [5 - Sviluppo](./cloud/5-dev-config.md)
       + [6 - Servizi e DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] per sviluppatori  {#development}
+   + [!DNL Commerce] per sviluppatori {#development}
       + [1.1 - Panoramica](./developer/backend-1-1-overview.md)
       + [1.2 - Flusso di lavoro di sviluppo](./developer/backend-1-2-workflow.md)
       + [2 - Installazione](./developer/backend-2-install.md)
@@ -30,10 +30,10 @@ ht-degree: 0%
       + [5.1 - Nozioni di base sullo sviluppo](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Schema dichiarativo](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - Indirizzamento](./developer/backend-5-3-routing.md)
-      + [5.4 - Creare una pagina [!DNL Admin] ](./developer/backend-5-4-admin-page.md)
+      + [5.4 - Creare un [!DNL Admin] page](./developer/backend-5-4-admin-page.md)
       + [6 - Esercizi](./developer/backend-6-practice.md)
-   + [!DNL Commerce] per gli utenti aziendali  {#merchants}
-      + [1.1 - [!DNL Admin] menu](./merchant/introduction/1-1-menus.md)
+   + [!DNL Commerce] per gli utenti aziendali {#merchants}
+      + [1,1 - [!DNL Admin] menu](./merchant/introduction/1-1-menus.md)
       + [1.2 - Griglie dati](./merchant/introduction/1-2-data-grids.md)
       + [1.3 - Ambiti, siti e negozi](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
       + [1.4 - Memorizzare viste e cache](./merchant/introduction/1-4-store-views-cache.md)
@@ -55,6 +55,19 @@ ht-degree: 0%
       + [5.1 - Esperienza di vetrina](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Gestione dei clienti](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - Comunicazioni e-mail](./merchant/introduction/5-3-store-communications.md)
+   + [!DNL Business Intelligence] {#business-intelligence}
+      + [1 - Panoramica](./merchant/business-intelligence/1-overview.md)
+      + [2 - Archiviazione dei dati](./merchant/business-intelligence/2-data-warehousing.md)
+      + [3 - Creare rapporti](./merchant/business-intelligence/3-build-reports.md)
+      + [4 - Metriche](./merchant/business-intelligence/4-metrics.md)
+      + [5 - Rapporti standard](./merchant/business-intelligence/5-standard-reports.md)
+      + [6 - Sintesi esecutiva](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [7 - Dashboard ordini](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [8 - Dashboard incentrati sul cliente](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [9 - Analisi per categoria](./merchant/business-intelligence/9-category-analysis.md)
+      + [10 - Ritorno sul tracking degli investimenti](./merchant/business-intelligence/10-roi-tracking.md)
+      + [11 - Condividere i risultati e i dati sulle esportazioni](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [12 - Storie di successo dei clienti](./merchant/business-intelligence/12-customer-success.md)
 
 + Sviluppo back-end {#backend-development}
    + [Aggiungere una nuova tabella a un database](./developer/add-new-db-table.md)
@@ -62,8 +75,8 @@ ht-degree: 0%
    + [Aggiungi un nuovo attributo di prodotto](./developer/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](./developer/dependency-injection.md)
 
-+ Sviluppo frontaliero {#frontend-development}
-   + Generatore di pagine {#page-builder}
++ Sviluppo di frontiera {#frontend-development}
+   + Page Builder {#page-builder}
       + [1 - Introduzione](./developer/page-builder/1-intro-case-studies.md)
       + [2 - Configurazione e contenuto](./developer/page-builder/2-config-create-content.md)
       + [3 - Temi](./developer/page-builder/3-themes.md)
