@@ -1,12 +1,12 @@
 ---
 title: PWA Studi per sviluppatori - Peregrine
-description: Informazioni su Peregrine, incluso il ​ della libreria Peregrine. Comprendere la motivazione dietro Peregrine ​ le differenze tra ganci e talon di Peregrine.
+description: Informazioni su Peregrine, inclusa la libreria Peregrine. Comprendere la motivazione dietro Peregrine ​ le differenze tra ganci e talon di Peregrine.
 topic: Development
 kt: 5649
 doc-type: video
 activity: use
 exl-id: 3f513b05-77f4-4695-ac36-b0d73d1e2750
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 2ec41c933ee5d83eaca4dcc82a7b76d3151b5e27
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -18,8 +18,8 @@ ht-degree: 0%
 In questo video:
 
 - Introduzione a Peregrine
-- La &#x200B; della biblioteca Peregrine
-- Comprendere le motivazioni alla base di Peregrine &#x200B;
+- La biblioteca Peregrine
+- Comprendere le motivazioni alla base di Peregrine
 - Distinguere tra ganci e lanci di Peregrine
 
 ## A chi serve questo video?
