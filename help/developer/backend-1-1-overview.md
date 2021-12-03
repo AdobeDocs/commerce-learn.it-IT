@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: fe1b7ac9f162e25ca078841e8c21cf0b2e78ad70
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -30,9 +30,9 @@ In questo video:
 >
 >Questo contenuto riflette la versione di Adobe Commerce e Magenti Open Source 2.3.1.
 >
->- PWA e [PWA Studi](http://pwastudio.io/) sono ora disponibili come implementazione _headless_ del front-end.
->- Lo stack tecnologico è stato modificato nelle versioni successive della linea di rilascio 2.3.x e 2.4.x. Controlla i [requisiti di sistema](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) per assicurarti di disporre dei componenti di sistema corretti.
->- A causa dell&#39;imminente arresto di Temando, il Magento Shipping non è più disponibile. Per informazioni sullo stato dettagliate e raccomandazioni per le nuove implementazioni di spedizione in Commerce, consulta la [pagina informazioni prodotto](https://magento.com/shipping).
+>- PWA e [PWA Studi](http://pwastudio.io/) è ora disponibile come _senza testa_ attuazione del frontend.
+>- Lo stack tecnologico è stato modificato nelle versioni successive della linea di rilascio 2.3.x e 2.4.x. Controlla la [requisiti di sistema](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) per assicurarsi di disporre dei componenti di sistema corretti.
+>- A causa dell&#39;imminente arresto di Temando, il Magento Shipping non è più disponibile. Per informazioni dettagliate sullo stato e raccomandazioni per le nuove implementazioni di spedizione in Commerce, consulta [pagina informazioni prodotto](https://magento.com/shipping).
 
 
 
@@ -40,5 +40,6 @@ In questo video:
 
 ## Risorse aggiuntive
 
-[[!DNL Commerce] guida ](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
-[[!DNL Commerce] all&#39;architetturaGuida per gli sviluppatori PHP](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] guida all&#39;architettura](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
+
+[[!DNL Commerce] Guida per gli sviluppatori PHP](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)

@@ -1,13 +1,13 @@
 ---
 title: '[!DNL Commerce] per gli utenti aziendali - Gestione dei clienti'
-description: Scopri le autorizzazioni consigliate per il servizio clienti, la creazione di un cliente in [!DNL Admin], la gestione delle informazioni sui clienti e la creazione di gruppi di clienti.
+description: Scopri le autorizzazioni consigliate per il servizio clienti e crea un cliente nel [!DNL Admin], la gestione delle informazioni sui clienti e la creazione di gruppi di clienti.
 topic: Commerce
 kt: 5779
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 3e85c15d21a6c18309ac2376e4b96a6306ccadc0
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -33,6 +33,8 @@ In questo video:
 
 ## Risorse aggiuntive
 
-[Ruoli utente -  [!DNL Commerce] ](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
-[guida utenteCreazione di un account cliente individuale -  [!DNL Commerce] guida utente ](https://docs.magento.com/user-guide/customers/account-create.html)
-[Gruppi cliente - guida  [!DNL Commerce] utente](https://docs.magento.com/user-guide/customers/customer-groups.html)
+[Ruoli utente - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+
+[Creazione di un singolo account cliente - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/customers/account-create.html)
+
+[Gruppi di clienti - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/customers/customer-groups.html)
