@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video e Tutorials
 user-guide-description: Raccolta di video e tutorial per Adobe Commerce e Magenti Open Source.
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,15 @@ ht-degree: 0%
       + [10 - Ritorno sul tracking degli investimenti](./merchant/business-intelligence/10-roi-tracking.md)
       + [11 - Condividere i risultati e i dati sulle esportazioni](./merchant/business-intelligence/11-share-results-export-data.md)
       + [12 - Storie di successo dei clienti](./merchant/business-intelligence/12-customer-success.md)
+
++ Utilizzo dell’amministratore {#admin}
+   + [Utenti, ruoli e autorizzazioni](./merchant/users-roles-permissions.md)
+   + [Autenticazione a due fattori](./merchant/two-factor-authentication.md)
+   + [Aggiungere siti web, store e viste store](./merchant/add-websites-stores-views.md)
+   + [Modificare un URL store](./merchant/change-store-url.md)
+   + [Impostazione mappa sito store](./merchant/site-map-setup.md)
+   + [Regole di prezzo promozionali](./merchant/promotions-price-rules.md)
+   + [Panoramica di Page Builder](./merchant/page-builder-overview.md)
 
 + Sviluppo back-end {#backend-development}
    + [Aggiungere una nuova tabella a un database](./developer/add-new-db-table.md)
