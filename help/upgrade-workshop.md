@@ -1,14 +1,16 @@
 ---
 title: Workshop sull'aggiornamento ad Adobe Commerce 2.4
-description: Guarda questo webinar registrato per conoscere i passaggi di aggiornamento e le best practice di !DNL Commerce] per la versione 2.4.4 o successiva.
+description: Guarda questo webinar registrato per scoprire i passaggi dell’aggiornamento Adobe Commerce e le best practice per la versione 2.4.4 o successiva.
+landing-page-description: Guarda questo webinar registrato per scoprire i passaggi e le best practice per l’aggiornamento ad Adobe Commerce 2.4.
 kt: 9620
 doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
-source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
+exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
+source-git-commit: 7b29026613fc14ba1f2db1bbd21d3ebff51d4377
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
