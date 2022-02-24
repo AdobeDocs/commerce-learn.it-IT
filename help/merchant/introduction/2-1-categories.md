@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] per gli utenti aziendali - Categorie di prodotti'
+title: '"[!DNL Commerce] per utenti aziendali - Categorie di prodotti"'
 description: Scopri come gestire il catalogo dei prodotti impostando le categorie.
 topic: Commerce
 kt: 5765
@@ -7,7 +7,7 @@ doc-type: videos
 role: Admin, Leader, User
 activity: use
 exl-id: 3d35891b-d85a-4e91-877a-a375f047892d
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -30,4 +30,4 @@ In questo video:
 
 ## Risorse aggiuntive
 
-[Categorie - Guida  [!DNL Commerce] utente](https://docs.magento.com/user-guide/catalog/categories.html)
+[Categorie - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/catalog/categories.html)

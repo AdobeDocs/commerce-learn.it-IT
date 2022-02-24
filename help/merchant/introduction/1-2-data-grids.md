@@ -1,13 +1,13 @@
 ---
-title: '[!DNL Commerce] per gli utenti aziendali - Griglie dati'
-description: Scopri come utilizzare le griglie di dati in [!DNL Commerce Admin].
+title: '"[!DNL Commerce] per gli utenti aziendali - Griglie dati"'
+description: Scopri come utilizzare le griglie di dati nel [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 9834d448-2907-4c7a-8eed-e5c36b96c9c9
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In questo video:
 
-- Utilizzo delle griglie dati in [!DNL Commerce Admin]
+- Utilizzo delle griglie dati nella [!DNL Commerce Admin]
 
 ## A chi serve questo video?
 
@@ -28,10 +28,10 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta le note sulla versione [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) .
+>Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) note sulla versione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Controlli griglia - Guida  [!DNL Commerce] utente](https://docs.magento.com/user-guide/stores/admin-grid-controls.html)
+[Controlli griglia - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/stores/admin-grid-controls.html)

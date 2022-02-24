@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] per sviluppatori - Flusso di lavoro di sviluppo'
+title: '"[!DNL Commerce] per sviluppatori - Flusso di lavoro di sviluppo"'
 description: Scopri il flusso di lavoro di sviluppo tipico per Commerce.
 kt: 5691
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In questo video:
 
 >[!IMPORTANT]
 >
->La Commerce Marketplace non include più il pulsante **Download**. È necessario utilizzare la riga di comando per installare o aggiornare le estensioni. Per ulteriori informazioni, consulta l’argomento [Installazione generale di CLI](https://devdocs.magento.com/extensions/install/) nella documentazione per gli sviluppatori.
+>La Commerce Marketplace non include più il **Scarica** pulsante . È necessario utilizzare la riga di comando per installare o aggiornare le estensioni. Fai riferimento a [Installazione CLI generale](https://devdocs.magento.com/extensions/install/) per ulteriori informazioni, consulta la documentazione per gli sviluppatori .
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
