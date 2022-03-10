@@ -3,7 +3,7 @@ user-guide-title: Video e Tutorials
 user-guide-description: Raccolta di video e tutorial per Adobe Commerce e Magenti Open Source.
 source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---

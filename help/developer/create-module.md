@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Creare un modulo
 
-Il modulo è un elemento strutturale di [!DNL Commerce] - l&#39;intero sistema è costruito su moduli. In genere, il primo passaggio nella creazione di una personalizzazione consiste nella creazione di un modulo.
+Il modulo è un elemento strutturale di [!DNL Commerce] - l&#39;intero sistema è basato su moduli. In genere, il primo passaggio nella creazione di una personalizzazione consiste nella creazione di un modulo.
 
 ## A chi serve questo video?
 

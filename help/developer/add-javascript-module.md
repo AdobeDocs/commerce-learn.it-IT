@@ -24,7 +24,7 @@ Questo video fornisce una procedura dettagliata per lo sviluppo di un semplice m
 ## Passaggi
 
 - Creare un modulo
-- Creare un file di modulo `requirejs-config.js` e JavaScript
+- Crea un `requirejs-config.js` e un file modulo JavaScript
 - Crea l&#39;aggiornamento del layout per aggiungere un modello che abilita il modulo JS
 - Crea file modello
 - Aggiungi il modulo e testalo
