@@ -1,7 +1,7 @@
 ---
 title: '"[!DNL Commerce] per sviluppatori - Panoramica"'
 description: 'Scopri le basi della piattaforma dal punto di vista di diversi tipi di pubblico: commercianti, sviluppatori di negozi web e integratori.'
-landing-page-description: Guarda questa serie video per iniziare a utilizzare il tuo progetto di sviluppo back-end per Commerce.
+landing-page-description: Guarda questa serie di video per avviare il tuo progetto di sviluppo back-end per Commerce.
 doc-type: video
 topic: Development
 audience: developer
@@ -12,7 +12,7 @@ exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
 source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
