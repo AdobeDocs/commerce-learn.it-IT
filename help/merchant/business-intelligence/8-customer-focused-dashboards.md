@@ -3,13 +3,13 @@ title: Business Intelligence - Dashboard incentrati sul cliente
 description: Guarda una dimostrazione e una spiegazione dettagliata delle dashboard incentrate sul cliente.
 kt: 5736
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
