@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video e tutorial
 user-guide-description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source.
-source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
+source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---
@@ -77,6 +77,11 @@ ht-degree: 7%
    + [Impostazione mappa sito store](./merchant/site-map-setup.md)
    + [Regole di prezzo promozionali](./merchant/promotions-price-rules.md)
    + [Panoramica di Page Builder](./merchant/page-builder-overview.md)
+
++ Business Intelligence {#business-intelligence}
+   + [Set di filtri](./merchant/business-intelligence/filter-sets.md)
+   + [Report Builder coorte](./merchant/business-intelligence/cohort-report-builder.md)
+   + [Report Builder SQL](./merchant/business-intelligence/sql-report-builder.md)
 
 + Aggiornamenti {#upgrade}
    + [Workshop sull&#39;aggiornamento ad Adobe Commerce 2.4](./upgrade/2.4-upgrade-workshop.md)
