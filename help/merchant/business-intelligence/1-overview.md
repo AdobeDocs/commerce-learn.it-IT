@@ -1,6 +1,6 @@
 ---
-title: Business Intelligence - Panoramica
-description: Scopri i tre componenti core del prodotto di Business Intelligence che forniscono una soluzione completa di business intelligence.
+title: MBI - Panoramica
+description: Scopri i tre componenti core all’interno del prodotto MBI che forniscono una soluzione completa di business intelligence.
 landing-page-description: Guarda questa serie video per scoprire come ottenere migliori informazioni aziendali e risultati attraverso l’aggregazione dei dati, l’analisi e la visualizzazione.
 kt: 5724
 doc-type: feature video
@@ -8,22 +8,22 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Panoramica
+# MBI - Panoramica
 
-Business Intelligence è una soluzione completa che è stata ottimizzata per tutti i merchants Adobe Commerce e Magenti Open Source. Ci sono tre componenti principali che lo rendono una soluzione completa di business intelligence:
+MBI è una soluzione completa che è stata ottimizzata per tutti i commercianti Adobe Commerce e Magenti Open Source. Ci sono tre componenti principali che lo rendono una soluzione completa di business intelligence:
 
 - _Replica e consolidamento dei dati_: Tutto inizia con il collegamento delle varie sorgenti di dati e il loro raggruppamento all&#39;interno di una posizione centrale.
 - _Data Warehouse_: Per sfruttare tutti i tuoi dati, devi memorizzarli e renderli accessibili in modo ottimizzato per le analisi. BI include un componente data warehouse in hosting.
-- _Dashboard e visualizzazione_: Quando tutti i dati sono stati collegati, centralizzati e archiviati, Business Intelligence fornisce un&#39;interfaccia front-end per analizzarli.
+- _Dashboard e visualizzazione_: Quando tutti i dati sono stati collegati, centralizzati e archiviati, MBI fornisce un’interfaccia front-end per analizzarli.
 
-Con questi tre elementi tecnologici integrati in un&#39;unica soluzione, i commercianti utilizzano il Business Intelligence per:
+Con questi tre pezzi di tecnologia di base integrati in un&#39;unica soluzione, i commercianti utilizzano MBI per:
 
 - Risparmio di tempo
 - Acquisire informazioni dai dati aziendali
@@ -38,11 +38,11 @@ Con questi tre elementi tecnologici integrati in un&#39;unica soluzione, i comme
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di Business Intelligence](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
 ## Risorse utili
 
-- [Introduzione al Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [Supporto Business Intelligence](https://support.magento.com/hc/en-us/articles/360016730811)
+- [Introduzione a MBI](https://docs.magento.com/mbi/getting-started/getting-started.html)
+- [Supporto MBI](https://support.magento.com/hc/en-us/articles/360016730811)

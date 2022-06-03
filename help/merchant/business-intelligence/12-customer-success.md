@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Storie di successo dei clienti
-description: Scopri le storie di successo dei clienti utilizzando il Business Intelligence .
+title: 'MBI: storie di successo dei clienti'
+description: Scopri le storie di successo dei clienti che utilizzano MBI.
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Storie di successo dei clienti
+# MBI: storie di successo dei clienti
 
-Quando hai familiarità con alcuni dei tipi più utili di analisi che i commercianti fanno in Business Intelligence, controlla alcuni casi di successo dei clienti e come hanno utilizzato la loro analisi per ottenere risultati reali.
+Quando hai familiarità con alcuni dei tipi più utili di analisi che i commercianti fanno in MBI, esamina alcune storie di successo dei clienti e come hanno utilizzato la loro analisi per ottenere risultati reali.
 
 ## A chi serve questo video?
 

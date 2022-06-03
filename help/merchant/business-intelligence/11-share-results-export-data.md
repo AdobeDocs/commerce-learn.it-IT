@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Condividere risultati ed esportare dati
-description: Scopri come condividere i risultati del Business Intelligence ed esportare i dati per l’integrazione con altri strumenti aziendali.
+title: MBI - Condividere i risultati e i dati di esportazione
+description: Scopri come condividere i risultati di MBI ed esportare i dati per l’integrazione con altri strumenti aziendali.
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Condividere risultati ed esportare dati
+# MBI - Condividere i risultati e i dati di esportazione
 
-Agli utenti del Business Intelligence possono essere concessi livelli di autorizzazione di sola lettura, standard o amministratori per controllare chi visualizza parti specifiche dei dati aziendali. Inoltre, i vantaggi non sono limitati agli utenti del Business Intelligence: pianifica e invia riepiloghi e-mail a tutti gli indirizzi e-mail necessari. I dati del data warehouse possono essere esportati utilizzando l&#39;API Export.
+Agli utenti MBI possono essere concessi livelli di autorizzazione di sola lettura, standard o amministratore per controllare chi visualizza parti specifiche dei dati aziendali. Inoltre, i vantaggi non sono limitati agli utenti MBI: pianifica e invia riepiloghi e-mail a tutti gli indirizzi e-mail necessari. I dati del data warehouse possono essere esportati utilizzando l&#39;API Export.
 
 ## A chi serve questo video?
 
@@ -27,7 +27,7 @@ Agli utenti del Business Intelligence possono essere concessi livelli di autoriz
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di Business Intelligence](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 

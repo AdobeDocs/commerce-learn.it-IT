@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Creare rapporti
-description: Scopri le opzioni di creazione dei rapporti disponibili in Business Intelligence.
+title: MBI - Creare rapporti
+description: Scopri le opzioni di creazione dei rapporti disponibili in MBI.
 kt: 5726
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Creare rapporti
+# MBI - Creare rapporti
 
-Sono disponibili due opzioni per la creazione di rapporti e analisi in Business Intelligence: il generatore di report visivi e il generatore di report SQL.
+In MBI sono disponibili due opzioni per la creazione di rapporti e analisi: il generatore di report visivi e il generatore di report SQL.
 
 ## A chi serve questo video?
 
@@ -27,7 +27,7 @@ Sono disponibili due opzioni per la creazione di rapporti e analisi in Business 
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di Business Intelligence](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 

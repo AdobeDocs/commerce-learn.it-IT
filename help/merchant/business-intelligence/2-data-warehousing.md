@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Archiviazione dati
-description: Scopri Data Warehouse Manager, disponibile per gli utenti amministratori nel Business Intelligence.
+title: MBI - Archiviazione dati
+description: Scopri Data Warehouse Manager, disponibile per gli utenti amministratori in MBI.
 kt: 5729
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Archiviazione dati
+# MBI - Archiviazione dati
 
 Un data warehouse è un database relazionale configurato per consolidare e archiviare i dati per l&#39;esecuzione di analisi aziendali. I data warehouse consentono l&#39;accesso ai dati al fine di snormalizzare i database di produzione e organizzarli per eseguire analisi in modo più efficiente.
 
@@ -29,7 +29,7 @@ Utilizzando Data Warehouse Manager, gli utenti con accesso a livello di amminist
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di Business Intelligence](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 

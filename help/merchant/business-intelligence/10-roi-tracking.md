@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Ritorno sull'investimento
-description: Scopri le informazioni sul Business Intelligence che aiutano a monitorare il tuo ritorno sull'investimento.
+title: MBI - Tracciamento del ritorno sugli investimenti
+description: Scopri le informazioni MBI che consentono di tracciare il ritorno sull’investimento.
 kt: 5737
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Ritorno sull&#39;investimento
+# MBI - Tracciamento del ritorno sugli investimenti
 
-Il Business Intelligence fornisce informazioni che ti aiutano a monitorare e gestire il tuo ritorno sull&#39;investimento. Ad esempio, se investi nella pubblicità online, desideri tenere traccia del tuo ritorno sulla spesa per prendere decisioni basate sui dati su ulteriori investimenti.
+MBI fornisce informazioni utili per monitorare e gestire il ritorno sull’investimento. Ad esempio, se investi nella pubblicità online, desideri tenere traccia del tuo ritorno sulla spesa per prendere decisioni basate sui dati su ulteriori investimenti.
 
 ## A chi serve questo video?
 
@@ -27,7 +27,7 @@ Il Business Intelligence fornisce informazioni che ti aiutano a monitorare e ges
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di Business Intelligence](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35991?quality=12&learn=on)
 

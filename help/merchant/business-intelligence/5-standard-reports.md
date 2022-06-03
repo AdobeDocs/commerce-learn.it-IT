@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Rapporti standard
-description: Scopri i rapporti standard sul Business Intelligence, disponibili come standard.
+title: MBI - Rapporti standard
+description: Scopri i report standard MBI disponibili.
 kt: 5733
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Rapporti standard
+# MBI - Rapporti standard
 
-Le dashboard predefinite del Business Intelligence contengono rapporti predefiniti che coprono i rapporti KPI di e-commerce di cui la maggior parte dei merchandising ha bisogno. I commercianti possono automatizzare questi report per eseguire le loro attività in modo più efficiente ed eliminare l&#39;analisi manuale che possono eseguire con query SQL o in Excel.
+Le dashboard MBI predefinite contengono rapporti predefiniti che coprono i rapporti KPI di e-commerce di cui la maggior parte dei merchandising ha bisogno. I commercianti possono automatizzare questi report per eseguire le loro attività in modo più efficiente ed eliminare l&#39;analisi manuale che possono eseguire con query SQL o in Excel.
 
 ## A chi serve questo video?
 
@@ -27,7 +27,7 @@ Le dashboard predefinite del Business Intelligence contengono rapporti predefini
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di Business Intelligence](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 

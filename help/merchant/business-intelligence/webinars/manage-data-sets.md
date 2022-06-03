@@ -1,28 +1,29 @@
 ---
-title: Business Intelligence - Gestisci set di dati
-description: Guarda questo webinar per scoprire alcune delle funzioni avanzate di Business Intelligence Data Warehouse Manager.
-landing-page-description: Guarda questo webinar per scoprire alcune delle funzioni avanzate di Business Intelligence Data Warehouse Manager.
+title: Gestire i set di dati in MBI
+description: Guarda questo webinar per scoprire alcune delle funzionalità avanzate di MBI Data Warehouse Manager.
+landing-page-description: Guarda questo webinar per scoprire alcune delle funzionalità avanzate di MBI Data Warehouse Manager.
 kt: 10410
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Gestisci set di dati
+# Gestire i set di dati in MBI
 
-Scopri alcune delle funzioni avanzate di Business Intelligence Data Warehouse Manager direttamente dal team di prodotto di Adobe Commerce. Passa oltre la creazione di report di base e scopri come fare di più con i tuoi dati.
+Scopri alcune delle funzioni avanzate di MBI Data Warehouse Manager direttamente dal team di prodotto di Adobe Commerce. Passa oltre la creazione di report di base e scopri come fare di più con i tuoi dati.
 
 Durante questo webinar registrato, scopri come calcolare il ritorno sull’investimento delle campagne pubblicitarie, unendo i dati da Adobe Commerce, Google Ecommerce e Google AdWords.
 
 >[!TIP]
 >
->Se sei nuovo al Business Intelligence, la [Serie video introduttive](./../1-overview.md) fornisce una panoramica completa per migliorare le informazioni e i risultati aziendali attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se hai poca esperienza con MBI, la [Serie video introduttive](./../1-overview.md) fornisce una panoramica completa per migliorare le informazioni e i risultati aziendali attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
