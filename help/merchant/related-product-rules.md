@@ -1,0 +1,31 @@
+---
+title: Gestire le regole di prodotto correlate
+description: Scopri come presentare una selezione mirata di prodotti per memorizzare i clienti come prodotti, up-sell e cross-selling correlati.
+doc-type: feature video
+audience: all
+role: Admin, User
+activity: use
+source-git-commit: 672acee56080593ed6bae62ab7f22ddd02108e6b
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
+
+---
+
+# Gestire le regole di prodotto correlate
+
+Le regole di prodotto correlate consentono di eseguire il targeting della selezione dei prodotti presentati ai clienti come prodotti correlati, up-sell e cross-selling. Ogni regola di prodotto può essere associata a un segmento di clienti per produrre una visualizzazione dinamica del merchandising mirato.
+
+A chi serve questo video?
+
+- Marketing di eCommerce
+- Manager del sito web
+
+## Contenuto video
+
+>[!VIDEO](https://video.tv.adobe.com/v/343837?quality=12&learn=on)
+
+## Risorse aggiuntive
+
+- [Regole di prodotto correlate](https://docs.magento.com/user-guide/marketing/product-related-rules.html)
+- [Riferimento per la configurazione delle relazioni di prodotto basate su regole](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#rule-based-product-relations)
