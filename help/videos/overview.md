@@ -1,11 +1,11 @@
 ---
-title: '"[!DNL Commerce] Video e tutorial"'
+title: "[!DNL Commerce] Video e tutorial"
 description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 867c5dbfdf5c2701d59655363e8ac3d94e97ece6
+source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,10 @@ Scopri gli ultimi aggiornamenti e aggiunte:
 | Ordini e evasione | [Panoramica sull’evasione dell’archivio](./merchant/store-fulfillment.md) <br>[Gestisci stato ordine](./merchant/order-status.md) |
 | B2B per Adobe Commerce | [Gestisci account società](./merchant/b2b/company-accounts.md)  <br>[Gestire i cataloghi condivisi](./merchant/b2b/shared-catalogs.md) <br>[Gestisci credito società](./merchant/b2b/company-credit.md) <br>[Ordini di acquisto e approvazioni](./merchant/b2b/purchase-orders.md) |
 | Strumenti di sistema | [Dashboard dello strumento di analisi a livello di sito](./tools/site-wide-analysis-tool.md) <br>[Osservazione per Adobe Commerce](./tools/observation-tool.md) <br>[Usare lo strumento Patch di qualità](./tools/quality-patch-tool.md) |
-| MBI | [Guida introduttiva a MBI](./merchant/business-intelligence/webinars/getting-started.md) <br>[Gestione dei set di dati in MBI](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[Ottimizzare la Data Warehouse MBI](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[Deep Dive delle dashboard MBI](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[Preparazione alle vacanze con MBI](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[Preparare il futuro](./merchant/business-intelligence/prepare-for-future.md) <br>[MBI - Chiedi a un esperto](./merchant/business-intelligence/webinars/ask-expert.md) |
+
+>[!TIP]
+>
+>La [Eventi Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) lo spazio consente di accedere al contenuto dell&#39;evento registrato che è possibile guardare on demand.
 
 ## Risorse aggiuntive
 

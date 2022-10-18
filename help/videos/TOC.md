@@ -1,10 +1,10 @@
 ---
 user-guide-title: Video e tutorial
 user-guide-description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source.
-source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
+source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 4%
+source-wordcount: '483'
+ht-degree: 3%
 
 ---
 
@@ -116,14 +116,14 @@ ht-degree: 4%
    + [Set di filtri](./merchant/business-intelligence/filter-sets.md)
    + [Report Builder coorte](./merchant/business-intelligence/cohort-report-builder.md)
    + [Report Builder SQL](./merchant/business-intelligence/sql-report-builder.md)
+   + [Preparare il futuro](./merchant/business-intelligence/prepare-for-future.md)
    + Webinar registrati {#webinars}
-      + [Guida introduttiva a MBI](./merchant/business-intelligence/webinars/getting-started.md)
-      + [Gestione dei set di dati in MBI](./merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [Ottimizzare la Data Warehouse MBI](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [Deep Dive delle dashboard MBI](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
-      + [Preparazione alle vacanze con MBI](./merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [Preparare il futuro](./merchant/business-intelligence/prepare-for-future.md)
-      + [MBI - Chiedi a un esperto](./merchant/business-intelligence/webinars/ask-expert.md)
+      + [Guida introduttiva a MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
+      + [Gestione dei set di dati in MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
+      + [Ottimizzare la Data Warehouse MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
+      + [Deep Dive delle dashboard MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
+      + [Preparazione alle vacanze con MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
+      + [MBI - Chiedi a un esperto](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
    + Introduzione alla serie video MBI {#introduction}
       + [Panoramica](./merchant/business-intelligence/1-overview.md)
       + [Archiviazione dati](./merchant/business-intelligence/2-data-warehousing.md)
