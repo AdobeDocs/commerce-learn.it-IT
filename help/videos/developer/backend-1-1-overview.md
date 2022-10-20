@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] per sviluppatori - Panoramica"'
+title: "[!DNL Commerce] per sviluppatori - Panoramica"
 description: 'Scopri le basi della piattaforma dal punto di vista di diversi tipi di pubblico: commercianti, sviluppatori di negozi web e integratori.'
 landing-page-description: Guarda questa serie di video per avviare il tuo progetto di sviluppo back-end per Commerce.
 doc-type: video
