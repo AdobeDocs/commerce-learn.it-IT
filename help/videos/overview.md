@@ -2,7 +2,7 @@
 title: "[!DNL Commerce] Video e tutorial"
 description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
+source-git-commit: 834fcab32b3211495a62b7595fcee093b7fec0a7
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -17,16 +17,12 @@ Benvenuti nel [!DNL Commerce] raccolta video e tutorial. Utilizzando queste riso
 
 Scopri gli ultimi aggiornamenti e aggiunte:
 
-| Area interessata | Video nuovi o aggiornati |
-| ------------ | ---------- |
-| Amministrazione del negozio | [Utenti, ruoli e autorizzazioni](./merchant/users-roles-permissions.md) <br>[Gestire i metodi di spedizione e consegna](./merchant/shipping-delivery.md) <br>[Usa servizi di pagamento](./merchant/payment-services.md) |
-| Gestione dei clienti | [Creare segmenti cliente](./merchant/customer-segments.md) <br>[Creare gruppi di clienti](./merchant/customer-groups.md) <br>[Creare attributi del cliente](./merchant/customer-attributes.md) <br>[Shopping assistito dal venditore](./merchant/seller-assisted-shopping.md) |
-| Gestione catalogo | [Creare una categoria](./merchant/category-create.md) <br>[Gestire i prodotti in una categoria](./merchant/category-products.md) <br>[Inventory management](./merchant/inventory-management.md) <br>[Creare attributi di prodotto](./merchant/product-attributes-create.md) <br>[Utilizzare gli attributi del prodotto con PWA Studi](./merchant/product-attributes-pwa.md) <br>[Gestire i metadati SEO](./merchant/seo-metadata.md) <br>[Gestire le riscritture URL per SEO](./merchant/seo-url-rewrites.md) |
-| Gestione dei contenuti | [Panoramica di Page Builder](./merchant/page-builder-overview.md) <br>[Creare blocchi statici e dinamici](./merchant/static-dynamic-blocks.md) <br>[Creare Widget](./merchant/widgets.md) <br>[Utilizzare i modelli di contenuto](./merchant/content-templates.md) <br>[Staging dei contenuti](./merchant/content-staging.md) <br>[Gestire Media Gallery](./merchant/media-gallery.md) |
-| Strumenti di marketing | [Crea regole prezzo catalogo](./merchant/catalog-price-rules.md) <br>[Crea regole prezzo carrello](./merchant/cart-price-rules.md) <br>[Gestire le regole di prodotto correlate](./merchant/related-product-rules.md) <br>[Configurazione Recommendations prodotto](./merchant/product-recommendations.md) <br>[Usa Live Search](./merchant/live-search.md) |
-| Ordini e evasione | [Panoramica sull’evasione dell’archivio](./merchant/store-fulfillment.md) <br>[Gestisci stato ordine](./merchant/order-status.md) |
-| B2B per Adobe Commerce | [Gestisci account società](./merchant/b2b/company-accounts.md)  <br>[Gestire i cataloghi condivisi](./merchant/b2b/shared-catalogs.md) <br>[Gestisci credito società](./merchant/b2b/company-credit.md) <br>[Ordini di acquisto e approvazioni](./merchant/b2b/purchase-orders.md) |
-| Strumenti di sistema | [Dashboard dello strumento di analisi a livello di sito](./tools/site-wide-analysis-tool.md) <br>[Osservazione per Adobe Commerce](./tools/observation-tool.md) <br>[Usare lo strumento Patch di qualità](./tools/quality-patch-tool.md) |
+| Elemento | Tipo | Data |
+| ---- | ---- | ---- |
+| **[Elenco demo delle funzioni](feature-demos.md)** - Pagina di riepilogo per brevi demo delle funzioni per velocizzare l’introduzione alle funzioni, alle funzionalità e agli strumenti di Adobe Commerce. | Nuovo | 19/10/2022 |
+| **[Servizio catalogo](./merchant/catalog-service.md)** - Nuova demo delle funzioni per il servizio catalogo per Adobe Commerce. | Nuovo | 19/09/2022 |
+
+{style=&quot;table-layout:auto&quot;}
 
 >[!TIP]
 >
