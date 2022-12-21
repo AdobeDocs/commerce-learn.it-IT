@@ -1,16 +1,16 @@
 ---
 title: "[!DNL Commerce] Video e tutorial"
 description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
-source-git-commit: 05ae885ea050043f9d719bc20321b09aa18e88e4
+source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 12%
 
 ---
 
 # <!-- use banner as heading -->![Video ed esercitazioni su Commerce](../assets/banner-videos-home.png) {#videos}
 
-Benvenuti nel [!DNL Commerce] raccolta video, corsi e tutorial. Utilizzando queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html), scopri come utilizzare Adobe Commerce e il Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori backend, sviluppatori front-end, amministratori di sistema, merchants e altri ruoli all’interno della tua organizzazione.
+Benvenuti nel [!DNL Commerce] raccolta video e tutorial. Utilizzando queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html), scopri come utilizzare Adobe Commerce e il Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori backend, sviluppatori front-end, amministratori di sistema, merchants e altri ruoli all’interno della tua organizzazione.
 
 <div id="whats-new-section">
 
