@@ -2,9 +2,9 @@
 user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video ed esercitazioni.
 breadcrumb-title: Video e tutorial
-source-git-commit: 34f5cd077da2c8dc8e187276635a11e71c3e632c
+source-git-commit: e44f25a9c3f113d18703761f9e958ab5244b8417
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -102,7 +102,8 @@ ht-degree: 1%
    + [Crea regole prezzo carrello](../site-management/cart-price-rules.md)
    + [Gestire le regole di prodotto correlate](../site-management/related-product-rules.md)
    + [Configurazione Recommendations prodotto](../site-management/product-recommendations.md)
-   + [Usa Live Search](../site-management/live-search.md)
+   + [Introduzione alla Live Search](../site-management/live-search.md)
+   + [Raccomandazioni per la ricerca in tempo reale](../site-management/live-search-recommendations.md)
 
 + Ordini e evasione {#orders}
    + [Panoramica sull’evasione dell’archivio](../site-management/store-fulfillment.md)
