@@ -6,9 +6,10 @@ audience: all
 role: Developer, Admin
 last-substantial-update: 2022-09-19T00:00:00Z
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+hidefromtoc: true
+source-git-commit: 9147597cc4d25d0d4b47df353d891601efc46e70
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,6 @@ ht-degree: 0%
 # Servizio catalogo per Adobe Commerce
 
 Servizio catalogo per Adobe Commerce è una funzione SaaS multi-tenant che fornisce dati di catalogo in sola lettura per alimentare le esperienze di acquisto di vetrina. Utilizzabile tramite le API di GraphQL, fornisce nuove query API per migliorare le prestazioni e la scalabilità del recupero dei dati di catalogo.
-
->[!IMPORTANT]
->
->Il servizio di catalogo per Adobe Commerce è attualmente disponibile solo per i partecipanti beta. [Onboarding e installazione](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/installation.html) descrive come partecipare al programma Beta.
 
 In questo video:
 
