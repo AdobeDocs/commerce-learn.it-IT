@@ -1,29 +1,27 @@
 ---
-title: "[!DNL Commerce] Video e tutorial"
+title: '[!DNL Commerce] Video e tutorial'
 description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+last-substantial-update: 2023-01-19T00:00:00Z
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 11%
 
 ---
 
-# <!-- use banner as heading -->![Video ed esercitazioni su Commerce](../assets/banner-videos-home.png) {#videos}
+# Tutorial su Commerce {#videos}
 
-Benvenuti nel [!DNL Commerce] raccolta video e tutorial. Utilizzando queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html), scopri come utilizzare Adobe Commerce e il Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori backend, sviluppatori front-end, amministratori di sistema, merchants e altri ruoli all’interno della tua organizzazione.
+Benvenuti nel [!DNL Commerce] raccolta video e tutorial. Utilizzando queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html), offre l’opportunità di imparare a utilizzare Adobe Commerce e il Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori backend, sviluppatori front-end, amministratori di sistema, merchants e altri ruoli all’interno della tua organizzazione.
 
 <div id="whats-new-section">
 
 ## Novità
 
-</div>
+- [Introduzione a GraphQL](../graphql-rest/intro-graphql.md)
+- [Individuazione di un IP dannoso](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+</div>
 
 >[!TIP]
 >
