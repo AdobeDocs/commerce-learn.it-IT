@@ -3,7 +3,7 @@ title: '[!DNL Commerce] Video e tutorial'
 description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
+source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 11%
