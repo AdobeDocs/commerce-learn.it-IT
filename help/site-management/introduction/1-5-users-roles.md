@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -29,12 +29,13 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) note sulla versione.
+>Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Aggiunta di utenti - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+[Gestisci account utente amministratore - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Ruoli utente - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Ruoli utente - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+

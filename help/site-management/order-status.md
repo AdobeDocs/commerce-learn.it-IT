@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Quando un cliente inserisce un ordine, un ordine di vendita viene creato come re
 
 ## Risorse aggiuntive
 
-- [Elaborazione di un ordine](https://docs.magento.com/user-guide/sales/order-processing.html)
-- [Stato dell&#39;ordine](https://docs.magento.com/user-guide/sales/order-status.html)
+- [Elabora un ordine - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Stato ordine - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

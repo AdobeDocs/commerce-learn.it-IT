@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Per consentire decisioni aziendali informate, le dashboard incentrate sui client
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Clienti (pagamento guest consentito)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-guest-checkout-allowed)
-- [Clienti (nessun pagamento guest consentito)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-no-guest-checkout-allowed)
+- [Clienti (pagamento consentito per gli ospiti) - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
+- [Clienti (nessun pagamento guest consentito) - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))

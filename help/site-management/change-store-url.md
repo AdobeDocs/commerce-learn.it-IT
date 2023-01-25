@@ -7,9 +7,9 @@ role: Admin, Leader
 audience: all
 activity: use
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Ogni sito web in un’installazione di Adobe Commerce o Magento Open Source disp
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.1.0. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) note sulla versione.
+>Il contenuto del video riflette la versione 2.1.0. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Archiviare gli URL](https://docs.magento.com/user-guide/stores/store-urls.html)
-- [Utilizzo di un URL di amministrazione personalizzato](https://docs.magento.com/user-guide/stores/store-urls-custom-admin.html)
+- [URL store - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [Utilizza un URL amministratore personalizzato - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

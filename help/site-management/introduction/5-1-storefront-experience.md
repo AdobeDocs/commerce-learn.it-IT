@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,12 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) note sulla versione.
+>Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Account cliente - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/customers/customer-account.html)
+[Ambito dell&#39;account cliente - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Elenco dei desideri - [!DNL Commerce] guida utente](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)
+[Esperienza di vetrina della lista dei desideri - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

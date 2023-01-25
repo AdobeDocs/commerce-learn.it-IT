@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Le regole del prezzo del catalogo possono essere utilizzate per offrire prodotti
 
 ## Risorse aggiuntive
 
-- [Creare una regola del prezzo del catalogo](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html)
-- [Regola di prezzo con più SKU](https://docs.magento.com/user-guide/marketing/price-rule-multiple-sku.html)
+- [Creare una regola del prezzo del catalogo - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [Regola di prezzo del catalogo con più SKU - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ MBI fornisce informazioni utili per monitorare e gestire il ritorno sull’inves
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35991?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Analisi delle campagne](https://docs.magento.com/mbi/data-analyst/analysis/camp-analysis.html)
-- [ROI del marketing](https://docs.magento.com/mbi/data-analyst/analysis/marketing-roi.html)
+- [Analisi delle campagne - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
+- [Marketing ROI - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)

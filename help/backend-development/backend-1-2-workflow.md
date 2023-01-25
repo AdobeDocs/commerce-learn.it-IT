@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ In questo video:
 
 >[!IMPORTANT]
 >
->La Commerce Marketplace non include più il **Scarica** pulsante . È necessario utilizzare la riga di comando per installare o aggiornare le estensioni. Fai riferimento a [Installazione CLI generale](https://devdocs.magento.com/extensions/install/) per ulteriori informazioni, consulta la documentazione per gli sviluppatori .
+>La Commerce Marketplace non include più il **Scarica** pulsante . È necessario utilizzare la riga di comando per installare o aggiornare le estensioni. Fai riferimento a [Installare un’estensione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) nella pagina _Guida all’installazione_ per ulteriori informazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[[!DNL Commerce] Guida per gli sviluppatori PHP](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] Guida per gli sviluppatori PHP](https://developer.adobe.com/commerce/php/development/)

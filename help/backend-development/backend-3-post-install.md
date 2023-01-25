@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) note sulla versione.
+>Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
 >La funzionalità del database diviso è stata rimossa nella versione 2.4.2.
 
@@ -37,7 +37,7 @@ In questo video:
 
 ## Risorse aggiuntive
 
-- [Verificare l’installazione](https://devdocs.magento.com/guides/v2.4/install-gde/install/verify.html)
-- [Facoltativamente impostare una maschera](https://devdocs.magento.com/guides/v2.4/install-gde/install/post-install-umask.html)
-- [Installare dati di esempio](https://devdocs.magento.com/guides/v2.4/install-gde/install/sample-data-after-magento.html)
-- [Informazioni sulle modalità di applicazione](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-modes.html)
+- [Verificare l’installazione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
+- [Facoltativamente impostare una maschera](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [Installare dati di esempio](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
+- [Informazioni sulle modalità di applicazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

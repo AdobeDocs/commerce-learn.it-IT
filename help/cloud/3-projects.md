@@ -6,9 +6,9 @@ doc-type: video
 audience: all
 activity: use
 exl-id: cbda1031-906a-4e25-81be-f3f15347d82c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ In questo video:
 
 ## Risorse aggiuntive
 
-- [Struttura del progetto](https://devdocs.magento.com/cloud/project/project-start.html)
-- [Configurare gli ambienti](https://devdocs.magento.com/cloud/env/environments.html)
+- [Struttura del progetto - [!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [Configurare gli ambienti - [!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

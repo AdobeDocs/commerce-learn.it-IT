@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Con questi tre pezzi di tecnologia di base integrati in un&#39;unica soluzione, 
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
 ## Risorse utili
 
-- [Introduzione a MBI](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [Supporto MBI](https://support.magento.com/hc/en-us/articles/360016730811)
+- [Introduzione a MBI - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Supporto MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

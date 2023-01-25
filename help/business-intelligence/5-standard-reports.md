@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Le dashboard MBI predefinite contengono rapporti predefiniti che coprono i rappo
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://docs.magento.com/mbi/) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per le informazioni più aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Dashboard predefiniti](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html)
-- [Utilizzo dei gruppi del dashboard](https://docs.magento.com/mbi/data-user/dashboards/using-dashboard-groups.html)
+- [Dashboard predefiniti - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
+- [Utilizzare i gruppi di dashboard - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)

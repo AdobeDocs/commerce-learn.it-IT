@@ -7,16 +7,16 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 # Creare attributi del cliente
 
-Gli attributi del cliente forniscono le informazioni necessarie per supportare i processi di ordine, evasione e gestione dei clienti. Poiché la tua azienda è univoca, potrebbe essere necessario aggiungere campi ai campi predefiniti forniti dal sistema. Puoi aggiungere attributi personalizzati alle sezioni Informazioni account, Rubrica e Informazioni di fatturazione dell’account del cliente.
+Gli attributi del cliente forniscono le informazioni necessarie per supportare i processi di ordine, evasione e gestione dei clienti. Poiché la tua azienda è univoca, potrebbe essere necessario aggiungere campi ai campi predefiniti forniti dal sistema. È possibile aggiungere attributi personalizzati alle sezioni Informazioni account, Rubrica e Informazioni di fatturazione dell&#39;account del cliente.
 
 ## A chi serve questo video?
 
@@ -29,5 +29,5 @@ Gli attributi del cliente forniscono le informazioni necessarie per supportare i
 
 ## Risorse aggiuntive
 
-- [Attributi del cliente](https://docs.magento.com/user-guide/stores/attributes-customer.html)
-- [Creazione di un account cliente individuale](https://docs.magento.com/user-guide/customers/account-create.html)
+- [Proprietà degli attributi del cliente - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Creare un account cliente individuale - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

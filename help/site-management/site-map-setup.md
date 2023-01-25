@@ -6,9 +6,9 @@ doc-type: feature video
 audience: all
 activity: use
 exl-id: 819e15cc-c712-463d-a6ee-0e9e5bad20e7
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Una mappa del sito migliora il modo in cui lo store viene indicizzato dai motori
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.1.0. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) note sulla versione.
+>Il contenuto del video riflette la versione 2.1.0. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Utilizzo di una mappa del sito](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
-- [Mappa del sito XML](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+- [Mappe del sito - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [Catalogo > Mappa del sito XML - [!DNL Commerce] Guida di riferimento alla configurazione](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

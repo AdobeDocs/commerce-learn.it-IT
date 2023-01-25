@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: affdc3d3-886f-4b39-8c82-c13ee2e79df9
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Lo store viene caricato in luoghi in cui è possibile inserire metadati ricchi d
 
 ## Risorse aggiuntive
 
-[Metadati](https://docs.magento.com/user-guide/marketing/meta-data.html)
+[Metadati - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

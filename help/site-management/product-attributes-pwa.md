@@ -6,9 +6,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ In questo video, scopri come gestire gli attributi del prodotto quando hai una v
 
 ## Risorse aggiuntive
 
-- [Attributi del prodotto](https://docs.magento.com/user-guide/stores/attributes-product.html)
-- [Guida di PWA Studi](https://developer.adobe.com/commerce/pwa-studio/)
+- [Attributi del prodotto - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [PWA Studi - Documentazione per gli sviluppatori](https://developer.adobe.com/commerce/pwa-studio/)
