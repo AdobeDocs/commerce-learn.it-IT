@@ -6,17 +6,17 @@ kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 3cff43b65f139a7a247baacc82e92f671ab9117f
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
-# Quadro di estensibilità e evento del commercio
+# Framework di estensibilità per App Builder
 
-Per scoprire come utilizzare Adobe Commerce con Adobe Developer App Builder, guarda il seguente video, che mostra come utilizzare gli eventi Commerce con App Builder. Questa dimostrazione funzionale descrive come funziona l’integrazione ed esplora il potenziale di App Builder. Questa dimostrazione fornisce un’introduzione al framework di estensibilità, Commerce Event, e come abbiamo utilizzato questi strumenti per sviluppare l’estensione Amazon Sales Channel.
+Per scoprire come utilizzare Adobe Commerce con Adobe Developer App Builder, guarda il seguente video, che mostra come utilizzare gli eventi Commerce con App Builder. Questa dimostrazione funzionale descrive come funziona l’integrazione ed esplora il potenziale di App Builder. Questa dimostrazione fornisce un’introduzione al framework di estensibilità, Commerce Event, e come questo è stato utilizzato per sviluppare l’estensione Amazon Sales Channel.
 
 ## Generatore di app per Adobe Commerce {#app-builder-extensibility}
 
