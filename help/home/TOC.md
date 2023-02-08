@@ -1,18 +1,18 @@
 ---
-user-guide-title: Video e tutorial
-user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
-breadcrumb-title: Video e tutorial
-source-git-commit: acd5985b189eec564964c3329befe92149f2ee0e
+user-guide-title: Video e Tutorials
+user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video ed esercitazioni.
+breadcrumb-title: Video e Tutorials
+source-git-commit: 4fa3419cbf300022277b08ebbeb8f6cab0018eb3
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Video e Tutorials di Adobe Commerce {#tutorials}
 
-+ [[!DNL Commerce] Video, corsi e Tutorials](overview.md)
++ [[!DNL Commerce] Tutorials](overview.md)
 + Introduzione {#getting-started}
    + [!DNL Commerce] Cloud{#cloud}
       + [1 - Panoramica](../cloud/1-overview.md)
@@ -66,7 +66,7 @@ ht-degree: 3%
    + [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
    + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Dimostrazione funzionale per App Builder](../app-builder/app-builder-functional-demonstration.md)
-   + [Panoramica tecnica per App Builder](../app-builder/app-builder-technical-overview.md)
+   + [Panoramica tecnica di App Builder](../app-builder/app-builder-technical-overview.md)
 
 + Amministrazione store {#admin}
    + [Gestione di ruoli e autorizzazioni utente](../site-management/users-roles-permissions.md)
