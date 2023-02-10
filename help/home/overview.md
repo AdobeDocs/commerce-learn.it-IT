@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Commerce] Video e tutorial'
-description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
+title: '''[!DNL Commerce] Video e Tutorials'
+description: Una raccolta di video e tutorial per Adobe Commerce e Magenti Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 11%
+source-wordcount: '146'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,8 @@ Benvenuti nel [!DNL Commerce] raccolta video e tutorial. Utilizzando queste riso
 
 ## Novità
 
+- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
+- [Introduzione a mesh API](../api-mesh/getting-started-api-mesh.md)
 - [Introduzione a GraphQL](../graphql-rest/intro-graphql.md)
 - [Individuazione di un IP dannoso](../new-relic/malicious-ip.md)
 
