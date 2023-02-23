@@ -6,9 +6,10 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -28,19 +29,20 @@ Le API web tradizionali come REST sono state utili per diversi sistemi che trasm
 GraphQL consente a un cliente di descrivere in modo espressivo _esattamente_ i dati di cui ha bisogno. Invece di richiedere più richieste di rete per recuperare più tipi di dati, una singola richiesta può eseguire query per molti tipi. Inoltre, le risposte vengono mantenute magre includendo (in un formato che rispecchia intuitivamente la query) solo i tipi e i campi richiesti.
 
 Il runtime che implementa la specifica GraphQL può essere generato in qualsiasi lingua. Adobe Commerce e [!DNL Magento Open Source] utilizza
-[graphql-php](https://webonyx.github.io/graphql-php/) Implementazione PHP e crea i propri livelli sopra di esso.
+[graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} Implementazione PHP e crea i propri livelli sopra di esso.
 
-[Visualizza la documentazione completa di GraphQL](https://graphql.org/learn)
+[Visualizza la documentazione completa di GraphQL](https://graphql.org/learn){target="_blank"}
 
 ## Utilizzo di un client GraphQL
 
 È necessario un client GUI GraphQL per testare campioni di codice ed esercitazioni. Sono disponibili diverse opzioni:
 
-* [Altair](https://altairgraphql.dev/) è un cliente eccellente e completo costruito appositamente per GraphQL. L&#39;Adobe utilizza Altair nei video di approfondimento.
+* [Altair](https://altairgraphql.dev/){target="_blank"} è un cliente eccellente e completo costruito appositamente per GraphQL. L&#39;Adobe utilizza Altair nei video di approfondimento.
 * Se non desideri installare l’applicazione desktop, ci sono anche le estensioni Altair che vengono eseguite direttamente nel tuo
-   [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja), Firefox o [Bordo](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa) browser.
-* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql) è un’implementazione dell’IDE GraphQL da GraphQL Foundation. Questo non è uno strumento installabile, ma un pacchetto che puoi utilizzare per creare l&#39;interfaccia da solo.
-* Se hai già familiarità con [Postman](https://www.postman.com/), dispone di un supporto decente per le query GraphQL, anche se non è così completo come un client GraphQL dedicato.
+   [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} browser.
+* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} è un’implementazione dell’IDE GraphQL da GraphQL Foundation. Questo non è uno strumento installabile, ma un pacchetto che puoi utilizzare per creare l&#39;interfaccia da solo.
+* Se hai già familiarità con [Postman](https://www.postman.com/){target="_blank"}, dispone di un supporto decente per le query GraphQL, anche se non è così completo come un client GraphQL dedicato.
 
 Nel client GraphQL, devi inviare le richieste al percorso URL `/graphql` sul tuo Adobe Commerce o [!DNL Magento Open Source] istanza. Se preferisci utilizzare un’istanza esistente per i test, puoi utilizzare la demo del tema Venia (l’implementazione di esempio di PWA Studi): `https://venia.magento.com/graphql`
 
+{{$include /help/_includes/graphql-rest-related-links.md}}

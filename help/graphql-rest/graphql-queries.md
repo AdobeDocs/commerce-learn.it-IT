@@ -6,9 +6,10 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -186,5 +187,6 @@ In qualsiasi client GraphQL-aware che utilizzi per i test (come Altair e GraphiQ
 
 Proprio come hai visto che l&#39;effettiva richiesta HTTP per una query GraphQL contiene &quot;query: `{string}`&quot; nel suo corpo, qualsiasi richiesta contenente un dizionario di variabili semplicemente include un&#39;ulteriore &quot;variabili: `{json}`&quot; nello stesso corpo, dove `{json}` è la stringa JSON con i valori della variabile .
 
-La nuova query utilizza anche un _frammento_ (`productDetails`) per riutilizzare la stessa selezione di campi in più posizioni. [Ulteriori informazioni sui frammenti](https://graphql.org/learn/queries/#fragments) nella documentazione di GraphQL.
+La nuova query utilizza anche un _frammento_ (`productDetails`) per riutilizzare la stessa selezione di campi in più posizioni. [Ulteriori informazioni sui frammenti](https://graphql.org/learn/queries/#fragments){target="_blank"} nella documentazione di GraphQL.
 
+{{$include /help/_includes/graphql-rest-related-links.md}}

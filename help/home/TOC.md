@@ -2,9 +2,9 @@
 user-guide-title: Video e Tutorials
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video ed esercitazioni.
 breadcrumb-title: Video e Tutorials
-source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - Schema dichiarativo](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - Indirizzamento](../backend-development/backend-5-3-routing.md)
       + [5.4 - Creare un [!DNL Admin] Pagina](../backend-development/backend-5-4-admin-page.md)
-      + [6 - Esercizi](../backend-development/backend-6-practice.md)
+   + [6 - Esercizi](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] per utenti aziendali {#merchants}
       + [1,1 - [!DNL Admin] Menu](../site-management/introduction/1-1-menus.md)
       + [1.2 - Griglie dati](../site-management/introduction/1-2-data-grids.md)
@@ -56,25 +56,30 @@ ht-degree: 0%
       + [5.2 - Gestione dei clienti](../site-management/introduction/5-2-customer-management.md)
       + [5.3 - Comunicazioni e-mail](../site-management/introduction/5-3-store-communications.md)
       + [5.4 - Architettura di riferimento globale](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
-
-
-
 + GraphQL e REST {#graphql-rest}
-   + [Introduzione a GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
-
+   + [Introduzione a GraphQL](../graphql-rest/getting-started-graphql.md)
+   + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
+   + [Query](../graphql-rest/graphql-queries.md)
+   + [Mutazioni](../graphql-rest/graphql-mutations.md)
+   + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
    + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Dimostrazione funzionale per App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Panoramica tecnica di App Builder](../app-builder/app-builder-technical-overview.md)
-
-+ Rete API {#api-mesh}
-   + [Introduzione a mesh API](../api-mesh/getting-started-api-mesh.md)
-   + [Installazione di Adobe IO e plug-in mesh](../api-mesh/installing-aio-mesh-plugin.md)
-   + [Utilizzo di progetti e aree di lavoro](../api-mesh/aio-projects-workspaces.md)
-   + [Creare una mesh API GraphQL a sorgente singola](../api-mesh/graphql-single-source.md)
-   + [Creare una mesh API GraphQL sorgente multipla](../api-mesh/graphql-multiple-source.md)
-
+   + Eventi IO per Adobe Commerce {#io-events}
+      + [Installazione di Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Installazione di Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Creare un progetto App Builder](../io-events/create-app-builder-project.md)
+      + [Configurare Adobe Commerce](../io-events/configure-commerce.md)
+      + [Sviluppo del modulo Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Eventi condizionali Adobe Commerce](../io-events/conditional-events.md)
+   + Rete API {#api-mesh}
+      + [Introduzione a mesh API](../api-mesh/getting-started-api-mesh.md)
+      + [Installazione di Adobe IO e plug-in mesh](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Utilizzo di progetti e aree di lavoro](../api-mesh/aio-projects-workspaces.md)
+      + [Creare una mesh API GraphQL a sorgente singola](../api-mesh/graphql-single-source.md)
+      + [Creare una mesh API GraphQL sorgente multipla](../api-mesh/graphql-multiple-source.md)
 + Amministrazione store {#admin}
    + [Gestione di ruoli e autorizzazioni utente](../site-management/users-roles-permissions.md)
    + [Autenticazione a due fattori](../site-management/two-factor-authentication.md)
@@ -84,14 +89,11 @@ ht-degree: 0%
    + [Impostazione Store Site Map](../site-management/site-map-setup.md)
    + [Metodi di spedizione e consegna](../site-management/shipping-delivery.md)
    + [Usa servizi di pagamento](../site-management/payment-services.md)
-
-
 + Gestione dei clienti {#customers}
    + [Creare segmenti cliente](../site-management/customer-segments.md)
    + [Creare gruppi di clienti](../site-management/customer-groups.md)
    + [Creare attributi del cliente](../site-management/customer-attributes.md)
    + [Shopping assistito dal venditore](../site-management/seller-assisted-shopping.md)
-
 + Gestione catalogo {#catalog}
    + [Servizio catalogo per Adobe Commerce](../site-management/catalog-service.md)
    + [Creare una categoria](../site-management/category-create.md)
@@ -101,7 +103,6 @@ ht-degree: 0%
    + [Utilizzare gli attributi del prodotto con PWA Studi](../site-management/product-attributes-pwa.md)
    + [Gestire i metadati SEO](../site-management/seo-metadata.md)
    + [Gestire le riscritture URL per SEO](../site-management/seo-url-rewrites.md)
-
 + Gestione dei contenuti {#content}
    + [Panoramica di Page Builder](../site-management/page-builder-overview.md)
    + [Creare blocchi statici e dinamici](../site-management/static-dynamic-blocks.md)
@@ -109,7 +110,6 @@ ht-degree: 0%
    + [Utilizzare i modelli di contenuto](../site-management/content-templates.md)
    + [Staging dei contenuti](../site-management/content-staging.md)
    + [Gestire Media Gallery](../site-management/media-gallery.md)
-
 + Strumenti di marketing {#marketing}
    + [Crea regole prezzo catalogo](../site-management/catalog-price-rules.md)
    + [Crea regole prezzo carrello](../site-management/cart-price-rules.md)
@@ -117,24 +117,20 @@ ht-degree: 0%
    + [Configurazione Recommendations prodotto](../site-management/product-recommendations.md)
    + [Introduzione alla Live Search](../site-management/live-search.md)
    + [Raccomandazioni per la ricerca in tempo reale](../site-management/live-search-recommendations.md)
-
 + Ordini e evasione {#orders}
    + [Panoramica sull’evasione dell’archivio](../site-management/store-fulfillment.md)
    + [Gestisci stato ordine](../site-management/order-status.md)
-
 + B2B per Adobe Commerce {#b2b}
    + [Gestisci account società](../b2b/company-accounts.md)
    + [Gestire i cataloghi condivisi](../b2b/shared-catalogs.md)
    + [Gestisci credito società](../b2b/company-credit.md)
    + [Ordini di acquisto e approvazioni](../b2b/purchase-orders.md)
-
 + Strumenti e servizi esterni {#tools}
    + [Dashboard dello strumento di analisi a livello di sito](../tools/site-wide-analysis-tool.md)
    + [Osservazione per Adobe Commerce](../tools/observation-tool.md)
    + [Strumento Toppa di qualità](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Individuazione di un IP dannoso](../new-relic/malicious-ip.md)
-
 + MBI {#mbi}
    + [Set di filtri](../business-intelligence/filter-sets.md)
    + [Report Builder coorte](../business-intelligence/cohort-report-builder.md)
@@ -160,19 +156,16 @@ ht-degree: 0%
       + [Ritorno sul tracking degli investimenti](../business-intelligence/10-roi-tracking.md)
       + [Condividere risultati ed esportare dati](../business-intelligence/11-share-results-export-data.md)
       + [Storie di successo dei clienti](../business-intelligence/12-customer-success.md)
-
 + Aggiornamenti a Commerce {#upgrade}
    + [Workshop sull&#39;aggiornamento ad Adobe Commerce 2.4](../upgrade/2.4-upgrade-workshop.md)
    + [Panoramica dello strumento di compatibilità dell’aggiornamento](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilizzare lo strumento di compatibilità per l&#39;aggiornamento in PHP Storm](../upgrade/uct-phpstorm.md)
-
 + Sviluppo back-end {#backend-development}
    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Aggiungere una tabella a un database](../backend-development/new-db-table.md)
    + [Creare un modulo](../backend-development/create-module.md)
    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
-
 + Sviluppo delle frontiere {#frontend-development}
    + Page Builder per sviluppatori {#page-builder}
       + [1 - Introduzione](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -183,7 +176,6 @@ ht-degree: 0%
       + [6 - Tipi di contenuto personalizzati](../frontend-development/page-builder/6-custom-content-types.md)
    + [Aggiungere un modulo JavaScript](../frontend-development/add-javascript-module.md)
    + [Creare una pagina](../frontend-development/create-page.md)
-
 + PWA Studi {#pwa-studio}
    + Introduzione a PWA Studi {#introduction}
       + [1 - Panoramica](../pwa/introduction/1-overview.md)

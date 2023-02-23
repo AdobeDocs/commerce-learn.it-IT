@@ -6,13 +6,13 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Linguaggio dello schema
 
@@ -90,7 +90,7 @@ type Mutation {
 }
 ```
 
-È possibile approfondire [la documentazione GraphQL](https://graphql.org/learn/schema/) per informazioni sui dettagli del sistema di tipi, compresa la sintassi per alcuni concetti non rappresentati qui. L&#39;esempio di cui sopra, tuttavia, è auto-esplicativo. Inoltre, tieni presente che la sintassi è simile alla sintassi della query. La definizione di uno schema GraphQL consiste semplicemente nell’esprimere gli argomenti e i campi disponibili di un determinato tipo, insieme ai tipi di tali campi. Ogni tipo di campo complesso deve disporre di una definizione e così via, attraverso l&#39;albero, fino ad arrivare a tipi scalari semplici come `String`.
+È possibile approfondire [la documentazione GraphQL](https://graphql.org/learn/schema/){target="_blank"} per informazioni sui dettagli del sistema di tipi, compresa la sintassi per alcuni concetti non rappresentati qui. L&#39;esempio di cui sopra, tuttavia, è auto-esplicativo. Inoltre, tieni presente che la sintassi è simile alla sintassi della query. La definizione di uno schema GraphQL consiste semplicemente nell’esprimere gli argomenti e i campi disponibili di un determinato tipo, insieme ai tipi di tali campi. Ogni tipo di campo complesso deve disporre di una definizione e così via, attraverso l&#39;albero, fino ad arrivare a tipi scalari semplici come `String`.
 
 La `input` La dichiarazione è sotto tutti gli aspetti come una `type` definisce un tipo che può essere utilizzato come input per un argomento. Inoltre, tieni presente `interface` dichiarazione. Questa funzione è più o meno la stessa delle interfacce in PHP. Altri tipi ereditano da questa interfaccia.
 
@@ -100,4 +100,4 @@ La sintassi `[CartItemInput!]!` sembra difficile, ma alla fine è abbastanza int
 >
 >La logica che determina il modo in cui i dati vengono recuperati e formattati in base a uno schema e il modo in cui tale logica viene mappata a tipi particolari dipende dall’implementazione runtime di GraphQL. Le implementazioni, tuttavia, devono seguire un flusso concettuale che ha senso alla luce della nostra comprensione dei campi nidificati: Operazione di risoluzione associata alla radice `Query` o `Mutation` viene eseguito il tipo , che esamina ogni campo specificato nella richiesta. Per ogni campo che si risolve in un tipo complesso, viene eseguita una risoluzione simile per quel tipo, e così via, fino a quando tutto viene risolto in valori scalari.
 
-
+{{$include /help/_includes/graphql-rest-related-links.md}}
