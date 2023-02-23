@@ -7,9 +7,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Una risposta plausibile di un server GraphQL per la query di cui sopra potrebbe 
 }
 ```
 
-L&#39;esempio precedente si basa, ad Magento, sullo schema GraphQL predefinito, definito sul server. In questa richiesta, esegui query su più tipi di dati contemporaneamente. La query esprime esattamente i campi desiderati e i dati restituiti vengono formattati in modo simile alla query stessa.
+L’esempio precedente si basa sullo schema predefinito GraphQL per Adobe Commerce, definito sul server. In questa richiesta, esegui query su più tipi di dati contemporaneamente. La query esprime esattamente i campi desiderati e i dati restituiti vengono formattati in modo simile alla query stessa.
 
 >[!NOTE]
 >
@@ -114,7 +114,7 @@ L&#39;esempio precedente si basa, ad Magento, sullo schema GraphQL predefinito, 
 
 ## Query per ciò che desideri
 
-`country` e `categories` nell&#39;esempio rappresentano due diverse &quot;query&quot; per due diversi tipi di dati. A differenza di un paradigma API tradizionale come REST, che definirebbe endpoint separati ed espliciti per ogni tipo di dati, GraphQL offre la flessibilità di eseguire query su un singolo endpoint con un’espressione che può recuperare diversi tipi di dati contemporaneamente.
+`country` e `categories` nell&#39;esempio rappresentano due diverse &quot;query&quot; per due diversi tipi di dati. A differenza di un paradigma API tradizionale come REST, che definirebbe endpoint separati ed espliciti per ogni tipo di dati. GraphQL offre la flessibilità di eseguire query su un singolo endpoint con un’espressione che può recuperare diversi tipi di dati contemporaneamente.
 
 Allo stesso modo, la query specifica esattamente i campi desiderati per entrambi `country` (`id` e `full_name_english`) e `categories` (`items`, che dispone di una sottoselezione di campi) e i dati ricevuti riflettono la specifica del campo. Ci sono presumibilmente molti più campi disponibili per questi tipi di dati, ma si ottiene solo ciò che è stato richiesto.
 
@@ -127,13 +127,13 @@ Allo stesso modo, la query specifica esattamente i campi desiderati per entrambi
 
 Mentre i campi che si desidera restituire sono specificati tra parentesi graffe di ciascun tipo, gli argomenti e i valori denominati per essi sono specificati tra parentesi dopo il nome del tipo. Gli argomenti sono spesso facoltativi e spesso influiscono sul modo in cui i risultati delle query vengono filtrati, formattati o altrimenti trasformati.
 
-Stai passando un `id` argomento `country`, specificando il paese in cui si desidera eseguire la query e un `filters` argomento `categories`.
+Stai passando un `id` argomento `country`, specificando il paese in cui eseguire la query e un `filters` argomento `categories`.
 
 ## Campi in discesa
 
 Mentre potresti tendere a pensare a `country` e `categories` come query o entità separate, l’intera struttura ad albero espressa nella query in realtà è costituita solo da campi. L&#39;espressione di `products` non è sintatticamente diverso da quello di `categories`. Entrambi sono campi, e non c&#39;è differenza tra la loro costruzione.
 
-Qualsiasi grafico dei dati GraphQL ha un singolo tipo &quot;root&quot; (in genere riferito a `Query`) per iniziare la struttura ad albero e i tipi spesso considerati entità vengono semplicemente assegnati ai campi di questa radice. La nostra query di esempio sta effettuando una query generica per il tipo di radice e selezionando i campi `country` e `categories`. Seleziona quindi i campi secondari di tali campi e così via, potenzialmente con più livelli di profondità. Ovunque il tipo restituito di un campo sia un tipo complesso (ad esempio, uno con campi propri anziché un tipo scalare), continuare a selezionare i campi desiderati.
+Qualsiasi grafico dei dati GraphQL ha un singolo tipo &quot;root&quot; (in genere riferito a `Query`) per avviare la struttura ad albero e i tipi spesso considerati entità vengono assegnati ai campi di questa radice. La query di esempio sta effettuando una query generica per il tipo principale e selezionando i campi `country` e `categories`. Seleziona quindi i sottocampi di tali campi e così via, potenzialmente con più livelli di profondità. Ovunque il tipo restituito di un campo sia un tipo complesso (ad esempio, uno con campi propri anziché un tipo scalare), continuare a selezionare i campi desiderati.
 
 Questo concetto di campi nidificati è anche il motivo per cui è possibile passare argomenti per `products` (`pageSize` e `currentPage`) nello stesso modo in cui lo hai fatto per il livello superiore `categories` campo .
 
@@ -169,7 +169,7 @@ La prima cosa da notare è la parola chiave aggiunta `query` prima della parente
 
 Nella query precedente, i valori hardcoded per gli argomenti dei campi direttamente, come stringhe o interi. La specifica GraphQL, tuttavia, dispone del supporto di prima classe per separare l’input dell’utente dalla query principale utilizzando le variabili.
 
-Nella nuova query, utilizzi parentesi prima della parentesi di apertura dell’intera query per definire un `$search` variabile (le variabili usano sempre la sintassi del prefisso del simbolo del dollaro) ed è questa variabile che viene fornita al `search` argomento `products`.
+Nella nuova query, utilizzi parentesi prima della parentesi di apertura dell’intera query per definire un `$search` (le variabili usano sempre la sintassi del prefisso del simbolo del dollaro). È questa variabile che viene fornita al `search` argomento `products`.
 
 Quando una query contiene variabili, la richiesta GraphQL deve includere accanto alla query stessa un dizionario di valori codificato in JSON separato. Per la query di cui sopra, oltre al corpo della query puoi inviare il seguente JSON di valori di variabili:
 
@@ -181,7 +181,7 @@ Quando una query contiene variabili, la richiesta GraphQL deve includere accanto
 
 >[!NOTE]
 >
->Se stai provando queste query contro il sito di esempio Venia piuttosto che la tua istanza di Magento, probabilmente non riceverai alcun risultato per `related_products`.
+>Se provi queste query sul sito di esempio Venia anziché sulla tua istanza Adobe Commerce, i risultati restituiti sono probabilmente vuoti per `related_products`.
 
 In qualsiasi client GraphQL-aware che utilizzi per i test (come Altair e GraphiQL), l’interfaccia utente supporta l’immissione delle variabili JSON separatamente dalla query.
 

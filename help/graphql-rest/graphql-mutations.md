@@ -7,9 +7,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: a92537cdb2538743042e136467b389bbe49178fe
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,9 @@ La cosa principale da notare che sull&#39;esempio precedente è che, oltre all&#
 * Un nome di operazione arbitraria (`doAddToCart`)
 * Un elenco di variabili (ad esempio, `$cartId`)
 * Un campo iniziale (`addProductsToCart`) con argomenti (ad esempio, `cartId`, impostato sul valore di `$cartId`) tra parentesi
-* Una sottoselezione di campi tra parentesi
+* Sottoselezione di campi tra parentesi
 
-La sottoselezione dei campi consente di definire in modo flessibile i campi da restituire (dal tipo assegnato come valore restituito di `addProductsToCart` - `AddProductsToCartOutput`) al termine della mutazione.
+La sottoselezione dei campi consente di definire in modo flessibile i campi che si desidera restituire (dal tipo assegnato come valore restituito di `addProductsToCart` - `AddProductsToCartOutput`) al termine della mutazione.
 
 Come spiegato in precedenza, i campi definiti in uno schema GraphQL partono da un tipo principale per le query (in genere denominati come `Query`). Analogamente, esiste un altro tipo radice per le mutazioni (in genere denominato `Mutation`). `addProductsToCart` è un campo di quel tipo principale.
 

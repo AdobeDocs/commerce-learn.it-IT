@@ -7,16 +7,16 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # Linguaggio dello schema
 
-Le query e le mutazioni con cui abbiamo lavorato si basano su un grafico di dati specifico implementato sul server, che il runtime di GraphQL consuma e utilizza per risolvere la query. La specifica GraphQL definisce un linguaggio agnostico per esprimere i tipi e le relazioni del grafico dei dati.
+Le query e le mutazioni utilizzate si basano su un grafico di dati specifico implementato sul server, che il runtime di GraphQL consuma e utilizza per risolvere la query. La specifica GraphQL definisce un linguaggio agnostico per esprimere i tipi e le relazioni del grafico dei dati.
 
 Di seguito è riportato uno schema di tipo abbreviato che supporta le query e le mutazioni esaminate finora:
 
@@ -98,6 +98,6 @@ La sintassi `[CartItemInput!]!` sembra difficile, ma alla fine è abbastanza int
 
 >[!NOTE]
 >
->La logica che determina il modo in cui i dati vengono recuperati e formattati in base a uno schema e il modo in cui tale logica viene mappata a tipi particolari dipende dall’implementazione runtime di GraphQL. Le implementazioni, tuttavia, devono seguire un flusso concettuale che ha senso alla luce della nostra comprensione dei campi nidificati: Operazione di risoluzione associata alla radice `Query` o `Mutation` viene eseguito il tipo , che esamina ogni campo specificato nella richiesta. Per ogni campo che si risolve in un tipo complesso, viene eseguita una risoluzione simile per quel tipo, e così via, fino a quando tutto viene risolto in valori scalari.
+>La logica che determina il modo in cui i dati vengono recuperati e formattati in base a uno schema e il modo in cui tale logica viene mappata a tipi particolari dipende dall’implementazione runtime di GraphQL. Le implementazioni, tuttavia, devono seguire un flusso concettuale che abbia senso alla luce di una comprensione intorno ai campi nidificati: Operazione di risoluzione associata alla radice `Query` o `Mutation` viene eseguito il tipo , che esamina ogni campo specificato nella richiesta. Per ogni campo che si risolve in un tipo complesso, viene eseguita una risoluzione simile per quel tipo, e così via, fino a quando tutto viene risolto in valori scalari.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}
