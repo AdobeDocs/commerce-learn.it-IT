@@ -1,9 +1,9 @@
 ---
 title: Pagine correlate alla mesh API
 description: Collegamenti alle pagine correlate nella sezione mesh API
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 52972b476a1be405bee727e50df635028fd87050
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,3 @@ ht-degree: 0%
 * [Utilizzo di progetti e aree di lavoro](../api-mesh/aio-projects-workspaces.md)
 * [Creare una mesh API GraphQL a sorgente singola](../api-mesh/graphql-single-source.md)
 * [Creare una richiesta API GraphQL sorgente multipla](../api-mesh/graphql-multiple-source.md)
-* [Esercitazioni su Torna a Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
