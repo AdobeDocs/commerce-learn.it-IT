@@ -6,7 +6,7 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
+source-git-commit: f365e4cbf3f9bd8a0364acb9d28f8d9479809011
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 # Installazione del plug-in Adobe I/O Runtime CLI e Mesh
 
 Prima di iniziare a utilizzare la mesh API per Adobe Developer App Builder, devi installare la variabile `aio` CLI e il plug-in API Mesh.
-Per istruzioni e prerequisiti per l’installazione, visita la mesh API [Introduzione](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) pagina.
+Per istruzioni e prerequisiti per l’installazione, visita la mesh API [Introduzione](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} pagina.
 
 ## A chi serve questo video?
 
-* Sviluppatori non ancora entrati nella mesh API o [!DNL Adobe Commerce] con esperienza limitata utilizzando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) e API Mesh.
+* Sviluppatori non ancora entrati nella mesh API o [!DNL Adobe Commerce] con esperienza limitata utilizzando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
 
 ## Contenuto video
 

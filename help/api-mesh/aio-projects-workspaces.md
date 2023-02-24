@@ -6,7 +6,7 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: 48d96994571ced0b8219ace9178d068481a39573
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Utilizzo di progetti e aree di lavoro
 
-Questa esercitazione illustra come creare un progetto e un’area di lavoro per contenere la mesh. Questo lavoro avviene principalmente nel [Console Adobe Developer](https://developer.adobe.com/console) Interfaccia utente.
+Questa esercitazione illustra come creare un progetto e un’area di lavoro per contenere la mesh. Questo lavoro avviene principalmente nel [Console Adobe Developer](https://developer.adobe.com/console){target="_blank"} Interfaccia utente.
 
 ## A chi serve questo video?
 
@@ -35,12 +35,12 @@ Questa esercitazione illustra come creare un progetto e un’area di lavoro per 
 
 ## Scopri la console Adobe Developer
 
-Nella console Adobe Developer , la seguente gerarchia rappresenta l’adattamento delle API all’organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, accesso alla console e risoluzione dei problemi di base, visita [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+Nella console Adobe Developer , la seguente gerarchia rappresenta l’adattamento delle API all’organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, accesso alla console e risoluzione dei problemi di base, visita [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Introduzione ai progetti nella console Adobe Developer
 
-Tutto il lavoro di sviluppo nella console Adobe Developer viene eseguito come parte di un progetto. Un progetto può includere uno o più prodotti e una combinazione di API, eventi, runtime e plug-in. Per ulteriori dettagli sui progetti nella console Adobe Developer, visita [Progetti](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Tutto il lavoro di sviluppo nella console Adobe Developer viene eseguito come parte di un progetto. Un progetto può includere uno o più prodotti e una combinazione di API, eventi, runtime e plug-in. Per ulteriori dettagli sui progetti nella console Adobe Developer, visita [Progetti](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-Per ulteriori informazioni sull’utilizzo di progetti e aree di lavoro nel contesto di API Mesh, consulta [Modificare progetti e aree di lavoro](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
+Per ulteriori informazioni sull’utilizzo di progetti e aree di lavoro nel contesto di API Mesh, consulta [Modificare progetti e aree di lavoro](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}

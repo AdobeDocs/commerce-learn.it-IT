@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Creare una mesh con più sorgenti
 
-Questo video aiuta gli sviluppatori a capire come creare una mesh con più sorgenti in mesh API per Adobe Developer App Builder. Questo video mostra come creare una mesh con più sorgenti e identificare gli errori. Per maggiori dettagli ed esempi di codice, visita [Creare una mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Questo video aiuta gli sviluppatori a capire come creare una mesh con più sorgenti in mesh API per Adobe Developer App Builder. Questo video mostra come creare una mesh con più sorgenti e identificare gli errori. Per maggiori dettagli ed esempi di codice, visita [Creare una mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## A chi serve questo video?
 
@@ -24,7 +24,7 @@ Questo video aiuta gli sviluppatori a capire come creare una mesh con più sorge
 
 ## Contenuto video
 
-* Come utilizzare [trasformazioni](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) per modificare lo schema di origine predefinito
+* Come utilizzare [trasformazioni](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} per modificare lo schema di origine predefinito
 * Come risolvere i problemi relativi agli errori, ad esempio i conflitti dei nomi, la disponibilità dello schema e altri problemi di sintassi dello schema
 * Aggiornamento della mesh con una configurazione modificata
 
