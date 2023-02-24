@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B per Adobe Commerce" type="Positive"
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e6d74f9428c98741225ab25053cd663d8c65cc39
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,5 +33,5 @@ Se la funzione Catalogo condiviso è abilitata nella configurazione, il catalogo
 
 ## Risorse aggiuntive
 
-- [Utilizzo dei cataloghi condivisi](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html)
-- [Creare un catalogo condiviso](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html)
+- [Utilizzo dei cataloghi condivisi](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+- [Creare un catalogo condiviso](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
