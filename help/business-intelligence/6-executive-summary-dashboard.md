@@ -3,13 +3,13 @@ title: MBI - Dashboard di panoramica generale
 description: Vedi una dimostrazione del dashboard Panoramica esecutiva fornito da MBI.
 kt: 5731
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
