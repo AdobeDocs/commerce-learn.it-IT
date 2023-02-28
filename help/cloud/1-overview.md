@@ -1,7 +1,7 @@
 ---
 title: Panoramica di Adobe Commerce sull’infrastruttura cloud
-description: Tecnologie chiave dello stack cloud. Strategia di distribuzione dei contenuti per Adobe Commerce. Valore del file system di sola lettura.
-landing-page-description: Guarda questa serie di video per iniziare a utilizzare l’infrastruttura cloud utilizzata per la distribuzione e la gestione di Adobe Commerce.
+description: Identifica le tecnologie chiave all’interno della ​ dello stack cloud. Descrivi la strategia di distribuzione dei contenuti per Adobe Commerce. Comprendere il valore del file system di sola lettura.
+landing-page-description: Guarda questa serie video per iniziare a utilizzare l’infrastruttura cloud utilizzata per la distribuzione e la gestione di Adobe Commerce.
 kt: 5656
 doc-type: video
 audience: all
@@ -10,7 +10,7 @@ exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 52%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ In questo video:
 
 - Identificare le tecnologie chiave all’interno dello stack cloud &#x200B;
 - Descrizione della strategia di distribuzione dei contenuti per Adobe Commerce sull’infrastruttura cloud
-- Valore del file system di sola lettura
+- Comprendere il valore del file system di sola lettura
 
 >[!VIDEO](https://video.tv.adobe.com/v/35298?quality=12&learn=on)
 
