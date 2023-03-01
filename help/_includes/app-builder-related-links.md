@@ -1,18 +1,18 @@
 ---
-title: Pagine correlate alla mesh API
-description: Collegamenti alle pagine correlate in App Builder
-source-git-commit: 4e5538c925e449552ba2d9ac5f4c7a63b632e595
+title: Pagine correlate a Mesh API
+description: Collegamenti a pagine correlate in App Builder
+source-git-commit: a12b90b62e83a3c1b5668dbf31a2609b731d292f
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Collegamenti correlati a App Builder
+# Collegamenti correlati ad App Builder
 
-## Altre esercitazioni correlate
+## Ulteriori tutorial correlati
 
-* [Introduzione ad App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.md)
-* [Framework di estensibilità per App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/extensibility-framework-commerce-eventing.md)
-* [Dimostrazione funzionale per App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.md)
-* [Panoramica tecnica di App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.md)
+* [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
+* [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+* [Dimostrazione funzionale per App Builder](../app-builder/app-builder-functional-demonstration.md)
+* [Panoramica tecnica per App Builder](../app-builder/app-builder-technical-overview.md)
