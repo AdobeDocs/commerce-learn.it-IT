@@ -2,12 +2,13 @@
 title: Linguaggio dello schema con GraphQL
 description: Scopri lo schema coinvolto in GraphQL. Leggere una descrizione dello schema, insieme ad alcuni pattern e modi interessanti per leggere lo schema.
 landing-page-description: Questa è un'introduzione a GraphQL. Informazioni sullo schema e su come interpretare alcuni degli elementi
+short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
 kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
