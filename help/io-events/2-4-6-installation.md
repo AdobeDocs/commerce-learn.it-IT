@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-22T00:00:00Z
 badge: "Adobe Commerce 2.4.6"
 source-git-commit: 4f73e2a6852d545d9b30b03158b6d8a35e3eba49
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
