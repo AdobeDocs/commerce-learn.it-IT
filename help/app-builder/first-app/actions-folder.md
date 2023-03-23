@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` cartella {#actions-folder}
+# Informazioni sulla cartella delle azioni {#actions-folder}
 
 La `actions` La cartella per questa app di esempio contiene alcuni file JavaScript e una cartella denominata `commerce`. Il JavaScript mostrato è un file di esempio eccellente che può essere riutilizzato se pertinente al tuo lavoro. Questa cartella consente di risparmiare tempo nelle attività di sviluppo quando ci si connette all’applicazione Adobe Commerce utilizzando OAuth e REST.
 

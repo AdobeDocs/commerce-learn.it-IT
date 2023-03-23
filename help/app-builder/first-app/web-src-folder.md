@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# La `web-src` cartella {#web-src-folder}
+# Scopri lo scopo della cartella web-src {#web-src-folder}
 
 La cartella web-src per questa app di esempio contiene molti file e cartelle JavaScript. Questa cartella viene utilizzata per le applicazioni che dispongono di un&#39;interfaccia utente. Questa funzione non è utilizzata da tutte le applicazioni. Ad esempio, un’integrazione Commerce con un sistema di gestione dell’inventario esterno potrebbe non richiedere un’interfaccia e un codice front-end.
 

@@ -6,15 +6,15 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
-# `test` cartella {#test-folder}
+# Informazioni sulla cartella di test {#test-folder}
 
 La `test` La cartella per questa app di esempio contiene un singolo file JavaScript, che viene utilizzato durante l&#39;esecuzione di unit test sull&#39;applicazione.
 
