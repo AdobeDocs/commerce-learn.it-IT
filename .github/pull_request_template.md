@@ -1,5 +1,5 @@
 ---
-source-git-commit: b89fe908caa88a154481d21ff6170234dde794c1
+source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -44,10 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [Standard di denominazione seguiti]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)).
-- [ ] Il sommario e l’H1 corrispondono a ogni pagina creata o aggiornata?
-- [ ] Il sommario e l’H1 hanno un esempio di azione: Scopri come creare un PR
+- [ ] [Standard di denominazione seguiti]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] Il sommario e la corrispondenza H1 per ogni pagina creata o aggiornata.
+- [ ] Al sommario e all’H1 è associata un’azione, ad esempio: Scopri come creare una richiesta di pull GutHub
 - [ ] Nulla deve essere monospitato in H1
-- [ ] Ogni titolo della pagina deve iniziare con una lettera maiuscola
-- [ ] I video hanno capitoli
-- [ ] Ai video è stato assegnato un poster per rappresentare correttamente il video
+- [ ] Ciascun titolo della pagina deve iniziare con una lettera ***C**apitol
+- [ ] Ho controllato per vedere se alcuni video dovrebbero avere capitoli
+- [ ] A tutti i video è assegnato un poster per rappresentare correttamente il video
+- [ ] Hai usato [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
