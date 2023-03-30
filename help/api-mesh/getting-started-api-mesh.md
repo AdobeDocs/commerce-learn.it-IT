@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ Se hai poca esperienza con la mesh API per Adobe Developer App Builder, Adobe co
 API Mesh combina più sorgenti di dati per ottenere una singola risposta da utilizzare per la tua applicazione.
 
 [Visualizza la documentazione completa di API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## A chi serve questo video?
+
+* Sviluppatori non ancora entrati nella mesh API o [!DNL Adobe Commerce] con esperienza limitata utilizzando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
+
+## Contenuto video
+
+* Panoramica sulla mesh API
+* Link alla documentazione integrativa
+* Caso d’uso per il controllo dell’inventario in tempo reale al momento del pagamento
+* Spostamento delle attività di sviluppo e dell’utilizzo delle risorse dall’applicazione commerce
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## Esempi di casi d’uso
 
