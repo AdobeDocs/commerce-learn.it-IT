@@ -6,7 +6,7 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -29,7 +29,7 @@ La `.env` è un file speciale che non fa parte del modulo di esempio, ma è impo
 * Come aggiungere il file per aggiungere nuovi segreti
 * Evita di eseguire il commit di questo file perché contiene informazioni sensibili
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
 ## Esempio di codice
 

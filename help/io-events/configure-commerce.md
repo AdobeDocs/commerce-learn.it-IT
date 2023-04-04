@@ -7,7 +7,7 @@ kt: 11889
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Scopri come configurare Adobe Commerce per esporre gli eventi. Documentazione ag
 * Salvataggio dell’identificatore univoco nell’amministratore Commerce
 * Creare un provider di eventi
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 

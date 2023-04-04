@@ -7,7 +7,7 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Per istruzioni e prerequisiti per l’installazione, visita la mesh API [Introdu
 * Installazione di Adobe I/O Runtime CLI (interfaccia a riga di comando)
 * Installazione del plug-in API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122/)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## Installazione di `aio` Plug-in CLI e API Mesh
 

@@ -7,7 +7,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ API Mesh combina più sorgenti di dati per ottenere una singola risposta da util
 * Caso d’uso per il controllo dell’inventario in tempo reale al momento del pagamento
 * Spostamento delle attività di sviluppo e dell’utilizzo delle risorse dall’applicazione commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534/)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Esempi di casi d’uso
 

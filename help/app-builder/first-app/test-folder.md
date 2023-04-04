@@ -6,7 +6,7 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Questo è un esempio semplice e può essere esteso per creare test completi per 
 * Breve spiegazione del file di prova dell&#39;unità e dei suoi componenti
 * Introduzione al test end-to-end
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
 ## Esempi di codice
 
