@@ -2,14 +2,15 @@
 title: Introduzione a mesh API
 description: Scopri come utilizzare la mesh API su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe App Builder, lavorare con i progetti, creare un proxy inverso graphql e molto altro ancora.
 landing-page-description: Scopri come utilizzare la mesh API su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe IO, lavorare con i progetti, creare un proxy inverso graphql e molto altro.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
+short-description: Scopri come utilizzare la mesh API su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe IO, lavorare con i progetti, creare un proxy inverso graphql e molto altro.
 kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
