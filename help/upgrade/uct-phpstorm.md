@@ -1,8 +1,8 @@
 ---
-title: Utilizzo dello strumento di compatibilità per l'aggiornamento su PHP Storm
-description: Guarda questo video tecnico per scoprire come utilizzare lo strumento di compatibilità per l'aggiornamento con il plugin PHP Storm.
-landing-page-description: Scopri come utilizzare lo strumento di compatibilità per l’aggiornamento con il plugin PHP Storm per identificare e risolvere facilmente le incompatibilità.
-short-description: Scopri come utilizzare lo strumento di compatibilità per l’aggiornamento con il plugin PHP Storm per identificare e risolvere facilmente le incompatibilità.
+title: Utilizzo di Upgrade Compatibility Tool su PHP Storm
+description: Guarda questo video tecnico per scoprire come utilizzare Upgrade Compatibility Tool con il plug-in PHP Storm.
+landing-page-description: Scopri come utilizzare Upgrade Compatibility Tool con il plug-in PHP Storm per identificare e risolvere facilmente le incompatibilità.
+short-description: Scopri come utilizzare Upgrade Compatibility Tool con il plug-in PHP Storm per identificare e risolvere facilmente le incompatibilità.
 kt: 9651
 doc-type: technical video
 role: Developer
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo dello strumento di compatibilità per l&#39;aggiornamento su PHP Storm
+# Utilizzo di Upgrade Compatibility Tool su PHP Storm
 
 Lo strumento di compatibilità per l’aggiornamento (UCT) è uno strumento gratuito che analizza in pochi minuti le incompatibilità tra la versione corrente e la versione di aggiornamento di destinazione. Il plugin PHP Storm rende questo strumento ancora più facile da usare.
 
 In questo video:
 
-- Cos’è lo strumento di compatibilità per l’aggiornamento?
-- Come usarlo con il plugin Magento PHP Storm
-- Come accedere ai risultati di HTML per visualizzare i moduli in base alla gravità e al numero di incompatibilità
+- Cos’è Upgrade Compatibility Tool?
+- Come utilizzarlo con il plugin PHP Storm di Magento
+- Come accedere ai risultati delle HTML per visualizzare i moduli in base alla gravità e al numero di incompatibilità
 
 ## A chi serve questo video?
 
@@ -36,6 +36,6 @@ In questo video:
 
 ## Risorse aggiuntive
 
-- [Strumento di compatibilità per l’aggiornamento](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
 - [Plug-in Magento PHP Storm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
 - [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

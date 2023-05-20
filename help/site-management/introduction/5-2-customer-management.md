@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per gli utenti aziendali - Gestione dei clienti"
-description: Scopri le autorizzazioni consigliate per il servizio clienti e crea un cliente nel [!DNL Admin], la gestione delle informazioni sui clienti e la creazione di gruppi di clienti.
+title: "[!DNL Commerce] per gli utenti aziendali: gestione dei clienti"
+description: Scopri le autorizzazioni consigliate per il servizio clienti, creando un cliente in [!DNL Admin], gestione delle informazioni sui clienti e creazione di gruppi di clienti.
 topic: Commerce
 kt: 5779
 doc-type: video
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per gli utenti aziendali - Gestione dei clienti
+# [!DNL Commerce] per utenti aziendali: gestione clienti
 
 In questo video:
 
-- Autorizzazioni consigliate per una CSR (rappresentante del servizio clienti)
+- Autorizzazioni consigliate per un CSR (rappresentante del servizio clienti)
 - Creazione di un cliente in [!DNL Admin]
 - Gestione delle informazioni sui clienti
 - Creazione di gruppi di clienti
@@ -33,6 +33,6 @@ In questo video:
 
 ## Risorse aggiuntive
 
-[Crea un singolo account cliente - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[Creazione di un singolo account cliente - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Gruppi di clienti - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

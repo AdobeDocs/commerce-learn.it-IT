@@ -1,6 +1,6 @@
 ---
 title: Creare un modulo
-description: Crea una pagina che restituisce json con un parametro.
+description: Crea una pagina che restituisca json con un parametro.
 topic: Development
 kt: 5602
 doc-type: video
@@ -23,11 +23,11 @@ Il modulo Ã¨ un elemento strutturale di [!DNL Commerce] - l&#39;intero sistema Ã
 
 ## Passaggi per aggiungere un modulo
 
-- Crea la cartella del modulo.
-- Crea il file etc/module.xml .
-- Crea il file registration.php .
-- Esegui la configurazione bin/magento.
-- Aggiornare lo script per installare il nuovo modulo.
+- Crea la cartella dei moduli.
+- Crea il file etc/module.xml.
+- Crea il file registration.php.
+- Esegui la configurazione del raccoglitore/magento.
+- Aggiorna lo script per installare il nuovo modulo.
 - Verifica che il modulo funzioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?quality=12&learn=on)

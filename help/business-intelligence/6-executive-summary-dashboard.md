@@ -1,6 +1,6 @@
 ---
-title: MBI - Dashboard di panoramica generale
-description: Vedi una dimostrazione del dashboard Panoramica esecutiva fornito da MBI.
+title: MBI - Dashboard panoramica esecutiva
+description: Guarda una dimostrazione della dashboard Panoramica esecutiva fornita da MBI.
 kt: 5731
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -9,29 +9,29 @@ activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
 source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-# MBI - Dashboard di panoramica generale
+# MBI - Dashboard panoramica esecutiva
 
-Il dashboard Panoramica esecutiva fornisce informazioni di alto livello su ricavi, ordini e valori medi degli ordini. I rapporti sono suddivisi come valori statici e nel tempo. È possibile condividere questo dashboard con altri membri del team, consentendo loro l&#39;accesso in modalità di modifica per collaborare con l&#39;utente o l&#39;accesso in modalità di sola visualizzazione.
+La dashboard Panoramica esecutiva fornisce informazioni di alto livello su ricavi, ordini e valori medi degli ordini. I rapporti vengono suddivisi come valori statici e nel tempo. Puoi condividere questo dashboard con altri membri del team, consentendo loro di modificare le impostazioni per collaborare con te, oppure di accedere in modalità di sola visualizzazione.
 
 ## A chi serve questo video?
 
 - Utenti aziendali
-- Analisti dei dati
+- Analisti di dati
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per informazioni aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Riepilogo esecutivo - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
-- [Condivisione di dashboard con altri utenti - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)
+- [Riepilogo esecutivo - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
+- [Condividere dashboard con altri utenti - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)

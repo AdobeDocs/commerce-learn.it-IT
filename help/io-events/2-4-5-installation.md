@@ -1,8 +1,8 @@
 ---
 title: Scopri come installare eventi IO per Adobe Commerce 2.4.5
-description: Scopri come installare i moduli necessari per gli eventi IO in Adobe Commerce 2.4.5 per l’utilizzo in Adobe Developer App Builder
-landing-page-description: Scopri come installare diversi moduli necessari per Adobe Commerce 2.4.5 utilizzando il compositore.
-short-description: Scopri come installare diversi moduli necessari per Adobe Commerce 2.4.5 utilizzando il compositore.
+description: Scopri come installare i moduli necessari per gli eventi IO in Adobe Commerce 2.4.5 da utilizzare in Adobe Developer App Builder
+landing-page-description: Scopri come installare i diversi moduli necessari per Adobe Commerce 2.4.5 utilizzando Compositore.
+short-description: Scopri come installare i diversi moduli necessari per Adobe Commerce 2.4.5 utilizzando Compositore.
 kt: 11886
 doc-type: tutorial
 audience: all
@@ -18,24 +18,24 @@ ht-degree: 0%
 
 # Installazione di Adobe Commerce 2.4.5
 
-Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.5. Questo imposta i moduli richiesti da utilizzare nell’applicazione Adobe Commerce. Documentazione aggiuntiva disponibile all’indirizzo [Installare gli eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.5. In questo modo vengono impostati i moduli richiesti da utilizzare nell’applicazione Adobe Commerce. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori nuovi per Adobe Commerce e Adobe Developer App Builder utilizzando gli eventi I/O
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O
 
 ## Contenuto video {#video-content}
 
-* Installazione dei moduli richiesti utilizzando il compositore
-* Comandi da eseguire per l&#39;hosting locale
+* Installazione dei moduli richiesti tramite Compositore
+* Comandi da eseguire per l’hosting locale
 * Comandi da eseguire per Adobe Commerce Cloud
-* Modifica richiesta stile Adobe Commerce Cloud
+* Adobe Commerce Cloud yaml modifica richiesta
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415794?quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 
-Esistono diversi comandi che differiscono leggermente, a seconda che ti trovi in un ambiente self-hosting o che utilizzi Adobe Commerce Cloud.
+Esistono vari comandi che differiscono leggermente, a seconda che ti trovi in un ambiente con hosting autonomo o utilizzi Adobe Commerce Cloud.
 
 ### Hosting locale {#on-premise}
 

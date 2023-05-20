@@ -1,6 +1,6 @@
 ---
 title: Scopri come utilizzare gli eventi condizionali in Adobe Commerce
-description: Scopri come utilizzare gli eventi condizionali da utilizzare in Adobe Developer App Builder.
+description: Scopri come utilizzare gli eventi condizionali in Adobe Developer App Builder.
 landing-page-description: Scopri come utilizzare gli eventi condizionali di Adobe Commerce.
 short-description: Scopri come utilizzare gli eventi condizionali di Adobe Commerce.
 kt: 11890
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 ---
 
-# Eventi condizionali Adobe Commerce
+# Eventi condizionali di Adobe Commerce
 
-Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati in Adobe Developer App Builder. Documentazione aggiuntiva disponibile all’indirizzo [Installare gli eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati in Adobe Developer App Builder. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori non esperti di Adobe Commerce e Adobe Developer App Builder utilizzando eventi I/O e devono creare un progetto Adobe App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto Adobe di App Builder.
 
 ## Contenuto video {#video-content}
 
-* Informazioni sugli eventi condizionali
-* Scopri l’utilizzo corretto del nuovo file XML io_events.xml
+* Scopri gli eventi condizionali
+* Informazioni sull&#39;utilizzo corretto del nuovo file XML io_events.xml
 * Scopri come configurare gli eventi condizionali
 * Definizione delle regole da utilizzare negli eventi condizionali
 * Scopri come registrare gli eventi nelle istanze Commerce `app/etc/config.php`

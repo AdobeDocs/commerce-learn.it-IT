@@ -1,8 +1,8 @@
 ---
 title: MBI - Report Builder coorte
-description: Scopri come utilizzare il Report Builder di coorti MBI per creare rapporti e analisi ottimizzati rilevanti per la tua attività.
-landing-page-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti MBI per creare rapporti e analisi ottimizzati rilevanti per la tua attività.
-short-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti MBI per creare rapporti e analisi ottimizzati rilevanti per la tua attività.
+description: Scopri come utilizzare il Report Builder di coorti MBI per creare report e analisi ottimizzati per la tua azienda.
+landing-page-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti MBI per creare report e analisi ottimizzati per la tua azienda.
+short-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti MBI per creare report e analisi ottimizzati per la tua azienda.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 # MBI - Report Builder coorte
 
-Hai mai voluto studiare come si comportano nel tempo diversi sottoinsiemi degli utenti? Ad esempio, si è mai chiesto se gli utenti che si registrano durante un periodo promozionale hanno un fatturato medio a vita più elevato rispetto agli utenti che non lo fanno? Se la risposta è _Sì_ Allora il Report Builder Cohort è lo strumento perfetto per te. MBI è ottimizzato per eseguire questa analisi e renderla pertinente alla tua attività.
+Hai mai desiderato studiare il comportamento nel tempo di diversi sottoinsiemi di utenti? Ad esempio, ti sei mai chiesto se gli utenti che si registrano durante un periodo promozionale abbiano un ricavo medio di durata più elevato rispetto agli utenti che non lo fanno? Se la risposta è _Sì_ Quindi il Report Builder coorte è lo strumento perfetto per te. MBI è ottimizzato per eseguire questa analisi e renderla rilevante per la tua azienda.
 
 In questo video:
 
-- Analisi per coorte
+- Che cos’è l’analisi per coorte
 - Perché è importante
-- Come creare un’analisi per coorte personalizzata
+- Come creare una tua analisi per coorte
 
 >[!TIP]
 >
->Se hai poca esperienza con MBI, la [Serie video introduttive](1-overview.md) fornisce una panoramica completa per migliorare le informazioni e i risultati aziendali attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se non si dispone di MBI, [Serie di video introduttivi](1-overview.md) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
 - Utenti aziendali
-- Analisti dei dati
+- Analisti di dati
 
 ## Contenuto video
 
@@ -43,4 +43,4 @@ In questo video:
 
 [Utilizzo del Report Builder coorte - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[Creare un’analisi qualitativa della coorte - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[Creare un’analisi qualitativa per coorte - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

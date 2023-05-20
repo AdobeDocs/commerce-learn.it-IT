@@ -1,6 +1,6 @@
 ---
-title: Creare Widget
-description: Scopri come creare widget e modificare quelli esistenti per aggiornare automaticamente i contenuti in tutto il negozio.
+title: Crea widget
+description: Scopri come creare widget e modificare quelli esistenti per aggiornare automaticamente il contenuto nel tuo store.
 kt: null
 doc-type: feature video
 role: Admin, User
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# Creare Widget
+# Crea widget
 
-I widget sono componenti riutilizzabili che è possibile creare e modificare facilmente per aggiornare automaticamente il contenuto in tutto lo store. In questo video, scopri come creare e gestire i widget.
+I widget sono componenti riutilizzabili che possono essere creati e modificati facilmente per aggiornare automaticamente il contenuto nel negozio. Questo video spiega come creare e gestire i widget.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- Progettazione di contenuti
+- Gestori di siti Web
+- Designer di contenuti
 
 ## Contenuto video
 
@@ -29,5 +29,5 @@ I widget sono componenti riutilizzabili che è possibile creare e modificare fac
 
 ## Risorse aggiuntive
 
-- [Widget - [!DNL Commerce] Guida al contenuto e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [Creare e gestire i widget - [!DNL Commerce] Guida al contenuto e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Widget - [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Creare e gestire i widget - [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

@@ -1,6 +1,6 @@
 ---
-title: Gestire Media Gallery
-description: Scopri come utilizzare la nuova Media Gallery avanzata per organizzare e gestire i file multimediali sul server.
+title: Gestire la raccolta file multimediali
+description: Scopri come utilizzare la nuova Raccolta multimediale avanzata per organizzare e gestire i file multimediali sul server.
 doc-type: feature video
 role: Admin, User
 audience: all
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Gestire Media Gallery
+# Gestire la raccolta file multimediali
 
-Con Adobe Commerce o Magenti Open Source 2.4, i commercianti possono utilizzare la nuova Media Gallery avanzata per organizzare e gestire i file multimediali sul server.
+Con Adobe Commerce o Magenti Open Source 2.4, i commercianti possono utilizzare la nuova Raccolta multimediale avanzata per organizzare e gestire i propri file multimediali sul server.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- merchandiser di eCommerce
+- Gestori di siti Web
+- eCommerce merchandisers
 
 ## Contenuto video
 
@@ -28,5 +28,5 @@ Con Adobe Commerce o Magenti Open Source 2.4, i commercianti possono utilizzare 
 
 ## Risorse aggiuntive
 
-- [Media Gallery - [!DNL Commerce] Guida al contenuto e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
-- [Archiviazione multimediale alternativa - [!DNL Commerce] Guida al contenuto e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)
+- [Raccolta file multimediali - [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [Archiviazione alternativa - [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

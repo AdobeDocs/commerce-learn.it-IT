@@ -1,5 +1,5 @@
 ---
-title: MBI - Report Builder SQL
+title: MBI - REPORT BUILDER SQL
 description: Scopri come utilizzare il Report Builder SQL MBI per eseguire direttamente query sul data warehouse, visualizzare i risultati e trasformarli rapidamente in un grafico.
 landing-page-description: Guarda questo video per scoprire come utilizzare il Report Builder SQL MBI per eseguire direttamente query sul data warehouse, visualizzare i risultati e trasformarli rapidamente in un grafico.
 short-description: Guarda questo video per scoprire come utilizzare il Report Builder SQL MBI per eseguire direttamente query sul data warehouse, visualizzare i risultati e trasformarli rapidamente in un grafico.
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# MBI - Report Builder SQL
+# MBI - REPORT BUILDER SQL
 
-Il Report Builder SQL consente di eseguire direttamente query sul data warehouse, visualizzare i risultati e trasformarli rapidamente in un grafico. La parte migliore sull&#39;utilizzo di SQL per generare rapporti è che non è necessario attendere i cicli di aggiornamento per eseguire iterazioni sulle colonne create. Se i risultati non sono corretti, puoi modificare rapidamente ed eseguire nuovamente la query fino a quando le cose non corrispondono alle tue aspettative.
+Il Report Builder SQL consente di eseguire query dirette nel data warehouse, visualizzare i risultati e trasformarli rapidamente in un grafico. La parte migliore sull&#39;utilizzo di SQL per generare i rapporti è che non è necessario attendere i cicli di aggiornamento per eseguire iterazioni sulle colonne create. Se i risultati non sono corretti, puoi modificare ed eseguire nuovamente la query in modo rapido fino a quando le cose non corrispondono alle tue aspettative.
 
 >[!IMPORTANT]
 >
@@ -28,16 +28,16 @@ In questo video:
 
 - Eseguire una query SQL
 - Visualizzare i risultati
-- Salvare il rapporto in un dashboard
+- Salvare il report in una dashboard
 
 >[!TIP]
 >
->Se hai poca esperienza con MBI, la [Serie video introduttive](1-overview.md) fornisce una panoramica completa per migliorare le informazioni e i risultati aziendali attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se non si dispone di MBI, [Serie di video introduttivi](1-overview.md) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
 - Utenti aziendali
-- Analisti dei dati
+- Analisti di dati
 
 ## Contenuto video
 

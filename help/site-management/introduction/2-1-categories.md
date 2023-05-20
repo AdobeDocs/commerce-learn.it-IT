@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per gli utenti aziendali - Categorie di prodotti
+# [!DNL Commerce] per utenti aziendali - Categorie di prodotti
 
 In questo video:
 
-- Creazione di categorie per il catalogo di prodotti
+- Creazione di categorie per il catalogo prodotti
 
 ## A chi serve questo video?
 

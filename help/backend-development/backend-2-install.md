@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Installazione"
-description: Scopri l’installazione di Composer e i dati di esempio.
+title: "[!DNL Commerce] for developers - Installation"
+description: Scopri l’installazione del Compositore e i dati di esempio.
 kt: 5692
 doc-type: video
 topic: Development
@@ -26,11 +26,11 @@ In questo video:
 
 >[!IMPORTANT]
 >
->La procedura guidata di installazione web è stata rimossa in Adobe Commerce e Magenti Open Source 2.3.6 e nelle versioni 2.3.7 e 2.4.0. Per installare o aggiornare l’istanza, nonché i moduli e le estensioni, è necessario utilizzare la riga di comando.
+>La procedura guidata di configurazione Web è stata rimossa in Adobe Commerce e nel Magento Open Source 2.3.6 nelle versioni 2.3.7 e 2.4.0. Per installare o aggiornare l’istanza, nonché i moduli e le estensioni, è necessario utilizzare la riga di comando.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Introduzione al Compositore](https://developer.adobe.com/commerce/php/development/composer/)
-- [[!DNL Commerce] guida all&#39;installazione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html)
+- [Introduzione a Compositore](https://developer.adobe.com/commerce/php/development/composer/)
+- [[!DNL Commerce] guida all’installazione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html)

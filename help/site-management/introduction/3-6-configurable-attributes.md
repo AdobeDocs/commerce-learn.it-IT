@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] per gli utenti aziendali - Attributi configurabili"
-description: Scopri come impostare gli attributi di prodotto configurabili.
+description: Scopri come impostare attributi di prodotto configurabili.
 topic: Commerce
 kt: 5772
 doc-type: video
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per gli utenti aziendali - Attributi configurabili
+# [!DNL Commerce] per utenti aziendali: attributi configurabili
 
 In questo video:
 
@@ -28,7 +28,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 

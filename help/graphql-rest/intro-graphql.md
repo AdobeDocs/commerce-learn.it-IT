@@ -1,8 +1,8 @@
 ---
 title: Introduzione a GraphQL
-description: Scopri come utilizzare GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Utilizzare chiamate GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
-landing-page-description: Scopri come utilizzare GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Utilizzare chiamate GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
-short-description: Scopri come utilizzare GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Utilizzare chiamate GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
+description: Scopri come utilizzare GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Utilizzare le chiamate di GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
+landing-page-description: Scopri come utilizzare GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Utilizzare le chiamate di GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
+short-description: Scopri come utilizzare GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Utilizzare le chiamate di GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -17,33 +17,33 @@ ht-degree: 0%
 
 # Introduzione a GraphQL
 
-GraphQL è diventato rapidamente lo standard di settore per la capacità delle applicazioni lato client di comunicare con un back-end. Si tratta di un argomento sempre più rilevante per gli sviluppatori di Adobe Commerce, poiché la piattaforma continua ad espandere le sue capacità nel regno delle implementazioni headless.
+GraphQL è rapidamente diventato lo standard di settore per la potenza delle applicazioni lato client che comunicano con un back-end. È un argomento sempre più rilevante per gli sviluppatori di Adobe Commerce, in quanto la piattaforma continua a espandere le proprie funzionalità nel regno delle implementazioni headless.
 
-Se hai poca esperienza con GraphQL, questa sezione ti orienta ai concetti e all’utilizzo di base.
+Se hai poca esperienza con GraphQL, questa sezione ti indirizza ai concetti e all’utilizzo di base.
 
-## Cos&#39;è GraphQL?
+## Cos’è GraphQL?
 
-GraphQL è una specifica per un linguaggio di query API univoco e per il runtime che fornisce i dati in risposta a tale linguaggio di query.
+GraphQL è una specifica per un linguaggio di query API univoco e per il runtime che fornisce dati in risposta a tale linguaggio di query.
 
-Le API web tradizionali come REST sono state utili per diversi sistemi che trasmettono dati avanti e indietro, ma hanno fornito prestazioni meno elevate per esperienze di collegamento app moderne come Progressive Web Application. In applicazioni come questa, gli strati front-end e back-end della _stesso_ l&#39;applicazione comunica tramite API web. L&#39;approccio standardizzato di schemi come il REST spesso non fornisce la flessibilità appropriata in questo contesto, dove molti tipi di dati devono essere recuperati rapidamente.
+Le API web tradizionali come REST sono state utili per diversi sistemi che trasmettono dati avanti e indietro, ma hanno fornito prestazioni inferiori al picco per esperienze di collegamento alle app moderne come i Progressive Web Application. In applicazioni come questa, i livelli front-end e back-end della _uguale_ comunicazione tra applicazioni tramite API web. L’approccio regolamentato di schemi come REST spesso non fornisce la flessibilità appropriata in questo contesto, dove molti tipi di dati devono essere recuperati rapidamente.
 
-GraphQL consente a un cliente di descrivere in modo espressivo _esattamente_ i dati di cui ha bisogno. Invece di richiedere più richieste di rete per recuperare più tipi di dati, una singola richiesta può eseguire query per molti tipi. Inoltre, le risposte vengono mantenute magre includendo (in un formato che rispecchia intuitivamente la query) solo i tipi e i campi richiesti.
+GraphQL consente a un cliente di descrivere in modo esplicito _esattamente_ i dati di cui ha bisogno. Invece di richiedere più richieste di rete per recuperare più tipi di dati, una singola richiesta può eseguire query per molti tipi. Inoltre, le risposte sono mantenute snelle includendo (in un formato che rispecchia intuitivamente la query) solo i tipi e i campi richiesti.
 
-Il runtime che implementa la specifica GraphQL può essere generato in qualsiasi lingua. Adobe Commerce e [!DNL Magento Open Source] utilizza
-[graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} Implementazione PHP e crea i propri livelli sopra di esso.
+Il runtime che implementa le specifiche GraphQL può essere creato in qualsiasi linguaggio. ADOBE COMMERCE e [!DNL Magento Open Source] utilizzare il
+[graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} Implementazione PHP e si costruisce i propri livelli sopra di esso.
 
-[Visualizza la documentazione completa di GraphQL](https://graphql.org/learn){target="_blank"}
+[Consulta la documentazione completa di GraphQL](https://graphql.org/learn){target="_blank"}
 
 ## Utilizzo di un client GraphQL
 
-È necessario un client GUI GraphQL per testare campioni di codice ed esercitazioni. Sono disponibili diverse opzioni:
+Per testare esempi di codice e tutorial è necessario un client GraphQL con interfaccia grafica. Sono disponibili diverse opzioni:
 
-* [Altair](https://altairgraphql.dev/){target="_blank"} è un cliente eccellente e completo costruito appositamente per GraphQL. L&#39;Adobe utilizza Altair nei video di approfondimento.
-* Se non desideri installare l’applicazione desktop, ci sono anche le estensioni Altair che vengono eseguite direttamente nel tuo
+* [Altair](https://altairgraphql.dev/){target="_blank"} è un client eccellente e completo di tutte le funzionalità progettato appositamente per GraphQL. L’Adobe utilizza Altair nei video con procedura guidata.
+* Se non desideri installare l’applicazione desktop, esistono anche estensioni Altair che vengono eseguite direttamente nel
    [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} browser.
-* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} è un’implementazione dell’IDE GraphQL da GraphQL Foundation. Questo non è uno strumento installabile, ma un pacchetto che puoi utilizzare per creare l&#39;interfaccia da solo.
-* Se hai già familiarità con [Postman](https://www.postman.com/){target="_blank"}, dispone di un supporto decente per le query GraphQL, anche se non è così completo come un client GraphQL dedicato.
+* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} è un’implementazione dell’IDE di GraphQL di GraphQL Foundation. Non si tratta di uno strumento installabile, ma di un pacchetto che puoi utilizzare per creare l’interfaccia da solo.
+* Se conosci già [Postman](https://www.postman.com/){target="_blank"}, dispone di un supporto decente per le query GraphQL, anche se non è disponibile completamente come un client GraphQL dedicato.
 
-Nel client GraphQL, devi inviare le richieste al percorso URL `/graphql` sul tuo Adobe Commerce o [!DNL Magento Open Source] istanza. Se preferisci utilizzare un’istanza esistente per i test, puoi utilizzare la demo del tema Venia (l’implementazione di esempio di PWA Studi): `https://venia.magento.com/graphql`
+Nel client GraphQL, devi inviare le richieste al percorso URL `/graphql` sul tuo Adobe Commerce o [!DNL Magento Open Source] dell&#39;istanza. Se preferisci utilizzare un’istanza esistente per i test, puoi utilizzare la demo del tema Venia (l’implementazione di esempio di PWA Studi): `https://venia.magento.com/graphql`
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

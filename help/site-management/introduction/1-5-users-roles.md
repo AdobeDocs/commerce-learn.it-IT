@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per utenti aziendali - Utenti e ruoli
+# [!DNL Commerce] per utenti aziendali: utenti e ruoli
 
 In questo video:
 
@@ -29,13 +29,13 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Gestisci account utente amministratore - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Gestire gli account utente amministratore - [!DNL Commerce] Guida ai sistemi di amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Ruoli utente - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Ruoli utente - [!DNL Commerce] Guida ai sistemi di amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
 

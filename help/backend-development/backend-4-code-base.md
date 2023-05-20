@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Base codice"
-description: Componenti di base del codice, modularità, flessibilità di configurazione e ruolo del Compositore
+title: "[!DNL Commerce] for developers - Code base"
+description: Componenti base di codice, modularità, flessibilità di configurazione e ruolo del compositore
 kt: 5694
 doc-type: video
 topic: Development
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per sviluppatori - Base codice
+# [!DNL Commerce] per sviluppatori: base di codice
 
 In questo video:
 
-- Componenti di base del codice
+- Componenti base di codice
 - Modularità
 - Configurazione della flessibilità
 - Ruolo del Compositore
@@ -29,13 +29,13 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Informazioni sulla struttura del file componente](https://developer.adobe.com/commerce/php/development/prepare/component-file-structure/)
+- [Informazioni sulla struttura dei file dei componenti](https://developer.adobe.com/commerce/php/development/prepare/component-file-structure/)
 - [Sviluppo di componenti](https://developer.adobe.com/commerce/php/development/components/)
 - [Estensibilità e modularità](https://developer.adobe.com/commerce/php/architecture/modules/)
 - [[!DNL Commerce] guida di riferimento del modulo](https://developer.adobe.com/commerce/php/module-reference/)

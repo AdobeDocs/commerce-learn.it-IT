@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] per gli utenti aziendali - Griglie dati"
-description: Scopri come utilizzare le griglie di dati nel [!DNL Commerce Admin].
+description: Scopri come utilizzare le griglie dati in [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759
 doc-type: video
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In questo video:
 
-- Utilizzo delle griglie dati nella [!DNL Commerce Admin]
+- Utilizzo delle griglie dati in [!DNL Commerce Admin]
 
 ## A chi serve questo video?
 
@@ -28,10 +28,10 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Controlli griglia amministratore - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[Controlli griglia amministrazione - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

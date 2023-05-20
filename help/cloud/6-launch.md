@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce sull’infrastruttura cloud - Servizi e lancio del sito
-description: Controlla i servizi Go live, DNS, TLS e Flast. Scopri come configurare il DNS per puntare al dominio di produzione per l’istanza Adobe Commerce.
+title: 'Adobe Commerce sull’infrastruttura cloud: servizi e lancio del sito'
+description: Controlla i servizi Go live, DNS, TLS e Fastly. Scopri come configurare il DNS in modo che punti al dominio di produzione per l’istanza Adobe Commerce.
 kt: 5661
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce sull’infrastruttura cloud - Servizi e lancio del sito
+# Adobe Commerce sull’infrastruttura cloud: servizi e lancio del sito
 
 In questo video:
 
-- Recensione di Go live, DNS, TLS e Flast
-- Come configurare il DNS per puntare al dominio di produzione per l’istanza Adobe Commerce
+- Revisione di Go live, DNS, TLS e Fastly
+- Come configurare il DNS in modo che punti al dominio di produzione per l’istanza di Adobe Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Lancio del sito - [!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)
+[Lancio del sito - [!DNL Commerce] Guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

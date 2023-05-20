@@ -1,6 +1,6 @@
 ---
 title: Creare un attributo di prodotto
-description: Crea una pagina che restituisce json con un parametro.
+description: Crea una pagina che restituisca json con un parametro.
 topic: Development
 kt: 5602
 doc-type: video
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Creare un attributo di prodotto
 
-L&#39;aggiunta di un attributo di prodotto è una delle operazioni più comuni in [!DNL Commerce]. Gli attributi sono un modo potente per risolvere molti compiti pratici relativi a un prodotto. Esiste un processo semplice per aggiungere un attributo di tipo a discesa a un prodotto.
+L’aggiunta di un attributo di prodotto è una delle operazioni più comuni in [!DNL Commerce]. Gli attributi sono un modo potente per risolvere molte attività pratiche relative a un prodotto. È disponibile un semplice processo per aggiungere un attributo di tipo a discesa a un prodotto.
 
 In questo video:
 
-- Aggiungi un attributo denominato materiale_abbigliamento con i possibili valori: Cotone, cuoio, seta, Denim, Pelliccia e Lana
-- Rendi questo attributo visibile nella pagina di visualizzazione del prodotto, in grassetto
-- Assegnalo al set di attributi Predefinito e aggiungi una restrizione
+- Aggiungete un attributo denominato abbigliamento_material con i valori possibili: Cotone, Pelle, Seta, Denim, Pelliccia e Lana
+- Rendi visibile questo attributo nella pagina di visualizzazione del prodotto, in grassetto
+- Assegnalo al set di attributi predefinito e aggiungi una restrizione
 - Aggiungi il nuovo attributo
 
 ## A chi serve questo video?
@@ -36,4 +36,4 @@ In questo video:
 
 [Creare un attributo di prodotto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Aggiungi un attributo campo di testo personalizzato](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Aggiungere un attributo di campo di testo personalizzato](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Page Builder] panoramica"'
-description: Scopri come creare le pagine [!DNL Commerce] archiviare le pagine nell'amministratore utilizzando [!DNL Page Builder].
+title: '[!DNL Page Builder] panoramica'
+description: Scopri come creare le pagine [!DNL Commerce] memorizzare le pagine nell’Amministratore tramite [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 role: Admin, Leader, User
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 # [!DNL Page Builder] panoramica
 
-[!DNL Page Builder] semplifica la creazione di pagine ricche di contenuti con layout personalizzati che migliorano la narrazione visiva e stimolano il coinvolgimento e la fedeltà dei clienti.
+[!DNL Page Builder] consente di creare facilmente pagine ricche di contenuti con layout personalizzati che migliorano la narrazione visiva e stimolano il coinvolgimento e la fedeltà dei clienti.
 
-A partire dalla versione 2.4.3, [!DNL Page Builder] è disponibile per impostazione predefinita sia in Adobe Commerce che in Magenti Open Source. Con [!DNL Page Builder] in Adobe Commerce puoi incorporare funzioni di staging e anteprima, contenuti personalizzati e consigli sui prodotti, con funzionalità aggiuntive a venire.
+A partire dalla versione 2.4.3 di, [!DNL Page Builder] è disponibile per impostazione predefinita sia in Adobe Commerce che in Magenti Open Source. Con [!DNL Page Builder] in Adobe Commerce, puoi incorporare staging e anteprima, contenuti personalizzati e consigli di prodotto, con funzionalità aggiuntive in arrivo.
 
 In questo video, scopri come:
 
 - Modificare una pagina esistente
 - Modificare una nuova pagina
 - Aggiungere prodotti a una pagina esistente
-- Aggiungi e formatta righe e colonne
-- Aggiungere elementi multimediali alle colonne e alle righe
-- Aggiungi e formatta un cursore
+- Aggiungere e formattare righe e colonne
+- Aggiungere elementi e file multimediali alle colonne e alle righe
+- Aggiungere e formattare un cursore
 
 ## A chi serve questo video?
 
-- Web designer
-- Negoziatori
+- Designer di siti Web
+- Negozi di merchandising
 
 ## Contenuto video
 

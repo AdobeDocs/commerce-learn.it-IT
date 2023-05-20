@@ -1,6 +1,6 @@
 ---
-title: Shopping assistito dal venditore
-description: Scopri come aggiungere è possibile offrire assistenza immediata sia agli ospiti che ai clienti che si sono registrati per un account presso il tuo negozio.
+title: Acquisti assistiti dal venditore
+description: Scopri come aggiungere puoi offrire assistenza immediata sia agli ospiti che ai clienti che si sono registrati per un account con il tuo negozio.
 kt: 10548
 doc-type: feature video
 audience: all
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Shopping assistito dal venditore
+# Acquisti assistiti dal venditore
 
-A volte i clienti necessitano di assistenza per completare un acquisto. Ad alcuni clienti piace fare acquisti online, ma potrebbe preferire ordinare per telefono. Puoi offrire assistenza immediata sia agli ospiti che ai clienti che si sono registrati per un account presso il tuo negozio.
+I clienti a volte hanno bisogno di assistenza per completare un acquisto. Ad alcuni clienti piace fare acquisti online, ma potrebbe preferire ordinare per telefono. Puoi offrire assistenza immediata sia agli ospiti che ai clienti che si sono registrati per un account presso il tuo negozio.
 
 ## A chi serve questo video?
 
@@ -29,5 +29,5 @@ A volte i clienti necessitano di assistenza per completare un acquisto. Ad alcun
 
 ## Risorse aggiuntive
 
-- [Fornire assistenza agli acquirenti - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Assistenza agli acquisti - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [Fornire assistenza all&#39;acquirente - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [Assistenza per lo shopping - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

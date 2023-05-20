@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Utilizzo di progetti e aree di lavoro
 
-Questa esercitazione illustra come creare un progetto e un’area di lavoro per contenere la mesh. Questo lavoro avviene principalmente nel [Console Adobe Developer](https://developer.adobe.com/console){target="_blank"} Interfaccia utente.
+Questo tutorial illustra come creare un progetto e un’area di lavoro che contengano la rete. Questo lavoro si svolge principalmente nel [Console di Adobe Developer](https://developer.adobe.com/console){target="_blank"} UI.
 
 ## A chi serve questo video?
 
@@ -26,17 +26,17 @@ Questa esercitazione illustra come creare un progetto e un’area di lavoro per 
 ## Contenuto video
 
 * Utilizzo di progetti e aree di lavoro nella console Adobe Developer
-* Aggiunta di una mesh API all’area di lavoro nella console Adobe Developer
-* Accesso alla console Adobe Developer in CLI
-* Visualizza il progetto e l’area di lavoro selezionati in CLI
-* Modifica dell’organizzazione, del progetto o dell’area di lavoro selezionati in CLI
-* Verifica dei semplici comandi della mesh API
+* Aggiunta di Mesh API all’area di lavoro nella console Adobe Developer
+* Accesso alla console Adobe Developer nella CLI
+* Visualizza il progetto e l&#39;area di lavoro selezionati nell&#39;interfaccia CLI
+* Modifica dell&#39;organizzazione, del progetto o dell&#39;area di lavoro selezionata nell&#39;interfaccia CLI
+* Verifica dei comandi Mesh API semplici
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## Scopri la console Adobe Developer
 
-Nella console Adobe Developer , la seguente gerarchia rappresenta l’adattamento delle API all’organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, accesso alla console e risoluzione dei problemi di base, visita [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+Nella console Adobe Developer, la seguente gerarchia rappresenta il modo in cui le API si adattano all’organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, l’accesso alla console e la risoluzione dei problemi di base, visita [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Introduzione ai progetti nella console Adobe Developer
 

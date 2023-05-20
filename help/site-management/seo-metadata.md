@@ -1,6 +1,6 @@
 ---
 title: Gestire i metadati SEO
-description: Scopri come incorporare metadati ricchi di parole chiave per migliorare il modo in cui i motori di ricerca indicizzano il tuo sito.
+description: Scopri come incorporare metadati ricchi di parole chiave per migliorare il modo in cui i motori di ricerca indicizzano il sito.
 kt: 10553
 doc-type: feature video
 audience: all
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 # Gestire i metadati SEO
 
-Lo store viene caricato in luoghi in cui è possibile inserire metadati ricchi di parole chiave per migliorare il modo in cui i motori di ricerca indicizzano il sito. Nel tempo, è possibile ottimizzare i metadati per raggiungere i modelli di acquisto e le preferenze dei clienti.
+Il tuo archivio è pieno di luoghi in cui puoi immettere metadati ricchi di parole chiave per migliorare il modo in cui i motori di ricerca indicizzano il tuo sito. Nel tempo, puoi perfezionare i metadati per adattarli ai modelli di acquisto e alle preferenze dei clienti.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- merchandiser di eCommerce
-- Marketing di eCommerce
+- Gestori di siti Web
+- eCommerce merchandisers
+- Ecommerce marketer
 
 ## Contenuto video
 

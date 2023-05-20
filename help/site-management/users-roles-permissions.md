@@ -1,6 +1,6 @@
 ---
-title: Gestione di ruoli e autorizzazioni utente
-description: Informazioni sugli account utente e sulle autorizzazioni utilizzate per controllare l'accesso a [!DNL Commerce] e archivia i dati nel sito Web in Admin.
+title: Gestione di ruoli utente e autorizzazioni
+description: Scopri gli account utente e le autorizzazioni utilizzati per controllare l’accesso a [!DNL Commerce] e archiviare i dati in Admin.
 kt: 5610
 doc-type: feature video
 audience: all
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Utenti, ruoli e autorizzazioni
 
-Se sono presenti altri membri del tuo team o provider di servizi che necessitano di accesso, puoi creare un account utente separato per ciascuno di essi e assegnare un accesso limitato in base alle loro esigenze aziendali. Per limitare i siti web o gli archivi a cui gli utenti amministratori possono accedere, devi innanzitutto creare un ruolo con ambito limitato e selezionare solo le risorse necessarie. Quindi, puoi assegnare il ruolo a un account utente specifico. Gli utenti amministratori assegnati a un ruolo limitato possono visualizzare e modificare i dati solo per i siti web o gli archivi associati al ruolo, ma non possono modificare le impostazioni o i dati globali.
+Se altri membri del team o provider di servizi necessitano dell&#39;accesso, è possibile creare un account utente separato per ciascuno di essi e assegnare un accesso limitato in base alle proprie esigenze aziendali. Per limitare i siti web o i negozi a cui gli utenti amministratori possono accedere, devi innanzitutto creare un ruolo con ambito limitato e selezionare solo le risorse necessarie. Quindi, puoi assegnare il ruolo a un account utente specifico. Gli utenti amministratori assegnati a un ruolo con restrizioni possono visualizzare e modificare i dati solo per i siti Web o gli archivi associati al ruolo, ma non possono modificare le impostazioni globali o i dati.
 
 ## A chi serve questo video?
 
@@ -27,6 +27,6 @@ Se sono presenti altri membri del tuo team o provider di servizi che necessitano
 
 ## Risorse aggiuntive
 
-[Gestisci account utente amministratore - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Gestire gli account utente amministratore - [!DNL Commerce] Guida ai sistemi di amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Ruoli utente - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Ruoli utente - [!DNL Commerce] Guida ai sistemi di amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

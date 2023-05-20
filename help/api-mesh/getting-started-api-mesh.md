@@ -1,8 +1,8 @@
 ---
-title: Introduzione a mesh API
-description: Scopri come utilizzare la mesh API su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe App Builder, lavorare con i progetti, creare un proxy inverso graphql e molto altro ancora.
-landing-page-description: Scopri come utilizzare la mesh API su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe IO, lavorare con i progetti, creare un proxy inverso graphql e molto altro.
-short-description: Scopri come utilizzare la mesh API su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe IO, lavorare con i progetti, creare un proxy inverso graphql e molto altro.
+title: Introduzione a Mesh API
+description: Scopri come utilizzare API Mesh su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe App Builder, lavorare con i progetti, creare un proxy inverso graphql e molto altro.
+landing-page-description: Scopri come utilizzare API Mesh su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe IO, lavorare con i progetti, creare un proxy inverso graphql e molto altro.
+short-description: Scopri come utilizzare API Mesh su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come installare Adobe IO, lavorare con i progetti, creare un proxy inverso graphql e molto altro.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -15,38 +15,38 @@ ht-degree: 0%
 
 ---
 
-# Introduzione a mesh API
+# Introduzione a Mesh API
 
-Se hai poca esperienza con la mesh API per Adobe Developer App Builder, Adobe consiglia di iniziare con questa esercitazione introduttiva prima di passare agli altri video e tutorial.
+Se hai poca esperienza con API Mesh per Adobe Developer App Builder, l’Adobe consiglia di iniziare con questa esercitazione introduttiva, prima di passare agli altri video e esercitazioni.
 
-## Cosa è la mesh API
+## Cos’è API Mesh
 
-API Mesh combina più sorgenti di dati per ottenere una singola risposta da utilizzare per la tua applicazione.
+API Mesh combina più origini di dati per ottenere una singola risposta da utilizzare per l’applicazione.
 
-[Visualizza la documentazione completa di API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[Consulta la documentazione completa di API Mesh.](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## A chi serve questo video?
 
-* Sviluppatori non ancora entrati nella mesh API o [!DNL Adobe Commerce] con esperienza limitata utilizzando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
+* Sviluppatori senza esperienza di API Mesh o [!DNL Adobe Commerce] con un’esperienza limitata nell’utilizzo di [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
 
 ## Contenuto video
 
-* Panoramica sulla mesh API
-* Link alla documentazione integrativa
-* Caso d’uso per il controllo dell’inventario in tempo reale al momento del pagamento
-* Spostamento delle attività di sviluppo e dell’utilizzo delle risorse dall’applicazione commerce
+* Panoramica su Mesh API
+* Collegamenti alla documentazione supplementare
+* Caso d&#39;uso per eseguire il controllo dell&#39;inventario in tempo reale al momento del pagamento
+* Spostare le attività di sviluppo e l’utilizzo delle risorse dall’applicazione commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
-## Esempi di casi d’uso
+## Casi d’uso di esempio
 
-L’applicazione Commerce dispone di un’API REST e di un endpoint GraphQL. Ad esempio, puoi utilizzare l’API REST per applicare prezzi speciali o l’endpoint GraphQL per gestire lo stato dell’inventario. Utilizzando la mesh API, puoi definire entrambi gli endpoint, recuperare le informazioni e restituirle all’applicazione richiedente come un’unica risposta.
+L’applicazione Commerce dispone di un’API REST e di un endpoint GraphQL. Ad esempio, puoi utilizzare l’API REST per applicare prezzi speciali o l’endpoint GraphQL per gestire lo stato dell’inventario. Utilizzando API Mesh, puoi definire entrambi gli endpoint, recuperare le informazioni e restituirle all’applicazione richiedente come una risposta.
 
-## Cos&#39;è un proxy inverso
+## Che cos’è un proxy inverso
 
-In qualità di sviluppatore che utilizza Adobe App Builder e API Mesh, non è necessario capire cosa sia un proxy inverso. Tuttavia, se sei interessato alla funzionalità generale relativa ad Adobe App Builder, utilizza le risorse seguenti:
+In qualità di sviluppatore che utilizza Adobe App Builder e API Mesh, non è necessario comprendere cosa sia un proxy inverso. Tuttavia, se ti interessa la funzionalità generale di Adobe App Builder, utilizza le risorse seguenti:
 
-* [Cos&#39;è un proxy inverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Cos&#39;è un proxy inverso e perché è importante](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Che cos’è un proxy inverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Che cos’è un proxy inverso e perché è importante](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

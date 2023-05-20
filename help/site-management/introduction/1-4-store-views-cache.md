@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per gli utenti aziendali - Memorizzazione delle viste e cancellazione della cache"
-description: Scopri come creare viste store e cancellare la cache.
+title: "[!DNL Commerce] per gli utenti aziendali: visualizzazioni dello store e cancellazione della cache"
+description: Scopri come creare visualizzazioni store e cancellare la cache.
 topic: Commerce
 kt: 5761
 doc-type: video
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per gli utenti aziendali: visualizzazione store e cancellazione della cache
+# [!DNL Commerce] per utenti aziendali: visualizzazioni dello store e cancellazione della cache
 
 In questo video:
 
@@ -31,6 +31,6 @@ In questo video:
 
 ## Risorse aggiuntive
 
-[Siti web, store e viste - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Siti Web, store e visualizzazioni - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Gestione cache - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[Gestione cache - [!DNL Commerce] Guida ai sistemi di amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

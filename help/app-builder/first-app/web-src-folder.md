@@ -6,27 +6,27 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
+# Scoprire lo scopo della cartella web-src {#web-src-folder}
 
-# Scopri lo scopo della cartella web-src {#web-src-folder}
-
-La cartella web-src per questa app di esempio contiene molti file e cartelle JavaScript. Questa cartella viene utilizzata per le applicazioni che dispongono di un&#39;interfaccia utente. Questa funzione non è utilizzata da tutte le applicazioni. Ad esempio, un’integrazione Commerce con un sistema di gestione dell’inventario esterno potrebbe non richiedere un’interfaccia e un codice front-end.
+La cartella web-src per questa app di esempio contiene molti file e cartelle JavaScript. Questa cartella viene utilizzata per le applicazioni che dispongono di un&#39;interfaccia utente. Non tutte le applicazioni utilizzano questa funzione. Ad esempio, un’integrazione Commerce con un sistema esterno di gestione dell’inventario potrebbe non richiedere un’interfaccia e un codice front-end.
 
 ## A chi serve questo video?
 
-* Sviluppatori nuovi in Adobe Commerce con esperienza limitata con Adobe App Builder che apprendono le `web-src` e il relativo contenuto.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e che vengono a conoscenza della `web-src` cartella e il relativo contenuto.
 
 ## Contenuto video
 
-* Qual è lo scopo principale della `web-src` cartella?
-* In genere file e cartelle inclusi
-* Come funziona `web-src` la cartella e il contenuto all’interno vengono utilizzati nell’applicazione di esempio
+* Qual è lo scopo principale del `web-src` cartella?
+* File e cartelle in genere inclusi
+* Come `web-src` e il contenuto all&#39;interno vengono utilizzati nell&#39;applicazione di esempio
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
@@ -124,7 +124,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-Nell’esempio seguente, l’esempio di codice è `not` limitazione della richiesta. Per evitare un errore 400, riduci la dimensione della risposta utilizzando `searchCriteria`.
+Nell’esempio seguente, il codice di esempio è `not` limitazione della richiesta. Per evitare un errore 400, riduci la dimensione della risposta utilizzando `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

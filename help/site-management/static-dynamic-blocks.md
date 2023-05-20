@@ -1,5 +1,5 @@
 ---
-title: Creare blocchi statici e dinamici
+title: Crea blocchi statici e dinamici
 description: Scopri come creare blocchi statici e dinamici per le pagine store.
 kt: null
 doc-type: feature video
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# Creare blocchi statici e dinamici
+# Crea blocchi statici e dinamici
 
-Un blocco è un’unità modulare di contenuto che può essere posizionata più ovunque sulla pagina. I blocchi di contenuto sono talvolta denominati blocchi statici o blocchi CMS. Possono essere utilizzati per visualizzare informazioni fisse come testo, immagini e video incorporati e informazioni dinamiche fornite da un widget o provenienti da un database o da un&#39;altra origine. La maggior parte degli elementi nella home page sono blocchi che possono essere facilmente gestiti. In questo video, scopri come creare blocchi statici e dinamici.
+Un blocco è un&#39;unità modulare di contenuto che può essere posizionata più in qualsiasi punto della pagina. I blocchi di contenuto sono a volte indicati come blocchi statici o blocchi CMS. Possono essere utilizzati per visualizzare informazioni fisse come testo, immagini e video incorporati e informazioni dinamiche fornite da un widget o che provengono da un database o da un&#39;altra origine. La maggior parte degli elementi nella Home page sono blocchi che possono essere facilmente gestiti. In questo video, Scopri come creare blocchi statici e dinamici.
 
-## A chi serve questo video?
+## Per chi è questo video?
 
-- Manager del sito web
-- Progettazione di contenuti
+- Gestori siti Web
+- Designer di contenuti
 
-## Contenuto video
+## Video contenuto
 
 >[!VIDEO](https://video.tv.adobe.com/v/343783?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Blocchi - [!DNL Commerce] Guida al contenuto e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [Blocchi dinamici - [!DNL Commerce] Guida al contenuto e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [Blocchi-  [!DNL Commerce]  contenuto e guida di progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [Blocchi dinamici-  [!DNL Commerce]  contenuto e guida di progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

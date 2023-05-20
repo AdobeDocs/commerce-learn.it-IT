@@ -1,8 +1,8 @@
 ---
-title: Scopri come creare un progetto App Builder utilizzando Commerce Events
+title: Scopri come creare un progetto App Builder utilizzando gli eventi Commerce
 description: Scopri come creare un progetto App Builder da utilizzare con gli eventi Commerce
-landing-page-description: Scopri come creare un progetto Adobe App Builder per utilizzare gli eventi Adobe Commerce
-short-description: Scopri come creare un progetto Adobe App Builder per utilizzare gli eventi Adobe Commerce
+landing-page-description: Scopri come creare un progetto Adobe di App Builder per utilizzare gli eventi di Adobe Commerce
+short-description: Scopri come creare un progetto Adobe di App Builder per utilizzare gli eventi di Adobe Commerce
 kt: 11888
 doc-type: tutorial
 audience: all
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 # Creare un progetto App Builder
 
-Scopri come creare un progetto Adobe Developer App Builder per utilizzare eventi da Adobe Commerce. Documentazione aggiuntiva disponibile all’indirizzo [Installare gli eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come creare un progetto Adobe Developer App Builder per utilizzare gli eventi di Adobe Commerce. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori non esperti di Adobe Commerce e Adobe Developer App Builder utilizzando eventi I/O e devono creare un progetto Adobe App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto Adobe di App Builder.
 
 ## Contenuto video {#video-content}
 

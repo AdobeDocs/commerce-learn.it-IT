@@ -1,6 +1,6 @@
 ---
 title: Inventory management
-description: Scopri le funzionalità di Inventory management e come utilizzarle per lavorare da un unico magazzino o da una rete di spedizione complessa.
+description: Scopri le funzioni di Inventory management e come utilizzarle per lavorare da un singolo magazzino o da una rete di spedizione complessa.
 kt: 10551
 doc-type: feature video
 audience: all
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Inventory management
 
-I commercianti con un unico negozio per più magazzini, negozi, località di prelievo, spedizionieri e altro ancora possono utilizzare le funzioni di gestione delle scorte per mantenere le quantità per le vendite e gestire le spedizioni per completare gli ordini. È possibile tenere traccia delle quantità di scorte, fornire quantità di scorte di vendita precise ai clienti per tutti i siti web e spedire in base a raccomandazioni in base alla distanza o alla priorità. Puoi anche configurare le configurazioni di prodotto preferite a livello globale (per tutti gli store e i prodotti), per sorgente e per prodotto. Queste caratteristiche crescono con la tua azienda, che ti consente di lavorare da un unico magazzino o da una rete di spedizione complessa.
+I commercianti con un unico negozio in più magazzini, magazzini, ubicazioni di prelievo, corrieri diretti e altro ancora possono utilizzare le funzioni di gestione del magazzino per gestire le quantità per le vendite e gestire le spedizioni per completare gli ordini. Puoi tenere traccia delle quantità di magazzino, fornire ai clienti quantità di scorte vendibili precise per tutti i siti web e spedire in base a raccomandazioni basate sulla distanza o sulla priorità. Puoi anche configurare le configurazioni di prodotto preferite a livello globale (per tutti i negozi e i prodotti), per origine e per prodotto. Queste funzionalità crescono con la tua azienda, consentendoti di lavorare da un unico magazzino o da una rete di spedizione complessa.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- merchandiser di eCommerce
+- Gestori di siti Web
+- eCommerce merchandisers
 
 ## Contenuto video
 

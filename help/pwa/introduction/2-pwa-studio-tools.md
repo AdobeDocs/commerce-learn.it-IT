@@ -1,6 +1,6 @@
 ---
-title: PWA Studi per sviluppatori - Strumenti PWA
-description: Informazioni su PWA Studi e sulla facilità d’uso degli strumenti PWA Studi.
+title: 'PWA Studi per sviluppatori: strumenti di PWA'
+description: Scopri PWA Studi e la facilità d’uso degli strumenti di PWA Studi.
 topic: Development
 kt: 5645
 doc-type: video
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# PWA Studi per sviluppatori - Strumenti PWA
+# PWA Studi per sviluppatori: strumenti di PWA
 
 In questo video:
 
@@ -23,7 +23,7 @@ In questo video:
 ## A chi serve questo video?
 
 - Sviluppatori front-end
-- Manager di progetto
+- Project manager
 
 ## Contenuto video
 

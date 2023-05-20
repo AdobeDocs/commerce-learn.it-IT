@@ -1,6 +1,6 @@
 ---
 title: Pagine correlate a GraphQL e REST
-description: Collegamenti alle pagine correlate nella sezione GraphQL REST
+description: Collegamenti a pagine correlate nella sezione REST di GraphQL
 source-git-commit: 52bd3fff8ad3aa09a9aaa09aa458c8cbb54be06e
 workflow-type: tm+mt
 source-wordcount: '30'
@@ -8,9 +8,9 @@ ht-degree: 0%
 
 ---
 
-# Collegamenti relativi a GraphQL REST
+# Collegamenti correlati a GraphQL REST
 
-## Risorse REST di GraphQL utili
+## Risorse REST utili per GraphQL
 
 * [Introduzione a GraphQL](../graphql-rest/getting-started-graphql.md)
 * [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)

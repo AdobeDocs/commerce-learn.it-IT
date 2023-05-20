@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Flusso di lavoro di sviluppo"
-description: Scopri il flusso di lavoro di sviluppo tipico per Commerce.
+title: "[!DNL Commerce] for developers - Development workflow"
+description: Scopri il flusso di lavoro di sviluppo tipico di Commerce.
 kt: 5691
 doc-type: video
 topic: Development
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per sviluppatori - Flusso di lavoro di sviluppo
+# [!DNL Commerce] per sviluppatori: flusso di lavoro di sviluppo
 
 In questo video:
 
@@ -26,7 +26,7 @@ In questo video:
 
 >[!IMPORTANT]
 >
->La Commerce Marketplace non include più il **Scarica** pulsante . È necessario utilizzare la riga di comando per installare o aggiornare le estensioni. Fai riferimento a [Installare un’estensione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) nella pagina _Guida all’installazione_ per ulteriori informazioni.
+>La Commerce Marketplace non include più **Scarica** pulsante. Per installare o aggiornare le estensioni è necessario utilizzare la riga di comando. Consulta la sezione [Installare un’estensione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) pagina in _Guida all’installazione_ per ulteriori informazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

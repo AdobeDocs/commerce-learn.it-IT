@@ -1,27 +1,28 @@
 ---
-title: "[!DNL Live Search] per le raccomandazioni"
-description: '"Scopri come aggiungere [!DNL Live Search] per consigli sui prodotti al tuo negozio e produrre esperienze di acquisto altamente coinvolgenti, rilevanti e personalizzate".'
+title: '[!DNL Live Search] per consigli'
+description: Scopri come aggiungere [!DNL Live Search] per consigli sui prodotti da presentare al negozio e creare esperienze di acquisto altamente coinvolgenti, pertinenti e personalizzate.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: ff258421026c389aa516ef4d168a820a00b8111b
+exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-# [!DNL Live Search] raccomandazioni
+# [!DNL Live Search] per consigli
 
 {{ee-feature}}
 
-[!DNL Live Search] Adobe Commerce offre un’esperienza di ricerca rapida, super-rilevante e intuitiva per Adobe Commerce senza costi aggiuntivi. [!DNL Live Search] con tecnologia Adobe Sensei, vengono utilizzati algoritmi di intelligenza artificiale e machine-learning per eseguire un’analisi approfondita dei dati aggregati dei visitatori. Questi dati, se combinati con il catalogo Adobe Commerce, danno luogo a esperienze di acquisto altamente coinvolgenti, rilevanti e personalizzate. Questo video spiega come utilizzare la ricerca in tempo reale per alimentare i consigli sui prodotti e fa parte di una serie di webinar in corso - &quot;Vittoria rapida Commerce&quot;.
+[!DNL Live Search] Adobe Commerce offre un’esperienza di ricerca rapida, super-rilevante e intuitiva per Adobe Commerce senza costi aggiuntivi. [!DNL Live Search] con tecnologia Adobe Sensei, utilizza algoritmi di intelligenza artificiale e machine learning per eseguire un’analisi approfondita dei dati aggregati dei visitatori. Quando vengono combinati con il tuo catalogo Adobe Commerce, questi dati generano esperienze di acquisto altamente coinvolgenti, pertinenti e personalizzate. Questo video spiega come utilizzare la ricerca in tempo reale per fornire consigli sui prodotti e faceva parte di una serie di webinar in corso: &quot;Commerce quick wins&quot;.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- Web merchandiser
+- Gestori di siti Web
+- Web merchandisers
 
 ## Contenuto video
 
@@ -33,4 +34,4 @@ ht-degree: 0%
 - [Introduzione a [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
 - [[!DNL Live Search] panoramica](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
 - [Connettore Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [Introduzione al prodotto Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [Introduzione a Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

@@ -1,5 +1,5 @@
 ---
-title: Utilizzare gli attributi del prodotto con PWA Studi
+title: Utilizzare Attributi del prodotto con PWA Studi
 description: Scopri come gestire gli attributi del prodotto con PWA Studi.
 doc-type: feature video
 role: Admin, User
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Utilizzare gli attributi del prodotto con PWA Studi
+# Utilizzare Attributi del prodotto con PWA Studi
 
 In questo video, scopri come gestire gli attributi del prodotto quando hai una vetrina creata con PWA Studi.
 
 ## A chi serve questo video?
 
 - Sviluppatori front-end
-- Manager di progetto
+- Project manager
 
 ## Contenuto video
 

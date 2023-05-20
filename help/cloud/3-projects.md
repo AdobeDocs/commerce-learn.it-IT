@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce sull’infrastruttura cloud - Progetti e file
-description: Scopri la struttura del progetto e i file yaml. Comprendi la struttura dei file del progetto Cloud e tutti gli archivi necessari.
+title: 'Adobe Commerce sull’infrastruttura cloud: progetti e file'
+description: Scopri la struttura del progetto e i file yaml. Comprendi la struttura dei file del progetto Cloud e di tutti gli archivi necessari.
 kt: 5658
 doc-type: video
 audience: all
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce sull’infrastruttura cloud - Progetti e file
+# Adobe Commerce sull’infrastruttura cloud: progetti e file
 
 In questo video:
 
-- Comprendere la struttura file del progetto cloud e i relativi archivi di codice
+- Comprendere la struttura dei file del progetto cloud e i relativi archivi di codice
 - Scopri i quattro file di configurazione principali
 
 >[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Struttura del progetto - [!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
-- [Configurare gli ambienti - [!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [Struttura del progetto - [!DNL Commerce] Guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [Configurare gli ambienti - [!DNL Commerce] Guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

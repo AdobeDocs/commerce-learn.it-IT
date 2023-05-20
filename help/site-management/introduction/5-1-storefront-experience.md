@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Storefront"
-description: Scopri l’esperienza dei clienti sulla vetrina, tra cui la creazione dell’account, le liste dei desideri e l’aggiunta di voci di elenco dei desideri al carrello
+title: "[!DNL Commerce] per utenti aziendali - Vetrina"
+description: Scopri l’esperienza del cliente sullo storefront, compresi la creazione di account, le liste dei desideri e l’aggiunta di voci al carrello
 topic: Commerce
 kt: 5778
 doc-type: video
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 In questo video:
 
-- Esperienza dei clienti sulla vetrina
+- Esperienza del cliente in vetrina
 - Creazione account
-- Lista dei desideri
-- Aggiunta di voci elenco desideri al carrello
+- Elenchi dei desideri
+- Aggiunta di elementi della lista dei desideri al carrello
 
 ## A chi serve questo video?
 
@@ -31,12 +31,12 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Ambito dell&#39;account cliente - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[Ambito account cliente - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Esperienza di vetrina della lista dei desideri - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[Esperienza vetrina elenco desideri - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

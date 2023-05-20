@@ -1,6 +1,6 @@
 ---
 title: Creare gruppi di clienti
-description: Scopri come creare un gruppo di clienti e come assegnare i clienti a gruppi specifici, che determinano gli sconti disponibili e la classe di imposta associata.
+description: Scopri come creare un gruppo di clienti e come assegnare clienti a gruppi specifici, che determinano gli sconti disponibili e la classe fiscale associata.
 kt: 10546
 doc-type: feature video
 audience: all
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Creare gruppi di clienti
 
-I gruppi di clienti determinano quali sconti sono disponibili e la classe di imposta associata al gruppo. I gruppi di clienti predefiniti sono _Generale_, _Non connesso_ e _Commercio all&#39;ingrosso_. Questo video illustra come creare un gruppo di clienti e come assegnare i clienti a gruppi specifici.
+I gruppi di clienti determinano gli sconti disponibili e la classe fiscale associata al gruppo. I gruppi di clienti predefiniti sono _Generale_, _Accesso non effettuato_, e _Commercio all&#39;ingrosso_. Questo video spiega come creare un gruppo di clienti e come assegnare i clienti a gruppi specifici.
 
 ## A chi serve questo video?
 
 - Amministratori store
-- Marketing di eCommerce
+- Ecommerce marketer
 
 ## Contenuto video
 
@@ -29,5 +29,5 @@ I gruppi di clienti determinano quali sconti sono disponibili e la classe di imp
 
 ## Risorse aggiuntive
 
-- [Gruppi di clienti - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-- [Limitazioni del gruppo di clienti per siti web - [!DNL Commerce] Guida alla gestione dei clienti](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Limitazioni del gruppo di clienti per siti web - [!DNL Commerce] Guida alla gestione clienti](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

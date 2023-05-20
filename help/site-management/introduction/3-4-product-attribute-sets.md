@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Set di attributi"
-description: Scopri i set di attributi di prodotto e come utilizzarli nel catalogo.
+title: "[!DNL Commerce] per gli utenti aziendali - Set di attributi"
+description: Scopri i set di attributi del prodotto e come utilizzarli nel catalogo.
 topic: Commerce
 kt: 5770
 doc-type: video
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per gli utenti aziendali - Set di attributi
+# [!DNL Commerce] per utenti aziendali: serie di attributi
 
 In questo video:
 
@@ -28,7 +28,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 

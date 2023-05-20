@@ -1,34 +1,34 @@
 ---
-title: La cartella Azioni
+title: Cartella delle azioni
 description: Scopri i tipi di file nella cartella delle azioni per questa applicazione di esempio.
-landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e i tipi di file che si trovano nella cartella delle azioni.
+landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e quali tipi di file vanno nella cartella delle azioni.
 kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
 # Informazioni sulla cartella delle azioni {#actions-folder}
 
-La `actions` La cartella per questa app di esempio contiene alcuni file JavaScript e una cartella denominata `commerce`. Il JavaScript mostrato è un file di esempio eccellente che può essere riutilizzato se pertinente al tuo lavoro. Questa cartella consente di risparmiare tempo nelle attività di sviluppo quando ci si connette all’applicazione Adobe Commerce utilizzando OAuth e REST.
+Il `actions` cartella per questa app di esempio contiene alcuni file JavaScript e una cartella denominata `commerce`. Il codice JavaScript mostrato è un eccellente file di esempio che può essere riutilizzato se pertinente al tuo lavoro. Questa cartella consente di risparmiare tempo nelle attività di sviluppo durante la connessione all’applicazione Adobe Commerce tramite OAuth e REST.
 
-I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscere i loro nomi può aiutarti a interpretare il codice di esempio. Utilizzando una convenzione di denominazione significativa, puoi evitare confusione se l’applicazione diventa più complessa.
+I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscerne i nomi può essere utile per interpretare il codice di esempio. Utilizzando una convenzione di denominazione significativa, puoi evitare confusione se l’applicazione diventa più complessa.
 
 ## A chi serve questo video?
 
-* Sviluppatori nuovi in Adobe Commerce con esperienza limitata con Adobe App Builder che apprendono la cartella delle azioni nell’applicazione di esempio.
+* Sviluppatori che non hanno mai utilizzato Adobe Commerce con un’esperienza limitata con Adobe App Builder e che stanno imparando a conoscere la cartella delle azioni nell’applicazione di esempio.
 
 ## Contenuto video
 
-* Introduzione ad App Builder e modulo di esempio incentrato sul `actions` cartella
-* Come utilizzare la cartella &quot;azioni&quot;
-* Lo scopo del file JavaScript presente in `actions` e `commerce` cartelle
+* Introduzione ad App Builder e al modulo di esempio incentrato sulla `actions` cartella
+* Come utilizzare la cartella &quot;actions&quot;
+* Lo scopo del file JavaScript trovato nel `actions` e `commerce` cartelle
 * Panoramica rapida dei file di autenticazione OAuth
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)

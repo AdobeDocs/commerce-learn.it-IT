@@ -1,6 +1,6 @@
 ---
-title: Creare segmenti cliente
-description: Scopri come visualizzare in modo dinamico contenuti e promozioni per clienti specifici, in base a proprietà quali l’indirizzo del cliente, la cronologia degli ordini e il contenuto del carrello.
+title: Creare segmenti di clienti
+description: Scopri come visualizzare dinamicamente contenuti e promozioni a clienti specifici, in base a proprietà come indirizzo del cliente, cronologia degli ordini, contenuti del carrello acquisti.
 kt: 10545
 doc-type: feature video
 audience: all
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# Creare segmenti cliente
+# Creare segmenti di clienti
 
 {{ee-feature}}
 
-I segmenti di clienti ti consentono di visualizzare in modo dinamico contenuti e promozioni per clienti specifici, in base a proprietà quali l’indirizzo del cliente, la cronologia degli ordini e il contenuto del carrello. Puoi ottimizzare le iniziative di marketing in base a segmenti mirati con le regole sui prezzi del carrello. Puoi anche generare rapporti ed esportare l’elenco dei clienti target.
+I segmenti di clienti consentono di visualizzare in modo dinamico contenuti e promozioni a clienti specifici, in base a proprietà quali indirizzo del cliente, cronologia degli ordini, contenuti del carrello acquisti. Puoi ottimizzare le iniziative di marketing in base a segmenti mirati con regole di prezzo del carrello. Puoi anche generare rapporti ed esportare l’elenco dei clienti target.
 
 ## A chi serve questo video?
 
 - Amministratori store
-- Marketing di eCommerce
+- Ecommerce marketer
 
 ## Contenuto video
 
@@ -31,5 +31,5 @@ I segmenti di clienti ti consentono di visualizzare in modo dinamico contenuti e
 
 ## Risorse aggiuntive
 
-- [Segmenti cliente - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [Segmenti di clienti nelle regole di prezzo - [!DNL Commerce] Guida alla gestione dei clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [Segmenti cliente - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [Segmenti di clienti nelle regole di prezzo - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

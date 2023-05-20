@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce sull’infrastruttura cloud - Configurazioni di sviluppo
+title: 'Adobe Commerce su infrastruttura cloud: configurazioni di sviluppo'
 description: Scopri le configurazioni di sviluppo per i progetti cloud.
 kt: 5660
 doc-type: video
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce sull’infrastruttura cloud - Configurazioni di sviluppo
+# Adobe Commerce su infrastruttura cloud: configurazioni di sviluppo
 
 In questo video:
 
-- Informazioni sulle configurazioni di sviluppo
+- Scopri le configurazioni di sviluppo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35696?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[[!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] Guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

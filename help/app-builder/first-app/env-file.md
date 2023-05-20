@@ -1,33 +1,33 @@
 ---
 title: Il file .env
 description: Scopri i tipi di file nel file .env per questa applicazione di esempio
-landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e quali tipi di contenuto vengono utilizzati nel file .env
+landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e i tipi di contenuto utilizzati nel file .env
 kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
+# Generare e configurare il file .env {#env-file}
 
-# Genera e configura il file .env {#env-file}
-
-La `.env` è un file speciale che non fa parte del modulo di esempio, ma è importante per l’utilizzo nell’applicazione Adobe Developer App Builder. Questo file contiene segreti e altre informazioni. Evita di eseguire il commit di questo file in qualsiasi archivio di codice.
+Il `.env` è un file speciale che non fa parte del modulo di esempio, ma è importante per l’utilizzo nell’applicazione Adobe Developer App Builder. Questo file contiene segreti e altre informazioni. Evita di eseguire il commit di questo file in qualsiasi archivio di codice.
 
 ## A chi serve questo video?
 
-* Sviluppatori nuovi in Adobe Commerce con esperienza limitata con Adobe App Builder che desiderano imparare a usare `.env` file.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e che desiderano saperne di più sul `.env` file.
 
 ## Contenuto video
 
-* Introduzione al file .env e relativo scopo
+* Introduzione al file .env e suo scopo
 * Come generare il file .env
 * Come aggiungere il file per aggiungere nuovi segreti
-* Evita di eseguire il commit di questo file perché contiene informazioni sensibili
+* Evita di eseguire il commit del file perché contiene informazioni riservate
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
@@ -51,7 +51,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Puoi vedere questi valori statici in uso nel modulo di esempio nel file `actions/commerce.index.js`.
+Puoi vedere questi valori statici utilizzati nel modulo di esempio in un file `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

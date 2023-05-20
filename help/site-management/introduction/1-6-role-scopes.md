@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per gli utenti aziendali - Ambiti del ruolo e autorizzazioni"
-description: Scopri come definire gli ambiti dei ruoli (esclusivi di Adobe Commerce) e le autorizzazioni associate per sito o archivio.
+title: "[!DNL Commerce] per gli utenti aziendali: ambiti dei ruoli e autorizzazioni"
+description: Scopri come definire gli ambiti dei ruoli (esclusivi di Adobe Commerce) e le autorizzazioni associate per sito o store.
 topic: Commerce
 kt: 5763
 doc-type: video
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per gli utenti aziendali - Ambiti del ruolo e autorizzazioni
+# [!DNL Commerce] per gli utenti aziendali: ambiti dei ruoli e autorizzazioni
 
 In questo video:
 
-- Ambiti del ruolo (solo Adobe Commerce)
+- Ambiti dei ruoli (solo Adobe Commerce)
 
 ## A chi serve questo video?
 
@@ -28,12 +28,12 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Gestisci account utente amministratore - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Gestire gli account utente amministratore - [!DNL Commerce] Guida ai sistemi di amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Ruoli utente - [!DNL Commerce] Guida a Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Ruoli utente - [!DNL Commerce] Guida ai sistemi di amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

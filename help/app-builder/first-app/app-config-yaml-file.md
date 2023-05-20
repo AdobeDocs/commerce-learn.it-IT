@@ -1,18 +1,18 @@
 ---
 title: Il file app.config.yaml
 description: Scopri i tipi di file nel file app.config.yaml per questa applicazione di esempio.
-landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e quali tipi di file sono presenti in app.config.yaml.
+landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e quali tipi di file vengono inseriti in app.config.yaml.
 kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Descrizione e utilizzo del file app.config.yaml {#app-config-yaml}
 
@@ -20,12 +20,12 @@ Questo file determina la configurazione dell&#39;applicazione.
 
 ## A chi serve questo video?
 
-* Sviluppatori nuovi in Adobe Commerce con esperienza limitata con Adobe App Builder che apprendono le `app.config.yaml` nell&#39;applicazione di esempio.
+* Sviluppatori senza esperienza di Adobe Commerce con un’esperienza limitata con Adobe App Builder che stanno imparando a `app.config.yaml` nell&#39;applicazione di esempio.
 
 ## Contenuto video
 
-* La `app.config.yaml` file discusso
-* Come si collegano le definizioni ad altre `.js` file
+* Il `app.config.yaml` file discusso
+* In che modo le definizioni sono collegate ad altre `.js` file
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
@@ -49,7 +49,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Puoi vedere questi valori statici in uso nel modulo di esempio nel file `actions/commerce.index.js`
+Puoi vedere questi valori statici utilizzati nel modulo di esempio in un file `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

@@ -1,11 +1,11 @@
 ---
-title: Gestisci account società
-description: Scopri come gestire i tuoi account aziendali B2B, comprese eventuali richieste di approvazione in sospeso.
+title: Gestire gli account aziendali
+description: Scopri come gestire gli account aziendali B2B, comprese eventuali richieste di approvazione in sospeso.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-badge: label="B2B per Adobe Commerce" type="Positive"
+badge: label="B2B per Adobe Commerce" type="Positivo"
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 source-git-commit: 7e09ceadf377bf5ed15988cf0db493af1c0ead0a
 workflow-type: tm+mt
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# Gestisci account società
+# Gestire gli account aziendali
 
 {{b2b-feature}}
 
-Per i commercianti B2B, il _[!UICONTROL Companies]_in questa pagina sono elencati tutti gli account aziendali correnti e il relativo stato. Puoi gestire i tuoi account aziendali qui e tutte le richieste di approvazione in sospeso vengono visualizzate nella parte superiore dell’elenco. I controlli standard della posizione di lavoro possono essere utilizzati per filtrare l’elenco, modificare il layout della colonna, salvare le visualizzazioni e esportare i dati.
+Per gli esercenti B2B, il _[!UICONTROL Companies]_nella pagina sono elencati tutti gli account società correnti e il relativo stato. Puoi gestire i tuoi account aziendali qui ed eventuali richieste di approvazione in sospeso vengono visualizzate nella parte superiore dell’elenco. I controlli standard dell&#39;area di lavoro possono essere utilizzati per filtrare l&#39;elenco, modificare il layout delle colonne, salvare le visualizzazioni ed esportare i dati.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- Rappresentanti delle vendite
+- Gestori di siti Web
+- Rappresentanti commerciali
 - Rappresentanti del servizio clienti
 
 ## Contenuto video
@@ -32,5 +32,5 @@ Per i commercianti B2B, il _[!UICONTROL Companies]_in questa pagina sono elencat
 
 ## Risorse aggiuntive
 
-- [Account aziendali](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Gestisci account società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [Account società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
+- [Gestire gli account aziendali](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}

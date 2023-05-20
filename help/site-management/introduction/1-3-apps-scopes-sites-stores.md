@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Siti, negozi e viste"
-description: Scopri le nozioni di base [!DNL Commerce] architettura, incluse le differenze tra siti web, store, viste store e ambiti applicativi. Comprendere l’indicizzazione e la memorizzazione in cache.
+title: "[!DNL Commerce] per gli utenti aziendali: siti, store e visualizzazioni"
+description: Scopri le nozioni di base di [!DNL Commerce] architettura, incluse le differenze tra siti web, archivi, visualizzazioni dello store e ambiti delle applicazioni. Informazioni sull’indicizzazione e il caching.
 topic: Commerce
 kt: 5760
 doc-type: video
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per utenti aziendali: siti, store e viste
+# [!DNL Commerce] per utenti aziendali: siti, store e visualizzazioni
 
 In questo video:
 
-- Nozioni di base [!DNL Commerce] architettura, incluse le differenze tra siti web, store e viste store
-- Concetto di ambito di applicazione
-- Panoramica dell’indicizzazione e della memorizzazione in cache e di come [!DNL Commerce] gestisce
+- Nozioni di base di [!DNL Commerce] architettura, comprese le differenze tra siti web, store e visualizzazioni dello store
+- Concetto di ambiti di applicazione
+- Panoramica dell’indicizzazione e del caching e modalità [!DNL Commerce] li gestisce
 
 ## A chi serve questo video?
 
@@ -30,12 +30,12 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Siti web, store e viste - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Siti Web, store e visualizzazioni - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Impostazioni ambito- [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[Impostazioni ambito - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

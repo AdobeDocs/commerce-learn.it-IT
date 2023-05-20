@@ -1,6 +1,6 @@
 ---
-title: Gestire le riscritture URL per SEO
-description: Scopri come utilizzare lo strumento Riscrittura URL per modificare qualsiasi URL associato a una pagina di prodotto, categoria o CMS.
+title: Gestisci riscritture URL per SEO (Search Engine Optimization)
+description: Scopri come utilizzare lo strumento di riscrittura URL per modificare qualsiasi URL associato a un prodotto, una categoria o una pagina CMS.
 kt: 10554
 doc-type: feature video
 audience: all
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 ---
 
-# Gestire le riscritture URL per SEO
+# Gestisci riscritture URL per SEO (Search Engine Optimization)
 
-Lo strumento Riscrittura URL consente di modificare qualsiasi URL associato a una pagina di prodotto, categoria o CMS. Quando la riscrittura ha effetto, tutti i collegamenti che puntano all’URL precedente vengono reindirizzati al nuovo indirizzo.
+Lo strumento URL Rewrite (Riscrittura URL) consente di modificare qualsiasi URL associato a un prodotto, una categoria o una pagina CMS. Quando la riscrittura diventa effettiva, tutti i collegamenti che puntano all’URL precedente vengono reindirizzati al nuovo indirizzo.
 
 ## A chi serve questo video?
 
-- Gestione sito Web
-- merchandiser di eCommerce
-- Marketing di eCommerce
+- Gestore del sito web
+- eCommerce merchandisers
+- Ecommerce marketer
 
 ## Contenuto video
 
@@ -30,5 +30,5 @@ Lo strumento Riscrittura URL consente di modificare qualsiasi URL associato a un
 
 ## Risorse aggiuntive
 
-- [Riscrittura URL - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [Riscritture URL - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [Generale > Web - [!DNL Commerce] Guida di riferimento alla configurazione](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

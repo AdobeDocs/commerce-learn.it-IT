@@ -1,6 +1,6 @@
 ---
 title: Scopri come creare un modulo in Adobe Commerce per utilizzare gli eventi.
-description: Scopri come creare un modulo Commerce per utilizzare gli eventi.
+description: Scopri come creare il modulo Commerce per utilizzare gli eventi.
 landing-page-description: Scopri come creare un modulo Adobe Commerce per utilizzare gli eventi.
 short-description: Scopri come creare un modulo Adobe Commerce per utilizzare gli eventi.
 kt: 11891
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Sviluppo del modulo Adobe Commerce
+# Sviluppo di moduli Adobe Commerce
 
-Scopri come registrare gli eventi, trovare gli eventi supportati e utilizzare un nuovo file XML `io_events.xml` nello sviluppo di moduli personalizzati. Il video mostrerà anche agli sviluppatori come trovare gli eventi registrati che possono essere utilizzati e come annullare l’iscrizione di eventuali eventi già definiti. Documentazione aggiuntiva disponibile all’indirizzo [Installare gli eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come registrare eventi, trovare eventi supportati e utilizzare un nuovo file XML `io_events.xml` nello sviluppo di moduli personalizzati. Il video mostrerà inoltre agli sviluppatori come trovare eventi registrati che possono essere utilizzati e come annullare l’abbonamento a eventuali eventi già definiti. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori non esperti di Adobe Commerce e Adobe Developer App Builder utilizzando eventi I/O.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O.
 
 ## Contenuto video {#video-content}
 
@@ -29,7 +29,7 @@ Scopri come registrare gli eventi, trovare gli eventi supportati e utilizzare un
 * Identificare gli eventi che possono essere registrati
 * Scopri come registrare gli eventi in io_events.xml
 * Scopri come registrare gli eventi nelle istanze Commerce `app/etc/config.php`
-* Scopri come annullare l’iscrizione a un evento
+* Scopri come annullare l’abbonamento a un evento
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 

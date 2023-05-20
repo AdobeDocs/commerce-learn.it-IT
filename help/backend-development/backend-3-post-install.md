@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Post installazione"
-description: Verifica e configura la tua istanza, imposta u-mask, installa dati di esempio, imposta la corretta modalità di esecuzione
+title: "[!DNL Commerce] for developers - Post install"
+description: Verifica e configura l’istanza, imposta la maschera u, installa i dati di esempio, imposta la modalità di esecuzione corretta
 kt: 5693
 doc-type: video
 topic: Development
@@ -20,24 +20,24 @@ ht-degree: 0%
 
 In questo video:
 
-- Verifica e configura l’istanza
-- Imposta maschera a U
-- Installare dati di esempio
-- Imposta la modalità in esecuzione
+- Verificare e configurare l’istanza
+- Imposta maschera U
+- Installare i dati di esempio
+- Impostare la modalità di esecuzione
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
->La funzionalità del database diviso è stata rimossa nella versione 2.4.2.
+>La funzione di suddivisione del database è stata rimossa nella versione 2.4.2.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36195?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Verificare l’installazione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
-- [Facoltativamente impostare una maschera](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
-- [Installare dati di esempio](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
-- [Informazioni sulle modalità di applicazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)
+- [Verificare l&#39;installazione](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
+- [Facoltativamente, impostare una maschera](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [Installare i dati di esempio](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
+- [Informazioni sulle modalità dell&#39;applicazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

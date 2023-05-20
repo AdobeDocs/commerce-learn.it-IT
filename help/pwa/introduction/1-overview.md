@@ -1,8 +1,8 @@
 ---
 title: PWA Studi per sviluppatori - Introduzione
-description: Cos’è un Progressive Web Application (PWA) e perché PWA Studi è il ​ futuro.
-landing-page-description: Guarda questa serie video per scoprire di più sui Progressive Web Application (PWA) e perché PWA Studi rappresenta il futuro [!DNL Commerce] siti.
-short-description: Guarda questa serie video per scoprire di più sui Progressive Web Application (PWA) e perché PWA Studi rappresenta il futuro [!DNL Commerce] siti.
+description: Che cos'è un Progressive Web Application (PWA) e perché il PWA Studi è il futuro​.
+landing-page-description: Guarda questa serie di video per scoprire di più sui Progressive Web Application (PWA) e perché PWA Studi è il futuro di [!DNL Commerce] siti.
+short-description: Guarda questa serie di video per scoprire di più sui Progressive Web Application (PWA) e perché PWA Studi è il futuro di [!DNL Commerce] siti.
 topic: Development
 kt: 5644
 doc-type: video
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 In questo video:
 
-- Che cos’è PWA (Progressive Web Application)?
-- Perché PWA è il futuro dell&#39;e-commerce?
+- Cos’è PWA (Progressive Web Application)?
+- Perché PWA è il futuro dell’e-commerce?
 
 ## A chi serve questo video?
 
 - Sviluppatori front-end
-- Manager di progetto
+- Project manager
 
 ## Contenuto video
 
@@ -34,4 +34,4 @@ In questo video:
 ## Risorse utili
 
 - [Documentazione di PWA Studi](https://developer.adobe.com/commerce/pwa-studio/)
-- [Archivio PWA Studi GitHub](https://github.com/magento/pwa-studio)
+- [Archivio GitHub PWA Studi](https://github.com/magento/pwa-studio)

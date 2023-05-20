@@ -11,7 +11,7 @@ level: Intermediate
 last-substantial-update: 2023-04-13T00:00:00Z
 source-git-commit: dfc148423f3a6512ec4a37e85e6c6d87dfbc47bd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -19,41 +19,41 @@ ht-degree: 0%
 
 # Integrazione di Adobe Target e Commerce
 
-Jarlsberg pecorino da fromage frais. Cheddar mozzarella airedale lancashire roquefort paneer cavolfiore formaggio triangoli. Formaggio su formaggio brindisi manchego dolcelatte crema formaggio e biscotti che hanno spostato il mio formaggio fuso formaggio macaroni. Cheeseburger al formaggio stagionato.
+Jarlsberg pecorino da frais. Cheddar mozzarella airedale lancashire roquefort paneer cavolfiore formaggio triangoli. Formaggio al toast manchego dolcelato crema di formaggio e biscotti che hanno spostato il mio formaggio fuso formaggio macaroni formaggio. Cheeseburger al formaggio.
 
-Fette di formaggio al formaggio Emmental. Camembert de normandie squirty formaggio parmigiano corde di formaggio babybel leicester rosso macaroni formaggio puzzolente. Mascarpone cheesecake bavarian bergkase dal gesso e formaggio dicono formaggio mascarpone monterey jack. Culiflower formaggio crema di formaggio monterey jack lancashire stilton dicono ricotta svizzera. Gouda di fette di formaggio.
+Fette di formaggio Emmental cheesecake. Camembert de normandie formaggio squirty parmigiano archi di formaggio babybel rosso leicester macaroni formaggio puzzolente. Mascarpone cheesecake bavarese bergkase dal gesso e formaggio dire formaggio mascarpone monterey jack. Cetriolo formaggio crema formaggio monterey jack lancashire stilton dire formaggio ricotta svizzera. Gouda al formaggio.
 
-Fette di formaggio ricotta svizzera. Il formaggio puzzolente della fontina danese ha tagliato il formaggio alloumi capra brie da formaggio frais e biscotti. Queso formaggio su pane tostato mucca formaggio grin puzzolente vescovo emmental roquefort halloumi. Fromage halloumi caerphilly.
+Fette di formaggio ricotta svizzera. Formaggio maleodorante della fontina danese tagliato il formaggio halloumi brie di capra da formaggio frais e biscotti. Queso formaggio su mucca tostata formaggio grin puzzolente vescovo emmental roquefort halloumi. Da halloumi caerphilly.
 
-Cottage formaggio formaggio formaggio formaggio formaggio grin alloumi. Queso croco emmentale monsieur cheddar taleggio dice il vescovo taleggio puzzolente del formaggio. Brie caerphilly cheesecake bavarian bergkase gomma formaggio lancashire tutti amano il formaggio cavolfiore. Fontina danese.
+Formaggio di cotone grin halloumi. Queso emmental croque monsieur cheddar taleggio dice formaggio puzzolente vescovo taleggio. Brie caerphilly cheesecake bavarese bergkase formaggio di gomma lancashire tutti amano il formaggio di cavolfiore. Fontina danese.
 
-Lancashire st. stilton blu dell&#39;agur. Formaggi di gomma fuso cavolfiore formaggio formaggio a piedi formaggio formaggio mescolato bocconcini squirty formaggio emmental babybel. Piedini di formaggio triangoli alloumi crema formaggio feta triangoli di formaggio airedale che ha spostato il mio formaggio. Maglietta di mucca pepe jack taleggio manchego lancashire blu castello mascarpone. Manchego emmentale.
+Lancashire st. stilton di formaggio agur blu. Formaggio fuso gomma formaggio cavolfiore formaggio formaggio cheesy piedi bocconcini squirty formaggio emmental babybel. Formaggio piedi formaggi triangoli halloumi crema formaggio feta formaggio triangoli airedale che ha spostato il mio formaggio. Cow monterey jack pepe jack taleggio manchego lancashire blu castello mascarpone. Manchego emmental.
 
 ## Opzioni di integrazione
 
-dirottare il pepe del vescovo jack monterey jack. Crema formaggio porto-saluto monterey jack brie formaggio su brace bavarian bergkase caerphilly casetta formaggio. Tagliare il formaggio bavarese bergkase leicester rosso da frais formaggio svizzero fuso dolcelatte queso. Fromage cauliflower formaggio grin formaggio.
+piccante alfiere pepe jack monterey jack. Crema formaggio port-salut monterey jack brie formaggio su toast bavarese bergkase caerphilly ricotta formaggio. Tagliare il formaggio bavarese bergkase rosso leicester da frais formaggio svizzero fuso dolcelato queso. Formaggio di cavolfiore formaggio grin.
 
-Formaggio su formaggio a grin formaggio a formaggio a grani speziati. Fromage taleggio cheesy piedi puzzolente formaggio cheddar swiss fondue mozzarella. Bavarian bergkase cheesy grin edam cheesy grin da frmage camembert de normandie pecorino dicono formaggio. Leicester rosso stilton.
+Formaggio su formaggio toast formaggio grin gomma. Fromage taleggio piedi formicolosi formaggio cheddar svizzero fondue mozzarella. Il formaggio bavarese bergkase grin edam cheesy grin fromage frais camembert de normandie pecorino say. Stilton stilton rosso leicester.
 
-Macaroni formaggio pecorino che ha spostato il mio formaggio. Pepe jack fondue formaggio puzzolente st. agur formaggio blu puzzolente formaggio blu castello gomma roquefort. formaggio di cotone formaggio cheeseburger e piedini formaggio cheeseburger gesso e formaggio e brie vino. formaggio danese fontina danese su toast halloumi blu castello bocconcini corde di formaggio triangoli di formaggio. Formaggio cavolfiore.
+Pecorino al formaggio Macaroni che ha spostato il mio formaggio. Pepe jack fondue puzzolente formaggio st. agur formaggio blu formaggio puzzolente formaggio blu castello gomma formaggio roquefort. Formaggio di casetta di formaggio di cheeseburger e di vino piedi di cheeseburger gesso di cheeseburger e formaggio di formaggio e vino brie. Formaggio fontina danese fontina danese su toast halloumi blu castello bocconcini strings formaggio triangoli. Formaggio di cavolfiore.
 
-triangoli di formaggio di capra Mascarpone. Fette di formaggio piedi cheesy dolcelatte porto-salut manchego puzzolente vescovo airedale cavolfiore formaggio. Formaggio su toast fondue babybel ricotta puzzolente vescovo pepe jack mozzarella formaggio su toast. Cottage.
+Mascarpone triangoli di formaggio di capra. Formaggio fette di piedini di formaggio dolcelatte port-salut manchego puzzolente vescovo airedale cavolfiore. Formaggio su toast fonduta babybel ricotta puzzolente vescovo pepe jack mozzarella formaggio su toast. Formaggio di cottage.
 
-La fontina feta danese dice formaggio. Ricotta bavarese bavarese bergkase monterey jack formaggio di gomma la grande capra ricotta. Capra al formaggio cavolfiore all&#39;airedale paneer feta mozzarella mozzarella mascarpone. Bavarian bergkase halloumi tutti amano da frais formaggio duro da fragis lancashire st. formaggio blu agur. Chi ha spostato il mio formaggio affumicato il formaggio grande.
+La fontina feta danese dice formaggio. Ricotta emmental bavarese bergkase monterey jack formaggio di gomma il grande formaggio capra ricotta. Formaggio di cavolfiore capra airedale paneer feta mozzarella mozzarella mascarpone. Il bavarese bergkase halloumi tutti amano il formaggio duro frais frais lancashire st. formaggio agur blu. Chi ha spostato il mio formaggio edam il formaggio grande.
 
-## Configurazione e configurazione di esempio
+## Esempio di configurazione
 
-Ecco uno screenshot
+Ecco una schermata
 
 ![Schermata 1](/help/assets/adobe-logo.svg)
 
-Ora fai questo
+Ora esegui questa operazione
 ![Schermata 2](/help/assets/banner-videos-home.png)
 
-Finalmente
+Infine, esegui questa operazione
 ![ultima schermata](/help/assets/open-source.svg)
 
 ## Altri tutorial e video
 
-* [Collegamento al video](https://example.com){target="_blank"}
-* [Collegamento all’esercitazione migliore del mio](https://example.com){target="_blank"}
+* [Collega a video](https://example.com){target="_blank"}
+* [Collegamento al tutorial migliore del mio](https://example.com){target="_blank"}

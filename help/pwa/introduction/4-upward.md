@@ -1,6 +1,6 @@
 ---
-title: PWA Studi per sviluppatori - UPWARD
-description: Informazioni su UPWARD (Unified Progressive Web App Response Definition).
+title: PWA Studi per sviluppatori - VERSO L'ALTO
+description: Scopri UPWARD (Unified Progressive Web App Response Definition).
 topic: Development
 kt: 5647
 doc-type: video
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# PWA Studi per sviluppatori - UPWARD
+# PWA Studi per sviluppatori - VERSO L&#39;ALTO
 
 In questo video:
 
-- Panoramica su UPWARD (Unified Progressive Web App Response Definition)
+- Panoramica SU (Unified Progressive Web App Response Definition)
 
 ## A chi serve questo video?
 
 - Sviluppatori front-end
-- Manager di progetto
+- Project manager
 
 ## Contenuto video
 

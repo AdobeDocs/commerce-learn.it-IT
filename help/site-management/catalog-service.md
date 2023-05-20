@@ -1,6 +1,6 @@
 ---
-title: Servizio catalogo per Adobe Commerce
-description: Scopri come installare e testare il servizio catalogo.
+title: Catalog Service per Adobe Commerce
+description: Scopri come installare e testare Catalog Service.
 doc-type: feature video
 audience: all
 role: Developer, Admin
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Servizio catalogo per Adobe Commerce
+# Catalog Service per Adobe Commerce
 
-Servizio catalogo per Adobe Commerce è una funzione SaaS multi-tenant che fornisce dati di catalogo in sola lettura per alimentare le esperienze di acquisto di vetrina. Utilizzabile tramite le API di GraphQL, fornisce nuove query API per migliorare le prestazioni e la scalabilità del recupero dei dati di catalogo.
+Catalog Service for Adobe Commerce è una funzione SaaS multi-tenant che fornisce dati di catalogo in sola lettura per alimentare le esperienze di acquisto prima vendita. Utilizzabile tramite API GraphQL, fornisce nuove query API per migliorare le prestazioni e la scalabilità del recupero dei dati del catalogo.
 
 In questo video:
 
-- Come scaricare e installare il Servizio catalogo
-- Come verificare la funzionalità
+- Come scaricare e installare Catalog Service
+- Come testare la funzionalità
 
 ## A chi serve questo video?
 
@@ -41,5 +41,5 @@ Parte 2:
 
 ## Risorse aggiuntive
 
-- [Guida al servizio catalogo per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
-- [#storefront-services canale di Slack della community](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)
+- [Guida di Catalog Service per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
+- [#storefront-services canale di Slack community](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)

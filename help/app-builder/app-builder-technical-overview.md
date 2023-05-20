@@ -1,8 +1,8 @@
 ---
-title: Panoramica tecnica di App Builder
-description: Informazioni su Adobe Developer App Builder utilizzato in Adobe Commerce con una panoramica tecnica
-landing-page-description: Informazioni su Adobe Developer App Builder utilizzato in Adobe Commerce con una panoramica tecnica
-short-description: Informazioni su Adobe Developer App Builder utilizzato in Adobe Commerce con una panoramica tecnica
+title: Panoramica tecnica di app Builder
+description: Scopri su Adobe Systems Developer app Builder utilizzato in Adobe Systems commerce con una panoramica tecnica
+landing-page-description: Scopri su Adobe Systems Developer app Builder utilizzato in Adobe Systems commerce con una panoramica tecnica
+short-description: Scopri su Adobe Systems Developer app Builder utilizzato in Adobe Systems commerce con una panoramica tecnica
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# Panoramica tecnica di App Builder
+# Panoramica tecnica per app Builder
 
-Il video seguente fornisce una panoramica tecnica sulla connessione di Adobe Commerce e Amazon Sales Channel. Questa esercitazione esplora anche come utilizzare Adobe App Builder per funzionalità e integrazioni personalizzate.
+Il seguente video fornisce una panoramica tecnica sul collegamento tra Adobe Systems Commerce e Amazon Sales Channel. Questo esercitazione illustra anche come utilizzare Adobe Systems app Builder per funzionalità e integrazioni personalizzate.
 
 >[!IMPORTANT]
 >
->L’estensione Amazon Sales Channel è ancora in fase di sviluppo e non è stata rilasciata ufficialmente.  Questi video e tutorial ti mostrano come utilizzare Adobe Developer App Builder per un caso d’uso pratico.
+>L&#39;estensione Amazon Sales Channel è ancora in fase di sviluppo e non è stata rilasciata ufficialmente.  Questi video e tutorial hanno lo scopo di mostrarvi come utilizzare Adobe Systems Developer app Builder per un caso d&#39;uso pratico.
 
 
-## Generatore di app per Adobe Commerce {#app-builder-technical-overview}
+## app Builder for Adobe Systems Commerce {#app-builder-technical-overview}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 

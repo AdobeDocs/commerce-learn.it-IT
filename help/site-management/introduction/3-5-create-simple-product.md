@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Prodotti semplici"
+title: "[!DNL Commerce] per gli utenti aziendali - Prodotti semplici"
 description: Scopri come creare un prodotto semplice utilizzando i set di attributi del prodotto.
 topic: Commerce
 kt: 5771
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In questo video:
 
-- Creazione di un prodotto semplice utilizzando set di attributi di prodotto
+- Creazione di un prodotto semplice utilizzando i set di attributi del prodotto
 
 ## A chi serve questo video?
 
@@ -28,7 +28,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35956?quality=12&learn=on)
 

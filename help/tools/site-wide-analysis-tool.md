@@ -1,6 +1,6 @@
 ---
 title: Dashboard dello strumento di analisi a livello di sito
-description: Guarda questo video tecnico e scopri come utilizzare la dashboard dello strumento Analisi per l’intero sito per accedere a informazioni dettagliate sul sistema e a raccomandazioni per garantire la sicurezza e l’operabilità dell’installazione di Adobe Commerce.
+description: Guarda questo video tecnico e scopri come utilizzare la dashboard di Site-Wide Analysis Tool per accedere a informazioni dettagliate sul sistema e consigli per garantire la sicurezza e l’operabilità dell’installazione di Adobe Commerce.
 doc-type: technical video
 role: Developer, Admin
 audience: all
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # Dashboard dello strumento di analisi a livello di sito
 
-Lo strumento di analisi a livello di sito è uno strumento proattivo self-service e un archivio centrale che include informazioni dettagliate sul sistema e raccomandazioni per garantire la sicurezza e l’operabilità dell’installazione di Adobe Commerce. Fornisce monitoraggio delle prestazioni in tempo reale, report e consigli in tempo reale 24/7 per identificare potenziali problemi. Utilizza questo strumento per avere una migliore visibilità sulla salute del sito, la sicurezza e le configurazioni delle applicazioni, contribuire a ridurre i tempi di risoluzione e migliorare la stabilità e le prestazioni del sito.
+Site-Wide Analysis Tool è uno strumento proattivo self-service e un archivio centrale che include informazioni dettagliate sul sistema e raccomandazioni per garantire la sicurezza e l’operabilità dell’installazione di Adobe Commerce. Offre monitoraggio delle prestazioni in tempo reale, report e consulenza 24 ore su 24, 7 giorni su 7 per identificare potenziali problemi. Utilizzare questo strumento per ottenere una migliore visibilità delle configurazioni di integrità, sicurezza e applicazioni del sito, ridurre i tempi di risoluzione e migliorare la stabilità e le prestazioni del sito.
 
 ## A chi serve questo video?
 
-- Manager del sito web
+- Gestori di siti Web
 - Sviluppatori
 
 ## Contenuto video

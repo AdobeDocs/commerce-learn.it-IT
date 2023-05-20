@@ -17,11 +17,11 @@ ht-degree: 0%
 
 # Guida introduttiva di GraphQL per Adobe Commerce
 
-Se hai poca esperienza con GraphQL, Adobe consiglia di iniziare con questo video introduttivo prima di passare all’esercitazione che lo accompagna.
+Se sei un nuovo utente di GraphQL, Adobe consiglia di iniziare con questo video introduttivo prima di accedere all’esercitazione associata.
 
 ## A chi serve questo video?
 
-* Sviluppatori non esperti di Adobe Commerce o [!DNL Magento Open Source] con esperienza limitata con GraphQL.
+* Sviluppatori senza esperienza di Adobe Commerce o [!DNL Magento Open Source] con un’esperienza limitata con GraphQL.
 
 ## Contenuto video
 

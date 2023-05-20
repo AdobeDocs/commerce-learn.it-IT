@@ -1,6 +1,6 @@
 ---
-title: Imposta Venia per lo sviluppo PWA
-description: Scopri come configurare la vetrina Venia per il tuo progetto di sviluppo PWA.
+title: Configurare Venia per lo sviluppo PWA
+description: Scopri come impostare la vetrina Venia per il tuo progetto di sviluppo PWA.
 topic: Development
 kt: 5564
 doc-type: video
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# Imposta Venia per lo sviluppo PWA
+# Configurare Venia per lo sviluppo PWA
 
 ## A chi serve questo video?
 
 - Sviluppatori front-end
-- Manager di progetto
+- Project manager
 
 ## Contenuto video
 

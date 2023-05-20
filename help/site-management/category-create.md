@@ -1,6 +1,6 @@
 ---
 title: Creare una categoria
-description: Scopri come definire la struttura di base delle categorie per il catalogo dei prodotti.
+description: Scopri come definire la struttura di categoria di base per il catalogo dei prodotti.
 kt: 10549
 doc-type: feature video
 audience: all
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Creare una categoria
 
-Prima di aggiungere prodotti al catalogo, è necessario stabilire la struttura di base delle categorie del catalogo. I prodotti possono essere assegnati a zero o più categorie. Le categorie vengono generalmente create in anticipo, prima che i prodotti vengano aggiunti al catalogo. Tuttavia, è anche possibile aggiungere categorie &quot;al volo&quot; durante la creazione di un prodotto.
+Prima di aggiungere prodotti al catalogo, è necessario stabilire la struttura di categoria di base del catalogo. I prodotti possono essere assegnati a zero o più categorie. Le categorie vengono generalmente create in anticipo, prima che i prodotti vengano aggiunti al catalogo. Tuttavia, puoi anche aggiungere categorie &quot;al volo&quot; durante la creazione di un prodotto.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- merchandiser di eCommerce
+- Gestori di siti Web
+- eCommerce merchandisers
 
 ## Contenuto video
 

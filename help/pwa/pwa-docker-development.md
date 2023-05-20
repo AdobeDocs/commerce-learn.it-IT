@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Sviluppo di PWA Docker
+# Sviluppo PWA Docker
 
 ## A chi serve questo video?
 

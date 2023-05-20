@@ -1,6 +1,6 @@
 ---
-title: Usa servizi di pagamento
-description: Scopri come aggiungere Servizi di pagamento al tuo negozio e ridurre i costi operativi, aumentare i ricavi e migliorare l’intera esperienza di acquisto.
+title: Utilizza servizi di pagamento
+description: Scopri come aggiungere i servizi di pagamento al tuo negozio e ridurre i costi operativi, aumentare i ricavi e migliorare l’intera esperienza di acquisto.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# Usa servizi di pagamento
+# Utilizza servizi di pagamento
 
-Per le piccole aziende, i concorrenti di mercato o le grandi aziende, i servizi di pagamento per Adobe Commerce e il Magento Open Source contribuiscono a ridurre i costi operativi e ad aumentare i ricavi. Fornisce strumenti che migliorano l&#39;intera esperienza di acquisto. Servizi di pagamento:
+Per le piccole e medie imprese, i rivenditori di medie dimensioni o le grandi imprese, i servizi di pagamento per Adobe Commerce e Magenti Open Source contribuiscono a ridurre il sovraccarico operativo e ad aumentare i ricavi. Offre strumenti che migliorano l&#39;esperienza dell&#39;acquirente. Servizi di pagamento:
 
-- Facile da configurare e mantenere
+- Facilità di configurazione e manutenzione
 - Progettato per massimizzare i profitti
-- Sicurezza
-- Progettato per soddisfare tutte le tue esigenze di pagamento
-- Incluso nell’amministratore
+- Sicuro e sicuro
+- Progettato per soddisfare tutte le esigenze di pagamento
+- Indipendente all’interno dell’amministratore
 
 ## A chi serve questo video?
 
 - Ingegneri operativi
-- Manager del sito web
+- Gestori di siti Web
 
 ## Contenuto video
 

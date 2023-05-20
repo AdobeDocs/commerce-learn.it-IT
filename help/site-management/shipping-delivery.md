@@ -1,6 +1,6 @@
 ---
-title: Gestire i metodi di spedizione e consegna
-description: Scopri come configurare l’origine di spedizione, la spedizione multipla, la tariffa di consegna e le impostazioni del vettore per il tuo negozio Commerce.
+title: Gestione dei metodi di spedizione e consegna
+description: Scopri come configurare l’origine di spedizione, le spedizioni multiple, le tariffe di consegna e le impostazioni del vettore per il tuo Negozio Commerce.
 kt: 10543
 doc-type: feature video
 audience: all
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Gestire i metodi di spedizione e consegna
+# Gestione dei metodi di spedizione e consegna
 
-La gestione dei metodi di spedizione e consegna è fondamentale per garantire la possibilità di mettere il prodotto nelle mani dei clienti. In questo video viene illustrato come gestire l’origine di spedizione, la spedizione multipla, la tariffa di consegna e le impostazioni del vettore.
+La gestione dei metodi di spedizione e consegna è fondamentale per essere sicuri di poter ottenere il prodotto nelle mani dei clienti. Questo video illustra come gestire l’origine della spedizione, le spedizioni multiple, le tariffe di consegna e le impostazioni del vettore.
 
 ## A chi serve questo video?
 
@@ -29,6 +29,6 @@ La gestione dei metodi di spedizione e consegna è fondamentale per garantire la
 
 ## Risorse aggiuntive
 
-- [Impostazioni di spedizione - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [Metodi di consegna di base - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [Impostazione del vettore di spedizione - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [Impostazioni spedizione - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [Metodi di consegna di base - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [Impostazione vettore di spedizione - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

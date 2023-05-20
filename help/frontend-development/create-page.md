@@ -1,6 +1,6 @@
 ---
-title: Creare una nuova pagina
-description: Crea una pagina che restituisce json con un parametro.
+title: Crea una nuova pagina
+description: Crea una pagina che restituisca json con un parametro.
 topic: Development
 kt: 5602
 doc-type: video
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# Creare una nuova pagina
+# Crea una nuova pagina
 
-Crea una pagina che restituisce json con un parametro.
+Crea una pagina che restituisca json con un parametro.
 
 ## A chi serve questo video?
 
@@ -25,13 +25,13 @@ Crea una pagina che restituisce json con un parametro.
 
 - Creare un modulo
 - Aggiungi un **route.xml** file
-- Aggiungi un file controller (action)
+- Aggiungere un file di controller (azione)
 
 ## Passaggi per creare un modulo
 
-- Crea la cartella del modulo
-- Crea il `etc/module.xml` file
-- Crea il `registration.php` file
+- Creare la cartella dei moduli
+- Creare `etc/module.xml` file
+- Creare `registration.php` file
 - Esegui il `bin/magento setup:upgrade` script per installare il nuovo modulo
 - Verifica che il modulo funzioni
 
@@ -41,4 +41,4 @@ Crea una pagina che restituisce json con un parametro.
 
 ## Risorse utili
 
-[Guida per sviluppatori Frontend](https://developer.adobe.com/commerce/frontend-core/guide/)
+[Guida per gli sviluppatori di Front End](https://developer.adobe.com/commerce/frontend-core/guide/)

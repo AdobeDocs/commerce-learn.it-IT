@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Esercizi"
-description: Esercizio [!DNL Commerce] compiti di sviluppo con cinque esercizi utili.
+title: "[!DNL Commerce] per sviluppatori - Esercitazioni"
+description: Esercitazione [!DNL Commerce] attività di sviluppo con cinque esercizi utili.
 kt: 5699
 doc-type: video
 topic: Development
@@ -16,27 +16,27 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per sviluppatori - Esercizi
+# [!DNL Commerce] per sviluppatori - Esercitazioni
 
-In questo video ci sono cinque esercizi da esercitare [!DNL Commerce] attività di sviluppo:
+In questo video, ci sono cinque esercizi da praticare [!DNL Commerce] attività di sviluppo:
 
 - [!DNL Commerce] CLI
 - Compositore PHP
 - Aggiornamento dell’istanza
-- Correzione di un modulo interrotto
+- Correzione di un modulo danneggiato
 - Scrittura ed esecuzione di test PHPUnit
-- Creazione di un [!DNL Admin] page
+- Creazione di un [!DNL Admin] pagina
 
-[Download di file di esercizio](./assets/FreeIntro2.3.1.zip)
+[Download del file dell&#39;esercizio](./assets/FreeIntro2.3.1.zip)
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Tecniche consigliate per gli sviluppatori di estensioni](https://developer.adobe.com/commerce/php/best-practices/)
+[Best practice per gli sviluppatori di estensioni](https://developer.adobe.com/commerce/php/best-practices/)

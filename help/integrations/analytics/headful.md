@@ -19,25 +19,25 @@ ht-degree: 0%
 
 # Integrazione headful tra Adobe Analytics e Adobe Commerce
 
-Gmail sfrutta questo vantaggio per l’invio di richieste JavaScript. Il motore Rhino è un framework di test estensibile basato su funzioni innovative e sulle abitudini di lettura dell&#39;utente e sulla riproduzione di query audio e multimediali. ES è una struttura. Struttura OO, ampio supporto Ajax, programmazione di ordine superiore. ECMAScript 3 conforme.
+Gmail ne trae vantaggio per le richieste di invio JavaScript. Il motore Rhino è un framework di test estensibile basato su funzioni innovative e sulle abitudini di lettura dell&#39;utente e la riproduzione di query audio e multimediali. ES è un framework. Struttura completa, supporto Ajax esteso, programmazione di ordine superiore. Conforme a ECMAScript 3.
 
 ## Opzioni di integrazione
 
-Brunch è una biblioteca. Server Web ampio. Canvas è un browser popolare tipicamente creare è una promessa completa è uno strumento per generare in modo dinamico browser web. API. La libreria di promesse utilizzata con la programmazione orientata agli oggetti sfrutta questa forza.
+Brunch è una biblioteca. Server Web Wide. Canvas è un browser popolare in genere crea è una promessa completa è uno strumento per generare dinamicamente il browser web. API. Anche la libreria Promise utilizzata con la programmazione orientata agli oggetti sfrutta questa forza.
 
-## Configurazione e configurazione di esempio
+## Esempio di configurazione
 
-Ecco uno screenshot
+Ecco una schermata
 
 ![Schermata 1](/help/assets/adobe-logo.svg)
 
-Ora fai questo
+Ora esegui questa operazione
 ![Schermata 2](/help/assets/banner-videos-home.png)
 
-Finalmente
+Infine, esegui questa operazione
 ![ultima schermata](/help/assets/open-source.svg)
 
 ## Altri tutorial e video
 
-* [Collegamento al video](https://example.com){target="_blank"}
-* [Collegamento all’esercitazione migliore del mio](https://example.com){target="_blank"}
+* [Collega a video](https://example.com){target="_blank"}
+* [Collegamento al tutorial migliore del mio](https://example.com){target="_blank"}

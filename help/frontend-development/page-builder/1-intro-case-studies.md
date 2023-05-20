@@ -1,8 +1,8 @@
 ---
 title: Page Builder per sviluppatori - Introduzione
 description: Introduzione a Page Builder, comprendere le funzionalità di Page Builder
-landing-page-description: Guarda questa serie video per scoprire di più su Page Builder e su come estenderlo per creare [!DNL Commerce] esperienze di vetrina.
-short-description: Guarda questa serie video per scoprire di più su Page Builder e su come estenderlo per creare [!DNL Commerce] esperienze di vetrina.
+landing-page-description: Guarda questa serie di video per scoprire di più su Page Builder e su come estenderlo per creare [!DNL Commerce] esperienze vetrina.
+short-description: Guarda questa serie di video per scoprire di più su Page Builder e su come estenderlo per creare [!DNL Commerce] esperienze vetrina.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
@@ -31,7 +31,7 @@ In questo video:
 
 >[!NOTE]
 >
->Questo contenuto riflette il rilascio di Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta la sezione [Note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, vedi [Note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 
@@ -39,4 +39,4 @@ In questo video:
 
 [Documentazione per gli sviluppatori di Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guida a Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guida di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

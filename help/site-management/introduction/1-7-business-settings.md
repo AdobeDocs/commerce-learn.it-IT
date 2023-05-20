@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] per utenti aziendali - Impostazioni store"
-description: Scopri le impostazioni internazionali, le informazioni sugli archivi, gli URL sicuri e non sicuri, il titolo del sito web, il logo, le informazioni sul copyright, i loghi e-mail di comunicazione, gli indirizzi e-mail degli archivi, le opzioni relative alla valuta e i tassi di valuta.
+description: Scopri le impostazioni internazionali, le informazioni di archiviazione, gli URL sicuri e non sicuri, il titolo del sito web, il logo, le informazioni sul copyright, i logo e-mail di comunicazione, gli indirizzi e-mail di archiviazione, le opzioni di valuta e i tassi di valuta.
 topic: Commerce
 kt: 5764
 doc-type: video
@@ -19,12 +19,12 @@ ht-degree: 0%
 In questo video:
 
 - Impostazioni internazionali
-- Informazioni sul negozio
+- Informazioni archivio
 - URL protetti e non protetti
-- Titolo del sito web, logo e informazioni sul copyright
-- Archiviare i loghi e-mail di comunicazione
+- Informazioni su titolo del sito web, logo e copyright
+- Registri e-mail di comunicazione store
 - Memorizza indirizzi e-mail
-- Logo di fatture, spedizioni e note di accredito
+- Logo per fatture, spedizioni e note di accredito
 - Opzioni valuta
 - Tassi di cambio
 
@@ -36,10 +36,10 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Dettagli negozio - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[Dettagli store - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

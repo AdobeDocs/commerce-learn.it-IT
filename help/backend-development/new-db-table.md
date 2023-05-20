@@ -1,6 +1,6 @@
 ---
 title: Aggiungere una tabella a un database
-description: "[!DNL Commerce] dispone di un meccanismo speciale che ti consente di creare tabelle di database, modificarne quelle esistenti e persino di aggiungere alcuni dati."
+description: "[!DNL Commerce] dispone di un meccanismo speciale che consente di creare tabelle di database, modificare quelle esistenti e persino aggiungere alcuni dati in esse."
 topic: Development
 kt: 5613
 doc-type: video
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Non è più consigliato, fare riferimento a https://developer.adobe.com/commerce/php/development/components/declarative-schema/
+>Questa operazione non è più consigliata. Fare riferimento a https://developer.adobe.com/commerce/php/development/components/declarative-schema/
 
 
-[!DNL Commerce] dispone di un meccanismo speciale che consente di creare tabelle di database, modificare quelle esistenti e persino aggiungere alcuni dati ad esse, come i dati di configurazione, che devono essere aggiunti quando viene installato un modulo. Tale meccanismo consente di trasferire tali modifiche tra impianti diversi.
+[!DNL Commerce] dispone di un meccanismo speciale che consente di creare tabelle di database, modificare quelle esistenti e persino aggiungervi alcuni dati, ad esempio i dati di configurazione, che devono essere aggiunti quando viene installato un modulo. Questo meccanismo consente di trasferire tali modifiche tra impianti diversi.
 
-Invece di eseguire ripetutamente operazioni SQL manuali durante la reinstallazione del sistema, gli sviluppatori creano uno script di installazione (o aggiornamento) che contiene i dati. Lo script viene eseguito ogni volta che viene installato un modulo.
+Anziché eseguire ripetutamente operazioni SQL manuali durante la reinstallazione del sistema, gli sviluppatori creano uno script di installazione (o aggiornamento) contenente i dati. Lo script viene eseguito ogni volta che viene installato un modulo.
 
 ## A chi serve questo video?
 
@@ -36,10 +36,10 @@ Invece di eseguire ripetutamente operazioni SQL manuali durante la reinstallazio
 - Aggiungi un nuovo modulo e verifica che sia stata creata una tabella con dati
 - Creare uno script UpgradeSchema
 - Creare uno script UpgradeData
-- Esegui gli script di aggiornamento e verifica che la tabella sia cambiata
+- Esegui gli script di aggiornamento e verifica che la tabella sia stata modificata
 
 >[!VIDEO](https://video.tv.adobe.com/v/35791?quality=12&learn=on)
 
 ## Risorse utili
 
-- [Eseguire la migrazione degli script di installazione/aggiornamento allo schema dichiarativo](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)
+- [Migrazione degli script di installazione/aggiornamento a uno schema dichiarativo](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)

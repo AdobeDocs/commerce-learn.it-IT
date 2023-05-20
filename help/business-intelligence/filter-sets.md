@@ -1,8 +1,8 @@
 ---
 title: MBI - Set di filtri
 description: Scopri come utilizzare la funzione dei set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali per Adobe Commerce e Magenti Open Source.
-landing-page-description: Guarda questo video per scoprire come utilizzare la funzione dei set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali.
-short-description: Guarda questo video per scoprire come utilizzare la funzione dei set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali.
+landing-page-description: Guarda questo video per scoprire come utilizzare la funzione Set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali.
+short-description: Guarda questo video per scoprire come utilizzare la funzione Set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -18,23 +18,23 @@ ht-degree: 0%
 
 # MBI - Set di filtri
 
-Vuoi analizzare solo alcuni dati aziendali? Stanco di fare una pulizia manuale? In MBI, è possibile utilizzare la funzione set di filtri per semplificare questo processo.
+Si desidera analizzare solo alcuni dati aziendali? Stanco di fare una pulizia manuale? In MBI è possibile utilizzare la funzione set di filtri per semplificare questo processo.
 
 In questo video:
 
 - Creare un set di filtri
 - Utilizzare gli operatori di filtro
-- Applicazione di un set di filtri a una metrica
+- Applicare un set di filtri a una metrica
 - Applicare un set di filtri a una dimensione dati calcolata
 
 >[!TIP]
 >
->Se hai poca esperienza con MBI, la [Serie video introduttive](1-overview.md) fornisce una panoramica completa per migliorare le informazioni e i risultati aziendali attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se non si dispone di MBI, [Serie di video introduttivi](1-overview.md) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
 - Utenti aziendali
-- Analisti dei dati
+- Analisti di dati
 
 ## Contenuto video
 
@@ -42,6 +42,6 @@ In questo video:
 
 ## Risorse utili
 
-[Creare set di filtri - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Creare set di filtri - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
 [Dimension di dati consigliati per segmentazione e filtro - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

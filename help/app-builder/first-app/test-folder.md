@@ -6,29 +6,29 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
+# Scopri la cartella di test {#test-folder}
 
-# Informazioni sulla cartella di test {#test-folder}
+Il `test` La cartella di questa app di esempio contiene un singolo file JavaScript, utilizzato per l’esecuzione di unit test sull’applicazione.
 
-La `test` La cartella per questa app di esempio contiene un singolo file JavaScript, che viene utilizzato durante l&#39;esecuzione di unit test sull&#39;applicazione.
-
-Questo è un esempio semplice e può essere esteso per creare test completi per applicazioni specifiche.
+Questo è un semplice esempio e può essere esteso per creare test completi per le applicazioni specifiche.
 
 ## A chi serve questo video?
 
-* Sviluppatori nuovi in Adobe Commerce con esperienza limitata con Adobe App Builder che desiderano imparare a usare `test` cartella.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e che desiderano saperne di più sul `test` cartella.
 
 ## Contenuto video
 
-* Perché utilizzare `test` cartella?
-* Breve spiegazione del file di prova dell&#39;unità e dei suoi componenti
-* Introduzione al test end-to-end
+* Perché utilizzare il `test` cartella?
+* Breve spiegazione del file di unit test e dei relativi componenti
+* Introduzione ai test end-to-end
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 

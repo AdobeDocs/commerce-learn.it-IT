@@ -1,8 +1,8 @@
 ---
-title: Panoramica sull’evasione dell’archivio
-description: Scopri Store Fulfillment for Adobe Commerce by Walmart Commerce Technologies, una soluzione di evasione omnicanale avanzata che offre un'esperienza end to end Buy Online, Pick up In-Store (BOPIS).
-landing-page-description: Guarda questo video per scoprire in che modo la soluzione Store Fulfillment offre ai clienti la comodità di raccogliere e archiviare i dipendenti in negozio e in negozio flussi di lavoro più efficienti e pronti all'uso per la selezione, lo stage e consegna degli ordini di ritiro dal negozio ai clienti.
-short-description: Guarda questo video per scoprire in che modo la soluzione Store Fulfillment offre ai clienti la comodità di raccogliere e archiviare i dipendenti in negozio e in negozio flussi di lavoro più efficienti e pronti all'uso per la selezione, lo stage e consegna degli ordini di ritiro dal negozio ai clienti.
+title: Panoramica sull'evasione del negozio
+description: Scopri il servizio di Store Fulfillment per Adobe Commerce di Walmart Commerce Technologies, una soluzione di implementazione omnicanale avanzata che offre un'esperienza completa di acquisto online e prelievo in negozio (BOPIS).
+landing-page-description: Guarda questo video per scoprire come la soluzione di Store Fulfillment offre ai clienti la praticità del ritiro in negozio e sul bordo del negozio e ai dipendenti del negozio flussi di lavoro più efficienti e pronti per i dispositivi mobili per il prelievo, lo stage e la consegna degli ordini di prelievo del negozio ai clienti.
+short-description: Guarda questo video per scoprire come la soluzione di Store Fulfillment offre ai clienti la praticità del ritiro in negozio e sul bordo del negozio e ai dipendenti del negozio flussi di lavoro più efficienti e pronti per i dispositivi mobili per il prelievo, lo stage e la consegna degli ordini di prelievo del negozio ai clienti.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 ---
 
-# Panoramica sull’evasione dell’archivio
+# Panoramica sull&#39;evasione del negozio
 
-Store Fulfillment per Adobe Commerce by Walmart Commerce Technologies offre un&#39;esperienza di acquisto avanzata online, ritiro in-store (BOPIS) di clienti. Ottimizza la produttività dei dipendenti dello store fornendo un flusso di lavoro di implementazione omnicanale end-to-end senza soluzione di continuità, abilitato tramite un dispositivo mobile.
+Il servizio Store Fulfillment per Adobe Commerce di Walmart Commerce Technologies offre ai clienti un&#39;esperienza di acquisto online avanzata, pick-up in-store (BOPIS). Ottimizza la produttività dei dipendenti del negozio fornendo un flusso di lavoro di implementazione omnicanale end-to-end che viene abilitato tramite un dispositivo mobile.
 
-Questo video offre una rapida panoramica dell’esperienza BOPIS end-to-end di Store Fulfillment con opzioni di ritiro in-store e curbside.
+Questo video offre una rapida panoramica dell’esperienza BOPIS di Store Fulfillment end-to-end con opzioni di prelievo in-store e curbside.
 
-- Osserva un cliente che invia un ordine di ritiro dal negozio:
-   - Sfoglia il catalogo di vetrina online.
-   - Seleziona gli elementi per il ritiro in negozio.
-   - Trova e seleziona una posizione del negozio con le scorte disponibili.
-   - Consulta e personalizza le opzioni di ritiro del negozio.
-   - Effettua l&#39;ordine.
-- Guarda un dipendente e un cliente del negozio seguire il processo di evasione degli ordini end-to-end utilizzando l&#39;app mobile disponibile con la soluzione Store Fulfillment.
+- Osservare un cliente che invia un ordine di prelievo del negozio:
+   - Sfoglia il catalogo della vetrina online.
+   - Seleziona gli oggetti da ritirare in negozio.
+   - Individuare e selezionare un&#39;ubicazione del negozio con le scorte disponibili.
+   - Estrai e personalizza le opzioni di ritiro del negozio.
+   - Effettua l’ordine.
+- Osserva un dipendente e un cliente del negozio seguire il processo di evasione degli ordini end-to-end utilizzando l’app mobile disponibile con la soluzione Store Fulfillment.
 
 ## A chi serve questo video?
 
 - Manager eCommerce
-- Manager e amministratori delle operazioni di archiviazione
+- Responsabili e amministratori delle operazioni di archiviazione
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Il contenuto del video riflette il rilascio della soluzione Store Fulfillment 1.0 installato su una vetrina con Adobe Commerce 2.4. Vedi [Guida utente all’evasione dell’archivio](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione Store Fulfillment soluzione 1.0 installata in una vetrina con Adobe Commerce 2.4. Consulta la [Guida utente per l&#39;evasione del Negozio](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) per informazioni aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Guida utente all’evasione dell’archivio](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[Guida utente per l&#39;evasione del Negozio](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

@@ -1,8 +1,8 @@
 ---
 title: MBI - Preparazione per il futuro
-description: Guarda questa serie di video per chiarire la tua comprensione dei cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
-landing-page-description: Guarda questa serie di video per chiarire la tua comprensione dei cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
-short-description: Guarda questa serie di video per chiarire la tua comprensione dei cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
+description: Guarda questa serie di video per comprendere meglio i cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
+landing-page-description: Guarda questa serie di video per comprendere meglio i cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
+short-description: Guarda questa serie di video per comprendere meglio i cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
 kt: 10411
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -18,29 +18,29 @@ ht-degree: 0%
 
 # MBI - Preparazione per il futuro
 
-Come il Covid-19 circonda il mondo, milioni di persone fanno affidamento sul commercio digitale per soddisfare le loro esigenze più essenziali. Dato che le imprese lavorano con gli straordinari per soddisfare la domanda storica dei consumatori, non è mai stato così importante mettere al centro il futuro.
+Mentre la Covid-19 fa il giro del mondo, milioni di persone fanno affidamento sul commercio digitale per soddisfare le loro esigenze più essenziali. Dato che le aziende fanno gli straordinari per soddisfare la domanda storica dei consumatori, mettere a fuoco il futuro non è mai stato così importante.
 
-In questa serie di video in tre parti, il team di analisi MBI mette in evidenza pratiche e-commerce fondamentali e basate sui dati per aiutare la tua azienda a prosperare in questi tempi difficili, supportati da statistiche aggregate che si estendono su più settori commerciali.
+In questa serie di video in tre parti, il team di analisti di MBI evidenzia le pratiche eCommerce fondamentali e basate sui dati per aiutare la tua azienda a prosperare in questi tempi difficili, supportate da statistiche aggregate che si estendono a più settori commerciali.
 
-Guarda questa serie di video per chiarire la tua comprensione dei cambiamenti senza precedenti che plasmano il futuro del commercio digitale - e come prepararsi a ciò che ci attende.
+Guarda questa serie di video per comprendere meglio i cambiamenti senza precedenti che stanno delineando il futuro del commercio digitale - e come prepararsi a ciò che ci aspetta.
 
 >[!TIP]
 >
->Se hai poca esperienza con MBI, la [Serie video introduttive](1-overview.md) fornisce una panoramica completa per migliorare le informazioni e i risultati aziendali attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se non si dispone di MBI, [Serie di video introduttivi](1-overview.md) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
 - Utenti aziendali
-- Analisti dei dati
+- Analisti di dati
 
-## Parte 1: Incremento del traffico del commercio digitale
+## Parte 1: aumento del traffico commerciale digitale
 
 >[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
 
-## Parte 2: Segmentazione dell’incremento del traffico per settore
+## Parte 2: Segmentazione dell’aumento del traffico per settore
 
 >[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
 
-## Parte 3: Influisce sul comportamento di acquisto dei clienti
+## Parte 3: Impatto sul comportamento di acquisto dei clienti
 
 >[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Gestire le regole di prodotto correlate
-description: Scopri come presentare una selezione mirata di prodotti per memorizzare i clienti come prodotti, up-sell e cross-selling correlati.
+title: Gestire le regole prodotto correlate
+description: Scopri come presentare una selezione mirata di prodotti per archiviare i clienti come prodotti correlati, up-sell e cross-selling.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# Gestire le regole di prodotto correlate
+# Gestire le regole prodotto correlate
 
 {{ee-feature}}
 
-Le regole di prodotto correlate consentono di eseguire il targeting della selezione dei prodotti presentati ai clienti come prodotti correlati, up-sell e cross-selling. Ogni regola di prodotto può essere associata a un segmento di clienti per produrre una visualizzazione dinamica del merchandising mirato.
+Le regole di prodotto correlate consentono di eseguire il targeting della selezione di prodotti presentati ai clienti come prodotti correlati, up-sell e cross-selling. Ogni regola di prodotto può essere associata a un segmento di clienti per produrre una visualizzazione dinamica di merchandising mirato.
 
 ## A chi serve questo video?
 
-- Marketing di eCommerce
-- Manager del sito web
+- Ecommerce marketer
+- Gestori di siti Web
 
 ## Contenuto video
 
@@ -30,4 +30,4 @@ Le regole di prodotto correlate consentono di eseguire il targeting della selezi
 
 ## Risorse aggiuntive
 
-[Regole di prodotto correlate - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Regole prodotto correlate - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

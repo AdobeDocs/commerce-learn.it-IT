@@ -1,6 +1,6 @@
 ---
 title: PWA Studi per sviluppatori - Peregrine
-description: Informazioni su Peregrine, inclusa la libreria Peregrine. Comprendere la motivazione dietro Peregrine ​ le differenze tra ganci e talon di Peregrine.
+description: Scopri Peregrine, inclusa la libreria Peregrine. Comprendi la motivazione dietro Peregrine​ le differenze tra gli ami e gli artigli Peregrini.
 topic: Development
 kt: 5649
 doc-type: video
@@ -18,14 +18,14 @@ ht-degree: 0%
 In questo video:
 
 - Introduzione a Peregrine
-- La biblioteca Peregrine
-- Comprendere le motivazioni alla base di Peregrine
-- Distinguere tra ganci e lanci di Peregrine
+- La libreria peregrina
+- Comprendere la motivazione dietro Peregrine
+- Distinguere tra ganci peregrini e artigli
 
 ## A chi serve questo video?
 
 - Sviluppatori front-end
-- Manager di progetto
+- Project manager
 
 ## Contenuto video
 

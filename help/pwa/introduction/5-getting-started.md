@@ -1,6 +1,6 @@
 ---
 title: PWA Studi per sviluppatori - Configurazione del progetto
-description: Inizia con un nuovo progetto PWA Studi, inclusa la generazione di un certificato SSL locale e i comandi CLI del pacchetto di build.
+description: Introduzione a un nuovo progetto PWA Studi, che include la generazione di un certificato SSL locale e dei comandi CLI del pacchetto di compilazione.
 topic: Development
 kt: 5648
 doc-type: video
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 In questo video:
 
-- Guida introduttiva di PWA Studi
+- Guida introduttiva a PWA Studi
 - Configurazione iniziale del progetto
 - Genera certificato SSL locale
 - [!DNL Buildpack] Comandi CLI
@@ -25,7 +25,7 @@ In questo video:
 ## A chi serve questo video?
 
 - Sviluppatori front-end
-- Manager di progetto
+- Project manager
 
 ## Contenuto video:
 

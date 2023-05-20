@@ -1,8 +1,8 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Panoramica"
-description: 'Scopri le basi della piattaforma dal punto di vista di diversi tipi di pubblico: commercianti, sviluppatori di negozi web e integratori.'
-landing-page-description: Guarda questa serie video per iniziare a utilizzare il tuo progetto di sviluppo back-end per Commerce.
-short-description: Guarda questa serie video per iniziare a utilizzare il tuo progetto di sviluppo back-end per Commerce.
+title: "[!DNL Commerce] for developers - Overview"
+description: 'Scopri le nozioni di base della piattaforma dal punto di vista di diversi tipi di pubblico: commercianti, sviluppatori di negozi web e integratori.'
+landing-page-description: Guarda questa serie video per iniziare a sviluppare il progetto di sviluppo back-end per Commerce.
+short-description: Guarda questa serie video per iniziare a sviluppare il progetto di sviluppo back-end per Commerce.
 doc-type: video
 topic: Development
 audience: developer
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per sviluppatori - Panoramica
+# [!DNL Commerce] per sviluppatori: panoramica
 
-[!DNL Commerce] è una piattaforma e-commerce altamente personalizzabile e un sistema di gestione dei contenuti utilizzato principalmente per creare vetrine online o siti web per la vendita di merci.
+[!DNL Commerce] è una piattaforma di e-commerce e un sistema di gestione dei contenuti altamente personalizzabili che viene utilizzato principalmente per creare store online o siti web per la vendita di merci.
 
 In questo video:
 
-- Nozioni di base sulla piattaforma dal punto di vista di diversi tipi di pubblico: commercianti, sviluppatori di negozi web e integratori
+- Nozioni di base della piattaforma dal punto di vista di diversi tipi di pubblico: commercianti, sviluppatori di negozi web e integratori
 
 ## Contenuto video
 
@@ -31,9 +31,9 @@ In questo video:
 >
 >Questo contenuto riflette la versione di Adobe Commerce e Magenti Open Source 2.3.1.
 >
->- PWA e [PWA Studi](https://developer.adobe.com/commerce/pwa-studio/) sono ora disponibili come _senza testa_ attuazione del frontend.
->- Lo stack tecnologico è stato modificato nelle versioni successive della linea di rilascio 2.3.x e 2.4.x. Controlla la [requisiti di sistema](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) per assicurarsi di disporre dei componenti di sistema corretti.
->- A causa dell&#39;imminente arresto di Temando, il Magento Shipping non è più disponibile. Per informazioni dettagliate sullo stato e raccomandazioni per le nuove implementazioni di spedizione in Commerce, consulta [pagina informazioni prodotto](https://business.adobe.com/products/magento/shipping.html).
+>- PWA e [PWA Studi](https://developer.adobe.com/commerce/pwa-studio/) sono ora disponibili come _headless_ implementazione del front-end.
+>- Lo stack di tecnologia è stato modificato nelle versioni successive della versione 2.3.x e della versione 2.4.x. Controlla la [requisiti di sistema](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) per assicurarsi di disporre dei componenti di sistema corretti.
+>- A causa dell’imminente chiusura di Temando, il Magento Shipping non è più disponibile. Per informazioni dettagliate sullo stato e raccomandazioni per le nuove implementazioni di spedizione in Commerce, consulta [pagina delle informazioni sul prodotto](https://business.adobe.com/products/magento/shipping.html).
 
 
 
@@ -41,6 +41,6 @@ In questo video:
 
 ## Risorse aggiuntive
 
-[[!DNL Commerce] guida all&#39;architettura](https://developer.adobe.com/commerce/php/architecture/)
+[[!DNL Commerce] guida all’architettura](https://developer.adobe.com/commerce/php/architecture/)
 
 [[!DNL Commerce] Guida per gli sviluppatori PHP](https://developer.adobe.com/commerce/php/development/)

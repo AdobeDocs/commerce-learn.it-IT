@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per gli utenti aziendali - Attributi"
-description: Scopri gli attributi personalizzati e di sistema per i prodotti.
+title: "[!DNL Commerce] per utenti aziendali - Attributi"
+description: Scopri gli attributi personalizzati e di sistema dei prodotti.
 topic: Commerce
 kt: 5769
 doc-type: video
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per gli utenti aziendali - Attributi
+# [!DNL Commerce] per utenti aziendali - Attributi
 
 In questo video:
 
-- Attributi del sistema
+- Attributi di sistema
 - Attributi personalizzati
 
 ## A chi serve questo video?
@@ -29,7 +29,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 

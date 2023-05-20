@@ -1,8 +1,8 @@
 ---
 title: Scopri come installare eventi IO per Adobe Commerce 2.4.6
-description: Scopri come installare i moduli necessari per gli eventi IO in Adobe Commerce 2.4.6 per l’utilizzo in Adobe Developer App Builder
-landing-page-description: Scopri come installare diversi moduli necessari per Adobe Commerce 2.4.6.
-short-description: Scopri come installare diversi moduli necessari per Adobe Commerce 2.4.6.
+description: Scopri come installare i moduli necessari per gli eventi IO in Adobe Commerce 2.4.6 da utilizzare in Adobe Developer App Builder
+landing-page-description: Scopri come installare i diversi moduli necessari per Adobe Commerce 2.4.6.
+short-description: Scopri come installare i diversi moduli necessari per Adobe Commerce 2.4.6.
 kt: 11887
 doc-type: tutorial
 audience: all
@@ -18,23 +18,23 @@ ht-degree: 0%
 
 # Installazione di Adobe Commerce 2.4.6
 
-Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.6. È disponibile una documentazione aggiuntiva all’indirizzo [Installare gli eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.6. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori non esperti di Adobe Commerce e Adobe Developer App Builder utilizzando gli eventi I/O.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O.
 
 ## Contenuto video {#video-content}
 
-* Comandi da eseguire per l&#39;hosting locale
+* Comandi da eseguire per l’hosting locale
 * Comandi da eseguire per Adobe Commerce Cloud
-* Modifica richiesta stile Adobe Commerce Cloud
+* Adobe Commerce Cloud yaml modifica richiesta
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 
-Esistono diversi comandi che differiscono leggermente, a seconda che ti trovi in un ambiente self-hosting o che utilizzi Adobe Commerce Cloud.
+Esistono vari comandi che differiscono leggermente, a seconda che ti trovi in un ambiente con hosting autonomo o utilizzi Adobe Commerce Cloud.
 
 ### Hosting locale {#on-premise}
 

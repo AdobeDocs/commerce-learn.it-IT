@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Crea un [!DNL Admin] page"
-description: Scopri come creare [!DNL Admin] pagine, [!DNL Admin] controllo pagina ACL (elenco di controllo accessi) e eseguire unit test.
+title: "[!DNL Commerce] per sviluppatori: creare un [!DNL Admin] page"
+description: Scopri come creare [!DNL Admin] pagine, [!DNL Admin] ACL del controller della pagina (elenco di controllo di accesso) ed eseguire unit test.
 kt: 5698
 doc-type: video
 topic: Development
@@ -16,20 +16,20 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per sviluppatori - Crea un [!DNL Admin] page
+# [!DNL Commerce] per sviluppatori: creare un [!DNL Admin] pagina
 
 In questo video:
 
 - Crea [!DNL Admin] pagine
-- [!DNL Admin] controllo pagina ACL (elenco di controllo accessi)
+- [!DNL Admin] ACL del controller di pagina (elenco di controllo di accesso)
 - [!DNL Admin] voci di menu
-- Prova dell&#39;unità PHP
+- Test dell&#39;unità PHP
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36200?quality=12&learn=on)
 

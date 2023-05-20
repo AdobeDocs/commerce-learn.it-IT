@@ -1,15 +1,15 @@
 ---
 title: Ordini di acquisto e approvazioni
-description: Scopri come abilitare gli ordini di acquisto e le regole di approvazione per i tuoi account aziendali B2B.
+description: Scopri come abilitare gli ordini di acquisto e le regole di approvazione per gli account aziendali B2B.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-badge: label="B2B per Adobe Commerce" type="Positive"
+badge: label="B2B per Adobe Commerce" type="Positivo"
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: d10020b33cfd86031d8cbd156eb22f788c301743
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -18,18 +18,18 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-La maggior parte delle aziende B2B dispone di regole di approvazione degli ordini per gli ordini di acquisto. Le aziende possono controllare chi può creare ordini di acquisto e quanto possono spendere. Ad esempio:
+La maggior parte delle società B2B dispone di regole di approvazione degli ordini di acquisto. Le aziende possono controllare chi può creare ordini di acquisto e quanto può spendere. Ad esempio:
 
-- Viene automaticamente approvato qualsiasi ordine di acquisto inferiore al valore X.
-- Gli OA superiori al valore X ma inferiori a Q devono essere approvati da Y.
-- Qualsiasi valore PO oltre X deve essere approvato da Y e Z.
-- Un ordine di acquisto creato da qualsiasi utente a livello di Director o superiore viene automaticamente approvato.
+- Tutti gli ordini di acquisto inferiori a X vengono approvati automaticamente.
+- Gli ordini di acquisto superiori a X ma inferiori a Q devono essere approvati da Y.
+- Qualsiasi valore PO superiore a X deve essere approvato da Y e Z.
+- Un ordine di acquisto creato da qualsiasi utente a livello di Director o superiore viene approvato automaticamente.
 
-Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impostare regole di approvazione per applicare le politiche aziendali.
+Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impostare regole di approvazione per applicare i criteri aziendali.
 
 ## A chi serve questo video?
 
-- Responsabili dell&#39;account aziendale
+- Account manager società
 - Responsabili acquisti
 
 ## Contenuto video
@@ -38,5 +38,5 @@ Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impost
 
 ## Risorse aggiuntive
 
-- [Ordini di acquisto per le società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [Ordini di acquisto per società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
 - [Regole di approvazione ordine di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}

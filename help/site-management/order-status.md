@@ -1,6 +1,6 @@
 ---
 title: Gestisci stato ordine
-description: Scopri come controllare lo stato dell’ordine e i relativi dettagli e come modificare lo stato di un ordine.
+description: Scopri come controllare lo stato degli ordini e i relativi dettagli e come modificare lo stato di un ordine.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Gestisci stato ordine
 
-Quando un cliente inserisce un ordine, un ordine di vendita viene creato come record temporaneo della transazione. L&#39;ordine di vendita ha uno stato di _In sospeso_ fino al ricevimento del pagamento. Durante lo stato In sospeso, gli ordini possono essere modificati o annullati fino al momento in cui il pagamento viene ricevuto e viene generata una fattura. In questo video, scopri come controllare lo stato dell’ordine e i relativi dettagli e come modificare lo stato di un ordine, se necessario.
+Quando un cliente effettua un ordine, viene creato un ordine di vendita come record temporaneo della transazione. Lo stato dell&#39;ordine cliente è _In sospeso_ fino alla ricezione del pagamento. Quando è impostato lo stato In sospeso, gli ordini possono essere modificati o annullati fino al momento della ricezione del pagamento e della generazione della fattura. In questo video, scopri come controllare lo stato e i dettagli dell’ordine e come modificare lo stato di un ordine, se necessario.
 
 ## A chi serve questo video?
 
@@ -28,5 +28,5 @@ Quando un cliente inserisce un ordine, un ordine di vendita viene creato come re
 
 ## Risorse aggiuntive
 
-- [Elabora un ordine - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [Stato ordine - [!DNL Commerce] Guida all&#39;esperienza di acquisto e store](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Elabora un ordine - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Stato ordine - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

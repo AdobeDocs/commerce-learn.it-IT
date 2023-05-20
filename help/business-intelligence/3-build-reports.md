@@ -16,22 +16,22 @@ ht-degree: 0%
 
 # MBI - Creare rapporti
 
-In MBI sono disponibili due opzioni per la creazione di rapporti e analisi: il generatore di report visivi e il generatore di report SQL.
+In MBI sono disponibili due opzioni per la creazione di report e analisi: il generatore di report visivi e il generatore di report SQL.
 
 ## A chi serve questo video?
 
 - Utenti aziendali
-- Analisti dei dati
+- Analisti di dati
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per informazioni aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Che Report Builder dovrei usare? - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
-- [Report Builder visivo - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)
+- [Quale Report Builder dovrei usare? - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
+- [Report Builder visivo - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)

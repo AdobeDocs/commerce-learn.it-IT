@@ -1,6 +1,6 @@
 ---
-title: Creare attributi di prodotto
-description: Scopri come creare gli attributi di prodotto utilizzati per gestire le informazioni associate a prodotti, clienti e classificazioni di prodotto.
+title: Crea attributi prodotto
+description: Scopri come creare gli attributi del prodotto utilizzati per gestire le informazioni associate a prodotti, clienti e valutazioni del prodotto.
 kt: 10552
 doc-type: feature video
 audience: all
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# Creare attributi di prodotto
+# Crea attributi prodotto
 
-Adobe Commerce utilizza gli attributi per gestire le informazioni associate a prodotti, clienti e valutazioni dei prodotti. Gli attributi sono informazioni che possono essere visualizzate come campi in moduli, rapporti, revisioni di prodotti, navigazione a più livelli e messaggi e-mail. Sono gli elementi costitutivi del catalogo dei prodotti e descrivono le caratteristiche specifiche di un prodotto.
+Adobe Commerce utilizza gli attributi per gestire le informazioni associate a prodotti, clienti e valutazioni dei prodotti. Gli attributi sono informazioni che possono essere visualizzate come campi in maschere, report, revisioni di prodotti, navigazione a più livelli e messaggi e-mail. Sono gli elementi costitutivi del catalogo dei prodotti e descrivono le caratteristiche specifiche di un prodotto.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- merchandiser di eCommerce
+- Gestori di siti Web
+- eCommerce merchandisers
 
 ## Contenuto video
 

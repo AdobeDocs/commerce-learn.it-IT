@@ -1,6 +1,6 @@
 ---
 title: Aggiungere un modulo JavaScript
-description: Questo video fornisce una procedura dettagliata per lo sviluppo di un semplice modulo JS che fornisce il saluto "Hello World".
+description: Questo video offre una procedura dettagliata per sviluppare un semplice modulo JS che fornisce il saluto "Hello World".
 topic: Development
 kt: 5612
 doc-type: video
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Aggiungere un modulo JavaScript
 
-Questo video fornisce una procedura dettagliata per lo sviluppo di un semplice modulo JS che fornisce il saluto &quot;Hello World&quot;.
+Questo video offre una procedura dettagliata per sviluppare un semplice modulo JS che fornisce il saluto &quot;Hello World&quot;.
 
 ## A chi serve questo video?
 
@@ -24,8 +24,8 @@ Questo video fornisce una procedura dettagliata per lo sviluppo di un semplice m
 ## Passaggi
 
 - Creare un modulo
-- Crea un `requirejs-config.js` e un file modulo JavaScript
-- Crea l&#39;aggiornamento del layout per aggiungere un modello che abilita il modulo JS
+- Creare un `requirejs-config.js` e un file del modulo JavaScript
+- Crea aggiornamento layout per aggiungere un modello che abilita il modulo JS
 - Crea file modello
 - Aggiungi il modulo e testalo
 

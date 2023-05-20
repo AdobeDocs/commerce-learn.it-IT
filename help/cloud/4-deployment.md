@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce su infrastruttura cloud - Implementazione
-description: Informazioni sulle fasi di distribuzione e sugli script. Comprendere il funzionamento del processo di distribuzione dal ​ lato dell'infrastruttura.
+title: Adobe Commerce sull’infrastruttura cloud - Implementazione
+description: Scopri le fasi di distribuzione e gli script. Comprendere come funziona il processo di distribuzione dal lato dell’infrastruttura​.
 kt: 5659
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce su infrastruttura cloud - Implementazione
+# Adobe Commerce sull’infrastruttura cloud - Implementazione
 
 In questo video:
 
 - Informazioni sulle fasi di distribuzione e sugli script
-- Comprendere il funzionamento del processo di distribuzione dal lato dell&#39;infrastruttura &#x200B;
+- Comprendere come funziona il processo di distribuzione dal lato dell’infrastruttura&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Processo di distribuzione cloud: [!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+[Processo di distribuzione cloud - [!DNL Commerce] Guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

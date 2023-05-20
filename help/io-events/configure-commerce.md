@@ -1,8 +1,8 @@
 ---
 title: Configurare Adobe Commerce
 description: Scopri come configurare Adobe Commerce per consentire l’utilizzo degli eventi in Adobe Developer App Builder.
-landing-page-description: Scopri come configurare Adobe Commerce per l’utilizzo del meccanismo eventi da parte di Adobe Developer App Builder.
-short-description: Scopri come configurare Adobe Commerce per l’utilizzo del meccanismo eventi da parte di Adobe Developer App Builder.
+landing-page-description: Scopri come configurare Adobe Commerce per l’utilizzo del meccanismo degli eventi per l’utilizzo da parte di Adobe Developer App Builder.
+short-description: Scopri come configurare Adobe Commerce per l’utilizzo del meccanismo degli eventi per l’utilizzo da parte di Adobe Developer App Builder.
 kt: 11889
 doc-type: tutorial
 audience: all
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 # Configurare Adobe Commerce
 
-Scopri come configurare Adobe Commerce per esporre gli eventi. Documentazione aggiuntiva disponibile all’indirizzo [Installare gli eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come configurare Adobe Commerce per esporre gli eventi. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori non esperti di Adobe Commerce e Adobe Developer App Builder utilizzando eventi I/O e devono creare un progetto Adobe App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto Adobe di App Builder.
 
 ## Contenuto video {#video-content}
 
-* Configurazione degli eventi di Adobe I/O nell’amministrazione Commerce
-* Salvataggio di una chiave privata nell’amministrazione Commerce
-* Salvataggio dell’identificatore univoco nell’amministratore Commerce
+* Configurazione degli eventi di Adobe I/O nell’amministratore Commerce
+* Salvataggio di una chiave privata nell’amministratore Commerce
+* Salvataggio dell’identificatore univoco nell’amministratore di Commerce
 * Creare un provider di eventi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

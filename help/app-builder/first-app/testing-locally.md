@@ -6,28 +6,28 @@ kt: 12427
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: c916c94b-eb14-48c5-ad1d-695730135939
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# Test locale {#testing-locally}
 
-# Verifica locale {#testing-locally}
-
-Scopri come eseguire il test locale della nuova applicazione Adobe Developer App Builder.
+Scopri come testare localmente la nuova applicazione Adobe Developer App Builder.
 
 ## A chi serve questo video?
 
-* Sviluppatori non ancora entrati in Adobe Commerce con esperienza limitata con Adobe App Builder, pronti per eseguire il test della loro prima app Adobe Developer App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e pronti a testare la loro prima app Adobe Developer App Builder.
 
 ## Contenuto video
 
-* Livelli di prova diversi
-* Prove di unità
+* Diversi livelli di test
+* Test di unità
 * Test E2E
-* Prova manuale
+* Test manuale
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
 

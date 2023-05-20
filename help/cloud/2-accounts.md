@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce sull’infrastruttura cloud - Hosting e account
-description: Scopri le soluzioni di hosting esistenti per Adobe Commerce ​. Comprendere le differenze tra gli account Starter e Pro ​.
+title: 'Adobe Commerce su infrastruttura cloud: hosting e account'
+description: Scopri le soluzioni di hosting esistenti per Adobe Commerce​. Comprendere le differenze tra gli account Starter e Pro​.
 kt: 5657
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce sull’infrastruttura cloud - Hosting e account
+# Adobe Commerce su infrastruttura cloud: hosting e account
 
 In questo video:
 
-- Informazioni sulle soluzioni di hosting cloud esistenti &#x200B; per Adobe Commerce
-- Comprendere le differenze tra gli account Starter e Pro &#x200B;
+- Scopri le soluzioni di hosting cloud esistenti&#x200B; per Adobe Commerce
+- Comprendere le differenze tra gli account Starter e Pro&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Architettura cloud - [!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)
+[Architettura cloud - [!DNL Commerce] Guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

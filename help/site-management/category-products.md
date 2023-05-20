@@ -1,6 +1,6 @@
 ---
 title: Gestire i prodotti in una categoria
-description: Scopri come creare un prodotto in una categoria, come effettuare merchandising visivo e come utilizzare la funzionalità di ordinamento automatico delle categorie.
+description: Scopri come creare un prodotto in una categoria, merchandizing visivo e utilizzare la funzionalità di ordinamento automatico per categorie.
 kt: 10550
 doc-type: feature videos
 audience: all
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Gestire i prodotti in una categoria
 
-Per gestire i cataloghi è fondamentale organizzare i prodotti in categorie. Questo video illustra come creare un prodotto in una categoria, come effettuare merchandising visivo e come utilizzare la funzionalità di ordinamento automatico delle categorie.
+L’organizzazione dei prodotti in categorie è fondamentale per la gestione dei cataloghi. Questo video illustra come creare un prodotto in una categoria, come fare per visualizzare materiale promozionale e utilizzare la funzionalità di ordinamento automatico per categorie.
 
 ## A chi serve questo video?
 
-- Manager del sito web
-- merchandiser di eCommerce
+- Gestori di siti Web
+- eCommerce merchandisers
 
 ## Contenuto video
 
@@ -30,4 +30,4 @@ Per gestire i cataloghi è fondamentale organizzare i prodotti in categorie. Que
 ## Risorse aggiuntive
 
 - [Assegnazioni prodotti categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [Regole di categoria per il merchandising - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [Regole di categoria per merchandising - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

@@ -1,6 +1,6 @@
 ---
-title: MBI - Condividere i risultati e i dati di esportazione
-description: Scopri come condividere i risultati di MBI ed esportare i dati per l’integrazione con altri strumenti aziendali.
+title: MBI - Condividere risultati ed esportare dati
+description: Scopri come condividere i risultati MBI ed esportare i dati per l’integrazione con altri strumenti aziendali.
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# MBI - Condividere i risultati e i dati di esportazione
+# MBI - Condividere risultati ed esportare dati
 
-Agli utenti MBI possono essere concessi livelli di autorizzazione di sola lettura, standard o amministratore per controllare chi visualizza parti specifiche dei dati aziendali. Inoltre, i vantaggi non sono limitati agli utenti MBI: pianifica e invia riepiloghi e-mail a tutti gli indirizzi e-mail necessari. I dati del data warehouse possono essere esportati utilizzando l&#39;API Export.
+Agli utenti MBI possono essere concessi livelli di autorizzazione di sola lettura, standard o amministratore per controllare chi visualizza parti specifiche dei dati aziendali. Inoltre, i vantaggi non sono limitati agli utenti MBI: pianifica e invia riepiloghi e-mail a tutti gli indirizzi e-mail necessari. I dati provenienti dal data warehouse possono essere esportati utilizzando l’API di esportazione.
 
 ## A chi serve questo video?
 
 - Utenti aziendali
-- Analisti dei dati
+- Analisti di dati
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.2. Consulta la sezione [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per le informazioni più aggiornate.
+>Il contenuto del video riflette la versione 2.2. Consulta la [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) per informazioni aggiornate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Esporta dati grafico - Guida utente MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [Esporta dati grafico - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
 - [Creazione di riepiloghi e-mail automatizzati - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

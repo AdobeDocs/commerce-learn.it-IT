@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per sviluppatori - Routing"
-description: Scopri il routing, la creazione di un controller frontale semplice, oggetti risultato, classe azione.
+title: "[!DNL Commerce] for developers - Routing"
+description: Scopri come instradare, creare un controller front-end semplice, oggetti risultato, classe azione.
 kt: 5697
 doc-type: video
 topic: Development
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per sviluppatori - Routing
+# [!DNL Commerce] per sviluppatori - Indirizzamento
 
 In questo video:
 
 - Indirizzamento
-- Creazione di un controller frontale semplice
+- Creazione di un controller front-end semplice
 - Oggetti risultato
 - Classe azione
 
@@ -29,7 +29,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, consulta la sezione [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36199?quality=12&learn=on)
 

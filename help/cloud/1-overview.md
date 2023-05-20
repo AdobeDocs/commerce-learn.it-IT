@@ -1,8 +1,8 @@
 ---
-title: Panoramica di Adobe Commerce sull’infrastruttura cloud
-description: Identifica le tecnologie chiave all’interno della ​ dello stack cloud. Descrivi la strategia di distribuzione dei contenuti per Adobe Commerce. Comprendere il valore del file system di sola lettura.
-landing-page-description: Guarda questa serie video per iniziare a utilizzare l’infrastruttura cloud utilizzata per la distribuzione e la gestione di Adobe Commerce.
-short-description: Guarda questa serie video per iniziare a utilizzare l’infrastruttura cloud utilizzata per la distribuzione e la gestione di Adobe Commerce.
+title: 'Adobe Commerce sull’infrastruttura cloud: panoramica'
+description: Identificare le tecnologie chiave dello stack cloud​. Descrivi la strategia di distribuzione dei contenuti per Adobe Commerce. Valore del file system di sola lettura.
+landing-page-description: Guarda questa serie di video per iniziare a utilizzare l’infrastruttura cloud utilizzata per la distribuzione e la gestione di Adobe Commerce.
+short-description: Guarda questa serie di video per iniziare a utilizzare l’infrastruttura cloud utilizzata per la distribuzione e la gestione di Adobe Commerce.
 kt: 5656
 doc-type: video
 audience: all
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# Panoramica di Adobe Commerce sull’infrastruttura cloud
+# Adobe Commerce sull’infrastruttura cloud: panoramica
 
 In questo video:
 
-- Identificare le tecnologie chiave all’interno dello stack cloud &#x200B;
+- Identificare le tecnologie chiave dello stack cloud&#x200B;
 - Descrizione della strategia di distribuzione dei contenuti per Adobe Commerce sull’infrastruttura cloud
-- Comprendere il valore del file system di sola lettura
+- Valore del file system di sola lettura
 
 >[!VIDEO](https://video.tv.adobe.com/v/35298?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[[!DNL Commerce] guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] Guida all’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
