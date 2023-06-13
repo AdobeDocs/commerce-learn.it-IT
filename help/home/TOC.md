@@ -2,9 +2,9 @@
 user-guide-title: Video e Tutorials
 user-guide-description: Scopri Adobe Commerce e Magenti Open Source tramite video e tutorial.
 breadcrumb-title: Video e Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [Gestisci cataloghi condivisi](../b2b/shared-catalogs.md)
    + [Gestisci credito società](../b2b/company-credit.md)
    + [Ordini di acquisto e approvazioni](../b2b/purchase-orders.md)
+   + Citazione {#b2b-quote}
+      + [Rappresentante commerciale avvia offerta](../b2b/sales-rep-initiates-quote.md)
+      + [Convalida preventivo da amministratore](../b2b/quote-validation-admin-panel.md)
+      + [Rappresentante commerciale avvia l&#39;API REST dell&#39;offerta](../b2b/sales-rep-initiates-quote-api.md)
+      + [Sconti su voci di preventivo](../b2b/quote-line-item-discount.md)
+      + [Note voce preventivo](../b2b/quote-line-item-notes.md)
+      + [GraphQL sconto voce preventivo](../b2b/quote-graphql-line-item-discount.md)
+      + [API REST sconto voce preventivo](../b2b/quote-rest-api-line-item-notes.md)
 + Strumenti e servizi esterni {#tools}
    + [Dashboard dello strumento di analisi a livello di sito](../tools/site-wide-analysis-tool.md)
    + [Osservazione per Adobe Commerce](../tools/observation-tool.md)
