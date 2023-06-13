@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="B2B per Adobe Commerce" type="Positivo"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: a22ab91b9e9c89831855377ef29847a8766fafe9
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,4 @@ Scopri in che modo il rappresentante commerciale può avviare il preventivo dal 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
 
-## Risorse aggiuntive
-
-- [Panoramica delle virgolette](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Configura virgolette](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Richiesta di offerta](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Negoziazione di un preventivo](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Le Mie Virgolette](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}
