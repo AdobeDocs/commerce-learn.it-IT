@@ -1,9 +1,9 @@
 ---
 title: Pagine correlate a Mesh API
 description: Collegamenti a pagine correlate in App Builder
-source-git-commit: a12b90b62e83a3c1b5668dbf31a2609b731d292f
+source-git-commit: 94e47457420ee60dead6f0ddedd1d680e2dd014d
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -16,3 +16,5 @@ ht-degree: 0%
 * [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
 * [Dimostrazione funzionale per App Builder](../app-builder/app-builder-functional-demonstration.md)
 * [Panoramica tecnica per App Builder](../app-builder/app-builder-technical-overview.md)
+* [Invia app al Marketplace](../app-builder/submit-app-process.md)
+* [Panoramica completa delle informazioni sull’estensione](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
