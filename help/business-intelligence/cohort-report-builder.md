@@ -1,24 +1,24 @@
 ---
-title: MBI - Report Builder coorte
-description: Scopri come utilizzare il Report Builder di coorti MBI per creare report e analisi ottimizzati per la tua azienda.
-landing-page-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti MBI per creare report e analisi ottimizzati per la tua azienda.
-short-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti MBI per creare report e analisi ottimizzati per la tua azienda.
+title: Commerce Intelligence - Report Builder coorte
+description: Scopri come utilizzare il Report Builder di coorti Commerce Intelligence per creare report e analisi ottimizzati pertinenti per la tua azienda.
+landing-page-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti Commerce Intelligence per creare report e analisi ottimizzati per la tua azienda.
+short-description: Guarda questo video per scoprire come utilizzare il Report Builder di coorti Commerce Intelligence per creare report e analisi ottimizzati per la tua azienda.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
-# MBI - Report Builder coorte
+# Commerce Intelligence - Report Builder coorte
 
-Hai mai desiderato studiare il comportamento nel tempo di diversi sottoinsiemi di utenti? Ad esempio, ti sei mai chiesto se gli utenti che si registrano durante un periodo promozionale abbiano un ricavo medio di durata più elevato rispetto agli utenti che non lo fanno? Se la risposta è _Sì_ Quindi il Report Builder coorte è lo strumento perfetto per te. MBI è ottimizzato per eseguire questa analisi e renderla rilevante per la tua azienda.
+Hai mai desiderato studiare il comportamento nel tempo di diversi sottoinsiemi di utenti? Ad esempio, ti sei mai chiesto se gli utenti che si registrano durante un periodo promozionale abbiano un ricavo medio di durata più elevato rispetto agli utenti che non lo fanno? Se la risposta è _Sì_ Quindi il Report Builder coorte è lo strumento perfetto per te. Commerce Intelligence è ottimizzato per eseguire questa analisi e renderla rilevante per la tua azienda.
 
 In questo video:
 
@@ -28,7 +28,7 @@ In questo video:
 
 >[!TIP]
 >
->Se non si dispone di MBI, [Serie di video introduttivi](1-overview.md) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se hai poca esperienza con Commerce Intelligence, [Guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
@@ -41,6 +41,6 @@ In questo video:
 
 ## Risorse utili
 
-[Utilizzo del Report Builder coorte - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[Utilizzo del Report Builder coorte - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[Creare un’analisi qualitativa per coorte - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[Creare un’analisi qualitativa per coorte - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

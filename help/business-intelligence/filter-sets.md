@@ -1,24 +1,24 @@
 ---
-title: MBI - Set di filtri
-description: Scopri come utilizzare la funzione dei set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali per Adobe Commerce e Magenti Open Source.
-landing-page-description: Guarda questo video per scoprire come utilizzare la funzione Set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali.
-short-description: Guarda questo video per scoprire come utilizzare la funzione Set di filtri MBI per semplificare la generazione di rapporti sui dati aziendali.
+title: Commerce Intelligence - Set di filtri
+description: Scopri come utilizzare la funzione dei set di filtri di Commerce Intelligence per semplificare la generazione di rapporti sui dati aziendali per Adobe Commerce e Magenti Open Source.
+landing-page-description: Guarda questo video per scoprire come utilizzare la funzione dei set di filtri di Commerce Intelligence per semplificare la generazione di rapporti sui dati aziendali.
+short-description: Guarda questo video per scoprire come utilizzare la funzione dei set di filtri MBCommerce IntelligenceI per semplificare la generazione di rapporti sui dati aziendali.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-# MBI - Set di filtri
+# Commerce Intelligence - Set di filtri
 
-Si desidera analizzare solo alcuni dati aziendali? Stanco di fare una pulizia manuale? In MBI è possibile utilizzare la funzione set di filtri per semplificare questo processo.
+Si desidera analizzare solo alcuni dati aziendali? Stanco di fare una pulizia manuale? In Commerce Intelligence puoi utilizzare la funzione dei set di filtri per semplificare questo processo.
 
 In questo video:
 
@@ -29,7 +29,7 @@ In questo video:
 
 >[!TIP]
 >
->Se non si dispone di MBI, [Serie di video introduttivi](1-overview.md) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se hai poca esperienza con Commerce Intelligence, [Guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
@@ -42,6 +42,6 @@ In questo video:
 
 ## Risorse utili
 
-[Creare set di filtri - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Creare set di filtri - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Dimension di dati consigliati per segmentazione e filtro - Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Dimension di dati consigliati per segmentazione e filtro: guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
