@@ -2,9 +2,9 @@
 user-guide-title: Video e Tutorials
 user-guide-description: Scopri Adobe Commerce e Magenti Open Source tramite video e tutorial.
 breadcrumb-title: Video e Tutorials
-source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
+source-git-commit: fcaa2869b09aa0b66152234bb1643d1eb8f72c32
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,6 @@ ht-degree: 0%
    + [Gestisci regole divisa e imposta](../site-management/currency-tax-rules.md)
    + [Aggiungere siti Web, store e visualizzazioni dello store](../site-management/add-websites-stores-views.md)
    + [Modificare l’URL di un archivio](../site-management/change-store-url.md)
-   + [Configurazione mappa sito store](../site-management/site-map-setup.md)
    + [Metodi di spedizione e consegna](../site-management/shipping-delivery.md)
    + [Utilizza servizi di pagamento](../site-management/payment-services.md)
 + Gestione clienti {#customers}
