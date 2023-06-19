@@ -1,14 +1,15 @@
 ---
-title: Invia app al Marketplace
-description: Scopri come inviare un’applicazione al Marketplace.
-landing-page-description: Scopri Adobe Developer App Builder e come inviare un’app al Marketplace.
+title: Inviare l’app ad Adobe Commerce Marketplace
+description: Scopri come inviare un’applicazione alla Commerce Marketplace.
+landing-page-description: Scopri Adobe Developer App Builder e come inviare un’app a Commerce Marketplace.
 kt: 13436
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-06-08T00:00:00Z
-source-git-commit: 88e30e9424f40c18a5d67b32d6546e56091978f5
+last-substantial-update: 2023-6-19
+exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
+source-git-commit: 0932a1715cccafc0795e6932ab8888a1c53b5b49
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
