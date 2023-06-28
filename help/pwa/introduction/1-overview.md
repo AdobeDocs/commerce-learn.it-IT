@@ -3,12 +3,16 @@ title: PWA Studi per sviluppatori - Introduzione
 description: Che cos'è un Progressive Web Application (PWA) e perché il PWA Studi è il futuro​.
 landing-page-description: Guarda questa serie di video per scoprire di più sui Progressive Web Application (PWA) e perché PWA Studi è il futuro di [!DNL Commerce] siti.
 short-description: Guarda questa serie di video per scoprire di più sui Progressive Web Application (PWA) e perché PWA Studi è il futuro di [!DNL Commerce] siti.
-topic: Development
 kt: 5644
 doc-type: video
 activity: use
+last-substantial-update: 2023-5-28
+feature: GraphQL, REST, Tools and External Services
+topic: Commerce, Headless, Development
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 26b1b560-c155-4316-9481-44679bf9216a
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%

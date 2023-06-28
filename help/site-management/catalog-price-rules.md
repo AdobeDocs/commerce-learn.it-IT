@@ -3,10 +3,14 @@ title: Creare una regola di prezzo catalogo
 description: Scopri come creare regole per il prezzo di catalogo che offrano prodotti agli acquirenti a un prezzo scontato in base a una serie di condizioni definite.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Customers, Personalization, Shopping Cart, Price Rules
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

@@ -6,9 +6,13 @@ short-description: Scopri cos’è App Builder e come può essere utile con le s
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-02-16T00:00:00Z
+last-substantial-update: 2023-2-16
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '831'
 ht-degree: 0%
@@ -60,7 +64,7 @@ Il diagramma seguente illustra come un’applicazione standard basata su App Bui
 
 Per ulteriori dettagli sull&#39;architettura di App Builder, vedi [Panoramica dell’architettura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
-## Estensione Sales Channel Amazon {#amazon-sales-channel-extension}
+## Estensione di Sales Channel Amazon {#amazon-sales-channel-extension}
 
 >[!IMPORTANT]
 >

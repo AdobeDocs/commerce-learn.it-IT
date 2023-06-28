@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] per utenti aziendali - Impostazioni store"
 description: Scopri le impostazioni internazionali, le informazioni di archiviazione, gli URL sicuri e non sicuri, il titolo del sito web, il logo, le informazioni sul copyright, i logo e-mail di comunicazione, gli indirizzi e-mail di archiviazione, le opzioni di valuta e i tassi di valuta.
-topic: Commerce
 kt: 5764
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

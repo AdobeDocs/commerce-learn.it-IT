@@ -1,13 +1,17 @@
 ---
 title: Gestione dei metodi di spedizione e consegna
-description: Scopri come configurare l’origine di spedizione, le spedizioni multiple, le tariffe di consegna e le impostazioni del vettore per il tuo Negozio Commerce.
+description: Scopri come configurare l’origine di spedizione, il multi-shipping, la tariffa di consegna e le impostazioni del vettore per il tuo Negozio Commerce.
 kt: 10543
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Shipping/Delivery
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%

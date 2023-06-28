@@ -3,11 +3,15 @@ title: Gestisci credito società
 description: Scopri come fare in modo che gli utenti dell’account aziendale B2B possano effettuare acquisti sul proprio account fino al limite di credito concesso.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B per Adobe Commerce" type="Positivo"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: 4f98e97eda8426fac9ea453e95fedf126e4a4113
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

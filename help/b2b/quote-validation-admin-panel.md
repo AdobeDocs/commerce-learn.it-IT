@@ -3,11 +3,15 @@ title: Scopri i livelli di convalida per il processo di offerta B2B dal pannello
 description: Scopri i rigorosi processi di convalida dell’applicazione Adobe Commerce.  Questa esercitazione video illustra il processo di convalida dal pannello di amministrazione di Adobe Commerce per garantire che la procedura di offerta sia valida e coerente
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B per Adobe Commerce" type="Positivo"
-last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
+last-substantial-update: 2023-6-13
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
+source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
