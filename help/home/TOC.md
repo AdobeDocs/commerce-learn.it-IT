@@ -3,9 +3,9 @@ user-guide-title: Video e Tutorials
 user-guide-description: Scopri Adobe Commerce e Magenti Open Source tramite video e tutorial.
 breadcrumb-title: Video e Tutorials
 solution: Commerce
-source-git-commit: 280129eff96d1d4528b53081219bce2a8fb5baf8
+source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -132,6 +132,7 @@ ht-degree: 0%
    + [Creare un modulo](../backend-development/create-module.md)
    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
+   + [Replica lenta del cluster Galera](../backend-development/galera-db-slow-replication.md)
 + Sviluppo Luma front-end nativo {#frontend-development}
    + Page Builder per sviluppatori {#page-builder}
       + [1 - Introduzione](../frontend-development/page-builder/1-intro-case-studies.md)
