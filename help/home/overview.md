@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Commerce] Video e Tutorials'
-description: Raccolta di video e tutorial per Adobe Commerce e Magenti Open Source
+title: '[!DNL Commerce] Video e tutorial'
+description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
 topic: Commerce, Architecture
@@ -10,13 +10,13 @@ exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 # Tutorial su Commerce {#videos}
 
-Benvenuto in [!DNL Commerce] raccolta di video e tutorial. Utilizzo di queste risorse, insieme a [documentazione](https://experienceleague.adobe.com/docs/commerce.html), offre l’opportunità di imparare a utilizzare Adobe Commerce e Magenti Open Source per supportare il tuo business di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori back-end, sviluppatori front-end, amministratori di sistema, commercianti e altri ruoli all’interno della tua organizzazione.
+Benvenuto in [!DNL Commerce] raccolta di video e tutorial. Utilizzo di queste risorse, insieme a [documentazione](https://experienceleague.adobe.com/docs/commerce.html), offre l’opportunità di imparare a utilizzare Adobe Commerce e Magento Open Source per supportare il tuo business di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori back-end, sviluppatori front-end, amministratori di sistema, commercianti e altri ruoli all’interno della tua organizzazione.
 
 <div id="whats-new-section">
 

@@ -1,8 +1,8 @@
 ---
 title: Estensibilità out-of-process per Adobe Commerce
 description: Scopri Adobe App Builder e perché è un aspetto importante dell’estensibilità out-of-process.
-landing-page-description: Scopri cos’è App Builder e come può essere utile con le strategie di sviluppo di Adobe Commerce.
-short-description: Scopri cos’è App Builder e come può essere utile con le strategie di sviluppo di Adobe Commerce.
+landing-page-description: Scopri cos’è App Builder e come può essere utile nelle strategie di sviluppo per Adobe Commerce.
+short-description: Scopri cos’è App Builder e come può essere utile nelle strategie di sviluppo per Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

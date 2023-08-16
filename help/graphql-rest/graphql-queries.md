@@ -170,7 +170,7 @@ fragment productDetails on ProductInterface {
 }
 ```
 
-La prima cosa da notare è la parola chiave aggiunta `query` prima della parentesi graffa di apertura della query, insieme al nome di un&#39;operazione (`getProducts`). Il nome dell&#39;operazione è arbitrario e non corrisponde a nulla nello schema del server. Questa sintassi è stata aggiunta per supportare l’introduzione delle variabili.
+La prima cosa da notare è la parola chiave aggiunta `query` prima della parentesi graffa di apertura della query, insieme al nome di un&#39;operazione (`getProducts`). Il nome dell&#39;operazione è arbitrario e non corrisponde ad alcun elemento nello schema del server. Questa sintassi è stata aggiunta per supportare l’introduzione delle variabili.
 
 Nella query precedente, i valori hardcoded per gli argomenti dei campi vengono inseriti direttamente come stringhe o numeri interi. La specifica di GraphQL, tuttavia, dispone di un supporto di prima classe per separare l’input dell’utente dalla query principale utilizzando le variabili.
 

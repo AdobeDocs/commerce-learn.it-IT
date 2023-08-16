@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Utilizza servizi di pagamento
 
-Per le piccole e medie imprese, i rivenditori di medie dimensioni o le grandi imprese, i servizi di pagamento per Adobe Commerce e Magenti Open Source contribuiscono a ridurre il sovraccarico operativo e ad aumentare i ricavi. Offre strumenti che migliorano l&#39;esperienza dell&#39;acquirente. Servizi di pagamento:
+Per le piccole e medie imprese, i rivenditori di medie dimensioni o le grandi imprese, i servizi di pagamento per Adobe Commerce e Magento Open Source contribuiscono a ridurre il sovraccarico operativo e ad aumentare i ricavi. Offre strumenti che migliorano l&#39;esperienza dell&#39;acquirente. Servizi di pagamento:
 
 - Facilità di configurazione e manutenzione
 - Progettato per massimizzare i profitti

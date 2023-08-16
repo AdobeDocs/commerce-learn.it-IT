@@ -22,7 +22,7 @@ ht-degree: 0%
 
 [!DNL Page Builder] consente di creare facilmente pagine ricche di contenuti con layout personalizzati che migliorano la narrazione visiva e stimolano il coinvolgimento e la fedeltà dei clienti.
 
-A partire dalla versione 2.4.3 di, [!DNL Page Builder] è disponibile per impostazione predefinita sia in Adobe Commerce che in Magenti Open Source. Con [!DNL Page Builder] in Adobe Commerce, puoi incorporare staging e anteprima, contenuti personalizzati e consigli di prodotto, con funzionalità aggiuntive in arrivo.
+A partire dalla versione 2.4.3 di, [!DNL Page Builder] è disponibile per impostazione predefinita sia in Adobe Commerce che in Magento Open Source. Con [!DNL Page Builder] in Adobe Commerce, puoi incorporare staging e anteprima, contenuti personalizzati e consigli di prodotto, con funzionalità aggiuntive in arrivo.
 
 In questo video, scopri come:
 

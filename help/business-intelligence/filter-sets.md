@@ -1,6 +1,6 @@
 ---
 title: Commerce Intelligence - Set di filtri
-description: Scopri come utilizzare la funzione dei set di filtri di Commerce Intelligence per semplificare la generazione di rapporti sui dati aziendali per Adobe Commerce e Magenti Open Source.
+description: Scopri come utilizzare la funzione dei set di filtri di Commerce Intelligence per semplificare la generazione di rapporti sui dati aziendali per Adobe Commerce e Magento Open Source.
 landing-page-description: Guarda questo video per scoprire come utilizzare la funzione dei set di filtri di Commerce Intelligence per semplificare la generazione di rapporti sui dati aziendali.
 short-description: Guarda questo video per scoprire come utilizzare la funzione dei set di filtri MBCommerce IntelligenceI per semplificare la generazione di rapporti sui dati aziendali.
 kt: 10289

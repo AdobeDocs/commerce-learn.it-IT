@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Aggiungere siti Web, store e visualizzazioni dello store
 
-Ogni installazione di Adobe Commerce e Magenti Open Source supporta una gerarchia di siti web, store e visualizzazioni dello store. Crea ed espandi questa gerarchia in base alle esigenze della tua azienda.
+Ogni installazione di Adobe Commerce e Magento Open Source supporta una gerarchia di siti web, store e visualizzazioni dello store. Crea ed espandi questa gerarchia in base alle esigenze della tua azienda.
 
 ## A chi serve questo video?
 

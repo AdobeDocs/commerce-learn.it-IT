@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] per gli utenti aziendali: siti, store e visualizzazioni"
-description: Scopri le nozioni di base di [!DNL Commerce] architettura, incluse le differenze tra siti web, archivi, visualizzazioni dello store e ambiti delle applicazioni. Informazioni sull’indicizzazione e il caching.
+description: Scopri le nozioni di base di [!DNL Commerce] architettura, comprese le differenze tra siti web, archivi, visualizzazioni dello store e ambiti delle applicazioni. Informazioni sull’indicizzazione e il caching.
 kt: 5760
 doc-type: video
 activity: use

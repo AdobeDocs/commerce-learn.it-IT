@@ -1,8 +1,8 @@
 ---
 title: Creare una rete a sorgente singola GraphQL in Mesh API
-description: Scopri come utilizzare API Mesh su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
-landing-page-description: Scopri come utilizzare API Mesh su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
-short-description: Scopri come utilizzare API Mesh su Adobe Commerce e [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
+description: Scopri come utilizzare API Mesh in Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
+landing-page-description: Scopri come utilizzare API Mesh in Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
+short-description: Scopri come utilizzare API Mesh in Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

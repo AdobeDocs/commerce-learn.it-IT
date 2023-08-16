@@ -18,19 +18,16 @@ Panoramica di 1-2 frasi del prodotto su cui si basa questa guida utente. La pres
 ## Novità
 
 * **[Un nuovo video sulle funzioni (video)](README.md)**
-
-   <br>
-   *Scopri questa nuova fantastica funzionalità.*
+  <br>
+  *Scopri questa nuova fantastica funzionalità.*
 
 * **[Un nuovo video sulle funzioni (video)](README.md)**
-
-   <br>
-   *Scopri questa nuova fantastica funzionalità.*
+  <br>
+  *Scopri questa nuova fantastica funzionalità.*
 
 * **[Un nuovo articolo (articolo)](README.md)**
-
-   <br>
-   *Fai clic qui per ulteriori informazioni sulla funzione xyz.*
+  <br>
+  *Fai clic qui per ulteriori informazioni sulla funzione xyz.*
 
 ## Prelievi personale
 

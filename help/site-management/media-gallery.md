@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Gestire la raccolta file multimediali
 
-Con Adobe Commerce o Magenti Open Source 2.4, i commercianti possono utilizzare la nuova Raccolta multimediale avanzata per organizzare e gestire i propri file multimediali sul server.
+Con Adobe Commerce o Magento Open Source 2.4, i commercianti possono utilizzare la nuova Raccolta multimediale avanzata per organizzare e gestire i propri file multimediali sul server.
 
 ## A chi serve questo video?
 

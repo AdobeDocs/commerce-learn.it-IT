@@ -1,6 +1,6 @@
 ---
 title: Utilizzare lo strumento Quality Patch
-description: Guarda questo video tecnico e scopri come utilizzare il Quality Patch Tool per Adobe Commerce e Magenti Open Source.
+description: Guarda questo video tecnico e scopri come utilizzare il Quality Patch Tool per Adobe Commerce e Magento Open Source.
 doc-type: technical video
 audience: all
 activity: use
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Utilizzare lo strumento Quality Patch
 
-Lo strumento Quality Patch è uno strumento da riga di comando che fornisce patch di qualità per Adobe Commerce e Magenti Open Source. Consente di:
+Lo strumento Quality Patch è uno strumento da riga di comando che fornisce patch di qualità per Adobe Commerce e Magento Open Source. Consente di:
 
 - Visualizza informazioni generali sulle ultime patch di qualità
 - Applicare patch di qualità
