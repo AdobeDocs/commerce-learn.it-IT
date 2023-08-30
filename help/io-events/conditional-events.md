@@ -12,7 +12,7 @@ topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Eventi condizionali di Adobe Commerce
 
-Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati in Adobe Developer App Builder. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati in Adobe Developer App Builder. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## A chi serve questo video?
 
