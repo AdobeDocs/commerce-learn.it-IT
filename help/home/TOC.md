@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: c1ccfb2e32c7b638f6b8d4f16f15b8887b89f376
+source-git-commit: 68942d6c26da75adf93671b2d6a8bada38c1989a
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '530'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
    + [Replica lenta del cluster Galera](../backend-development/galera-db-slow-replication.md)
    + [Cache query MySQL](../backend-development/mysql-query-cache.md)
+   + [PT Query Digest](../backend-development/pt-query-digest.md)
 + Sviluppo Luma front-end nativo {#frontend-development}
    + Page Builder per sviluppatori {#page-builder}
       + [1 - Introduzione](../frontend-development/page-builder/1-intro-case-studies.md)
