@@ -4,23 +4,20 @@ description: Scopri come fare in modo che gli utenti dell’account aziendale B2
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B per Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 1cb75f809240487f772e33c30e9de33326ec38c2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # Gestisci credito società
-
-{{b2b-feature}}
 
 Per le aziende che hanno _[!UICONTROL Payment on Account]_e avere il credito aziendale disponibile, possono effettuare acquisti sul loro conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
 
@@ -30,6 +27,8 @@ Per le aziende che hanno _[!UICONTROL Payment on Account]_e avere il credito azi
 - Limite di credito
 - Consenti di superare il limite di credito
 - Motivo della modifica
+
+{{b2b-feature}}
 
 ## A chi serve questo video?
 

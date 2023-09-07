@@ -5,24 +5,24 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13800
-badge: label="B2B per Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 91996345-072b-4f24-af1e-d418bf9877b9
-source-git-commit: 61a6e0936fc1048562aaa88d35b62aafb4efdce4
+source-git-commit: c4930f8ea254781f3ede7413c5e74dadefbafb90
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Sconto articolo riga offerta di vendita B2B tramite GraphQL
 
-{{b2b-feature}}
 Scopri come utilizzare lo sconto per elemento riga e vedere i valori utilizzando GraphQL
+
+{{b2b-feature}}
 
 ## A chi serve questo video?
 

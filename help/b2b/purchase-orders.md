@@ -4,23 +4,20 @@ description: Scopri come abilitare gli ordini di acquisto e le regole di approva
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B per Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
 
 # Ordini di acquisto e approvazioni
-
-{{b2b-feature}}
 
 La maggior parte delle società B2B dispone di regole di approvazione degli ordini di acquisto. Le aziende possono controllare chi può creare ordini di acquisto e quanto può spendere. Ad esempio:
 
@@ -30,6 +27,8 @@ La maggior parte delle società B2B dispone di regole di approvazione degli ordi
 - Un ordine di acquisto creato da qualsiasi utente a livello di Director o superiore viene approvato automaticamente.
 
 Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impostare regole di approvazione per applicare i criteri aziendali.
+
+{{b2b-feature}}
 
 ## A chi serve questo video?
 

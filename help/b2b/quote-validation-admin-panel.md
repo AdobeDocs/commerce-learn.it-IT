@@ -4,24 +4,24 @@ description: Scopri i rigorosi processi di convalida dell’applicazione Adobe C
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B per Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
-source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
+source-git-commit: e01d05300cd593cdd003a25dae4c9fdc2cbad794
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # Convalida delle offerte di vendita B2B tramite il pannello di amministrazione
 
-{{b2b-feature}}
 Scopri i passaggi di convalida e le aree forniti dalla funzionalità Offerte B2B di Adobe Commerce per garantire un processo di offerta coerente e valido.
+
+{{b2b-feature}}
 
 ## A chi serve questo video?
 
