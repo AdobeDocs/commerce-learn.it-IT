@@ -1,6 +1,6 @@
 ---
 title: Visualizzatore AR per Adobe Commerce
-description: Adobe ha rilasciato un modulo disponibile sulla Commerce Marketplace per supportare la visualizzazione della realtà aumentata.
+description: Scopri il modulo di visualizzazione della realtà aumentata disponibile sulla Commerce Marketplace.
 kt: 13738
 doc-type: video
 activity: use
@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visualizzatore AR disponibile nella Commerce Marketplace
-source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
+source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
