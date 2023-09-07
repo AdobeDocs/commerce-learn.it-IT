@@ -4,25 +4,25 @@ description: Scopri come creare, visualizzare in anteprima e pianificare un’am
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Solo in Adobe Commerce" type="Positive"
+kt: 13907
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # Staging dei contenuti
 
-{{ee-feature}}
-
 La gestione temporanea dei contenuti offre al team aziendale la possibilità di creare, visualizzare in anteprima e pianificare facilmente un’ampia gamma di aggiornamenti dei contenuti per il tuo archivio direttamente dall’amministratore. Ad esempio, anziché considerare una pagina statica, considera una pagina come una raccolta di elementi diversi che possono essere aggiunti o rimossi in base alla pianificazione. È possibile utilizzare la gestione temporanea del contenuto per creare una pagina che cambia automaticamente nel corso dell’anno in base alla pianificazione.
+
+{{ee-feature}}
 
 ## A chi serve questo video?
 
