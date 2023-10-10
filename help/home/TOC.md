@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 5f86788f8bd8c0281571ed2cd45c89963be9e98e
+source-git-commit: 7b8f3342db01907b2c8a575ac86f6784aec38112
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '549'
 ht-degree: 3%
 
 ---
@@ -133,7 +133,6 @@ ht-degree: 3%
    + [Utilizzare Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
 + Sviluppo back-end {#backend-development}
    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
-   + [Aggiungere una tabella a un database](../backend-development/new-db-table.md)
    + [Creare un modulo](../backend-development/create-module.md)
    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
