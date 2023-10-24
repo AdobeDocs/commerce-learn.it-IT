@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 7b8f3342db01907b2c8a575ac86f6784aec38112
+source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '536'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 3%
       + [5 - Sviluppo](../cloud/5-dev-config.md)
       + [6 - Servizi e DNS](../cloud/6-launch.md)
    + Architettura di riferimento globale{#global-reference-architecture}
-      + [Che cos’è l’architettura di riferimento globale](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [Come sfruttare l&#39;architettura di riferimento globale](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [Come si progetta l&#39;architettura di riferimento globale](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [Come implementare l&#39;architettura di riferimento globale](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+      + [Architettura di riferimento globale](../global-reference-architecture/what-is-global-reference-architecture.md)
+      + [Utilizzo dell&#39;architettura di riferimento globale](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+      + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [Implementazione dell’architettura di riferimento globale](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GRAPHQL e REST {#graphql-rest}
    + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
    + [Query](../graphql-rest/graphql-queries.md)

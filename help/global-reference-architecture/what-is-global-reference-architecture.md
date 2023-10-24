@@ -1,5 +1,5 @@
 ---
-title: Che cos’è l’architettura di riferimento globale
+title: Introduzione al concetto di architettura di riferimento globale
 description: Scopri la tecnica utilizzata per gestire progetti di e-commerce complessi denominati Global Reference Architecture
 landing-page-description: Scopri l’architettura di riferimento globale e come viene utilizzata con Adobe Commerce
 kt: 14039
@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
+source-git-commit: d0a85c7d8300ab48e0b36ad66a2bf8cd23eb5b2b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
-# Introduzione all’architettura di riferimento globale
+# Architettura di riferimento globale
 
 Scopri l’architettura di riferimento globale, alcuni concetti fondamentali e i vantaggi di questo approccio.
 
-## A chi serve questo video?
+## Pubblico
 
 * Chiunque debba capire questo concetto.
 * Progetti di grandi dimensioni con più marchi
