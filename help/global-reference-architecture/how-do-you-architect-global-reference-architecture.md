@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: ded1cbba7c0fca0c2df4705b34b126857d1e9c76
+exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
+source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Utilizzo dell&#39;architettura di riferimento globale
+# Architettura per GRA
 
 Scopri come progettare Global Reference Architecture o GRA in breve. Per preparare meglio un GRA per una corretta implementazione, gli esperti Adobi discutono cosa è e cosa non è il GRA. Una discussione approfondita sulla gestione del codice utilizzando pacchetti separati, split Git e monorepo. Altri argomenti relativi a documentazione, strumenti e aspettative del personale sono trattati per elaborare le loro parti per una corretta implementazione della GRA.
 
-## A chi serve questo video?
+## Pubblico
 
 * Chiunque debba capire questo concetto.
 * Progetti di grandi dimensioni con più marchi

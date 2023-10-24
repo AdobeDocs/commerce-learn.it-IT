@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
+source-git-commit: 803b418ec85c907d087f8fe243799b56a281219b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Scopri come sfruttare Global Reference Architecture o GRA in breve. Per preparare meglio una GRA per un&#39;implementazione di successo, gli Adobi discutono le diverse fasi del progetto e approfondiscono la fase di scoperta. Le risorse di controllo qualità vengono discusse e come siano una risorsa preziosa per un’implementazione GRA.
 
-## A chi serve questo video?
+## Pubblico
 
 * Chiunque debba capire questo concetto.
 * Progetti di grandi dimensioni con più marchi
