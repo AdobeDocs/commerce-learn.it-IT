@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
+source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 3%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Video e Tutorials di Adobe Commerce {#tutorials}
 
-+ [[!DNL Commerce] Tutorial](overview.md)
++ [Tutorial su [!DNL Commerce]](overview.md)
 + Guida introduttiva {#getting-started}
    + [!DNL Commerce] Cloud{#cloud}
       + [1 - Panoramica](../cloud/1-overview.md)
@@ -27,6 +27,9 @@ ht-degree: 3%
       + [Utilizzo dell&#39;architettura di riferimento globale](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implementazione dell’architettura di riferimento globale](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+   + Funzionalità Commerce {#capabilities}
+      + [Connessione dati](../capabilities/data-connection.md)
+      + [Dimostrazione completa di Live Search](../capabilities/live-search-full-demonstration.md)
 + GRAPHQL e REST {#graphql-rest}
    + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
    + [Query](../graphql-rest/graphql-queries.md)
@@ -99,7 +102,7 @@ ht-degree: 3%
    + [Configurazione Recommendations prodotto](../site-management/product-recommendations.md)
    + [Introduzione a Live Search](../site-management/live-search.md)
    + [Consigli per Live Search](../site-management/live-search-recommendations.md)
-   + [Dimostrazione completa di Live Search](../site-management/live-search-full-demonstration.md)
+
 + Ordini ed evasione {#orders}
    + [Panoramica sull&#39;evasione del negozio](../site-management/store-fulfillment.md)
    + [Gestisci stato ordine](../site-management/order-status.md)

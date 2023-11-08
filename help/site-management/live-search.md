@@ -9,7 +9,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: 7e9f65c7d885eef34ba3bb528400e735c72b65ed
+source-git-commit: 0a8c32d06679ab5331c12460885c943b86f280e1
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Questa è una breve introduzione alla [!DNL Live Search] da Adobe Commerce. [!DN
 
 ## Risorse aggiuntive
 
-- [Dimostrazione completa di Live Search](./live-search-full-demonstration.md)
+- [Dimostrazione completa di Live Search](../capabilities/live-search-full-demonstration.md)
 - [[!DNL Live Search] per consigli](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
 - [[!DNL Live Search] panoramica](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
 - [Connettore Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
