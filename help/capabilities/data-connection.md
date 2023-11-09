@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Scopri come utilizzare Adobe Commerce Data Connection insieme ad alcune configur
 
 ## Contenuto video
 
-* Scopri i dati dei clienti che possono essere trasferiti da Commerce a Adobe Experience Edge
-* Che cos’è un’API
-* Come utilizzare Adobe Journey Optimizer per il follow-up con un cliente
-* Tipi di eventi di vetrina che possono essere acquisiti
-* Dati cliente in tempo reale valutati e contenuti personalizzati mostrati mentre il cliente continua a navigare
-* Segmenti di clienti e come possono essere regolati automaticamente in base alla cronologia dei clienti
-* Profili unificati singoli
-* Abbandona le e-mail del carrello, i messaggi SMS e come utilizzarli con Adobe Journey Optimizer
-* Configurazioni e impostazioni di base per Commerce Data Connector
-* Blocchi dinamici e regole di prezzo del carrello utilizzati per fornire sconti
-* Profili cliente, pubblico e dettagli cliente in Adobe Experience Platform
-* Come Adobe Target può fornire contenuti personalizzati dinamici
-* Sono state introdotte le dashboard di Customer Journey Analytics
+* Invio di dati comportamentali da Adobe Commerce ad altri prodotti DX (ad esempio, AJO, Analytics, Target, Real-Time CDP) per decisioni sui segmenti, arricchimento dei profili ed esperienze personalizzate in tutto il percorso di clienti.
+* I tipi di pubblico di Real-Time CDP aggiornano e modificano la segmentazione in tempo reale in base ai dati del browser, ai dati lato server (inclusa la cronologia degli ordini) e ai dati di altre origini (ad esempio, i dati fedeltà).
+* Utilizzo dei tipi di pubblico di Real-Time CDP per personalizzare sia le regole del prezzo del carrello che i blocchi dinamici in Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
