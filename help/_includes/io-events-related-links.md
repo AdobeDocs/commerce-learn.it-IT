@@ -1,9 +1,9 @@
 ---
 title: Pagine correlate agli eventi I/O
 description: Collegamenti a pagine correlate negli eventi IO
-source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 
 ## Ulteriori tutorial correlati
 
+* [Eventi I/O introduttivi](../io-events/getting-started-io-events.md)
 * [Installazione di Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
 * [Installazione di Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
 * [Creare un progetto App Builder](../io-events/create-app-builder-project.md)
