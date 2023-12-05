@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # Creare un prodotto raggruppato
 
-Un prodotto raggruppato è costituito da semplici prodotti autonomi presentati come un gruppo. Puoi offrire varianti di un singolo prodotto o raggrupparle per stagione o tema. Prima di creare un prodotto raggruppato, verifica che tutti i prodotti semplici da includere nel gruppo siano disponibili in Adobe Commerce e creane altri inesistenti. Questa esercitazione spiega come creare un prodotto raggruppato utilizzando l’API REST e l’amministratore Adobe Commerce.
+Un prodotto raggruppato è costituito da semplici prodotti autonomi presentati come un gruppo. Puoi offrire varianti di un singolo prodotto o raggrupparle per stagione o tema. Prima di creare un prodotto raggruppato, verifica che tutti i prodotti semplici da includere nel gruppo siano disponibili in Adobe Commerce e creane altri inesistenti.
+
+Questa esercitazione spiega come creare un prodotto raggruppato utilizzando l’API REST e l’amministratore Adobe Commerce.
 
 Utilizza l’API REST per creare un prodotto di gruppo in Admin:
 
@@ -29,9 +31,9 @@ Utilizza l’API REST per creare un prodotto di gruppo in Admin:
 1. Popola il prodotto raggruppato vuoto con prodotti semplici.
 1. Crea un prodotto raggruppato vuoto e associa i prodotti semplici.
 
-Durante la creazione di prodotti raggruppati in Adobe Commerce Admin, si consiglia di creare prima i prodotti semplici. Quando si è pronti a creare il prodotto raggruppato, associare i prodotti semplici assegnandoli al prodotto raggruppato in un unico batch.
+   Quando si associano prodotti semplici al prodotto raggruppato, l&#39;attributo di ordinamento (`position`) nel payload viene utilizzato dal front-end per visualizzare i prodotti associati nell’ordine desiderato. Se il `position` non è specificato, i prodotti vengono visualizzati nell&#39;ordine in cui sono stati aggiunti al prodotto raggruppato.
 
-L’attributo sort order nel payload è obbligatorio e viene utilizzato dal front-end per visualizzare i prodotti associati nell’ordine desiderato.
+Crea prima i prodotti semplici quando crei prodotti raggruppati dall’amministratore di Adobe Commerce. Quando si è pronti a creare il prodotto raggruppato, associare i prodotti semplici assegnandoli al prodotto raggruppato in un unico batch.
 
 ## A chi serve questo video?
 
