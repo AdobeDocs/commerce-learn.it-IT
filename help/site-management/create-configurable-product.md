@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambi
 - Cambia `"attribute_set_id": 10,` e sostituisci `10` con l’id del set di attributi da nell’ambiente.
 - Cambia `"value": "14"` e sostituisci `14` con il valore dell’ambiente.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Creare il terzo prodotto semplice utilizzando cURL
 
-Crea il terzo prodotto semplice utilizzando l’API per inviare la seguente richiesta POST utilizzando cURL.
+Crea il terzo prodotto semplice inviando la seguente richiesta POST utilizzando cURL.
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Crea un prodotto configurabile vuoto utilizzando cURL
 
-Crea un prodotto configurabile vuoto utilizzando l’API per inviare la seguente richiesta POST utilizzando cURL.
+Crea un prodotto configurabile vuoto inviando la seguente richiesta POST utilizzando cURL.
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Imposta le opzioni disponibili per il prodotto configurabile
 
-Imposta le opzioni disponibili per il prodotto configurabile utilizzando l’API per inviare la seguente richiesta POST utilizzando cURL.
+Imposta le opzioni disponibili per il prodotto configurabile inviando la seguente richiesta POST utilizzando cURL.
 
 Prima di inviare la richiesta, modifica `"attribute_id": 93,` da sostituire `93` con l’id attributo del tuo ambiente.
 
@@ -289,7 +288,7 @@ Ora hai creato tre semplici prodotti:
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Aggiungi questi prodotti semplici come elementi secondari del prodotto configurabile utilizzando l’API per inviare la seguente richiesta POST per ciascun prodotto. Invia una richiesta separata per ciascun prodotto.
+Aggiungi questi prodotti semplici come elementi secondari del prodotto configurabile inviando la seguente richiesta POST. Invia una richiesta separata per ciascun prodotto.
 
 Per ogni richiesta, aggiorna la `childSKU` valore con il valore del prodotto secondario che stai aggiungendo. L’esempio seguente assegna il prodotto semplice `kids-Hawaiian-Ukulele-red` al prodotto configurabile con SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Ottieni un prodotto configurabile utilizzando cURL
 
-Ora che hai creato un prodotto configurabile con tre SKU secondarie assegnate. Puoi visualizzare gli ID collegati per i prodotti assegnati dall’API per inviare la seguente richiesta GET utilizzando cURL. Questa richiesta restituisce informazioni dettagliate sul prodotto configurabile.
+Ora che hai creato un prodotto configurabile con tre SKU secondarie assegnate. Puoi visualizzare gli ID collegati per i prodotti assegnati inviando la seguente richiesta GET utilizzando cURL. Questa richiesta restituisce informazioni dettagliate sul prodotto configurabile.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Ottieni il prodotto secondario associato a un prodotto configurabile
 
-Questa richiesta restituisce solo gli elementi figlio associati al prodotto configurabile. Questa risposta contiene tutti gli attributi del prodotto secondario, inclusi SKU e prezzo.
+Restituisci solo gli elementi figlio associati al prodotto configurabile inviando la seguente richiesta GET. La risposta includerà tutti gli attributi del prodotto secondario, inclusi SKU e prezzo.
 
 Di seguito viene utilizzato il metodo GET
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Elimina o rimuovi un prodotto secondario dal prodotto principale configurabile
 
-Puoi rimuovere un prodotto secondario da un prodotto configurabile senza eliminare il prodotto dal catalogo utilizzando l’API per inviare la seguente richiesta DELETE utilizzando cURL.
-
-Di seguito viene utilizzato il metodo DELETE
+Puoi rimuovere un prodotto secondario da un prodotto configurabile senza eliminare il prodotto dal catalogo inviando la seguente richiesta DELETE utilizzando cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
