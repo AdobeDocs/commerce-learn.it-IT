@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 7ffd5c0edaa446f8841e15012ff4a0ff4923466b
+source-git-commit: 07ffd14ee86e8491b883747c80f275deecc97946
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '580'
 ht-degree: 3%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 3%
       + [Prodotto scaricabile](../site-management/create-downloadable-product.md)
       + [Prodotto raggruppato](../site-management/create-grouped-product.md)
       + [Prodotto configurabile](../site-management/create-configurable-product.md)
+      + [Prodotto bundle](../site-management/create-bundle-product.md)
 + GRAPHQL e REST {#graphql-rest}
    + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
    + [Query](../graphql-rest/graphql-queries.md)
