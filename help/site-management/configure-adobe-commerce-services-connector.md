@@ -1,6 +1,7 @@
 ---
 title: Configurare Adobe Commerce Services Connector
 description: Scopri come configurare Adobe Commerce Services Connector per l’utilizzo con i prodotti SaaS di Commerce e come risolvere i problemi comuni.
+kt: 14777
 doc-type: video
 audience: all
 activity: use
@@ -9,16 +10,18 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 6ee0e0f90864899dd717397a672e1ba4a1ba4351
+source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # Configurare Adobe Commerce Services Connector
 
-Per utilizzare Payment Services per Adobe Commerce e Magento Open Source, devi completare alcuni passaggi di onboarding. Guarda il video seguente per scoprire come configurare Payment Services per Adobe Commerce.
+Commerce Services Connector è una configurazione sviluppata da Adobe che sblocca varie funzionalità SaaS. Per utilizzare i servizi di pagamento per Adobe Commerce e Magento Open Source, è necessario collegare l’istanza Commerce utilizzando le chiavi API di produzione e sandbox e specificare lo spazio di dati nella configurazione per la configurazione.
+
+Guarda il video Come configurare il connettore dei servizi di Adobe Commerce per aiutarti a configurare i servizi di pagamento.
 
 ## A chi serve questo video?
 
