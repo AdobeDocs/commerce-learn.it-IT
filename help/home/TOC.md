@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 762d80791687787c6204160cbd81c9654bc187f6
+source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '585'
 ht-degree: 3%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 3%
    + [Modificare l’URL di un archivio](../site-management/change-store-url.md)
    + [Metodi di spedizione e consegna](../site-management/shipping-delivery.md)
    + Servizi Adobe Commerce {#adobe-commerce-services}
-      + [Configura connettore di servizio](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Configurare Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
       + [Configura servizi di pagamento](../site-management/configure-adobe-payment-services.md)
       + [Utilizza servizi di pagamento](../site-management/payment-services.md)
 + Gestione clienti {#customers}
