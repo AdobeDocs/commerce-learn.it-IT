@@ -1,6 +1,6 @@
 ---
-title: Scopri come visualizzare e impostare le configurazioni di amministrazione utilizzando la riga di comando
-description: Una demo per vedere e impostare i valori di configurazione utilizzando la riga di comando
+title: Visualizza e imposta le configurazioni amministratore tramite la riga di comando
+description: Scopri come visualizzare e impostare le configurazioni di amministrazione utilizzando la riga di comando.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Scopri come visualizzare e impostare le configurazioni di amministrazione utilizzando la riga di comando
+# Visualizza e imposta le configurazioni amministratore tramite la riga di comando
 
 Una dimostrazione per visualizzare, impostare e trovare i valori di configurazione con Commerce CLI. Scopri dove vengono salvati i valori e da dove provengono i valori predefiniti.
 
