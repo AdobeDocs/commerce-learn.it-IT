@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] Video e tutorial'
+title: '''[!DNL Commerce] Video e Tutorials'
 description: Raccolta di video e tutorial per Adobe Commerce e Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -7,10 +7,10 @@ topic: Commerce, Architecture
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: efe622f410a45ffbad210af2b5bbb1bda83b026b
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 10%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -18,16 +18,6 @@ ht-degree: 10%
 
 Benvenuto in [!DNL Commerce] raccolta di video e tutorial. Utilizzo di queste risorse, insieme a [documentazione](https://experienceleague.adobe.com/docs/commerce.html), offre l’opportunità di imparare a utilizzare Adobe Commerce e Magento Open Source per supportare il tuo business di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori back-end, sviluppatori front-end, amministratori di sistema, commercianti e altri ruoli all’interno della tua organizzazione.
 
-<div id="whats-new-section">
-
-## Novità
-
-- [Generatore di app Adobe Developer](../app-builder/introduction-to-app-builder.md)
-- [Introduzione a Mesh API](../api-mesh/getting-started-api-mesh.md)
-- [Introduzione a GraphQL](../graphql-rest/intro-graphql.md)
-- [Individuazione di un IP dannoso](../new-relic/malicious-ip.md)
-
-</div>
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
