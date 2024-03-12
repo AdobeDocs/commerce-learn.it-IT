@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
-# Onboarding tecnico e handoff hardware di Adobe Commerce Cloud: configurazione e debug
+# Onboarding tecnico - Configurazione e debug
 
 Scopri come configurare ed eseguire il debug di Adobe Commerce Cloud.
 
@@ -32,7 +32,7 @@ Scopri come configurare ed eseguire il debug di Adobe Commerce Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
-## Documentazione di Experience League e Fastly Adobe Commerce Checker menzionati nel video
+## Documentazione di Experience League citata nel video
 
 - [Configura Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [Cloud Docker configura Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
