@@ -1,5 +1,5 @@
 ---
-title: Scopri come connettere ed eseguire query sul database di Adobe Commerce
+title: Connettere ed eseguire query sul database
 description: Scopri diversi metodi per la connessione a un progetto cloud Adobe Commerce. Scopri come estrarre un database per utilizzarlo fuori sede. Scopri alcuni metodi per mascherare i dati PII e rimuoverli.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
+# Connettere ed eseguire query sul database di Adobe Commerce
 
-# Scopri come connettere ed eseguire query sul database di Adobe Commerce
-
-Questa esercitazione illustra come connettersi a un progetto Adobe Commerce su cloud, eseguire il dump di un database per l’utilizzo fuori sede, mascherare i dati PII e rimuoverli.
-
+Questa esercitazione spiega come connetterti a un progetto Adobe Commerce su cloud, scaricare un database per l’utilizzo fuori sede, mascherare i dati PII e rimuoverlo.
 
 Puoi accedere ai dati di Adobe Commerce dal progetto cloud utilizzando uno dei seguenti metodi:
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [Configura servizio MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Configurare una connessione remota al database MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Creazione di un dump del database sull’infrastruttura cloud di Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
