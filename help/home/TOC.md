@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
+source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '614'
 ht-degree: 3%
 
 ---
@@ -23,13 +23,6 @@ ht-degree: 3%
       + [Distribuzione, test, monitoraggio e sicurezza](../cloud/deployments-testing-monitoring-security.md)
       + [Offerte, supporto e comunicazioni SaaS e passaggi successivi](../cloud/saas-offerings-support-communications-next-steps.md)
 + Guida introduttiva {#getting-started}
-   + [!DNL Commerce] Cloud{#cloud}
-      + [1 - Panoramica](../cloud/1-overview.md)
-      + [2 - Account in hosting](../cloud/2-accounts.md)
-      + [3 - Progetti cloud](../cloud/3-projects.md)
-      + [4 - Distribuzione](../cloud/4-deployment.md)
-      + [5 - Sviluppo](../cloud/5-dev-config.md)
-      + [6 - Servizi e DNS](../cloud/6-launch.md)
    + Architettura di riferimento globale{#global-reference-architecture}
       + [Architettura di riferimento globale](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Utilizzo dell&#39;architettura di riferimento globale](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
