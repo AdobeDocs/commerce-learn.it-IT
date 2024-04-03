@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: d403368cbd80ef40ea0c7652d97fc18570aa552c
+source-git-commit: aff1af0df1fbf6bd90c55483bfb7994ab4d983ef
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '619'
 ht-degree: 3%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 3%
       + [Individuazione di un IP dannoso](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
    + [Guida introduttiva](../business-intelligence/getting-started.md)
+   + [Integrazioni e configurazioni](../business-intelligence/integrations-configurations.md)
    + [Set di filtri](../business-intelligence/filter-sets.md)
    + [Report Builder coorte](../business-intelligence/cohort-report-builder.md)
    + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
