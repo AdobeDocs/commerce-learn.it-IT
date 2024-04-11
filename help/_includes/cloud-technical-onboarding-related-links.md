@@ -1,9 +1,9 @@
 ---
 title: Pagine correlate all’onboarding tecnico di Adobe Commerce Cloud
 description: Collegamenti a pagine correlate nell’onboarding tecnico di Adobe Commerce Cloud
-source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
+source-git-commit: b2c29af209b5c45ed2f562cb6eafaffcd96678aa
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 
 ## Ulteriori tutorial correlati
 
-- [Avvia processo timeline](../cloud/launch-process-timeline.md)
 - [Best practice per l’infrastruttura e lo sviluppo](../cloud/infrastructure-development-best-practices.md)
 - [Fastly](../cloud/fastly.md)
 - [Configurazione e debug](../cloud/configuration-and-debugging.md)
