@@ -1,6 +1,6 @@
 ---
 title: Riduzione del sommario per le integrazioni Adobe Commerce
-description: Questo webinar illustra le best practice per ridurre il costo totale di proprietà per le integrazioni con Adobe Commerce. Evidenzia le sfide delle integrazioni tradizionali e l’utilizzo di punti di estensione e integrazioni native con altri prodotti di Experience Cloud per ridurre i costi e aumentare il ROI. L’obiettivo è fornire flessibilità nell’estendere il prodotto senza personalizzare il core, semplificandone la manutenzione e l’aggiornamento.
+description: Scopri le best practice per ridurre il costo totale di proprietà per le integrazioni con Adobe Commerce.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Riduzione del sommario per le integrazioni Adobe Commerce
 
-Questo webinar illustra metodi per ridurre il costo di proprietà delle integrazioni con Adobe Commerce. &#x200B; Gli oratori del webinar discutono le sfide e i costi associati alle integrazioni, l’importanza di ridurre il debito tecnico e i vantaggi dell’utilizzo dei punti di estensione forniti da Adobe Commerce. Menzionano anche casi d’uso specifici che coinvolgono un sistema di gestione degli ordini snello che utilizza WhatsApp e una cassetta per rifiuti da compagnia intelligente che invia dati per consigli di prodotti personalizzati.  Il team illustra inoltre come utilizzare la connessione dati Adobe per Commerce, che consente di inviare e ricevere dati tra Adobe Commerce e altri prodotti Adobe.
+Questo webinar illustra metodi per ridurre il costo di proprietà delle integrazioni con Adobe Commerce.
+
+Gli oratori del webinar discutono le sfide e i costi associati alle integrazioni, l’importanza di ridurre il debito tecnico e i vantaggi dell’utilizzo dei punti di estensione forniti da Adobe Commerce. Menzionano anche casi d’uso specifici che coinvolgono un sistema di gestione degli ordini snello che utilizza WhatsApp e una cassetta per rifiuti da compagnia intelligente che invia dati per consigli di prodotti personalizzati.  Il team illustra inoltre come utilizzare la connessione dati Adobe per Commerce, che consente di inviare e ricevere dati tra Adobe Commerce e altri prodotti Adobe.
 
 ## Pubblico
 
