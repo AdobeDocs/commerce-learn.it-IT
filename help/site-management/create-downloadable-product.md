@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 043d873e9b649455202de9df137c7283d92a2a4a
+exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
+source-git-commit: 8ef4b0e0a0e4dfffdef8759e4ac7659ed854fae2
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -53,7 +54,7 @@ Una volta completato, il `env.php` è modificato all&#39;interno del _downloadab
 
 Ora che il dominio viene aggiunto al `env.php`, puoi creare un prodotto scaricabile in Adobe Commerce Admin o utilizzando l’API REST.
 
-Consulta [Riferimento configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) per ulteriori informazioni. Consulta [Riferimento CLI per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd per ulteriori dettagli.
+Consulta [Riferimento configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) per ulteriori informazioni.
 
 >[!IMPORTANT]
 >In alcune versioni di Adobe Commerce, quando un prodotto viene modificato in Adobe Commerce Admin, potrebbe venire visualizzato il seguente errore. Il prodotto viene creato utilizzando l’API REST, ma il download collegato ha un `null` prezzo.
@@ -118,7 +119,7 @@ Questo esempio illustra come utilizzare cURL per creare un prodotto scaricabile 
 In questo caso d’uso, quando l’amministratore che gestisce il catalogo sceglie `upload file`, il file viene trasferito in `pub/media/downloadable/files/links/` directory.  L’automazione crea e sposta i file nelle rispettive posizioni in base al seguente pattern:
 
 - Ogni file caricato viene memorizzato in una cartella in base ai primi due caratteri del nome del file.
-- Quando viene avviato il caricamento, l’applicazione Commerce crea o utilizza cartelle esistenti per trasferire il file.
+- Quando il caricamento viene avviato, l&#39;applicazione Commerce crea o utilizza cartelle esistenti per trasferire il file.
 - Quando si scarica il file, la `link_file` sezione del percorso utilizza la porzione del percorso aggiunta al `pub/media/downloadable/files/links/` directory.
 
 Ad esempio, se il nome del file caricato è `download-example.zip`:
@@ -237,6 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [Tipo di prodotto scaricabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [Guida alla configurazione dei domini scaricabili](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Aggiunta a domini scaricabili in .env.php](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank}
 - [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
