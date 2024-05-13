@@ -10,22 +10,22 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-
-# Onboarding tecnico: distribuzioni, test, monitoraggio e sicurezza
+# Onboarding tecnico - Offerte SaaS
 
 Scopri le offerte, il supporto e altre comunicazioni SaaS di Adobe Commerce Cloud e alcuni passaggi successivi.
 
 ## A chi serve questo video?
 
 - Gestori di siti Web
-- Architetti del Commerce
+- Architetti Commerce
 - Proprietari del sito web di e-commerce
 
 ## Contenuto video
@@ -82,7 +82,7 @@ Scopri le offerte, il supporto e altre comunicazioni SaaS di Adobe Commerce Clou
 - [Responsabilità condivisa](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [Accesso ai dati del cliente e privacy](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
 - [Certificazioni Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
-- [Corsi di apprendimento su Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
+- [Corsi di formazione su Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Forum della community Commerce](https://community.magento.com/)
 -= [Configura Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 - [Test delle prestazioni](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
