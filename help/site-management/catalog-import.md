@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Scegli una delle opzioni seguenti per ulteriori informazioni.
 
 Se disponi di un catalogo limitato e gli aggiornamenti non sono frequenti, la soluzione migliore potrebbe essere la creazione manuale. Richiede tempo per inserire ogni prodotto e formazione limitata su come utilizzare Commerce Admin. La gestione manuale dei cataloghi non è l&#39;opzione giusta per la maggior parte dei negozi, ma in alcune situazioni può avere senso. Per consultare la documentazione aggiuntiva relativa a questo processo, visita [Creare un prodotto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Non dimenticare che puoi utilizzare più di un metodo per gestire il catalogo; tuttavia, una volta utilizzata l’automazione, le modifiche manuali devono essere limitate. Gli aggiornamenti automatizzati hanno la possibilità di sovrascrivere eventuali modifiche eseguite manualmente e causare quindi confusione. Una volta che l’integrazione con Adobe Commerce per gestire il catalogo utilizza l’automazione e le API, si consiglia di limitare la gestione del catalogo da parte dell’amministratore tramite [ruoli utente e autorizzazioni](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### Quando considerare questo approccio
 
 - Catalogo molto piccolo, ad esempio meno di 50 prodotti
@@ -41,8 +39,6 @@ Se disponi di un catalogo limitato e gli aggiornamenti non sono frequenti, la so
 - Disponi di tutti i dettagli del prodotto, immagini e video e non vuoi perdere tempo per scoprire come convertire i dati in CSV
 - Desideri includere l’aggiunta di immagini e video durante la creazione dei prodotti
 - Il tuo team è `not` Conoscenza delle API e funzionamento di OAUTH
-
-
 
 >[!TAB CSV amministratore]
 
@@ -61,16 +57,12 @@ Contro:
 - Le importazioni programmate sono limitate a 1 volta al giorno
 - Le immagini e i video associati devono essere caricati separatamente
 
-
-
 ### Quando considerare questo approccio
 
 - Dimensione catalogo moderata
 - Gli aggiornamenti non sono più di una volta al giorno
 - puoi accedere in parte alle configurazioni del server nel caso in cui sia necessario aumentare la dimensione massima di caricamento file
 - Il tuo team è `not` Conoscenza delle API e funzionamento di OAUTH
-
-
 
 >[!TAB API REST in blocco]
 
@@ -85,9 +77,6 @@ Contro:
 
 - Le immagini e i video associati devono essere caricati separatamente
 - Può essere limitata dai vincoli di larghezza di banda del provider di hosting
-- È necessario utilizzare gli ID degli attributi di opzione, non le etichette
-
-
 
 ### Quando considerare questo approccio
 
@@ -95,8 +84,6 @@ Contro:
 - Gli aggiornamenti sono frequenti; è accettabile più di 1 volta al giorno
 - Il tempo di importazione è importante ma non critico ed è accettabile un breve ritardo nell’elaborazione dei dati di importazione
 - I dati non sono strutturati in formato CSV e non è possibile trasformarli utilizzando l’automazione
-
-
 
 >[!TAB API REST ASINCRONA]
 
@@ -118,7 +105,6 @@ Contro:
 
 - Le importazioni sono frequenti
 - Nessun problema con un ritardo ridotto dal momento in cui vengono inviati tramite API e quindi elaborati dalla coda dei messaggi.
-
 
 
 >[!TAB API REST CSV]
@@ -145,8 +131,6 @@ Contro:
 - Gli aggiornamenti sono frequenti; è accettabile più di 1 volta al giorno
 - Il tempo totale di importazione è importante
 - I dati sono già in formato CSV o possono essere facilmente trasformati tramite automazione
-
-
 
 >[!ENDTABS]
 
