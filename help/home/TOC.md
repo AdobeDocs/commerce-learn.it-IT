@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
+source-git-commit: 4b88c82052f8505cfe05255dd74bb2da5fa0f792
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '664'
 ht-degree: 3%
 
 ---
@@ -128,8 +128,9 @@ ht-degree: 3%
    + [Consigli per Live Search](../site-management/live-search-recommendations.md)
    + [Integrare Commerce con AJO](../site-management/integrate-commerce-ajo.md)
 + Ordini ed evasione {#orders}
-   + [Panoramica sull&#39;evasione del negozio](../site-management/store-fulfillment.md)
-   + [Gestisci stato ordine](../site-management/order-status.md)
+   + [Panoramica sull&#39;evasione del negozio](../orders-and-fulfillment/store-fulfillment.md)
+   + [Gestisci stato ordine](../orders-and-fulfillment/order-status.md)
+   + [Verifica dello stato del magazzino](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B per Adobe Commerce {#b2b}
    + [Gestire gli account aziendali](../b2b/company-accounts.md)
    + [Gestisci cataloghi condivisi](../b2b/shared-catalogs.md)
