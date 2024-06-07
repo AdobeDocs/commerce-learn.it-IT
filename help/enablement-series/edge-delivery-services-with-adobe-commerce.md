@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services con Adobe Commerce
+title: Servizi di consegna Edge
 description: Scopri i servizi di distribuzione di Adobe Edge, il loro impatto sulle offerte dei progetti, i costi di sviluppo, SEO, ADA e il potenziale per esperienze personalizzate.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless, Integrations, Performance
@@ -9,10 +9,11 @@ doc-type: Technical Video
 duration: 3654
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-15388
-source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
+exl-id: deebb9ba-f975-4cf9-bf63-59cb4ff360eb
+source-git-commit: e5fe3cf958c51b5ce4e97486d33a96ea561b8169
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 0%
+source-wordcount: '386'
+ht-degree: 1%
 
 ---
 
