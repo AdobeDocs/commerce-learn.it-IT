@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # Connettere ed eseguire query sul database di Adobe Commerce
 
-Questa esercitazione spiega come connetterti a un progetto Adobe Commerce su cloud, scaricare un database per l’utilizzo fuori sede, mascherare i dati PII e rimuoverlo.
+Scopri come connettersi a un progetto Adobe Commerce su cloud, creare un’immagine del database per l’utilizzo fuori sede e gestire le informazioni personali (PII, Personally Identifiable Information) mascherandole o rimuovendole. Scopri come accedere ai dati di Adobe Commerce utilizzando vari metodi, tra cui immagini di database locali, connessioni di database remote con applicazioni come MySQL Workbench o TablesPlus e connessioni dirette tramite lo strumento Magento Cloud CLI.
+
+## Contenuti video
+
+* Scopri come connettersi rapidamente a un progetto Adobe Commerce Cloud remoto utilizzando uno strumento come MysqlWorkbench o TablesPlus.
+* Scopri come connettersi rapidamente al progetto Adobe Commerce per eseguire SQL tramite la riga di comando
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Scopri come connettersi a un progetto Adobe Commerce on cloud, scaricare un database per l’utilizzo fuori sede, mascherare i dati PII e rimuoverlo.
 
 Puoi accedere ai dati di Adobe Commerce dal progetto cloud utilizzando uno dei seguenti metodi:
 
