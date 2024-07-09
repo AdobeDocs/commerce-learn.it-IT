@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 2%
    + Funzionalità Commerce {#capabilities}
       + [Connessione dati](../capabilities/data-connection.md)
       + [Dimostrazione completa di Live Search](../capabilities/live-search-full-demonstration.md)
+      + [Commerce componibile](../capabilities/what-is-composable-commerce.md)
    + Creare prodotti {#create-products}
       + [Prodotto semplice](../site-management/create-simple-product.md)
       + [Prodotto virtuale](../site-management/create-virtual-product.md)
@@ -54,7 +55,7 @@ ht-degree: 2%
    + [Query](../graphql-rest/graphql-queries.md)
    + [Mutazioni](../graphql-rest/graphql-mutations.md)
    + [Schema](../graphql-rest/graphql-schema.md)
-+ Generatore di app Adobe Developer {#adobe-developer-app-builder}
++ Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
    + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Dimostrazione funzionale per App Builder](../app-builder/app-builder-functional-demonstration.md)
@@ -75,7 +76,7 @@ ht-degree: 2%
       + [Eventi I/O introduttivi](../io-events/getting-started-io-events.md)
       + [Installazione di Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installazione di Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Creare un progetto App Builder](../io-events/create-app-builder-project.md)
+      + [Creazione di un progetto App Builder](../io-events/create-app-builder-project.md)
       + [Configurare Adobe Commerce](../io-events/configure-commerce.md)
       + [Sviluppo di moduli Adobe Commerce](../io-events/commerce-module-development.md)
       + [Eventi condizionali di Adobe Commerce](../io-events/conditional-events.md)
@@ -92,7 +93,7 @@ ht-degree: 2%
    + [Aggiungere siti Web, store e visualizzazioni dello store](../site-management/add-websites-stores-views.md)
    + [Modificare l’URL di un archivio](../site-management/change-store-url.md)
    + [Metodi di spedizione e consegna](../site-management/shipping-delivery.md)
-   + [CLI Commerce](../site-management/view-update-store-configuration-cli.md)
+   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
    + Servizi Adobe Commerce {#adobe-commerce-services}
       + [Configurare Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
       + [Configura servizi di pagamento](../site-management/configure-adobe-payment-services.md)
@@ -107,7 +108,7 @@ ht-degree: 2%
    + [Gestire i prodotti in una categoria](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
    + [Crea attributi prodotto](../site-management/product-attributes-create.md)
-   + [Utilizzare Attributi del prodotto con PWA Studi](../site-management/product-attributes-pwa.md)
+   + [Utilizzare Attributi del prodotto con PWA Studio](../site-management/product-attributes-pwa.md)
    + [Gestire i metadati SEO](../site-management/seo-metadata.md)
    + [Gestisci riscritture URL per SEO (Search Engine Optimization)](../site-management/seo-url-rewrites.md)
    + [Visualizzatore AR](../site-management/augmented-reality.md)
@@ -158,7 +159,7 @@ ht-degree: 2%
    + [Report Builder coorte](../business-intelligence/cohort-report-builder.md)
    + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
    + [Preparazione per il futuro](../business-intelligence/prepare-for-future.md)
-+ Aggiornamenti di Commerce {#upgrade}
++ Aggiornamenti Commerce {#upgrade}
    + [Workshop sull’aggiornamento ad Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
    + [Panoramica di Upgrade Compatibility Tool](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilizzare Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
@@ -184,7 +185,7 @@ ht-degree: 2%
 + Architettura headless {#headless-architecture}
    + Introduzione a headless {#introduction-to-headless}
       + [Architettura headless - Sessione 1](../headless/session-1.md)
-   + Introduzione a PWA Studi {#introduction}
+   + Introduzione a PWA Studio {#introduction}
       + [1 - Panoramica](../pwa/introduction/1-overview.md)
       + [2 - Strumenti di PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Lancio](../pwa/introduction/3-launch.md)
