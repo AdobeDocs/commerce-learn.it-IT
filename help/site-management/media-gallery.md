@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Con Adobe Commerce o Magento Open Source 2.4, i commercianti possono utilizzare 
 
 ## Risorse aggiuntive
 
-- [Raccolta file multimediali - [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
-- [Archiviazione alternativa - [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)
+- [Media Gallery - [!DNL Commerce] Guida di progettazione e contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [Archiviazione di supporti alternativi - [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

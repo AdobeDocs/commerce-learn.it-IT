@@ -1,8 +1,8 @@
 ---
 title: Creare una rete a sorgente singola GraphQL in Mesh API
-description: Scopri come utilizzare API Mesh in Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
-landing-page-description: Scopri come utilizzare API Mesh in Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
-short-description: Scopri come utilizzare API Mesh in Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
+description: Scopri come utilizzare API Mesh su Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
+landing-page-description: Scopri come utilizzare API Mesh su Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
+short-description: Scopri come utilizzare API Mesh su Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con una sola origine.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 12%
+source-wordcount: '237'
+ht-degree: 0%
 
 ---
 
 # Creare una trama con un&#39;unica origine
 
-Questo video aiuta gli sviluppatori a comprendere come creare una trama con un’unica origine in API Mesh per Adobe Developer App Builder. Affinché questo esempio di base funzioni come previsto, è necessario un endpoint API o GraphQL accessibile al pubblico. Il video spiega anche come creare un `mesh.json` da utilizzare con l’istanza Commerce. Per ulteriori dettagli ed esempi di codice, visita [Creare una trama](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Questo video aiuta gli sviluppatori a comprendere come creare una mesh con un’unica sorgente in API Mesh per Adobe Developer App Builder. Affinché questo esempio di base funzioni come previsto, è necessario un endpoint API o GraphQL accessibile al pubblico. Nel video viene inoltre illustrato come creare un semplice file `mesh.json` da utilizzare con l&#39;istanza di Commerce. Per ulteriori dettagli ed esempi di codice, visita [Crea una rete](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## A chi serve questo video?
 
@@ -39,7 +39,7 @@ Questo video aiuta gli sviluppatori a comprendere come creare una trama con un�
 
 ## Creare il file di configurazione json
 
-API Mesh utilizza un file di configurazione JSON per definire i gestori di origine. Il file JSON contiene un `sources` matrice contenente le origini della mesh. Di seguito è riportato un esempio di mesh con un&#39;unica origine.
+API Mesh utilizza un file di configurazione JSON per definire i gestori di origine. Il file JSON contiene un array `sources` che contiene le origini per la rete. Di seguito è riportato un esempio di mesh con un&#39;unica origine.
 
 ```json
 {

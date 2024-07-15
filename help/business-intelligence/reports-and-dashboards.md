@@ -1,6 +1,6 @@
 ---
-title: Rapporti e dashboard sulle integrazioni di Adobe Commerce Intelligence
-description: Scopri i rapporti di Adobe Commerce Intelligence e la gestione delle dashboard
+title: Report e dashboard delle integrazioni Adobe Commerce Intelligence
+description: Scopri i rapporti e la gestione delle dashboard di Adobe Commerce Intelligence
 feature: Cloud
 topic: Commerce, Administration
 solution: Commerce,Commerce Intelligence
@@ -11,7 +11,8 @@ duration: 549
 last-substantial-update: 2024-04-09T00:00:00Z
 jira: KT-15231
 kt: 15231
-source-git-commit: 6e48ef290c44fcaa681d218654403917c67e00f7
+exl-id: d867a1f5-6b0e-4c73-be3f-8561792e0ef3
+source-git-commit: 343bf9167de0bc9937f8485b89006ba276eda82b
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

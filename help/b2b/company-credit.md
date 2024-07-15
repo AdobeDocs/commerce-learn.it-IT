@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Gestisci credito società
 
-Per le aziende che hanno _[!UICONTROL Payment on Account]_e avere il credito aziendale disponibile, possono effettuare acquisti sul loro conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
+Per le aziende che hanno abilitato _[!UICONTROL Payment on Account]_e dispongono di crediti aziendali, possono effettuare acquisti sul proprio conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
 
 È possibile impostare i seguenti parametri relativi al credito per ciascun profilo società:
 

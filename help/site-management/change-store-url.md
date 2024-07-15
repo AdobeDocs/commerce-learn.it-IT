@@ -1,6 +1,6 @@
 ---
 title: Modificare l’URL di un archivio
-description: Scopri come modificare il [!DNL Commerce] archivia l’URL di base in Admin.
+description: Scopri come modificare l'URL di base dell'archivio  [!DNL Commerce]  in Admin.
 kt: 5605
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Ogni sito web in un’installazione di Adobe Commerce o di Magento Open Source h
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [URL store - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [Utilizzare un URL amministratore personalizzato - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [URL store - [!DNL Commerce] Archivi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [Utilizza un URL amministratore personalizzato - [!DNL Commerce] Archivi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

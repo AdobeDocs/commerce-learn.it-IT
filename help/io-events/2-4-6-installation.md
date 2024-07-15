@@ -15,14 +15,14 @@ level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Installazione di Adobe Commerce 2.4.6
 
-Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.6. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.6. È stata trovata ulteriore documentazione in [Installa eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 

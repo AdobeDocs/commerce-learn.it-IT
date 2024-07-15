@@ -1,7 +1,7 @@
 ---
 title: Inviare l’app ad Adobe Commerce Marketplace
 description: Scopri come inviare un’applicazione alla Commerce Marketplace.
-landing-page-description: Scopri Adobe Developer App Builder e come inviare un’app a Commerci Marketplace.
+landing-page-description: Scopri Adobe Developer App Builder e come inviare un’app a Commerce Marketplace.
 kt: 13436
 doc-type: tutorial
 audience: all
@@ -10,17 +10,17 @@ feature: API Mesh, App Builder, Extensibility, Tools and External Services
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
-exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+exl-id: 6a217ea6-8d6b-4ecb-bbc3-b5b27df3bde9
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 # Scopri come inviare un’app ad Adobe Commerce Marketplace
 
-Il Marketplace di Adobe Commerce sta ora accettando le richieste di inserimento nell’elenco delle app di App Builder. App Builder è la nostra piattaforma di estensibilità di nuova generazione che offre agli sviluppatori tutti gli strumenti e i servizi necessari per creare app sicure e scalabili per Adobe Commerce. Gli sviluppatori possono ora pubblicare le loro app in Adobe Commerce Marketplace, la fonte affidabile per le aziende per scoprire e acquistare app di alta qualità in grado di soddisfare le proprie esigenze. Puoi inviare la tua app per la revisione andando in [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
+Il Marketplace di Adobe Commerce sta ora accettando le richieste per l’inserimento nell’elenco delle app App Builder. App Builder è la nostra piattaforma di estensibilità di nuova generazione che offre agli sviluppatori tutti gli strumenti e i servizi necessari per creare app sicure e scalabili per Adobe Commerce. Gli sviluppatori possono ora pubblicare le loro app in Adobe Commerce Marketplace, la fonte affidabile per le aziende per scoprire e acquistare app di alta qualità in grado di soddisfare le proprie esigenze. Puoi inviare la tua app per la revisione da [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
 
 ## A chi serve questo video?
 

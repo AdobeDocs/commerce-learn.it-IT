@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ Adobe Commerce utilizza gli attributi per gestire le informazioni associate a pr
 
 ## Risorse aggiuntive
 
-[Panoramica degli attributi del prodotto - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Panoramica attributi prodotto - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
 [Set di attributi - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

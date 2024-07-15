@@ -1,6 +1,6 @@
 ---
 title: Gestisci regole divisa e imposta
-description: Scopri come configurare la valuta e le regole fiscali che [!DNL Commerce] utilizza per calcolare l’imposta appropriata in base al cliente e alle classi di prodotti.
+description: Scopri come configurare la valuta e le regole fiscali che [!DNL Commerce] utilizza per calcolare l'imposta appropriata in base al cliente e alle classi di prodotto.
 kt: 10542
 doc-type: feature video
 audience: all
@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 # Gestisci regole divisa e imposta
 
-Le regole fiscali includono una combinazione di classe di prodotto, classe di cliente e aliquota. A ogni cliente viene assegnata una classe di clienti e a ogni prodotto viene assegnata una classe di prodotti. [!DNL Commerce] analizza il carrello di ciascun cliente e calcola l’imposta appropriata in base al cliente e alle classi di prodotti, nonché all’area geografica (in base all’indirizzo di spedizione, all’indirizzo di fatturazione o all’origine di spedizione).
+Le regole fiscali includono una combinazione di classe di prodotto, classe di cliente e aliquota. A ogni cliente viene assegnata una classe di clienti e a ogni prodotto viene assegnata una classe di prodotti. [!DNL Commerce] analizza il carrello di ciascun cliente e calcola l&#39;imposta appropriata in base al cliente e alle classi di prodotti e all&#39;area geografica (in base all&#39;indirizzo di spedizione, all&#39;indirizzo di fatturazione o all&#39;origine di spedizione).
 
 ## A chi serve questo video?
 
@@ -33,5 +33,5 @@ Le regole fiscali includono una combinazione di classe di prodotto, classe di cl
 
 ## Risorse aggiuntive
 
-- [Regole fiscali - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Valuta - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Regole fiscali - [!DNL Commerce] Guida agli archivi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [Valuta - [!DNL Commerce] Archivi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

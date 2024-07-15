@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visualizzatore AR disponibile nella Commerce Marketplace
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Visualizzatore realtà aumentata per Adobe Commerce
 
@@ -24,7 +24,7 @@ AR Viewer è un’estensione per Adobe Commerce che offre ai proprietari di nego
 
 AR Viewer funge da ponte tra la vendita al dettaglio fisica e digitale, consentendo ai venditori di fornire un’esperienza del cliente ricca e interattiva senza richiedere conoscenze tecniche approfondite o un intenso lavoro manuale. La sua interfaccia semplice e intuitiva è perfettamente integrata nell’amministratore di Adobe Commerce, rendendola una pratica aggiunta a qualsiasi negozio online.
 
-AR Viewer consente di: [!DNL bridge] il divario tra vendita al dettaglio fisica e digitale, che consente ai venditori di offrire un’esperienza del cliente ricca e interattiva senza richiedere conoscenze tecniche approfondite o un intenso lavoro manuale. La sua interfaccia semplice e intuitiva è perfettamente integrata nell’amministratore di Adobe Commerce, rendendola una pratica aggiunta a qualsiasi negozio online.
+AR Viewer consente di [!DNL bridge] il divario tra vendita al dettaglio fisica e digitale, consentendo ai venditori di fornire un&#39;esperienza del cliente ricca e interattiva senza richiedere conoscenze tecniche approfondite o un intenso lavoro manuale. La sua interfaccia semplice e intuitiva è perfettamente integrata nell’amministratore di Adobe Commerce, rendendola una pratica aggiunta a qualsiasi negozio online.
 
 ## Funzioni
 
@@ -39,7 +39,7 @@ AR Viewer consente di: [!DNL bridge] il divario tra vendita al dettaglio fisica 
 ## Aggiunta del modello 3D a un prodotto
 
 L’aggiunta di un nuovo modello 3D al prodotto è un processo semplice dopo l’installazione del modulo nell’installazione di Adobe Commerce.
-Nel video seguente, è presente una nuova sezione che supporta il caricamento di `.USDZ` caricamento di file.
+Nel video seguente, è presente una nuova sezione che supporta il caricamento del file `.USDZ`.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -63,4 +63,3 @@ Una volta che il visitatore analizza il codice QR con il proprio dispositivo, l�
 ## Estensione Adobe Commerce Marketplace
 
 [Visualizzatore AR](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ Per le piccole e medie imprese, i rivenditori di medie dimensioni o le grandi im
 ## Risorse aggiuntive
 
 - [Guida ai servizi di pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Connettore Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

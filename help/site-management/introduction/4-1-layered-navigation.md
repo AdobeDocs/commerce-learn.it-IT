@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per gli utenti aziendali - Navigazione a più livelli"
-description: Abilitare la navigazione su più livelli nel [!DNL Commerce] in modo che i clienti possano trovare i prodotti facilmente e rapidamente.
+title: "[!DNL Commerce] per utenti aziendali - Navigazione a livelli"
+description: Abilita la navigazione su più livelli nell'archivio  [!DNL Commerce]  in modo che i clienti possano trovare i prodotti facilmente e rapidamente.
 kt: 5775
 doc-type: video
 activity: use
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per utenti aziendali - Navigazione su più livelli
+# [!DNL Commerce] per utenti aziendali - Navigazione a livelli
 
 In questo video:
 
@@ -31,7 +31,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 

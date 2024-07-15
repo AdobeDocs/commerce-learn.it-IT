@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per gli utenti aziendali: visualizzazioni dello store e cancellazione della cache"
+title: "[!DNL Commerce] per utenti aziendali - Memorizzazione di visualizzazioni e cancellazione della cache"
 description: Scopri come creare visualizzazioni store e cancellare la cache.
 kt: 5761
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] per utenti aziendali: visualizzazioni dello store e cancellazione della cache
+# [!DNL Commerce] per utenti aziendali - Memorizzazione di visualizzazioni e cancellazione della cache
 
 In questo video:
 

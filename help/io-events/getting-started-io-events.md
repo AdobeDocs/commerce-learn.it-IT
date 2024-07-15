@@ -1,8 +1,8 @@
 ---
 title: Guida introduttiva agli eventi IO con Adobe App Builder e Adobe Commerce
-description: Guida introduttiva agli eventi Adobe I/O. Creare un’azione di runtime di App Builder per gli eventi di Adobe Commerce.
-landing-page-description: Scopri come utilizzare l’azione di runtime di App Builder per gli eventi Adobe Commerce.
-short-description: Creazione di un’azione di runtime di App Builder per gli eventi di Adobe Commerce.
+description: Guida introduttiva agli eventi Adobe I/O. Crea un’azione di runtime App Builder per gli eventi Adobe Commerce.
+landing-page-description: Scopri come utilizzare l’azione runtime di App Builder per gli eventi Adobe Commerce.
+short-description: Creazione di un’azione runtime di App Builder per gli eventi Adobe Commerce.
 kt: 14583
 doc-type: tutorial
 audience: all
@@ -11,7 +11,8 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
+exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
+source-git-commit: b858cca427399963571847c71832841b64c88c95
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

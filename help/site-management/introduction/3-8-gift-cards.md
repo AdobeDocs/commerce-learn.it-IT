@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] per gli utenti aziendali - Biglietti regalo"
-description: Scopri come includere le gift card nel tuo [!DNL Commerce] archiviare.
+title: "[!DNL Commerce] per utenti aziendali - Biglietti regalo"
+description: Scopri come includere le gift card nel tuo  [!DNL Commerce]  store.
 kt: 5774
 doc-type: video
 activity: use
@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
 [Prodotto gift card - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
-[Acquisto e rimborso gift card - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
+[Acquisto e rimborso tramite gift card - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
 

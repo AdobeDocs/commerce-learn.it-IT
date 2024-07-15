@@ -1,6 +1,6 @@
 ---
 title: Creare un prodotto semplice
-description: Scopri come creare un prodotto semplice utilizzando l’API REST e l’amministratore di Commerce.
+description: Scopri come creare un prodotto semplice utilizzando l’API REST e l’amministratore Commerce.
 kt: 14446
 doc-type: video
 audience: all
@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
+exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -59,5 +60,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## Risorse aggiuntive
 
-- [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

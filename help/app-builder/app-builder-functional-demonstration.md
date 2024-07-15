@@ -1,5 +1,5 @@
 ---
-title: Dimostrazione funzionale di App Builder
+title: Dimostrazione funzionale App Builder
 description: Scopri Adobe Developer App Builder utilizzato in Adobe Commerce con una dimostrazione tecnica
 landing-page-description: Scopri Adobe Developer App Builder utilizzato in Adobe Commerce con una dimostrazione tecnica
 short-description: Scopri Adobe Developer App Builder utilizzato in Adobe Commerce con una dimostrazione tecnica

@@ -1,16 +1,16 @@
 ---
-title: App Builder - Pagine correlate alla prima app
-description: Collegamenti a pagine correlate nella sezione App Builder First App
+title: Pagine correlate alla prima app App Builder
+description: Collegamenti a pagine correlate nella sezione Prima app di App Builder
 source-git-commit: 021098545e4666f43f02452358464701f30002fd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 1%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-# Collegamenti relativi alla prima app di App Builder
+# Collegamenti relativi alla prima app App Builder
 
-## App Builder: creare le prime pagine correlate all’app
+## App Builder - Creare le prime pagine correlate all’app
 
 * [Panoramica](../app-builder/first-app/overview.md)
 * [Il ](../app-builder/first-app/env-file.md)

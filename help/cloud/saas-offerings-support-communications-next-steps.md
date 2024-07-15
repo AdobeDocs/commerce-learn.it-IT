@@ -75,9 +75,9 @@ Scopri le offerte, il supporto e altre comunicazioni SaaS di Adobe Commerce Clou
 
 - [Apri ricerca](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html)
 - [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Recommendations del prodotto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [Recommendations prodotto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
 - [Live Search e Catalog Service](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
-- [Indicizzazione prezzi servizio catalogo](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
+- [Indicizzazione prezzo servizio catalogo](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
 - [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [Responsabilità condivisa](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [Accesso ai dati del cliente e privacy](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
@@ -89,6 +89,6 @@ Scopri le offerte, il supporto e altre comunicazioni SaaS di Adobe Commerce Clou
 - [Strumento di analisi a livello di sito - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [New Relic Observation per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
   [Patch di sicurezza](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
-- [Elenco di controllo per Launch](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+- [Elenco di controllo avvio](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

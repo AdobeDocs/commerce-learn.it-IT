@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Sviluppo di moduli Adobe Commerce
 
-Scopri come registrare eventi, trovare eventi supportati e utilizzare un nuovo file XML `io_events.xml` nello sviluppo di moduli personalizzati. Il video mostrerà inoltre agli sviluppatori come trovare eventi registrati che possono essere utilizzati e come annullare l’abbonamento a eventuali eventi già definiti. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come registrare gli eventi, trovare gli eventi supportati e utilizzare un nuovo file XML `io_events.xml` nello sviluppo di moduli personalizzati. Il video mostrerà inoltre agli sviluppatori come trovare eventi registrati che possono essere utilizzati e come annullare l’abbonamento a eventuali eventi già definiti. È stata trovata ulteriore documentazione in [Installa eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
@@ -32,7 +32,7 @@ Scopri come registrare eventi, trovare eventi supportati e utilizzare un nuovo f
 * Registrazione di eventi in Commerce per l’utilizzo in Adobe Developer App Builder
 * Identificare gli eventi che possono essere registrati
 * Scopri come registrare gli eventi in io_events.xml
-* Scopri come registrare gli eventi nelle istanze Commerce `app/etc/config.php`
+* Scopri come registrare gli eventi nelle istanze di Commerce `app/etc/config.php`
 * Scopri come annullare l’abbonamento a un evento
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)

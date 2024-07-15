@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Ogni installazione di Adobe Commerce e Magento Open Source supporta una gerarchi
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 

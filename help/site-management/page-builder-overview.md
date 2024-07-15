@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Page Builder] panoramica'
-description: Scopri come creare le pagine [!DNL Commerce] memorizzare le pagine nell’Amministratore tramite [!DNL Page Builder].
+description: Scopri come creare pagine [!DNL Commerce] archiviare pagine nell'amministratore utilizzando [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 audience: all
@@ -13,16 +13,16 @@ level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# [!DNL Page Builder] panoramica
+# Panoramica di [!DNL Page Builder]
 
-[!DNL Page Builder] consente di creare facilmente pagine ricche di contenuti con layout personalizzati che migliorano la narrazione visiva e stimolano il coinvolgimento e la fedeltà dei clienti.
+[!DNL Page Builder] semplifica la creazione di pagine ricche di contenuti con layout personalizzati che migliorano la narrazione visiva e stimolano il coinvolgimento e la fedeltà dei clienti.
 
-A partire dalla versione 2.4.3 di, [!DNL Page Builder] è disponibile per impostazione predefinita sia in Adobe Commerce che in Magento Open Source. Con [!DNL Page Builder] in Adobe Commerce, puoi incorporare staging e anteprima, contenuti personalizzati e consigli di prodotto, con funzionalità aggiuntive in arrivo.
+A partire dalla versione 2.4.3, [!DNL Page Builder] è disponibile per impostazione predefinita sia in Adobe Commerce che in Magento Open Source. Con [!DNL Page Builder] in Adobe Commerce, puoi incorporare staging e anteprima, contenuti personalizzati e consigli di prodotto, con funzionalità aggiuntive in arrivo.
 
 In questo video, scopri come:
 

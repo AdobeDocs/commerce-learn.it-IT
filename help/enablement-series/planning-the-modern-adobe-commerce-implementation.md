@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # Pianificazione dell’implementazione moderna di Adobe Commerce
 
-Questo webinar offre una panoramica completa di vari argomenti relativi ad Adobe Commerce, tra cui il servizio di catalogo, la comprensione dell’architettura del cliente e i Edge Delivery Services. &#x200B;Gli argomenti includono funzioni e vantaggi nuovi o esistenti di ciascun servizio, ad esempio ricerche live e consigli sui prodotti nel catalogo Adobe Commerce as a Service, analisi delle API e del flusso di dati per comprendere l’architettura del cliente e le prestazioni elevate e la bassa latenza dei Edge Delivery Services. Inoltre, il documento menziona l&#39;importanza di disporre di documenti standard e di un elenco di domande quando si interagisce con i clienti, nonché il concetto di Global Reference Architecture (GRA) per la creazione di progetti efficienti.
+Questo webinar offre una panoramica completa di vari argomenti relativi ad Adobe Commerce, tra cui il servizio di catalogo, la comprensione dell’architettura del cliente e i Edge Delivery Services.
+&#x200B;Gli argomenti includono funzioni e vantaggi nuovi o esistenti di ciascun servizio, ad esempio ricerche live e consigli sui prodotti nel catalogo Adobe Commerce as a Service, analisi delle API e del flusso di dati per comprendere l’architettura del cliente e le prestazioni elevate e la bassa latenza dei Edge Delivery Services. Inoltre, il documento menziona l&#39;importanza di disporre di documenti standard e di un elenco di domande quando si interagisce con i clienti, nonché il concetto di Global Reference Architecture (GRA) per la creazione di progetti efficienti.
 
 ## Pubblico
 

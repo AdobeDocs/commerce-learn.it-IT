@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # Creare un attributo di prodotto
 
-L’aggiunta di un attributo di prodotto è una delle operazioni più comuni in [!DNL Commerce]. Gli attributi sono un modo potente per risolvere molte attività pratiche relative a un prodotto. È disponibile un semplice processo per aggiungere un attributo di tipo a discesa a un prodotto.
+L&#39;aggiunta di un attributo di prodotto è una delle operazioni più comuni in [!DNL Commerce]. Gli attributi sono un modo potente per risolvere molte attività pratiche relative a un prodotto. È disponibile un semplice processo per aggiungere un attributo di tipo a discesa a un prodotto.
 
 In questo video:
 
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Se il modulo utilizza lo schema dichiarativo e la maggior parte dispone della versione 2.3.0, omettere setup_version. Tuttavia, se disponi di alcuni progetti legacy, potresti vedere questo metodo utilizzato.  Consulta [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} per ulteriori informazioni.
+>Se il modulo utilizza lo schema dichiarativo e la maggior parte dispone della versione 2.3.0, omettere setup_version. Tuttavia, se disponi di alcuni progetti legacy, potresti vedere questo metodo utilizzato.  Per ulteriori informazioni, vedere [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.
 
 
 ```xml
@@ -231,4 +231,4 @@ class InstallData implements InstallDataInterface
 
 [Creare un attributo di prodotto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Aggiungere un attributo di campo di testo personalizzato](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Aggiungere un attributo del campo di testo personalizzato](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

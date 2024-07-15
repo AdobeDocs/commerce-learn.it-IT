@@ -15,18 +15,18 @@ level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Installazione di Adobe Commerce 2.4.5
 
-Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.5. In questo modo vengono impostati i moduli richiesti da utilizzare nell’applicazione Adobe Commerce. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.5. In questo modo vengono impostati i moduli richiesti da utilizzare nell’applicazione Adobe Commerce. È stata trovata ulteriore documentazione in [Installa eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder con eventi di I/O
 
 ## Contenuto video {#video-content}
 

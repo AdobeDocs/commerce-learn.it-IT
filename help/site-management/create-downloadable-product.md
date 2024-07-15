@@ -34,7 +34,7 @@ Scopri come creare un prodotto scaricabile utilizzando l’API REST e l’ammini
 
 ## Domini scaricabili consentiti
 
-È necessario specificare quali domini sono consentiti per consentire i download. I domini vengono aggiunti al file `env.php` tramite la riga di comando. Il `env.php` file descrive i domini autorizzati a contenere contenuto scaricabile. Se si crea un prodotto scaricabile utilizzando l’API REST, si verifica un errore _prima di_  il `php.env` file aggiornato:
+È necessario specificare quali domini sono consentiti per consentire i download. I domini vengono aggiunti al file `env.php` del progetto tramite la riga di comando. Il file `env.php` descrive i domini che possono contenere contenuto scaricabile. Si verifica un errore se viene creato un prodotto scaricabile utilizzando l&#39;API REST _prima_ dell&#39;aggiornamento del file `php.env`:
 
 ```bash
 {
@@ -44,7 +44,7 @@ Scopri come creare un prodotto scaricabile utilizzando l’API REST e l’ammini
 
 Per impostare il dominio, connettersi al server: `bin/magento downloadable:domains:add www.example.com`
 
-Una volta completato, il `env.php` è modificato all&#39;interno del _downloadable_domain_ array.
+Una volta completato, `env.php` viene modificato all&#39;interno dell&#39;array _downloadable_domains_.
 
 ```php
     'downloadable_domains' => [
@@ -52,18 +52,18 @@ Una volta completato, il `env.php` è modificato all&#39;interno del _downloadab
     ],
 ```
 
-Ora che il dominio viene aggiunto al `env.php`, puoi creare un prodotto scaricabile in Adobe Commerce Admin o utilizzando l’API REST.
+Ora che il dominio è stato aggiunto a `env.php`, è possibile creare un prodotto scaricabile in Adobe Commerce Admin o utilizzando l&#39;API REST.
 
-Consulta [Riferimento configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) per ulteriori informazioni.
+Per ulteriori informazioni, consulta [Riferimento configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains).
 
 >[!IMPORTANT]
->In alcune versioni di Adobe Commerce, quando un prodotto viene modificato in Adobe Commerce Admin, potrebbe venire visualizzato il seguente errore. Il prodotto viene creato utilizzando l’API REST, ma il download collegato ha un `null` prezzo.
+>In alcune versioni di Adobe Commerce, quando un prodotto viene modificato in Adobe Commerce Admin, potrebbe venire visualizzato il seguente errore. Il prodotto viene creato utilizzando l’API REST, ma il download collegato ha un prezzo `null`.
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-Per risolvere questo errore, utilizza l’API del collegamento di aggiornamento: `POST V1/products/{sku}/downloadable-links.`
+Per correggere l&#39;errore, utilizzare l&#39;API del collegamento di aggiornamento: `POST V1/products/{sku}/downloadable-links.`
 
-Consulta la [Aggiornare un collegamento di download del prodotto utilizzando cURL](#update-downloadable-links) per ulteriori informazioni.
+Per ulteriori informazioni, consulta la sezione [Aggiornare un collegamento di download del prodotto utilizzando cURL](#update-downloadable-links).
 
 ## Creare un prodotto scaricabile utilizzando cURL (download dal server remoto)
 
@@ -116,20 +116,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Questo esempio illustra come utilizzare cURL per creare un prodotto scaricabile dall’amministratore di Adobe Commerce quando il file viene memorizzato sullo stesso server dell’applicazione Adobe Commerce.
 
-In questo caso d’uso, quando l’amministratore che gestisce il catalogo sceglie `upload file`, il file viene trasferito in `pub/media/downloadable/files/links/` directory.  L’automazione crea e sposta i file nelle rispettive posizioni in base al seguente pattern:
+In questo caso d&#39;uso, quando l&#39;amministratore che gestisce il catalogo sceglie `upload file`, il file viene trasferito alla directory `pub/media/downloadable/files/links/`.  L’automazione crea e sposta i file nelle rispettive posizioni in base al seguente pattern:
 
 - Ogni file caricato viene memorizzato in una cartella in base ai primi due caratteri del nome del file.
 - Quando il caricamento viene avviato, l&#39;applicazione Commerce crea o utilizza cartelle esistenti per trasferire il file.
-- Quando si scarica il file, la `link_file` sezione del percorso utilizza la porzione del percorso aggiunta al `pub/media/downloadable/files/links/` directory.
+- Durante il download del file, la sezione `link_file` del percorso utilizza la parte del percorso aggiunta alla directory `pub/media/downloadable/files/links/`.
 
-Ad esempio, se il nome del file caricato è `download-example.zip`:
+Ad esempio, se il file caricato è denominato `download-example.zip`:
 
-- Il file viene caricato nel percorso `pub/media/downloadable/files/links/d/o/`.
+- Il file è stato caricato nel percorso `pub/media/downloadable/files/links/d/o/`.
 Le sottodirectory `/d` e `/d/o` vengono create se non esistono.
 
 - Il percorso finale del file è `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- Il `link_url` il valore di questo esempio è `d/o/download-example.zip`
+- Il valore `link_url` per questo esempio è `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -181,8 +181,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## Aggiornare il prodotto utilizzando Postman {#update-downloadable-links}
 
-Utilizzare l’endpoint `rest/all/V1/products/{sku}/downloadable-links`
-Il `SKU` è l’ID prodotto generato al momento della creazione del prodotto. Ad esempio, nell’esempio di codice seguente, è il numero 39, ma assicurati che sia aggiornato per utilizzare l’ID dal tuo sito web. Questo aggiorna i collegamenti per i prodotti scaricabili.
+Usa l&#39;endpoint `rest/all/V1/products/{sku}/downloadable-links`
+`SKU` è l&#39;ID prodotto generato al momento della creazione del prodotto. Ad esempio, nell’esempio di codice seguente, è il numero 39, ma assicurati che sia aggiornato per utilizzare l’ID dal tuo sito web. Questo aggiorna i collegamenti per i prodotti scaricabili.
 
 ```json
 {
@@ -207,7 +207,7 @@ Il `SKU` è l’ID prodotto generato al momento della creazione del prodotto. Ad
 
 ## Aggiornare un collegamento per il download di prodotti utilizzando CURL
 
-Quando aggiorni un collegamento per il download di un prodotto utilizzando cURL, l’URL include lo SKU del prodotto che viene aggiornato.  Nell’esempio di codice seguente, lo SKU è `abcd12345`. Quando invii il comando, modifica il valore in modo che corrisponda allo SKU del prodotto che desideri aggiornare.
+Quando aggiorni un collegamento per il download di un prodotto utilizzando cURL, l’URL include lo SKU del prodotto che viene aggiornato.  Nell&#39;esempio di codice seguente, lo SKU è `abcd12345`. Quando invii il comando, modifica il valore in modo che corrisponda allo SKU del prodotto che desideri aggiornare.
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
@@ -238,5 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [Tipo di prodotto scaricabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [Guida alla configurazione dei domini scaricabili](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

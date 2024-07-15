@@ -1,5 +1,5 @@
 ---
-title: Integrazioni di Adobe Commerce Intelligence e alcune configurazioni di base
+title: Integrazioni Adobe Commerce Intelligence e alcune configurazioni di base
 description: Scopri le integrazioni di Adobe Commerce Intelligence e alcune configurazioni che consentono di creare rapporti e dashboard
 feature: Cloud
 topic: Commerce, Administration
@@ -19,9 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Integrazioni e configurazioni di Adobe Commerce Intelligence
+# Integrazioni e configurazioni Adobe Commerce Intelligence
 
-Il tutorial fornisce una panoramica della scheda Gestisci dati di Adobe Commerce Intelligence, illustrando come impostare e configurare integrazioni, Data Warehouse e funzionalità di reporting. &#x200B;
+Il tutorial fornisce una panoramica della scheda Gestisci dati in Adobe Commerce Intelligence, spiegando come impostare e configurare integrazioni, Data Warehouse e funzionalità di reporting.
+&#x200B;
 Descrive le opzioni per le integrazioni, incluse le integrazioni predefinite, standard e premium, e la possibilità di aggiungere integrazioni personalizzate.
 Il documento illustra inoltre la procedura per sincronizzare le tabelle con la Data Warehouse, aggiungere nuove tabelle e colonne e creare metriche e filtri a scopo di reporting.
 

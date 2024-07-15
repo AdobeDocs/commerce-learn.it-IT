@@ -10,17 +10,17 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # Visualizza e imposta le configurazioni amministratore tramite la riga di comando
 
-Una dimostrazione per visualizzare, impostare e trovare i valori di configurazione con Commerce CLI. Scopri dove vengono salvati i valori e da dove provengono i valori predefiniti.
+Dimostrazione di come visualizzare, impostare e trovare i valori di configurazione con Commerce CLI. Scopri dove vengono salvati i valori e da dove provengono i valori predefiniti.
 
 ## A chi serve questo video?
 
@@ -63,5 +63,5 @@ Per visualizzare una pagina nel terminale e visualizzare i numeri di riga `cat -
 
 ## Risorse aggiuntive
 
-- [Strumento Riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Configurare la sicurezza dell’amministratore](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Strumento da riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+- [Configura sicurezza amministratore](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

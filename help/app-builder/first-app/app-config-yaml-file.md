@@ -24,12 +24,12 @@ Questo file determina la configurazione dell&#39;applicazione.
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce con un’esperienza limitata con Adobe App Builder che stanno imparando a `app.config.yaml` nell&#39;applicazione di esempio.
+* Sviluppatori senza esperienza di Adobe Commerce con Adobe App Builder che stanno imparando a conoscere `app.config.yaml` nell&#39;applicazione di esempio.
 
 ## Contenuto video
 
-* Il `app.config.yaml` file discusso
-* In che modo le definizioni sono collegate ad altre `.js` file
+* Il file `app.config.yaml` ha discusso
+* Come vengono collegate le definizioni ad altri file `.js`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
@@ -53,7 +53,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Puoi vedere questi valori statici utilizzati nel modulo di esempio in un file `actions/commerce.index.js`
+Questi valori statici vengono utilizzati nel modulo di esempio nel file `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

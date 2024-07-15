@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] per utenti aziendali - Tipi di prodotto"
-description: Scopri di più su [!DNL Commerce] tipi di prodotto e le opzioni per ciascuno.
+description: Scopri i tipi di prodotto  [!DNL Commerce]  e le relative opzioni.
 kt: 5767
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 8067f749-31fb-4a71-9c7c-ee31720aa6ce
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti delle versioni successive, vedi [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35952?quality=12&learn=on)
 

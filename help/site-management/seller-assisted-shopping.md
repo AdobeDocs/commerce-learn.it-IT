@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ I clienti a volte hanno bisogno di assistenza per completare un acquisto. Ad alc
 
 ## Risorse aggiuntive
 
-- [Fornire assistenza all&#39;acquirente - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Assistenza per lo shopping - [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [Fornisci assistenza per gli acquirenti - [!DNL Commerce] Negozi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [Assistenza per gli acquisti - [!DNL Commerce] Negozi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

@@ -1,7 +1,7 @@
 ---
 source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ ht-degree: 0%
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-- [ ] Correzione di bug (modifica non intermittente che risolve un problema)
-- [ ] Nuova funzione (modifica senza interruzione che aggiunge funzionalità)
-- [ ] Modifica che comporta interruzioni (correzione o feature che causerebbe modifiche alle funzionalità esistenti)
+- [ ] Correzione bug (modifica non intermittente che risolve un problema)
+- [ ] Nuova funzionalità (modifica non interrompente che aggiunge funzionalità)
+- [ ] Modifica che causa interruzioni (correzione o funzionalità che causerebbe la modifica delle funzionalità esistenti)
 
 ## Elenco di controllo:
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Hai seguito il [Standard di denominazione](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] Hai seguito i [Standard di denominazione](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] Il sommario e la corrispondenza H1 per ogni pagina creata o aggiornata.
-- [ ] Al sommario e all’H1 è associata un’azione, ad esempio: Scopri come creare una richiesta pull GutHub
-- [ ] In H1 non deve essere inserito nulla nella zona monospazio
-- [ ] Il titolo di ogni pagina deve iniziare con una lettera ***C***apitol
-- [ ] Ho controllato per vedere se alcuni video dovevano avere capitoli
+- [ ] Al sommario e all&#39;H1 è associata un&#39;azione, ad esempio: Scopri come creare una richiesta pull GutHub
+- [ ] Non deve essere presente alcun spazio monospazio in H1
+- [ ] Ogni titolo della pagina deve iniziare con una lettera ***C***apitol
+- [ ] ho controllato per vedere se alcuni video dovevano avere capitoli
 - [ ] A tutti i video è stato assegnato un poster per rappresentare correttamente il video
 - [ ] Hai usato [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

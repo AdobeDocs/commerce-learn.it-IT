@@ -1,7 +1,7 @@
 ---
 title: Il file .env
 description: Scopri i tipi di file nel file .env per questa applicazione di esempio
-landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e i tipi di contenuto utilizzati nel file .env
+landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e quali tipi di contenuto vengono utilizzati nel file .env
 kt: 12423
 doc-type: tutorial
 audience: all
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Generare e configurare il file .env {#env-file}
 
-Il `.env` è un file speciale che non fa parte del modulo di esempio, ma è importante per l’utilizzo nell’applicazione Adobe Developer App Builder. Questo file contiene segreti e altre informazioni. Evita di eseguire il commit di questo file in qualsiasi archivio di codice.
+`.env` è un file speciale che non fa parte del modulo di esempio, ma è importante per l&#39;utilizzo nell&#39;applicazione Adobe Developer App Builder. Questo file contiene segreti e altre informazioni. Evita di eseguire il commit di questo file in qualsiasi archivio di codice.
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e che desiderano saperne di più sul `.env` file.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e desiderano conoscere il file `.env`.
 
 ## Contenuto video
 
@@ -55,7 +55,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Puoi vedere questi valori statici utilizzati nel modulo di esempio in un file `actions/commerce.index.js`.
+Questi valori statici vengono utilizzati nel modulo di esempio nel file `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

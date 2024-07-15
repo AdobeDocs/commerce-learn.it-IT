@@ -34,7 +34,7 @@ ht-degree: 2%
       + [Connessione dati](../capabilities/data-connection.md)
       + [Dimostrazione completa di Live Search](../capabilities/live-search-full-demonstration.md)
       + [Commerce componibile](../capabilities/what-is-composable-commerce.md)
-   + Creare prodotti {#create-products}
+   + Crea prodotti {#create-products}
       + [Prodotto semplice](../site-management/create-simple-product.md)
       + [Prodotto virtuale](../site-management/create-virtual-product.md)
       + [Prodotto scaricabile](../site-management/create-downloadable-product.md)
@@ -50,7 +50,7 @@ ht-degree: 2%
       + [Pianificazione dell’implementazione moderna di Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Lancio, post-lancio, monitoraggio e risoluzione dei problemi](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
       + [Edge Delivery Services con Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-+ GRAPHQL e REST {#graphql-rest}
++ GraphQL e REST {#graphql-rest}
    + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
    + [Query](../graphql-rest/graphql-queries.md)
    + [Mutazioni](../graphql-rest/graphql-mutations.md)
@@ -61,7 +61,7 @@ ht-degree: 2%
    + [Dimostrazione funzionale per App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Panoramica tecnica per App Builder](../app-builder/app-builder-technical-overview.md)
    + [Invia app al Marketplace](../app-builder/submit-app-process.md)
-   + Creare la prima app App Builder {#first-app}
+   + Crea la tua prima app di App Builder {#first-app}
       + [Panoramica](../app-builder/first-app/overview.md)
       + [Generare e configurare il file .env](../app-builder/first-app/env-file.md)
       + [Descrizione e utilizzo del file app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
@@ -72,13 +72,13 @@ ht-degree: 2%
       + [Test tramite l’URL di App Builder](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusione](../app-builder/first-app/conclusion.md)
       + [Codice sorgente del modulo di esempio](https://github.com/magento/app-builder-samples){target="_blank"}
-   + Eventi I/O per Adobe Commerce {#io-events}
+   + Eventi IO per Adobe Commerce {#io-events}
       + [Eventi I/O introduttivi](../io-events/getting-started-io-events.md)
       + [Installazione di Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installazione di Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Creazione di un progetto App Builder](../io-events/create-app-builder-project.md)
+      + [Crea un progetto App Builder](../io-events/create-app-builder-project.md)
       + [Configurare Adobe Commerce](../io-events/configure-commerce.md)
-      + [Sviluppo di moduli Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Sviluppo modulo Adobe Commerce](../io-events/commerce-module-development.md)
       + [Eventi condizionali di Adobe Commerce](../io-events/conditional-events.md)
    + Mesh API {#api-mesh}
       + [Introduzione a Mesh API](../api-mesh/getting-started-api-mesh.md)
@@ -86,7 +86,7 @@ ht-degree: 2%
       + [Utilizzo di progetti e aree di lavoro](../api-mesh/aio-projects-workspaces.md)
       + [Crea mesh API GraphQL a origine singola](../api-mesh/graphql-single-source.md)
       + [Creazione di più mesh API GraphQL di origine](../api-mesh/graphql-multiple-source.md)
-+ Amministrazione store {#admin}
++ Amministrazione archivio {#admin}
    + [Gestione di ruoli utente e autorizzazioni](../site-management/users-roles-permissions.md)
    + [Autenticazione a due fattori](../site-management/two-factor-authentication.md)
    + [Gestisci regole divisa e imposta](../site-management/currency-tax-rules.md)
@@ -113,7 +113,7 @@ ht-degree: 2%
    + [Gestisci riscritture URL per SEO (Search Engine Optimization)](../site-management/seo-url-rewrites.md)
    + [Visualizzatore AR](../site-management/augmented-reality.md)
    + [Importazione e aggiornamento del catalogo](../site-management/catalog-import.md)
-+ Gestione dei contenuti {#content}
++ Gestione contenuti {#content}
    + [Panoramica di Page Builder](../site-management/page-builder-overview.md)
    + [Creare blocchi statici e dinamici](../site-management/static-dynamic-blocks.md)
    + [Crea widget](../site-management/widgets.md)
@@ -126,7 +126,7 @@ ht-degree: 2%
    + [Gestire le regole prodotto correlate](../site-management/related-product-rules.md)
    + [Configurazione Recommendations prodotto](../site-management/product-recommendations.md)
    + [Introduzione a Live Search](../site-management/live-search.md)
-   + [Consigli per Live Search](../site-management/live-search-recommendations.md)
+   + [Consigli per la Live Search](../site-management/live-search-recommendations.md)
    + [Integrare Commerce con AJO](../site-management/integrate-commerce-ajo.md)
 + Ordini ed evasione {#orders}
    + [Panoramica sull&#39;evasione del negozio](../orders-and-fulfillment/store-fulfillment.md)
@@ -164,7 +164,7 @@ ht-degree: 2%
    + [Panoramica di Upgrade Compatibility Tool](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilizzare Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
 + Sviluppo back-end {#backend-development}
-   + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+   + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creare un modulo](../backend-development/create-module.md)
    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -183,7 +183,7 @@ ht-degree: 2%
    + [Aggiungere un modulo JavaScript](../frontend-development/add-javascript-module.md)
    + [Creare una pagina](../frontend-development/create-page.md)
 + Architettura headless {#headless-architecture}
-   + Introduzione a headless {#introduction-to-headless}
+   + Introduzione a {#introduction-to-headless} headless
       + [Architettura headless - Sessione 1](../headless/session-1.md)
    + Introduzione a PWA Studio {#introduction}
       + [1 - Panoramica](../pwa/introduction/1-overview.md)

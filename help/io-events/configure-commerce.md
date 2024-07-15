@@ -14,23 +14,23 @@ level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Configurare Adobe Commerce
 
-Scopri come configurare Adobe Commerce per esporre gli eventi. È stata trovata ulteriore documentazione all’indirizzo [Installare eventi Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come configurare Adobe Commerce per esporre gli eventi. È stata trovata ulteriore documentazione in [Installa eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto Adobe di App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto di Adobe App Builder.
 
 ## Contenuto video {#video-content}
 
 * Configurazione degli eventi di Adobe I/O nell’amministratore Commerce
-* Salvataggio di una chiave privata nell’amministratore Commerce
+* Salvataggio di una chiave privata nell’amministratore di Commerce
 * Salvataggio dell’identificatore univoco nell’amministratore di Commerce
 * Creare un provider di eventi
 

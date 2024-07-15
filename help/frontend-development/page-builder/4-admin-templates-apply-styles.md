@@ -1,6 +1,6 @@
 ---
 title: Page Builder per sviluppatori - Modelli e stili
-description: "[!DNL Admin] e le attività di staging. Crea [!DNL Admin] modelli​. Applicare stili ai tipi di contenuto sullo stage (anteprima live)."
+description: "[!DNL Admin] e le attività di staging. Crea  [!DNL Admin] modelli​. Applicare stili ai tipi di contenuto sullo stage (anteprima live)."
 kt: 5653
 doc-type: video
 activity: use
@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 In questo video:
 
-- [!DNL Admin] e staging attività
+- [!DNL Admin] e le attività di staging
 - Crea [!DNL Admin] modelli&#x200B;
 - Applicare stili ai tipi di contenuto sullo stage (anteprima live)
 
@@ -33,7 +33,7 @@ In questo video:
 
 >[!NOTE]
 >
->Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti delle versioni successive, vedi [Note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 

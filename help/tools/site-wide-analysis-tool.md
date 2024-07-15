@@ -35,4 +35,4 @@ Site-Wide Analysis Tool è uno strumento proattivo self-service e un archivio ce
 ## Risorse aggiuntive
 
 - [Strumento di analisi a livello di sito](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Visualizzare e gestire i registri](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+- [Visualizza e gestisci i registri](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

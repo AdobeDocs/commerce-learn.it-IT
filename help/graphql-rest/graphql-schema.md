@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -105,14 +105,14 @@ type Mutation {
 }
 ```
 
-Puoi approfondire [la documentazione di GraphQL](https://graphql.org/learn/schema/){target="_blank"} per informazioni sui dettagli del sistema di tipi, inclusa la sintassi per alcuni concetti non rappresentati qui. L’esempio precedente, tuttavia, non richiede spiegazioni. Inoltre, la sintassi è simile a quella delle query. La definizione di uno schema di GraphQL consiste semplicemente nell’esprimere gli argomenti e i campi disponibili di un determinato tipo, insieme ai tipi di tali campi. Ogni tipo di campo complesso deve avere una definizione e così via, attraverso la struttura, fino a ottenere tipi scalari semplici come `String`.
+Puoi esplorare la [documentazione di GraphQL](https://graphql.org/learn/schema/){target="_blank"} per scoprire i dettagli del sistema dei tipi, inclusa la sintassi per alcuni concetti non rappresentati qui. L’esempio precedente, tuttavia, non richiede spiegazioni. Inoltre, la sintassi è simile a quella delle query. La definizione di uno schema di GraphQL consiste semplicemente nell’esprimere gli argomenti e i campi disponibili di un determinato tipo, insieme ai tipi di tali campi. Ogni tipo di campo complesso deve avere una definizione e così via nella struttura, fino a ottenere tipi scalari semplici come `String`.
 
-Il `input` La dichiarazione è sotto tutti gli aspetti simile a una `type` ma definisce un tipo che può essere utilizzato come input per un argomento. Nota anche che `interface` dichiarazione. Questa funzione è più o meno la stessa delle interfacce in PHP. Altri tipi ereditano da questa interfaccia.
+La dichiarazione `input` è simile a un `type`, ma definisce un tipo che può essere utilizzato come input per un argomento. Prendere nota anche della dichiarazione `interface`. Questa funzione è più o meno la stessa delle interfacce in PHP. Altri tipi ereditano da questa interfaccia.
 
-La sintassi `[CartItemInput!]!` sembra difficile, ma alla fine è abbastanza intuitivo. Il `!` _interno_ la parentesi quadra dichiara che ogni valore nell’array deve essere non-null, mentre quello _esterno_ dichiara che il valore della matrice stessa deve essere non null (ad esempio, una matrice vuota).
+La sintassi `[CartItemInput!]!` è complessa, ma alla fine è piuttosto intuitiva. Il `!` _entro_ la parentesi quadra dichiara che ogni valore nella matrice deve essere non-null, mentre il valore _esterno_ dichiara che il valore della matrice stessa deve essere non-null (ad esempio, una matrice vuota).
 
 >[!NOTE]
 >
->La logica che determina il modo in cui i dati vengono recuperati e formattati in base a uno schema e il modo in cui tale logica viene mappata su particolari tipi dipende dall’implementazione runtime di GraphQL. Le implementazioni, tuttavia, devono seguire un flusso concettuale appropriato alla luce di una comprensione dei campi nidificati: un’operazione di risoluzione associata alla radice `Query` o `Mutation` viene eseguito il tipo, che esamina ogni campo specificato nella richiesta. Per ogni campo che viene risolto in un tipo complesso, viene eseguita una risoluzione simile per quel tipo e così via, fino a quando tutto non viene risolto in valori scalari.
+>La logica che determina il modo in cui i dati vengono recuperati e formattati in base a uno schema e il modo in cui tale logica viene mappata su particolari tipi dipende dall’implementazione runtime di GraphQL. Le implementazioni, tuttavia, devono seguire un flusso concettuale appropriato alla luce di una comprensione relativa ai campi nidificati: viene eseguita un&#39;operazione di risoluzione associata al tipo radice `Query` o `Mutation`, che esamina ogni campo specificato nella richiesta. Per ogni campo che viene risolto in un tipo complesso, viene eseguita una risoluzione simile per quel tipo e così via, fino a quando tutto non viene risolto in valori scalari.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

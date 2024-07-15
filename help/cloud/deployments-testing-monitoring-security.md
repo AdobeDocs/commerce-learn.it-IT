@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
+source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Onboarding tecnico: distribuzioni, test, monitoraggio e sicurezza
 
@@ -25,7 +25,7 @@ Scopri le strategie di implementazione di Adobe Commerce Cloud, le best practice
 ## A chi serve questo video?
 
 - Gestori di siti Web
-- Architetti del Commerce
+- Architetti Commerce
 - Proprietari del sito web di e-commerce
 
 ## Contenuto video
@@ -37,7 +37,7 @@ Scopri le strategie di implementazione di Adobe Commerce Cloud, le best practice
 - [Processo di distribuzione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
 - [Strumento di analisi SWAT a livello di sito](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Creazione guidata avanzata strumenti ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [Security Scan](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+- [Analisi protezione](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
 - [Firewall applicazione Web Fastly WAF](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
 - [Panoramica del servizio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 

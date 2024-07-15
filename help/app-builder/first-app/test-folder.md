@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Scopri la cartella di test {#test-folder}
 
-Il `test` La cartella di questa app di esempio contiene un singolo file JavaScript, utilizzato per l’esecuzione di unit test sull’applicazione.
+La cartella `test` per questa app di esempio contiene un singolo file JavaScript, utilizzato per l&#39;esecuzione di unit test nell&#39;applicazione.
 
 Questo è un semplice esempio e può essere esteso per creare test completi per le applicazioni specifiche.
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e che desiderano saperne di più sul `test` cartella.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e desiderano conoscere la cartella `test`.
 
 ## Contenuto video
 
-* Perché utilizzare il `test` cartella?
+* Perché utilizzare la cartella `test`?
 * Breve spiegazione del file di unit test e dei relativi componenti
 * Introduzione ai test end-to-end
 

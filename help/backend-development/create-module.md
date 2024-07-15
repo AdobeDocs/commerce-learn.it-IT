@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Creare un modulo
 
-Il modulo è un elemento strutturale di [!DNL Commerce] - l&#39;intero sistema è basato su moduli. In genere, il primo passaggio nella creazione di una personalizzazione consiste nella creazione di un modulo.
+Il modulo è un elemento strutturale di [!DNL Commerce]. L&#39;intero sistema è basato su moduli. In genere, il primo passaggio nella creazione di una personalizzazione consiste nella creazione di un modulo.
 
 ## A chi serve questo video?
 
@@ -76,7 +76,7 @@ Il passaggio successivo consiste nell’aggiungere alcune funzionalità al modul
 - disabilitato e sortOrder sono facoltativi
 - L’ambito del plug-in viene impostato dalla cartella in cui si trova
 - I plug-in possono essere eseguiti prima, dopo o in entrambi i casi (intorno a) in cui viene chiamato il metodo
-- Evita di utilizzare `around` plug-in. Sono tentati di utilizzare, ma spesso rappresentano la scelta sbagliata e possono causare problemi di prestazioni.
+- Evita di usare i plug-in `around`. Sono tentati di utilizzare, ma spesso rappresentano la scelta sbagliata e possono causare problemi di prestazioni.
 
 ### Esempi di codice di plug-in
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Risorse utili
 
-- [Guida di riferimento del modulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plug-in](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+- [Guida di riferimento al modulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+- [Plugin](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

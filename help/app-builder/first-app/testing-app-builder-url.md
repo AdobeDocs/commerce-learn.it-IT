@@ -1,6 +1,6 @@
 ---
-title: Test effettuati utilizzando l’URL di Adobe Developer App Builder
-description: Scopri come testare la tua prima app Adobe Developer App Builder dall’URL di App Builder fornito per il progetto.
+title: Test tramite l’URL di Adobe Developer App Builder
+description: Scopri come testare la tua prima app Adobe Developer App Builder dall’URL App Builder fornito per il progetto.
 landing-page-description: Scopri come testare la tua prima app Adobe Developer App Builder dall’URL fornito dal progetto.
 kt: 12427
 doc-type: tutorial
@@ -24,7 +24,7 @@ Scopri come testare la nuova applicazione Adobe Developer App Builder utilizzand
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata che utilizzano Adobe App Builder e pronti a testare la loro prima app Adobe Developer App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata utilizzando Adobe App Builder che sono pronti a testare la loro prima app Adobe Developer App Builder.
 
 ## Contenuto video
 

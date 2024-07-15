@@ -1,6 +1,6 @@
 ---
 title: Creare un prodotto raggruppato
-description: Scopri come creare un prodotto raggruppato utilizzando l’API REST e l’amministratore di Commerce.
+description: Scopri come creare un prodotto raggruppato utilizzando l’API REST e l’amministratore Commerce.
 kt: 14585
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
 
 ---
-
 
 # Creare un prodotto raggruppato
 
@@ -31,7 +31,7 @@ Utilizza l’API REST per creare un prodotto di gruppo in Admin:
 1. Popola il prodotto raggruppato vuoto con prodotti semplici.
 1. Crea un prodotto raggruppato vuoto e associa i prodotti semplici.
 
-   Quando si associano prodotti semplici al prodotto raggruppato, l&#39;attributo di ordinamento (`position`) nel payload viene utilizzato dal front-end per visualizzare i prodotti associati nell’ordine desiderato. Se il `position` non è specificato, i prodotti vengono visualizzati nell&#39;ordine in cui sono stati aggiunti al prodotto raggruppato.
+   Quando si associano prodotti semplici al prodotto raggruppato, l&#39;attributo di ordinamento (`position`) nel payload viene utilizzato dal front-end per visualizzare i prodotti associati nell&#39;ordine desiderato. Se l&#39;attributo `position` non è specificato, i prodotti vengono visualizzati nell&#39;ordine in cui sono stati aggiunti al prodotto raggruppato.
 
 Crea prima i prodotti semplici quando crei prodotti raggruppati dall’amministratore di Adobe Commerce. Quando si è pronti a creare il prodotto raggruppato, associare i prodotti semplici assegnandoli al prodotto raggruppato in un unico batch.
 
@@ -158,7 +158,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## Aggiungere il terzo prodotto semplice al prodotto raggruppato esistente
 
-Includere il numero di posizione appropriato (qualsiasi elemento tranne `1` o `2`), utilizzati per i primi due prodotti originariamente associati al prodotto raggruppato. In questo esempio, la posizione è `4`.
+Includere il numero di posizione appropriato (tranne `1` o `2`), utilizzato per i primi due prodotti originariamente associati al prodotto raggruppato. In questo esempio, la posizione è `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -183,10 +183,10 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Eliminare un prodotto semplice da un prodotto raggruppato
 
-A [eliminare un prodotto semplice](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) da un prodotto raggruppato, utilizza: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Per [eliminare un prodotto semplice](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) da un prodotto raggruppato, utilizzare: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
-Per scoprire cosa utilizzare come `{type}`, utilizzare xdebug per acquisire la richiesta e valutare i $linkTypes: `related`, `crosssell`, `uupsell`, e `associated`.
-![Tipi di collegamento Prodotto raggruppati - Testo alternativo](/help/assets/site-management/catalog/grouped-types.png "Tipi di collegamento di prodotto raggruppati acquisiti durante la sessione di xdebug")
+Per individuare gli elementi da utilizzare come `{type}`, utilizzare xdebug per acquisire la richiesta e valutare i $linkTypes: `related`, `crosssell`, `uupsell` e `associated`.
+![Tipi di collegamento prodotto raggruppati - testo alternativo](/help/assets/site-management/catalog/grouped-types.png "Tipi di collegamento prodotto raggruppati acquisiti durante la sessione xdebug")
 
 Quando si collegavano i prodotti semplici al prodotto raggruppato, il payload conteneva alcune sezioni simili alle seguenti:
 
@@ -203,9 +203,9 @@ Quando si collegavano i prodotti semplici al prodotto raggruppato, il payload co
         }
 ```
 
-Nel payload, il `link_type` valore `associated` fornisce `{type}` valore richiesto nella richiesta DELETE. L’URL della richiesta sarà simile a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+Nel payload, il valore `link_type` `associated` fornisce il valore `{type}` richiesto nella richiesta DELETE. L&#39;URL della richiesta sarà simile a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-Per eliminare il prodotto semplice con il `product-sku-three` SKU dal prodotto raggruppato con `my-new-grouped-product` SKU:
+Vedere la richiesta cURL per eliminare il prodotto semplice con SKU `product-sku-three` dal prodotto raggruppato con SKU `my-new-grouped-product`:
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -223,7 +223,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Risorse aggiuntive
 
-- [Creare e gestire prodotti raggruppati](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+- [Crea e gestisci prodotti raggruppati](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
 - [Prodotto Raggruppato](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
-- [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

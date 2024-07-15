@@ -1,6 +1,6 @@
 ---
 title: Creare un prodotto bundle
-description: Scopri come creare un prodotto bundle utilizzando l’API REST e l’amministratore di Commerce.
+description: Scopri come creare un prodotto bundle utilizzando l’API REST e l’amministratore Commerce.
 kt: 14589
 doc-type: video
 audience: all
@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # Creare un prodotto bundle
 
 Un prodotto bundle è un modo per raggruppare diversi prodotti sotto un prodotto principale. Questi prodotti secondari possono essere un set definito di prodotti o offrire alcune varianti che forniscono opzioni di configurazione flessibili per i clienti. L&#39;impostazione dei tipi di prodotto del bundle richiede un po&#39; più di tempo ed è necessario fare una certa pianificazione prima di configurarli. Tuttavia, l&#39;offerta di prodotti in bundle migliora l&#39;esperienza di acquisto rendendo più facile per i clienti di personalizzare le loro selezioni di prodotti.
 
-Ad esempio, puoi offrire un pacchetto di prodotti denominato `Learning to surf` nel tuo negozio web. Il bundle è il prodotto principale che funge da contenitore per i prodotti secondari assegnati che specificano le opzioni disponibili:
+Ad esempio, puoi offrire un pacchetto di prodotti denominato `Learning to surf` nel tuo negozio Web. Il bundle è il prodotto principale che funge da contenitore per i prodotti secondari assegnati che specificano le opzioni disponibili:
 
 - Una tavola da surf standard
 - Un tipico guinzaglio da tavola
@@ -69,7 +69,7 @@ I seguenti comandi creano tutti i prodotti necessari per definire il prodotto de
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
-- Cambia `"attribute-set": 4` da sostituire `4` con l’ID del set di attributi dal tuo ambiente.
+- Cambia `"attribute-set": 4` per sostituire `4` con l&#39;ID del set di attributi dal tuo ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ Crea un prodotto bundle inviando la seguente richiesta POST.
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
-- Cambia `"attribute_set_id": 4,` e sostituisci `4` con l’id del set di attributi dall’ambiente.
+- Cambia `"attribute_set_id": 4,` e sostituisci `4` con l&#39;ID del set di attributi dal tuo ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 Quando aggiorni le opzioni del prodotto bundle, assicurati di includere tutte le opzioni che desideri associare a questo prodotto. Se il set di opzioni originale conteneva tre prodotti ed uno è stato rimosso, includi tutte e tre le opzioni nella richiesta POST per garantire che il bundle di prodotto specifichi tutte le opzioni. Se hai incluso solo l’opzione rimossa, il pacchetto di prodotti aggiornato includerà solo tale opzione.
 
-Individua l’ID opzione esaminando la risposta dalla creazione per il prodotto bundle. In tale risposta, la Commissione `option_id` è `35`.
+Individua l’ID opzione esaminando la risposta dalla creazione per il prodotto bundle. In tale risposta, `option_id` è `35`.
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Risorse aggiuntive
 
-- [Tutorial su come creare un bundle](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Prodotto bundle](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
-- [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Crea un&#39;esercitazione sui prodotti bundle](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+- [Prodotto del bundle](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

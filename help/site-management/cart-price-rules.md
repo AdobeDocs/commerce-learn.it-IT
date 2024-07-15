@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '687'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,9 @@ Esistono alcuni scenari univoci che richiedono che ogni voce visualizzi lo scont
 
 >[!BEGINSHADEBOX]
 
-Regola prezzo carrello = sconto del 10% applicato a 2 prodotti nel carrello Condizione affinché la regola prezzo abbia effetto: gli articoli totali nel carrello sono 2 Le azioni applicano la percentuale di sconto sul prezzo del prodotto e l&#39;importo dello sconto è 10
+Regola prezzo carrello = sconto del 10% applicato a 2 prodotti nel carrello
+Condizione per l&#39;entrata in vigore della regola del prezzo: il totale degli articoli nel carrello è 2
+Le azioni applicano la percentuale di sconto sul prezzo del prodotto e l&#39;importo dello sconto è 10
 
 2 articoli aggiunti al carrello, ciascuno è $ 19,95
 
@@ -54,36 +56,48 @@ Pensando al proprietario del sito web, che è l&#39;unica persona interessata da
 
 >[!BEGINSHADEBOX]
 
-Stesso 10% di sconto come sopra regola del carrello in vigore Aggiungi 2 prodotti al carrello che sono 19.95
+Stesso sconto del 10% come sopra regola del carrello in vigore
+Aggiungi 2 prodotti al carrello che sono 19,95
 
-Ogni prodotto dovrebbe ottenere $1.995 in sconti Prodotto 1 - 19.95 x 0.1 = 1.995 2 - 19.95 x 0.1 = 1.995
+Ogni prodotto dovrebbe ottenere $1.995 in sconti
+Prodotto 1 - 19,95 x 0,1 = 1,995
+2 - 19,95 x 0,1 = 1,995
 
 Viene fornito al cliente un totale complessivo di 3,99 come sconto
 
-Quando visualizzi gli elementi riga al proprietario del negozio nell’amministratore, è necessario regolare il primo elemento e arrotondarlo a 2.000. Il secondo elemento rilascia il terzo decimale Prodotto 1 = 2,00 Prodotto 2 = 1,99
+Quando visualizzi gli elementi riga al proprietario del negozio nell’amministratore,
+è necessario modificare il primo elemento e arrotondarlo a 2.000. Il secondo elemento viene eliminato il terzo decimale
+Prodotto 1 = 2,00
+Prodotto 2 = 1,99
 
 Lo sconto totale dei due prodotti ora, quando sommato insieme corrisponde allo sconto effettivo fornito a un cliente.
 >[!ENDSHADEBOX]
 
 Ecco una schermata come apparirebbe nell’amministratore per un ordine con questo scenario:
 
-![Visualizzazione amministratore che mostra gli elementi ordinati con valori diversi](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Visualizzazione amministratore con elementi ordinati con valori diversi](../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### Altre soluzioni potenziali e perché non sono state utilizzate
 
 >[!BEGINSHADEBOX]
 
-Stesso 10% di sconto come sopra regola del carrello in vigore Aggiungi 2 prodotti al carrello che sono 19.95
+Stesso sconto del 10% come sopra regola del carrello in vigore
+Aggiungi 2 prodotti al carrello che sono 19,95
 
-Ogni prodotto dovrebbe ottenere $1.995 in sconti, tuttavia se semplicemente li arrotondiamo, mostra troppo sconto.
+Ogni prodotto dovrebbe ottenere 1,995 $ di sconti,
+tuttavia, se le arrotondiamo, ci sono troppi sconti.
 
-Prodotto 1 - 19,95 x 0,1 = 1,995 Prodotto 2 - 19,95 x 0,1 = 1,995
+Prodotto 1 - 19,95 x 0,1 = 1,995
+Prodotto 2 - 19,95 x 0,1 = 1,995
 
-Converti per arrotondare per eccesso tutti gli articoli Prodotto 1 Il nuovo valore è 2,00 Prodotto 2 Il nuovo valore è 2,00
+Converti per arrotondare tutti gli elementi
+Prodotto 1 Il nuovo valore è 2,00
+Prodotto 2 Il nuovo valore è 2,00
 
-Un totale complessivo di 3,99 è stato effettivamente fornito come uno sconto al cliente, tuttavia se arrotondiamo per eccesso, sarebbe mostrare che $ 4,00 è stato dato, e questo non è corretto.
+Il totale complessivo di 3,99 è stato effettivamente fornito come sconto al cliente,
+tuttavia, se arriviamo a questo punto, ciò dimostrerebbe che sono stati dati 4 dollari, il che non è corretto.
 
-2.00 + 2.00 = $4.00
+2,00 + 2,00 = 4,00 $
 
 >[!ENDSHADEBOX]
 
@@ -91,20 +105,26 @@ Problema simile se il terzo decimale veniva rimosso per tutti gli elementi, lo s
 
 >[!BEGINSHADEBOX]
 
-Stesso 10% di sconto come sopra regola del carrello in vigore Aggiungi 2 prodotti al carrello che sono 19.95
+Stesso sconto del 10% come sopra regola del carrello in vigore
+Aggiungi 2 prodotti al carrello che sono 19,95
 
-Ogni prodotto dovrebbe ottenere $1.995 in sconti, tuttavia se si abbassa solo il terzo decimale, questo accade: Prodotto 1 - 19.95 x 0.1 = 1.995 Prodotto 2 - 19.95 x 0.1 = 1.995
+Ogni prodotto dovrebbe ottenere $ 1.995 in sconti, tuttavia se si abbassa solo il terzo decimale, questo accade:
+Prodotto 1 - 19,95 x 0,1 = 1,995
+Prodotto 2 - 19,95 x 0,1 = 1,995
 
-Converti per rilasciare il terzo decimale per tutti gli elementi Prodotto 1 Il nuovo valore è 1,99 Prodotto 2 Il nuovo valore è 1,99
+Converti per rilasciare il terzo decimale per tutti gli elementi
+Prodotto 1 Il nuovo valore è 1,99
+Prodotto 2 Il nuovo valore è 1,99
 
-Un totale complessivo di 3,99 è stato effettivamente fornito come uno sconto al cliente, tuttavia se lasciamo cadere il terzo decimale, dimostrerebbe che $ 3,98 è stato dato, e questo non è corretto.
+Il totale complessivo di 3,99 è stato effettivamente fornito come sconto al cliente,
+tuttavia, se si lascia cadere il terzo decimale, si vedrebbe che $3,98 è stato dato, e questo non è corretto.
 
-1.99 + 1.99 = $3.98
+1,99 + 1,99 = $ 3,98
 
 >[!ENDSHADEBOX]
 
 
 ## Risorse aggiuntive
 
-- [Crea una regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [Crea regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
 - [Codici coupon - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
