@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: c515ff321849045ba1abed2b3b5f6d3795854f91
+source-git-commit: 4445a494d0d84c8ececba27c976d06fe0f54fb70
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '684'
 ht-degree: 3%
 
 ---
@@ -45,6 +45,11 @@ ht-degree: 3%
       + [Prodotto gift card](../site-management/create-gift-card-product.md)
    + Kit di avvio per l&#39;integrazione back office {#back-office-integration-starter-kit}
       + [Dimostrazione del kit di avvio](../back-office-integrations/starter-kit-demo.md)
+      + [Integrazioni](../back-office-integrations/integrations.md)
+      + [Organizzazione codice Source](../back-office-integrations/source-code-organization.md)
+      + [Integrazione dell’ultimo miglio](../back-office-integrations/last-mile-integration.md)
+      + [Acquisizione webhook](../back-office-integrations/webhook-ingestion.md)
+      + [Meccanismo di esecuzione di nuovi tentativi](../back-office-integrations/retry-mechanism.md)
 + Webinar ed eventi {#webinars-and-events}
    + Serie di attivazione {#enablement-series}
       + [Riduci il sommario per le integrazioni Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
