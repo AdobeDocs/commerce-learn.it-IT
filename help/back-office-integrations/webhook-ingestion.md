@@ -1,5 +1,5 @@
 ---
-title: Configurazione, distribuzione e personalizzazione di un webhook di acquisizione per l’integrazione di Commerce con un sistema di terze parti
+title: Configurare, distribuire e personalizzare un webhook di acquisizione
 description: Scopri come impostare e personalizzare un webhook di acquisizione per facilitare la comunicazione tra Commerce e un sistema di back office di terze parti.
 landing-page-description: Scopri come utilizzare Commerce Integration Starter Kit per integrare Commerce con un sistema di back office di terze parti utilizzando un webhook di acquisizione.
 kt: 15870
@@ -11,14 +11,14 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Configurazione, distribuzione e personalizzazione di un webhook di acquisizione
+# Configurare, distribuire e personalizzare un webhook di acquisizione
 
 Scopri come configurare e personalizzare un webhook di acquisizione per l’integrazione di Commerce con un sistema di back office di terze parti&#x200B;. Questo video spiega come il webhook può risolvere i limiti nella comunicazione degli eventi tra sistemi fornendo un endpoint disponibile al pubblico per adattare i messaggi dal sistema di terze parti all&#39;API dell&#39;evento IO di Adobe. Il processo prevede la configurazione del webhook nel file `actions.config.yaml`, l&#39;abilitazione nel file `app.config.yaml` e la distribuzione per garantire la funzionalità corretta.
 
