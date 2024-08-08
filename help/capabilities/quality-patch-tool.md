@@ -1,6 +1,6 @@
 ---
-title: Informazioni sullo strumento di correzione della qualità
-description: Migliora la stabilità e la sicurezza della piattaforma di e-commerce applicando patch di qualità. Resta aggiornato, risolvi i problemi e ottimizza le prestazioni con questo strumento essenziale.
+title: Strumento Quality Patch
+description: Scopri come utilizzare lo strumento Quality patch per diagnosticare un problema, trovare una soluzione e applicare una patch trovata nell’elenco esistente di patch disponibili.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# strumento patch di qualità Adobe Commerce
+# Strumento Qualità patch
 
 Scopri come utilizzare lo strumento Quality patch per diagnosticare un problema, trovare una soluzione e applicare una patch trovata nell’elenco esistente di patch disponibili.
 
@@ -24,7 +25,7 @@ Scopri come utilizzare lo strumento Quality patch per diagnosticare un problema,
 
 Scopri come risolvere un problema, quindi utilizza alcune tecniche di base per trovare una patch di qualità da applicare.
 
-## A chi serve questo video?
+## Pubblico
 
 * Sviluppatori che imparano a individuare i problemi e a sfruttare questo strumento per applicare patch GIT per i problemi noti
 
@@ -40,7 +41,7 @@ Queste patch vengono sviluppate dalla comunità di sviluppatori Adobe e dal Mage
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## Perché utilizzare lo strumento di correzione della qualità?
+## Perché utilizzare lo strumento di correzione della qualità
 
 È possibile utilizzare lo strumento di controllo qualità per Adobe Commerce o Magento Open Source se si desidera:
 
