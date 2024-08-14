@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Impostazione notifica di avviso New Relic
 
-Scopri come trovare gli avvisi, cosa sono le policy e le destinazioni in New Relic. Osserva quanto è facile aggiungere un’e-mail a un criterio esistente.
+Scopri come trovare avvisi, criteri, flussi di lavoro e destinazioni in New Relic. Osserva quanto è facile aggiungere un’e-mail a un criterio esistente.
 
 ## A chi serve questo video?
 
