@@ -8,9 +8,9 @@ doc-type: Technical Video
 duration: 189
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
+source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ L’integrazione dell’intelligenza artificiale con Adobe Commerce centralizza 
 
 ## Contenuto video
 
-- Maggiore efficienza e velocità. &#x200B;
-- Sincronizzazione perfetta tra prodotti e risorse. &#x200B;
-- Controllo completo del ciclo di vita, incluse approvazione, rimozione e scadenza. &#x200B;
+- Maggiore efficienza e velocità.
+- Sincronizzazione perfetta tra prodotti e risorse.
+- Controllo completo del ciclo di vita, incluse approvazione, rimozione e scadenza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
