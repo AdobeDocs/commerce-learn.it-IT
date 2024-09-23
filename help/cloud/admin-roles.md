@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 256
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: e710689530fd6cd125b77e8fe67a823ec5aded75
+source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -32,6 +32,5 @@ Scopri come accedere al portale di amministrazione di Adobe Commerce utilizzando
 - Scopri i metodi di accesso più recenti.
 - Ottenere una buona comprensione della creazione e della gestione dei ruoli
 - Comprendere i livelli di accesso e di assegnazione degli utenti. &#x200B;
-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
