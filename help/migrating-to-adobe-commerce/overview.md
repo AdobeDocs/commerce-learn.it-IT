@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,8 @@ Ti diamo il benvenuto in questa serie completa di tutorial sulla migrazione di A
 * Integratori di sistemi con l’obiettivo di semplificare i processi di migrazione.
 
 ## Contenuto video {#video-content}
+
+* Scopri i passaggi essenziali e le best practice per una migrazione corretta ad Adobe Commerce.
+* Valuta e ottimizza il codice personalizzato, i moduli di terze parti e comprendi i concetti chiave del controllo qualità.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
