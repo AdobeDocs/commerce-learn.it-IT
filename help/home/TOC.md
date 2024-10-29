@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: fd1c4316fa5c1e9ac5b7c034cbeddc41e26e4200
+source-git-commit: 1414bc22653f63a4cf19654f319116bea149ef08
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '758'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,8 @@ ht-degree: 3%
 
 + [Tutorial su [!DNL Commerce]](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+   + Risoluzione dei problemi di {#troubleshooting}
+      + [SSL non valido](../cloud/troubleshooting/invalid-ssl.md)
    + [Marketing](../cloud/marketecture.md)
    + [Modello di consegna globale](../cloud/global-delivery-model.md)
    + [Ruoli di amministratore](../cloud/admin-roles.md)
@@ -110,7 +112,7 @@ ht-degree: 3%
       + [Eventi condizionali di Adobe Commerce](../io-events/conditional-events.md)
    + Mesh API {#api-mesh}
       + [Introduzione a Mesh API](../api-mesh/getting-started-api-mesh.md)
-      + [Installazione del plug-in Adobe I/O e mesh](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Installazione di Adobe IO e del plug-in mesh](../api-mesh/installing-aio-mesh-plugin.md)
       + [Utilizzo di progetti e aree di lavoro](../api-mesh/aio-projects-workspaces.md)
       + [Crea mesh API GraphQL a origine singola](../api-mesh/graphql-single-source.md)
       + [Creazione di più mesh API GraphQL di origine](../api-mesh/graphql-multiple-source.md)
