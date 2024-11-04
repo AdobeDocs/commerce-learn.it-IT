@@ -1,6 +1,6 @@
 ---
 title: Esempio di iniezione di dipendenza
-description: Visualizza un esempio di iniezione di dipendenza.
+description: L'iniezione di dipendenza consente a un oggetto di dichiarare le proprie dipendenze, fornite da un oggetto esterno, promuovendo flessibilità e modularità.
 kt: 5621
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: fb3a2bce59b2d12922f50eaa791420a4835281ca
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
