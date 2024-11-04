@@ -1,6 +1,6 @@
 ---
 title: Sviluppo Docker PWA
-description: Scopri lo sviluppo di PWA su Docker.
+description: Scopri lo sviluppo PWA su Docker per gli sviluppatori front-end che possono utilizzare Adobe Commerce per attività di sviluppo.
 kt: 5564
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Headless, Development
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: df79e9d8-5047-4063-b37d-184fcf0c0ac4
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 47759e42f6560a62be459be77fcac82be00488b1
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
