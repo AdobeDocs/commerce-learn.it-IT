@@ -4,12 +4,12 @@ description: Panoramica degli standard di codifica in-process per la migrazione 
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-source-git-commit: a73d0038ac844805f4fda689da329d891e5b8320
+source-git-commit: ca8627c7f15f2293960d4f029feab81a83796e48
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -29,6 +29,6 @@ Scopri alcuni standard di codifica essenziali e best practice per PHP, JavaScrip
 ## Contenuto video {#video-content}
 
 * Scopri le best practice per PHP, JavaScript e personalizzazioni per garantire una migrazione fluida.
-* Ottieni informazioni dagli Adobi sulla preparazione, le prestazioni e la sicurezza per progetti Adobe Commerce di successo.
+* Ottieni informazioni dagli esperti Adobe su preparazione, prestazioni e sicurezza per progetti Adobe Commerce di successo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)
