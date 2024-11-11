@@ -1,32 +1,32 @@
 ---
 title: Configurazione e debug di Adobe Commerce Cloud
-description: Scopri le configurazioni e il debug di Adobe Commerce Cloud.
+description: Scopri i file di configurazione di Adobe Commerce Cloud, gli strumenti di debug e la gestione dei registri, essenziali per DevOps, amministratori di sistema e sviluppatori di back-end.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 500
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
+source-git-commit: 661e8cafc5870e4480c804c2aa482864272f602f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Onboarding tecnico - Configurazione e debug
 
-Scopri come configurare ed eseguire il debug di Adobe Commerce Cloud.
+Scopri i file Yaml chiave utilizzati in Adobe Commerce Cloud per la configurazione in ambienti diversi, gli strumenti disponibili per la convalida e l’ottimizzazione di tali configurazioni e il processo di debug e registrazione. Comprendi l’importanza delle impostazioni specifiche per l’ambiente, come utilizzare gli strumenti EC e le patch di qualità e il ruolo di New Relic nell’aggregazione dei registri. Ottieni informazioni approfondite sul debug remoto con Xdebug e sulla necessità di gestire i registri su più server di app.
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
+- Ingegneri DevOp
 - Architetti Commerce
-- Proprietari del sito web di e-commerce
+- Sviluppatori back-end
 
 ## Contenuto video
 
