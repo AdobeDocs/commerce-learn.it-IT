@@ -38,7 +38,7 @@ Scopri le strategie di implementazione di Adobe Commerce Cloud, le best practice
 - [Strumento di analisi SWAT a livello di sito](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Creazione guidata avanzata strumenti ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [Analisi protezione](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Firewall applicazione Web Fastly WAF](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+- [Firewall applicazione Web WAF veloce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
 - [Panoramica del servizio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

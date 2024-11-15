@@ -47,7 +47,7 @@ Scopri le offerte, il supporto e altre comunicazioni SaaS di Adobe Commerce Clou
 - Rete di distribuzione di contenuti CDN
 - Ottimizzatore immagine Fastly I/I
 - Linguaggio di configurazione vernice VCL
-- Firewall applicazione Web WAF
+- WAF web application firewall
 - Settore delle carte di pagamento PCI
 - Servizio TLS Transport Layer
 - Elenco di controllo di accesso ACL
