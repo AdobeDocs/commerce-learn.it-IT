@@ -42,3 +42,4 @@ Scopri l’infrastruttura cloud e alcune best practice per lo sviluppo per Adobe
 - [Creazione dei ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
