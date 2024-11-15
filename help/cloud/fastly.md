@@ -40,3 +40,4 @@ Scopri l’utilizzo cloud di Fastly per Adobe Commerce.
 - [Ottimizzazione immagine](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
