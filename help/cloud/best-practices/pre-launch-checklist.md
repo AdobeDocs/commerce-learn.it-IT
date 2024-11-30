@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Di seguito è riportata una sintesi della [documentazione di lancio del sito](ht
 
 Questo elenco di controllo ha lo scopo di facilitare la pianificazione e l’esecuzione del lancio del sito Adobe Commerce Cloud. Collabora con l&#39;integratore di sistemi per Adobe Commerce Cloud per garantire che tutte le attività di configurazione e gli elementi dell&#39;elenco di controllo siano completati e verificati. In caso di difficoltà con qualsiasi voce dell’elenco di controllo o in caso di domande, contatta il Customer Technical Advisor o il Customer Success Engineer dedicato. Se al tuo account non è assegnato un CTA/CSE, puoi creare un ticket di supporto per assistenza.
 
-Se hai assegnato un CTA/CSE all&#39;account, contatta l&#39;account e l&#39;Account Manager almeno 4 settimane prima di avviare il nuovo sito Adobe Commerce Cloud per notificare loro la **intenzione** di avviare.
+Se all&#39;account è stato assegnato un CTA/CSE, contattare l&#39;account e l&#39;Account Manager almeno 4 settimane prima di avviare il nuovo sito Adobe Commerce Cloud per notificare l&#39;**intenzione** di avviare.
 
 - Alcuni controlli sono evidenziati con [!BADGE Blocker]{type=caution tooltip="Potenziale bloccante"}
 - Assicurati di collaborare con il tuo sviluppatore o partner di integrazione dei sistemi per allinearlo all’approccio di implementazione.
@@ -37,13 +37,13 @@ Se hai assegnato un CTA/CSE all&#39;account, contatta l&#39;account e l&#39;Acco
 1. Consulta la documentazione sui test e la pubblicazione della [documentazione di lancio del sito](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Assicurati che un _&quot;piano di preparazione alla pubblicazione&quot;_ completo sia stato preparato con il tuo partner o integratore di sistemi, includendo tutte le azioni necessarie. Ricorda che l&#39;elenco di controllo pre-lancio enfatizza le best practice di Adobe, ma _**non**_ sostituisce la necessità del tuo piano di preparazione alla pubblicazione.
+   >Assicurati che un _&quot;piano di preparazione alla pubblicazione&quot;_ completo sia stato preparato con il tuo partner o integratore di sistemi, includendo tutte le azioni necessarie. Ricorda che l&#39;elenco di controllo pre-lancio evidenzia le best practice di Adobe, ma _**non**_ sostituisce la necessità del tuo piano di preparazione alla pubblicazione.
 
 2. [!BADGE Blocco]{type=caution tooltip="Potenziale bloccante"}[Guida utente](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. L’utente finale/esercente ha condotto test di accettazione utente (UAT, User Acceptance Testing), comprese le operazioni back-end.
 4. Il team di integratori di sistemi ha eseguito UAT end-to-end su staging e produzione. Consulta la [documentazione di Experience League](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}.
 5. Conferma distribuzione del codice e test negli ambienti di staging e produzione ([Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}).
-6. Il cluster di produzione è stato ridimensionato in modo permanente alla linea di base giornaliera contrattuale. Parla con il CTA/CSE assegnato per ulteriori dettagli o genera un ticket di supporto.
+6. Il cluster di produzione è stato ridimensionato in modo permanente alla linea di base giornaliera contrattuale. Per ulteriori dettagli, rivolgiti al CTA/CSE assegnato o genera un ticket di supporto.
 
 ## 2. Configurazioni correnti
 
@@ -177,16 +177,16 @@ In caso di problemi che impediscono l&#39;avvio durante il passaggio, il metodo 
 - Numero verde USA: (+1) 800 685 3620 (nel primo menu, premere 7 per la hotline Adobe Commerce P1)
 - Locale USA: (+1) 408 537 8777
 
-## 11. Post Go-Live
+## 11. Post-pubblicazione
 
-Una volta che il sito è attivo, invia un’e-mail al CTA (Customer Technical Advisory), al CSE (Customer Success Engineer) e all’AM (Account Manager) assegnati. Tuttavia, se al progetto non è stato assegnato un account manager, è possibile creare un ticket di supporto per richiedere l&#39;attivazione del monitoraggio SLA elevato dopo la pubblicazione del sito. Non appena il sito viene verificato per essere avviato con Fastly abilitato e la memorizzazione in cache, il CTA/CSE esegue le seguenti attività:
+Una volta che il sito è attivo, invia un’e-mail a CTA (Customer Technical Advisory), CSE (Customer Success Engineer) e AM (Account Manager) assegnati. Tuttavia, se non hai un account manager assegnato al progetto, puoi creare un ticket di supporto per richiedere l’abilitazione del monitoraggio High SLA dopo la pubblicazione del sito. Non appena il sito viene verificato per essere avviato con Fastly abilitato e la memorizzazione in cache, CTA/CSE esegue le seguenti attività:
 
-- Assegnare i tag al cluster come live e creare un ticket di supporto per attivare il monitoraggio SLA (Service Level Agreement) elevato.
+- Assegnare i tag al cluster come live e creare un ticket di supporto per attivare il monitoraggio High SLA (Service Level Agreement).
 - Attiva New Relic Synthetics per il monitoraggio dei tempi di attività.
 
 >[!MORELIKETHIS]
 > 
-> - [Panoramica preparazione avvio - Playbook di implementazione](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Panoramica preparazione avvio - Playbook di implementazione](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [Elenco di controllo avvio - Guida utente](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [Elenco di controllo preliminare - Guida dell&#39;amministratore di Commerce/Gestione siti](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [Modello di sicurezza con responsabilità condivisa](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
