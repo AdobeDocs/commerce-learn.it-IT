@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Griglie dati"
+title: '[!DNL Commerce] per utenti aziendali - Griglie dati'
 description: Scopri come utilizzare le griglie dati in  [!DNL Commerce Admin].
 kt: 5759
 doc-type: video

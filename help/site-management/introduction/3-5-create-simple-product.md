@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Prodotti semplici"
+title: '[!DNL Commerce] per utenti aziendali - Prodotti semplici'
 description: Scopri come creare un prodotto semplice utilizzando i set di attributi del prodotto.
 kt: 5771
 doc-type: video

@@ -1,6 +1,6 @@
 ---
 title: Page Builder per sviluppatori - Modelli e stili
-description: "[!DNL Admin] e le attività di staging. Crea  [!DNL Admin] modelli​. Applicare stili ai tipi di contenuto sullo stage (anteprima live)."
+description: '[!DNL Admin] e le attività di staging. Crea  [!DNL Admin] modelli​. Applicare stili ai tipi di contenuto sullo stage (anteprima live).'
 kt: 5653
 doc-type: video
 activity: use

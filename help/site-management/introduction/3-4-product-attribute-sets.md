@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Set di attributi"
+title: '[!DNL Commerce] per utenti aziendali - Set di attributi'
 description: Scopri i set di attributi del prodotto e come utilizzarli nel catalogo.
 kt: 5770
 doc-type: video

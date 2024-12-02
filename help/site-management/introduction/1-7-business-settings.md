@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Impostazioni archivio"
+title: '[!DNL Commerce] per utenti aziendali - Impostazioni archivio'
 description: Scopri le impostazioni internazionali, le informazioni di archiviazione, gli URL sicuri e non sicuri, il titolo del sito web, il logo, le informazioni sul copyright, i logo e-mail di comunicazione, gli indirizzi e-mail di archiviazione, le opzioni di valuta e i tassi di valuta.
 kt: 5764
 doc-type: video

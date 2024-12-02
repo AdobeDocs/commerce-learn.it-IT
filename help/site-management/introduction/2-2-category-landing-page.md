@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Pagine di destinazione"
+title: '[!DNL Commerce] per utenti aziendali - Pagine di destinazione'
 description: Scopri come impostare la pagina di destinazione delle categorie e controllarne l’aspetto.
 kt: 5766
 doc-type: video

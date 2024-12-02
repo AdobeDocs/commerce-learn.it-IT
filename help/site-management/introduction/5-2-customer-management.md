@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Gestione clienti"
+title: '[!DNL Commerce] per utenti aziendali - Gestione clienti'
 description: Scopri le autorizzazioni consigliate per il servizio clienti, la creazione di un cliente in  [!DNL Admin], la gestione delle informazioni sui clienti e la creazione di gruppi di clienti.
 kt: 5779
 doc-type: video

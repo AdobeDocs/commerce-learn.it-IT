@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Attributi configurabili"
+title: '[!DNL Commerce] per utenti aziendali - Attributi configurabili'
 description: Scopri come impostare attributi di prodotto configurabili.
 kt: 5772
 doc-type: video

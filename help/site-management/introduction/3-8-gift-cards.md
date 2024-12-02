@@ -1,10 +1,10 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Biglietti regalo"
+title: '[!DNL Commerce] per utenti aziendali - Biglietti regalo'
 description: Scopri come includere le gift card nel tuo  [!DNL Commerce]  store.
 kt: 5774
 doc-type: video
 activity: use
-badge1: "Adobe Commerce 2.3.1"
+badge1: Adobe Commerce 2.3.1
 badge2: label="Solo su Adobe Commerce" type="Positive"
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Catalogs, Shopping Cart

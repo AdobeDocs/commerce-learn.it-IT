@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Impostazioni prodotto"
+title: '[!DNL Commerce] per utenti aziendali - Impostazioni prodotto'
 description: Scopri come creare prodotti, configurare impostazioni e utilizzare gli attributi.
 kt: 5768
 doc-type: video

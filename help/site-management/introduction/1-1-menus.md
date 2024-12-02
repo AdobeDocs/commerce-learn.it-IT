@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - [!DNL Admin] menu"
+title: '[!DNL Commerce] per utenti aziendali - [!DNL Admin] menu'
 description: Panoramica dei menu funzionali in  [!DNL Commerce] v2.3 [!DNL Admin].
 landing-page-description: Guarda questa serie video per iniziare ad acquisire le nozioni di base di Adobe Commerce e utilizzare le funzioni di Admin.
 short-description: Guarda questa serie video per iniziare ad acquisire le nozioni di base di Adobe Commerce e utilizzare le funzioni di Admin.

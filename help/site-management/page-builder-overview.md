@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Page Builder] panoramica'
+title: Panoramica di [!DNL Page Builder]
 description: Scopri come creare pagine [!DNL Commerce] archiviare pagine nell'amministratore utilizzando [!DNL Page Builder].
 kt: 5563
 doc-type: feature video

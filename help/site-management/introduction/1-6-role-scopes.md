@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Ambiti e autorizzazioni dei ruoli"
+title: '[!DNL Commerce] per gli utenti aziendali - Ambiti dei ruoli e autorizzazioni'
 description: Scopri come definire gli ambiti dei ruoli (esclusivi di Adobe Commerce) e le autorizzazioni associate per sito o store.
 kt: 5763
 doc-type: video

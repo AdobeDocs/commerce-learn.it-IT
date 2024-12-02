@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Posizionamento delle categorie"
+title: '[!DNL Commerce] per utenti aziendali - Posizionamento delle categorie'
 description: Posiziona i prodotti all’interno di categorie in modo che i clienti possano visualizzarli nella parte superiore.
 kt: 5776
 doc-type: video

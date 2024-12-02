@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Tipi di prodotto"
+title: '[!DNL Commerce] per utenti aziendali - Tipi di prodotto'
 description: Scopri i tipi di prodotto  [!DNL Commerce]  e le relative opzioni.
 kt: 5767
 doc-type: video

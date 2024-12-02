@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Utenti e ruoli"
+title: '[!DNL Commerce] per utenti aziendali - Utenti e ruoli'
 description: Scopri le nozioni di base sugli account utente  [!DNL Admin]  e sui ruoli utente che determinano le autorizzazioni.
 kt: 5762
 doc-type: video

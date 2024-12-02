@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Navigazione a livelli"
+title: '[!DNL Commerce] per utenti aziendali - Navigazione a livelli'
 description: Abilita la navigazione su più livelli nell'archivio  [!DNL Commerce]  in modo che i clienti possano trovare i prodotti facilmente e rapidamente.
 kt: 5775
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Categorie di prodotti"
+title: '[!DNL Commerce] per utenti aziendali - Categorie di prodotti'
 description: Scopri come gestire il catalogo dei prodotti impostando le categorie.
 kt: 5765
 doc-type: videos

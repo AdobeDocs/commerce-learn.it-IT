@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Memorizzazione di visualizzazioni e cancellazione della cache"
+title: '[!DNL Commerce] per utenti aziendali - Memorizzazione di visualizzazioni e cancellazione della cache'
 description: Scopri come creare visualizzazioni store e cancellare la cache.
 kt: 5761
 doc-type: video

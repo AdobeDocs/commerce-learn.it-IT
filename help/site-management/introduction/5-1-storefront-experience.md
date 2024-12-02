@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Storefront"
+title: '[!DNL Commerce] per utenti aziendali - Storefront'
 description: Scopri l’esperienza del cliente sullo storefront, compresi la creazione di account, le liste dei desideri e l’aggiunta di voci al carrello
 kt: 5778
 doc-type: video

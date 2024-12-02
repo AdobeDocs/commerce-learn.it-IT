@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] per utenti aziendali - Attributi"
+title: '[!DNL Commerce] per utenti aziendali - Attributi'
 description: Scopri gli attributi personalizzati e di sistema dei prodotti.
 kt: 5769
 doc-type: video
