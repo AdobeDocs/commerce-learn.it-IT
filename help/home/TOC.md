@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: fc3a65e00b36d4af76f75fd0e956104b90e8393d
+source-git-commit: 8720b575d72443faa1889d27d692283ca47cc012
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 3%
 
 ---
@@ -76,6 +76,9 @@ ht-degree: 3%
       + [Creare un ticket di supporto](../help-and-support/create-a-support-ticket.md)
       + [Cerca, tieni traccia, commenta e inoltra ticket di supporto](../help-and-support/search-track-comment-escalate-support-ticket.md)
       + [Aggiungi e rimuovi gli osservatori, chiudi e riapri un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Edge Delivery Services {#edge-delivery-services}
+   + Guida introduttiva {#getting-started}
+      + [Modifica del flusso transazionale](../edge-delivery-services/transactional-flow.md)
 + Webinar ed eventi {#webinars-and-events}
    + Serie di attivazione {#enablement-series}
       + [Riduci il sommario per le integrazioni Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
