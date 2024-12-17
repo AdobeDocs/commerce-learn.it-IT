@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # Usa attributi prodotto per articoli carrello
 
-Nella trascrizione, uno sviluppatore di nome Ali del marchio Acme illustra come personalizzare ed estendere il carrello Adobe Commerce. Ali soddisfa tre requisiti del progetto: visualizzare i tempi di consegna per i prodotti di back-order, mostrare gli avvisi di vendita restituibili e finali e applicare uno sconto del 25% per i carrelli con un subtotale di $ 75 o più. Sfruttando gli attributi e gli slot del prodotto, Ali integra correttamente queste funzioni nel carrello, migliorando l’esperienza utente complessiva e soddisfacendo tutti i requisiti del progetto.
+Scopri come personalizzare ed estendere il carrello Adobe Commerce. In questa dimostrazione sono disponibili tre aggiornamenti.  La demo inizia con la visualizzazione delle tempistiche di consegna per i prodotti di back-order, mostrando gli avvisi di vendita restituibili e finali e applicando uno sconto del 25% per i carrelli con un subtotale di $ 75 o più. Sfruttando gli attributi del prodotto e gli slot, l’aggiunta di queste funzioni nel carrello migliora l’esperienza utente complessiva.
 
 ## Cosa aspettarsi dal video
 
