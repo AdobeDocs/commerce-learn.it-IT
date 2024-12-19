@@ -1,5 +1,5 @@
 ---
-title: Servizi di consegna Edge
+title: Edge Delivery Services articoli carrello
 description: Scopri Adobe Edge Delivery Services e come utilizzare gli attributi del prodotto per visualizzare nuove informazioni sugli articoli del carrello.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +39,8 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 * Utilizzo degli attributi del prodotto e degli slot per estendere e personalizzare la funzionalità del carrello, garantendo il rispetto di tutti i requisiti del progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## Documentazione aggiuntiva
+
+* [Aggiungi righe prodotto al carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

@@ -1,5 +1,5 @@
 ---
-title: Servizi di consegna Edge
+title: Flusso transazionale Edge Delivery Services
 description: Scopri Adobe Edge Delivery Services e come modificare il flusso transazionale.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -38,3 +38,7 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 * Controllo Marketing Avanzato. Gestione e test semplificati delle configurazioni, per migliorare l’esperienza utente e l’efficacia del marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
+
+## Documentazione aggiuntiva
+
+* [Configura riepilogo carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
