@@ -1,6 +1,6 @@
 ---
-title: Riepilogo ordine Edge Delivery Services
-description: Scopri Adobe Edge Delivery Services e come aggiornare la sezione di riepilogo degli ordini del menu a discesa Commerce.
+title: Riepilogo ordini Edge Delivery Services all'acquisto
+description: Scopri Adobe Edge Delivery Services e come aggiornare la sezione di riepilogo degli ordini del menu a discesa Commerce al momento del pagamento.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Aggiorna il riepilogo del carrello
+# Aggiorna il riepilogo del carrello all&#39;acquisto
 
 Scopri come apportare modifiche al riepilogo degli ordini del menu a discesa del carrello di Adobe Commerce per i Edge Delivery Services.  Esistono diversi esempi di come migliorare rapidamente il layout o le informazioni fornite a un cliente al momento del pagamento.
 
