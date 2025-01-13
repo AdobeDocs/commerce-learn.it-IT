@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# UpdateEnhancing E-commerce Checkout: layout modulo indirizzo personalizzato e integrazione di ricerca indirizzi Google
+# Layout modulo indirizzo personalizzato e integrazione ricerca indirizzi Google
 
 Scopri come personalizzare il layout del modulo dell’indirizzo al momento del pagamento per garantire che tutti i campi siano larghi al 50%, ad eccezione dell’area di testo. Scopri un approccio all’utilizzo di un’API di terze parti integrata, in particolare l’API degli indirizzi di Google, per abilitare la ricerca e la convalida automatiche degli indirizzi nel modulo degli indirizzi. &#x200B; Scopri come aggiungere una nuova voce di menu nella barra laterale alla dashboard dell’account utente, collegandola a una pagina personalizzata per un localizzatore di store.
 
