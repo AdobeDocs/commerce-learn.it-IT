@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # Layout modulo indirizzo personalizzato e integrazione ricerca indirizzi Google
 
@@ -36,7 +38,7 @@ I project manager devono tenere traccia dell&#39;avanzamento delle attività di 
 * Larghezze dei campi coerenti in Checkout Forms per personalizzare il modulo dell’indirizzo al momento del pagamento in modo da garantire tutti i campi.
 * Integrazione dell’API degli indirizzi Google per abilitare la ricerca e il completamento automatici degli indirizzi, riducendo gli errori di input degli utenti e semplificando il processo di pagamento.
 * Convalida e gestione degli errori per i campi di input degli indirizzi, per garantire che gli utenti ricevano un feedback immediato sulle voci errate o incomplete, migliorando l’esperienza utente.
-* Estensione della dashboard dell’account utente che aggiunge una nuova voce di menu nella barra laterale alla dashboard dell’account utente
+* Estensione della dashboard dell’account utente che aggiunge una nuova voce di menu nella barra laterale alla dashboard dell’account utente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
