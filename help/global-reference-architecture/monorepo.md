@@ -1,7 +1,6 @@
 ---
-title: Come sfruttare l'architettura di riferimento globale
-description: Scopri come sfruttare un’architettura di riferimento globale per stabilire un’esperienza di e-commerce scalabile e resiliente
-landing-page-description: Scopri l’architettura di riferimento globale e come viene utilizzata con Adobe Commerce
+title: Architettura di riferimento globale Monorepo
+description: Scopri come utilizzare l’approccio monorepo per l’architettura di riferimento globale per creare un’esperienza di e-commerce scalabile e resiliente
 jira: KT-16728
 doc-type: tutorial
 audience: all
@@ -11,9 +10,9 @@ badge: label="Intervento di Tony Evers, Sr. Technical Architect, Adobe" type="In
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
+source-git-commit: 421c6de9421d715127d0c892dc05ef22f77149cf
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1371'
 ht-degree: 0%
 
 ---
