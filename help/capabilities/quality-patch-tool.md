@@ -10,9 +10,9 @@ duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Scopri come utilizzare lo strumento Quality patch per diagnosticare un problema, trovare una soluzione e applicare una patch trovata nell’elenco esistente di patch disponibili.
 
-## Cosa aspettarsi dal video
+## Cosa imparerai
 
 Scopri come risolvere un problema, quindi utilizza alcune tecniche di base per trovare una patch di qualità da applicare.
 
@@ -37,7 +37,7 @@ Lo strumento Quality Patches è un&#39;utility da riga di comando per Adobe Comm
 * Applicare patch di qualità all&#39;installazione.
 * Ripristinare le patch applicate, se necessario
 
-Queste patch vengono sviluppate dalla comunità di sviluppatori Adobe e dal Magento Open Source per migliorare la stabilità e le prestazioni. Non è consigliabile applicare un numero elevato di patch, in quanto ciò potrebbe complicare gli aggiornamenti futuri.
+Queste patch vengono sviluppate da Adobe Developers e dalla community di Magenti Open Source per migliorare la stabilità e le prestazioni. Non è consigliabile applicare un numero elevato di patch, in quanto ciò potrebbe complicare gli aggiornamenti futuri.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 

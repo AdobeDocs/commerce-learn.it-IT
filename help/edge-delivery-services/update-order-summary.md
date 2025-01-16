@@ -10,9 +10,9 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Scopri come apportare modifiche al riepilogo degli ordini del menu a discesa del carrello di Adobe Commerce per i Edge Delivery Services.  Esistono diversi esempi di come migliorare rapidamente il layout o le informazioni fornite a un cliente al momento del pagamento.
 
-## Cosa aspettarsi dal video
+## Cosa imparerai
 
 Scopri come utilizzare Adobe Commerce cart drop in e regolare l’esperienza del carrello.  Esistono diversi modi per migliorare il carrello apportando alcune modifiche o aggiornamenti minori al codice.
 
