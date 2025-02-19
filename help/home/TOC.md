@@ -3,15 +3,15 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
 
 
-# Video e Tutorials di Adobe Commerce {#tutorials}
+# Video e tutorial su Adobe Commerce {#tutorials}
 
 + [Tutorial su [!DNL Commerce]](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -89,7 +89,7 @@ ht-degree: 3%
       + [Aggiorna il riepilogo dell&#39;ordine all&#39;acquisto](../edge-delivery-services/update-order-summary.md)
       + [Aggiunta di BOPIS al pagamento](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Personalizza estrazione](../edge-delivery-services/customize-checkout.md)
-      + [Regola indirizzo, compreso il collegamento di completamento automatico e nuovo account personale](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Personalizzare il layout di un indirizzo](../edge-delivery-services/customize-address-new-account-link.md)
 + Webinar ed eventi {#webinars-and-events}
    + Serie di attivazione {#enablement-series}
       + [Riduci il sommario per le integrazioni Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [Crea regole prezzo catalogo](../site-management/catalog-price-rules.md)
    + [Crea regole prezzo carrello](../site-management/cart-price-rules.md)
    + [Gestire le regole prodotto correlate](../site-management/related-product-rules.md)
-   + [Configurazione Recommendations prodotto](../site-management/product-recommendations.md)
+   + [Configurare i consigli di prodotto](../site-management/product-recommendations.md)
    + [Introduzione a Live Search](../site-management/live-search.md)
    + [Consigli per la Live Search](../site-management/live-search-recommendations.md)
    + [Integrare Commerce con AJO](../site-management/integrate-commerce-ajo.md)
@@ -207,7 +207,7 @@ ht-degree: 3%
    + [Rapporti e dashboard](../business-intelligence/reports-and-dashboards.md)
    + [Set di filtri](../business-intelligence/filter-sets.md)
    + [Report Builder coorte](../business-intelligence/cohort-report-builder.md)
-   + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Preparazione per il futuro](../business-intelligence/prepare-for-future.md)
 + Aggiornamenti Commerce {#upgrade}
    + [Workshop sull’aggiornamento ad Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
@@ -237,7 +237,7 @@ ht-degree: 3%
       + [Architettura headless - Sessione 1](../headless/session-1.md)
    + Introduzione a PWA Studio {#introduction}
       + [1 - Panoramica](../pwa/introduction/1-overview.md)
-      + [2 - Strumenti di PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [2 - Strumenti PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Lancio](../pwa/introduction/3-launch.md)
       + [4 - VERSO L&#39;ALTO](../pwa/introduction/4-upward.md)
       + [5 - Guida introduttiva](../pwa/introduction/5-getting-started.md)

@@ -1,5 +1,5 @@
 ---
-title: I Edge Delivery Services personalizzano l'indirizzo, incluso il completamento automatico
+title: Indirizzo di personalizzazione Edge Delivery Services, inclusa la funzionalità di completamento automatico
 description: Scopri come personalizzare i moduli di pagamento per l’e-commerce e integrare Google Address Lookup per migliorare l’esperienza utente e ridurre gli errori di input.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Layout modulo indirizzo personalizzato e integrazione ricerca indirizzi Google
+# Personalizzare il layout di un indirizzo
 
 Scopri come personalizzare il layout del modulo dell’indirizzo al momento del pagamento per garantire che tutti i campi siano larghi al 50%, ad eccezione dell’area di testo. Scopri un approccio all’utilizzo di un’API di terze parti integrata, in particolare l’API degli indirizzi di Google, per abilitare la ricerca e la convalida automatiche degli indirizzi nel modulo degli indirizzi. &#x200B; Scopri come aggiungere una nuova voce di menu nella barra laterale alla dashboard dell’account utente, collegandola a una pagina personalizzata per un localizzatore di store.
 
