@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 241f99eaed68488b952e8ed76186499ca1a20417
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 5%
+source-wordcount: '728'
+ht-degree: 6%
 
 ---
 
@@ -27,13 +27,13 @@ In passato, lo sviluppo Adobe Commerce utilizzava l’estensibilità in-process.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
 
-Adobe Developer App Builder è una piattaforma di estensibilità senza server per l’integrazione e la creazione di esperienze personalizzate al fine di estendere le soluzioni Adobe ed è ora disponibile per Adobe Commerce. Con App Builder, puoi creare app sicure e scalabili che estendono le funzionalità native di Commerce e si integrano con soluzioni di terze parti. In qualità di sviluppatore, ora puoi sfruttare l’estensibilità fuori processo con Adobe Commerce, il che a sua volta offre vantaggi immediati e a lungo termine.
+Adobe Developer App Builder è una piattaforma di estensibilità senza server per l’integrazione e la creazione di esperienze personalizzate al fine di estendere le soluzioni Adobe, ed è ora disponibile per Adobe Commerce. Con App Builder, puoi creare app sicure e scalabili che estendono le funzionalità native di Commerce e si integrano con soluzioni di terze parti. In qualità di sviluppatore, ora puoi sfruttare l’estensibilità fuori processo con Adobe Commerce, il che a sua volta offre vantaggi immediati e a lungo termine.
 
-App Builder fornisce un framework di estensibilità unificato di terze parti per l&#39;integrazione e la creazione di applicazioni personalizzate che estendono [!DNL Adobe Commerce]. Poiché questo framework di estensibilità è basato sull&#39;infrastruttura Adobe, gli sviluppatori possono creare microservizi personalizzati ed estendere e integrare [!DNL Adobe Commerce] in altre soluzioni Adobe e integrazioni di terze parti.
+App Builder fornisce un framework di estensibilità unificato di terze parti per l&#39;integrazione e la creazione di applicazioni personalizzate che estendono [!DNL Adobe Commerce]. Poiché questo framework di estensibilità è basato sull&#39;infrastruttura di Adobe, gli sviluppatori possono creare microservizi personalizzati ed estendere e integrare [!DNL Adobe Commerce] in altre soluzioni Adobe e integrazioni di terze parti.
 
 App Builder consente ai clienti di estendere [!DNL Adobe Commerce] in vari casi d&#39;uso:
 
-* estensibilità del middleware: possibilità di collegare i sistemi esterni alle applicazioni Adobe creando connettori personalizzati o sfruttando una suite di integrazioni predefinite.
+* estensibilità del middleware: collega i sistemi esterni con le applicazioni Adobe creando connettori personalizzati o sfruttando una suite di integrazioni predefinite.
 * estensibilità dei servizi di base: estende le funzionalità principali dell’applicazione estendendo il comportamento predefinito con funzioni personalizzate e logica di business.
 * estensibilità dell’esperienza utente: estendere l’esperienza di base per supportare i requisiti aziendali o creare proprietà digitali, vetrine e applicazioni di back office specifiche per il cliente.
 
@@ -54,27 +54,15 @@ Altri vantaggi comprendono:
 Invece di una soluzione preconfigurata, Adobe Developer App Builder fornisce una piattaforma di sviluppo comune, coerente e standardizzata per estendere le soluzioni Adobe Cloud come Adobe Commerce, tra cui:
 
 * Adobe Developer Console utilizzato per lo sviluppo di estensioni e microservizi personalizzati. Crea e gestisci i progetti e accedi a tutti gli strumenti e le API necessari per creare plug-in e integrazioni.
-* Strumenti open-source, SDK e librerie per creare estensioni e integrazioni personalizzate. Utilizza React Spectrum (toolkit dell’interfaccia utente di Adobe) per avere un’unica interfaccia utente comune per tutte le app di Adobe.
+* Strumenti open-source, SDK e librerie per creare estensioni e integrazioni personalizzate. Usa React Spectrum (toolkit dell’interfaccia utente di Adobe) per avere un’unica interfaccia utente comune per tutte le app Adobe.
 * servizi come I/O Runtime per l&#39;hosting dell&#39;infrastruttura sulla piattaforma senza server di Adobe ed Eventi di I/O per le integrazioni basate su eventi. Adobe fornisce inoltre supporto predefinito per l’archiviazione di dati e file.
-* In Adobe Experience Cloud puoi inviare estensioni e integrazioni da pubblicare nell’organizzazione di Experience Cloud. Gli amministratori di sistema possono rivedere, gestire e approvare tali estensioni. Dopo la pubblicazione, le estensioni e gli strumenti personalizzati di App Builder sono disponibili insieme ad altre app Adobe Experience Cloud.
+* In Adobe Experience Cloud puoi inviare estensioni e integrazioni da pubblicare nell’organizzazione Experience Cloud. Gli amministratori di sistema possono rivedere, gestire e approvare tali estensioni. Dopo la pubblicazione, le estensioni e gli strumenti personalizzati di App Builder sono disponibili insieme ad altre app Adobe Experience Cloud.
 
 Il diagramma seguente illustra come un’applicazione standard basata su App Builder utilizza queste funzionalità:
 
 ![Architettura](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Per ulteriori dettagli sull&#39;architettura di App Builder, vedi [Panoramica dell&#39;architettura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
-
-## Estensione di Sales Channel Amazon {#amazon-sales-channel-extension}
-
->[!IMPORTANT]
->
->L’estensione del Sales Channel Amazon è ancora in fase di sviluppo e non è stata rilasciata ufficialmente.  Questi video e tutorial hanno lo scopo di mostrare come utilizzare Adobe Developer App Builder per un caso d’uso pratico.
-
-I seguenti tutorial mostrano come collegare Adobe Commerce al Sales Channel Amazon utilizzando un’estensione App Builder.
-
-* [panoramica tecnica di App Builder](../app-builder/app-builder-technical-overview.md)
-* [framework di estensibilità](../app-builder/extensibility-framework-commerce-eventing.md)
-* [dimostrazione funzionale di App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Introduzione ad App Builder {#additional-resources}
 
@@ -101,6 +89,6 @@ Sei pronto a iniziare a sviluppare? Il seguente collegamento contiene applicazio
 
 ## Supporto {#support}
 
-Per le richieste di supporto per sviluppatori, utilizzare [forum di Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} per assistenza.
+Per le richieste di supporto per sviluppatori, utilizza il [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} per assistenza.
 
 {{$include /help/_includes/app-builder-related-links.md}}
