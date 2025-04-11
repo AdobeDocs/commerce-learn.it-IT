@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
-source-git-commit: a14a878217a145ecee0b29247ec7ccb224edd883
+exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
+source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
 workflow-type: tm+mt
-source-wordcount: '1106'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# Scopri come rilevare gli indirizzi IP per tutti i tipi di ambienti nel progetto Commerce Cloud
+# Rilevare indirizzi IP per ambienti diversi
 
 Scopri come rilevare gli indirizzi IP per diversi ambienti in un progetto Adobe Commerce Cloud. Utilizzando una serie di comandi, tra cui Adobe Commerce CLI, sed, xargs, dig, grep e sort -u, gli utenti possono identificare gli indirizzi IP per gli ambienti di sviluppo, staging e produzione.
 
