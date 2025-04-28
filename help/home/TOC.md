@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 3f6d35a8c11e86524b5e97b19bd481d2b715fdbe
+source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '853'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 + [Tutorial su [!DNL Commerce]](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
-   + Risoluzione dei problemi di {#troubleshooting}
+   + Risoluzione dei problemi {#troubleshooting}
       + [SSL non valido](../cloud/troubleshooting/invalid-ssl.md)
       + [Valutazione e risoluzione di 2 errori comuni del sito](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Valori di configurazione](../cloud/troubleshooting/config-values.md)
@@ -62,7 +62,7 @@ ht-degree: 3%
       + [Dimostrazione completa di Live Search](../capabilities/live-search-full-demonstration.md)
       + [Commerce componibile](../capabilities/what-is-composable-commerce.md)
       + [Strumento Quality Patch](../capabilities/quality-patch-tool.md)
-   + Crea prodotti {#create-products}
+   + Creare prodotti {#create-products}
       + [Prodotto semplice](../site-management/create-simple-product.md)
       + [Prodotto virtuale](../site-management/create-virtual-product.md)
       + [Prodotto scaricabile](../site-management/create-downloadable-product.md)
@@ -85,11 +85,11 @@ ht-degree: 3%
    + [Pacchetti in blocco](../global-reference-architecture/bulk-packages.md)
    + [Pacchetti separati](../global-reference-architecture/separate-packages.md)
    + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Guida e supporto tecnico {#help-and-support}
++ Guida e supporto {#help-and-support}
    + [Creare un ticket di supporto](../help-and-support/create-a-support-ticket.md)
    + [Cerca, tieni traccia, commenta e inoltra ticket di supporto](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [Aggiungi e rimuovi gli osservatori, chiudi e riapri un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge Delivery Services {#edge-delivery-services}
++ Servizi di consegna Edge {#edge-delivery-services}
    + Guida introduttiva {#getting-started}
       + [Modifica del flusso transazionale](../edge-delivery-services/transactional-flow.md)
       + [Usa attributi prodotto per articoli carrello](../edge-delivery-services/product-attributes-cart-items.md)
@@ -104,7 +104,13 @@ ht-degree: 3%
       + [Pianificazione dell’implementazione moderna di Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Lancio, post-lancio, monitoraggio e risoluzione dei problemi](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
       + [Edge Delivery Services con Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-+ GraphQL e REST {#graphql-rest}
+   + Conversazioni Commerce {#commerce-conversations}
+      + [Cos’è il successo degli esperti](../commerce-conversations/what-is-expert-success.md)
+      + [Componenti aggiuntivi del supporto Commerce](../commerce-conversations/commerce-support-add-ons.md)
+      + [Cos’è il successo finale](../commerce-conversations/what-is-ultimate-success.md)
+      + [Preparazione tecnica degli acceleratori di successo](../commerce-conversations/success-accelerators-technical-readiness.md)
+      + [Adozione e abilitazione di Success Accelerators](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
++ GRAPHQL e REST {#graphql-rest}
    + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
    + [Query](../graphql-rest/graphql-queries.md)
    + [Mutazioni](../graphql-rest/graphql-mutations.md)
@@ -115,7 +121,7 @@ ht-degree: 3%
    + [Dimostrazione funzionale per App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Panoramica tecnica per App Builder](../app-builder/app-builder-technical-overview.md)
    + [Invia app al Marketplace](../app-builder/submit-app-process.md)
-   + Crea la tua prima app di App Builder {#first-app}
+   + Creare la prima app App Builder {#first-app}
       + [Panoramica](../app-builder/first-app/overview.md)
       + [Generare e configurare il file .env](../app-builder/first-app/env-file.md)
       + [Descrizione e utilizzo del file app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
@@ -126,7 +132,7 @@ ht-degree: 3%
       + [Test tramite l’URL di App Builder](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusione](../app-builder/first-app/conclusion.md)
       + [Codice sorgente del modulo di esempio](https://github.com/magento/app-builder-samples){target="_blank"}
-   + Eventi IO per Adobe Commerce {#io-events}
+   + Eventi I/O per Adobe Commerce {#io-events}
       + [Eventi I/O introduttivi](../io-events/getting-started-io-events.md)
       + [Installazione di Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installazione di Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
@@ -140,7 +146,7 @@ ht-degree: 3%
       + [Utilizzo di progetti e aree di lavoro](../api-mesh/aio-projects-workspaces.md)
       + [Crea mesh API GraphQL a origine singola](../api-mesh/graphql-single-source.md)
       + [Creazione di più mesh API GraphQL di origine](../api-mesh/graphql-multiple-source.md)
-+ Amministrazione archivio {#admin}
++ Amministrazione store {#admin}
    + [Gestione di ruoli utente e autorizzazioni](../site-management/users-roles-permissions.md)
    + [Autenticazione a due fattori](../site-management/two-factor-authentication.md)
    + [Gestisci regole divisa e imposta](../site-management/currency-tax-rules.md)
@@ -169,7 +175,7 @@ ht-degree: 3%
    + [Gestisci riscritture URL per SEO (Search Engine Optimization)](../site-management/seo-url-rewrites.md)
    + [Visualizzatore AR](../site-management/augmented-reality.md)
    + [Importazione e aggiornamento del catalogo](../site-management/catalog-import.md)
-+ Gestione contenuti {#content}
++ Gestione dei contenuti {#content}
    + [Panoramica di Page Builder](../site-management/page-builder-overview.md)
    + [Creare blocchi statici e dinamici](../site-management/static-dynamic-blocks.md)
    + [Crea widget](../site-management/widgets.md)
@@ -241,7 +247,7 @@ ht-degree: 3%
    + [Aggiungere un modulo JavaScript](../frontend-development/add-javascript-module.md)
    + [Creare una pagina](../frontend-development/create-page.md)
 + Architettura headless {#headless-architecture}
-   + Introduzione a {#introduction-to-headless} headless
+   + Introduzione a headless {#introduction-to-headless}
       + [Architettura headless - Sessione 1](../headless/session-1.md)
    + Introduzione a PWA Studio {#introduction}
       + [1 - Panoramica](../pwa/introduction/1-overview.md)
