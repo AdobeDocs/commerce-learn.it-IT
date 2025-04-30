@@ -10,10 +10,11 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
+source-git-commit: efb067d8595079cc33a9af0c15eb1e60e0dd5796
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,5 +36,5 @@ La gestione temporanea dei contenuti offre al team aziendale la possibilità di 
 
 ## Risorse aggiuntive
 
-- [Gestione temporanea dei contenuti - [!DNL Commerce] Guida di progettazione e contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [Anteprima di una campagna - [!DNL Commerce] Guida di progettazione e contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [Gestione temporanea dei contenuti - [!DNL Commerce] Guida alla progettazione e al contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [Anteprima di una campagna - [!DNL Commerce] Guida di contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
