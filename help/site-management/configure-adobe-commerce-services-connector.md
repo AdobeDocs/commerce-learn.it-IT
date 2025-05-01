@@ -11,9 +11,10 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
+source-git-commit: 03fab8e76116374c69240173572a276652197d9b
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
