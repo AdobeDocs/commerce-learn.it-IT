@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
+source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '857'
 ht-degree: 3%
 
 ---
@@ -110,6 +110,7 @@ ht-degree: 3%
       + [Cos’è il successo finale](../commerce-conversations/what-is-ultimate-success.md)
       + [Preparazione tecnica degli acceleratori di successo](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [Adozione e abilitazione di Success Accelerators](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
+      + [Preparazione per l’organizzazione di Success Accelerators](../commerce-conversations/success-accelerators-organizational-readiness.md)
 + GRAPHQL e REST {#graphql-rest}
    + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
    + [Query](../graphql-rest/graphql-queries.md)
