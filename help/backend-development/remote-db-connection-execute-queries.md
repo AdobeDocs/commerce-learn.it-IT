@@ -26,7 +26,7 @@ Scopri come connettersi a un progetto Adobe Commerce su cloud, creare un’immag
 * Scopri come connettersi rapidamente a un progetto Adobe Commerce Cloud remoto utilizzando uno strumento come MysqlWorkbench o TablesPlus.
 * Scopri come connettersi rapidamente al progetto Adobe Commerce per eseguire SQL tramite la riga di comando
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450044?learn=on&captions=ita)
 
 Scopri come connettersi a un progetto Adobe Commerce on cloud, scaricare un database per l’utilizzo fuori sede, mascherare i dati PII e rimuoverlo.
 

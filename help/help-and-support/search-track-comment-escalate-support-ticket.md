@@ -31,7 +31,7 @@ Scopri come creare un ticket di supporto per ricerche, recensioni, commenti e in
 * Scopri come aggiungere un commento a un ticket di supporto aperto
 * Scopri come e alcuni motivi per l’inoltro di un ticket di supporto
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445319?learn=on&captions=ita)
 
 ## Guida del centro assistenza della Knowledge Base di Commerce
 

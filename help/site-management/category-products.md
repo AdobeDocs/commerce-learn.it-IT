@@ -30,7 +30,7 @@ L’organizzazione dei prodotti in categorie è fondamentale per la gestione dei
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343747?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410180?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

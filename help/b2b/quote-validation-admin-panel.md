@@ -30,6 +30,6 @@ Scopri i passaggi di convalida e le aree forniti dalla funzionalità Offerte B2B
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423720?learn=on&captions=ita)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

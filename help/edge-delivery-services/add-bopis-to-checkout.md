@@ -37,7 +37,7 @@ Scopri come utilizzare il carrello di Adobe Commerce dai Edge Delivery Services 
 * Passare dalla consegna al ritiro dal negozio
 * Recupero delle posizioni di prelievo
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441708?learn=on&captions=ita)
 
 ## Documentazione aggiuntiva
 

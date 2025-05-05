@@ -33,4 +33,4 @@ Integrati facilmente con i prodotti Adobe Experience Cloud per creare percorsi d
 - Maggiore coinvolgimento e fedeltà dei clienti
 - Integrazione perfetta e visualizzazione unificata dei clienti
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433577?learn=on&captions=ita)

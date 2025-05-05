@@ -30,7 +30,7 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/35946?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330062?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

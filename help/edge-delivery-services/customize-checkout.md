@@ -35,7 +35,7 @@ Scopri alcuni esempi per personalizzare l’esperienza di pagamento del carrello
 * Implementazione del checkout con più passaggi&#x200B;
 * Riutilizzo del codice e delle best practice esistenti
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442658?learn=on&captions=ita)
 
 ## Documentazione aggiuntiva
 

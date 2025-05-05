@@ -30,7 +30,7 @@ Scopri l’infrastruttura cloud e alcune best practice per lo sviluppo per Adobe
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432798?learn=on&captions=ita)
 
 ## Documentazione di Experience League citata nel video
 

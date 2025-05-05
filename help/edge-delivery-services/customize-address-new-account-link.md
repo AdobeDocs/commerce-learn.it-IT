@@ -40,7 +40,7 @@ I project manager devono tenere traccia dell&#39;avanzamento delle attività di 
 * Convalida e gestione degli errori per i campi di input degli indirizzi, per garantire che gli utenti ricevano un feedback immediato sulle voci errate o incomplete, migliorando l’esperienza utente.
 * Estensione della dashboard dell’account utente che aggiunge una nuova voce di menu nella barra laterale alla dashboard dell’account utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442914?learn=on&captions=ita)
 
 ## Documentazione aggiuntiva
 

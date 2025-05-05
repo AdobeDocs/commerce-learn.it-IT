@@ -38,7 +38,7 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 * Lo sconto coupon viene visualizzato utilizzando le regole del carrello e gli slot del piè di pagina per visualizzare queste informazioni in modo efficace.
 * Utilizzo degli attributi del prodotto e degli slot per estendere e personalizzare la funzionalità del carrello, garantendo il rispetto di tutti i requisiti del progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441124?learn=on&captions=ita)
 
 
 ## Documentazione aggiuntiva

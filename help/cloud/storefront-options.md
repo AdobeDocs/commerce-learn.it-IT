@@ -35,4 +35,4 @@ Si integra perfettamente con gli strumenti di esperienza digitale di Adobe, cons
 - Personalizzazione in tempo reale e gestione efficiente delle risorse digitali
 - Autorizzazione degli utenti non tecnici
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448394?learn=on&captions=ita)

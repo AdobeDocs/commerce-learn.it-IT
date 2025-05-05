@@ -37,7 +37,7 @@ Scopri come funziona il meccanismo di esecuzione dei nuovi tentativi nel contest
 * Indicatori visivi nella console per sviluppatori, ad esempio icone di avviso per eventi non riusciti e icone a freccia circolare per eventi ritentati.
 * Le azioni di runtime &quot;consumer&quot; svolgono un ruolo fondamentale nella determinazione dei codici di stato delle risposte HTTP appropriati per la gestione degli eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449081?learn=on&captions=ita)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

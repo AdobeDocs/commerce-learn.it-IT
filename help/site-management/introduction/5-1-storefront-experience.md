@@ -36,7 +36,7 @@ In questo video:
 >
 >Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=it).
 
->[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330204?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

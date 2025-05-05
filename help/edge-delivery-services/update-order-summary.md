@@ -36,7 +36,7 @@ Scopri come utilizzare Adobe Commerce cart drop in e regolare l’esperienza del
 * Scopri come includere un importo totale risparmiato per il riepilogo del carrello.
 * Scopri come unire le righe nel riepilogo del carrello in un’unica sezione comprimibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441193?learn=on&captions=ita)
 
 ## Documentazione aggiuntiva
 

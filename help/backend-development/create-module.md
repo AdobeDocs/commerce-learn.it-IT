@@ -34,7 +34,7 @@ Il modulo è un elemento strutturale di [!DNL Commerce]. L&#39;intero sistema è
 - Aggiorna lo script per installare il nuovo modulo.
 - Verifica che il modulo funzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412453?learn=on&captions=ita)
 
 ### module.xml
 

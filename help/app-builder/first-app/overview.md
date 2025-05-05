@@ -50,7 +50,7 @@ Questo tutorial è stato progettato per seguire l’ordine delle pagine nel menu
 * Aspettative per l’utilizzo del modulo di esempio
 * Parti riutilizzabili di nel modulo di esempio
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421025?quality=12&learn=on&captions=ita)
 
 {{avoid-400-error}}
 

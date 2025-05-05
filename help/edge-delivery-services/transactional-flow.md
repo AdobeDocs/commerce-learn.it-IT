@@ -37,7 +37,7 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 * Flessibilità del test A/B. Abilitazione delle configurazioni tramite SharePoint, per consentire agli addetti al marketing di controllare e testare tali funzioni.
 * Controllo Marketing Avanzato. Gestione e test semplificati delle configurazioni, per migliorare l’esperienza utente e l’efficacia del marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442359?learn=on&captions=ita)
 
 ## Documentazione aggiuntiva
 

@@ -32,6 +32,6 @@ Scopri come utilizzare lo sconto per elemento riga e visualizzare i valori utili
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445593?learn=on&captions=ita)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

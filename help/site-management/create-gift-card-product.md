@@ -31,7 +31,7 @@ Scopri come creare un prodotto gift card utilizzando l’API REST e l’amminist
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453085?learn=on&captions=ita)
 
 ## Creare una gift card con un semplice payload
 

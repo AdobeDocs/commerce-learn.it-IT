@@ -35,4 +35,4 @@ Scopri come utilizzare Adobe Commerce Data Connection insieme ad alcune configur
 * I tipi di pubblico di Real-Time CDP aggiornano e modificano la segmentazione in tempo reale in base ai dati del browser, ai dati lato server (inclusa la cronologia degli ordini) e ai dati di altre origini (ad esempio, i dati fedeltà).
 * Utilizzo dei tipi di pubblico di Real-Time CDP per personalizzare sia le regole del prezzo del carrello che i blocchi dinamici in Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453826?learn=on&captions=ita)

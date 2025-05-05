@@ -32,7 +32,7 @@ Scopri come creare un ticket di supporto in Experience League per Adobe Commerce
 * Scopri come cambiano gli articoli consigliati a seconda delle informazioni utilizzate nel modulo
 * Informazioni sul modo in cui il testo segnaposto trovato nei campi del modulo consente di comprendere il tipo di informazioni necessarie per una buona richiesta di supporto
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449561?learn=on&captions=ita)
 
 ## Guida del centro assistenza della Knowledge Base di Commerce
 

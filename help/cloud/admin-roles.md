@@ -33,4 +33,4 @@ Scopri come accedere al portale di amministrazione di Adobe Commerce utilizzando
 - Ottenere una buona comprensione della creazione e della gestione dei ruoli
 - Comprendere i livelli di accesso e di assegnazione degli utenti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433521?learn=on&captions=ita)

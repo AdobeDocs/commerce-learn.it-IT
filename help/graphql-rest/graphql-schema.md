@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Questa è la parte 4 della serie per GraphQL e Adobe Commerce. Le query e le mutazioni utilizzate si basano su un grafico dati specifico implementato sul server, che il runtime di GraphQL utilizza e utilizza per risolvere la query. La specifica di GraphQL definisce un linguaggio agnostico per esprimere i tipi e le relazioni del grafico dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446618?learn=on&captions=ita)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 

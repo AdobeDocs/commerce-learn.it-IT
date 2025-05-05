@@ -31,4 +31,4 @@ Scopri alcuni standard di codifica essenziali e best practice per PHP, JavaScrip
 * Scopri le best practice per PHP, JavaScript e personalizzazioni per garantire una migrazione fluida.
 * Ottieni informazioni dagli esperti Adobe su preparazione, prestazioni e sicurezza per progetti Adobe Commerce di successo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434865?learn=on&enablevpops&captions=ita)

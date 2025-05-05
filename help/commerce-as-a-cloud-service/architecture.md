@@ -39,4 +39,4 @@ Scopri l’architettura e le funzionalità chiave di Adobe Commerce as a Cloud S
 * Copertura API completa: la piattaforma supporta una copertura API estesa tramite API GraphQL e REST, consentendo un’integrazione perfetta con sistemi di terze parti.
 * Architettura headless: architettura completamente scollegata che consente agli sviluppatori di utilizzare vari framework front-end, offrendo flessibilità e prestazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443275?learn=on&captions=ita)

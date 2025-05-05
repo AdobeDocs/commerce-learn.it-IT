@@ -36,7 +36,7 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344406?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

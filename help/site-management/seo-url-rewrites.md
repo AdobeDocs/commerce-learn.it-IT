@@ -31,7 +31,7 @@ Lo strumento di riscrittura URL consente di modificare qualsiasi URL associato a
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410125?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

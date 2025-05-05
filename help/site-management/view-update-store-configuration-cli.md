@@ -27,7 +27,7 @@ Dimostrazione di come visualizzare, impostare e trovare i valori di configurazio
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439978?&learn=on&captions=ita)
 
 ## Alcuni comandi utilizzati nell&#39;esercitazione
 

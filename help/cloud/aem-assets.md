@@ -32,4 +32,4 @@ L’integrazione dell’intelligenza artificiale con Adobe Commerce centralizza 
 - Sincronizzazione perfetta tra prodotti e risorse.
 - Controllo completo del ciclo di vita, incluse approvazione, rimozione e scadenza.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434084?learn=on&captions=ita)

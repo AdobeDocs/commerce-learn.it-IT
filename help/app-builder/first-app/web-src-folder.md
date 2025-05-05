@@ -32,7 +32,7 @@ La cartella web-src per questa app di esempio contiene molti file e cartelle di 
 * File e cartelle in genere inclusi
 * Utilizzo della cartella `web-src` e del contenuto all&#39;interno nell&#39;applicazione di esempio
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421040?quality=12&learn=on&captions=ita)
 
 ## Esempi di codice
 

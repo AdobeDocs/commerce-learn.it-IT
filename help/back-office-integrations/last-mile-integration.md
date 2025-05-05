@@ -43,6 +43,6 @@ Scopri il significato delle attività di post-elaborazione tramite l’hook di p
 * Scopri il ruolo dell’hook di trasformazione nella trasformazione degli oggetti dati tra i sistemi di origine e di destinazione.
 * Scopri l’importanza dell’hook di invio nel facilitare l’effettivo invio dei dati al sistema di destinazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451933?learn=on&captions=ita)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

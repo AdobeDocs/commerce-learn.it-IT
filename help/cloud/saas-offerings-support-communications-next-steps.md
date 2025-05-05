@@ -30,7 +30,7 @@ Scopri le offerte, il supporto e altre comunicazioni SaaS di Adobe Commerce Clou
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432836?learn=on&captions=ita)
 
 ## Acronimi
 

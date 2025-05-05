@@ -30,7 +30,7 @@ Le regole del prezzo di catalogo possono essere utilizzate per offrire prodotti 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343834?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410849?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

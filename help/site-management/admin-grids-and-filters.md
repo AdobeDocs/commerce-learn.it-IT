@@ -31,4 +31,4 @@ Scopri come trovare e regolare i filtri da utilizzare nell’amministratore di A
 * Come utilizzare un filtro per limitare i risultati di una griglia di amministrazione
 * Scopri in che modo i filtri influiscono sugli altri amministratori nell’Admin Console di Adobe Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440390?learn=on&captions=ita)

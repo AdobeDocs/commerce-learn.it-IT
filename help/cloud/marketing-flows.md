@@ -33,4 +33,4 @@ _ Clienti nuovi ed esistenti che esplorano la vetrina di consegna Edge di Adobe 
 - Ottieni informazioni sull’ottimizzazione tramite test A/B.
 - Scopri alcuni strumenti avanzati e l’integrazione dell’intelligenza artificiale per perfezionare i contenuti, generare varianti e migliorare la strategia promozionale complessiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433540?learn=on&captions=ita)

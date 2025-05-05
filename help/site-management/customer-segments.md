@@ -31,7 +31,7 @@ I segmenti di clienti consentono di visualizzare in modo dinamico contenuti e pr
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410190?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

@@ -29,7 +29,7 @@ I clienti a volte hanno bisogno di assistenza per completare un acquisto. Ad alc
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410202?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

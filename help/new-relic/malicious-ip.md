@@ -26,4 +26,4 @@ In questo video:
 
 - Identifica un IP potenziale sospetto o dannoso&#x200B; da utilizzare in Fastly per bloccarlo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417128?quality=12&learn=on&captions=ita)

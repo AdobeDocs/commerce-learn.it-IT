@@ -33,7 +33,7 @@ ht-degree: 0%
 * Come aggiungere il file per aggiungere nuovi segreti
 * Evita di eseguire il commit del file perché contiene informazioni riservate
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421068?quality=12&learn=on&captions=ita)
 
 ## Esempio di codice
 

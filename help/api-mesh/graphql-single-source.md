@@ -35,7 +35,7 @@ Questo video aiuta gli sviluppatori a comprendere come creare una mesh con un’
 * Creazione di una trama da un file di configurazione JSON
 * Accesso all’endpoint GraphQL appena creato
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419720?quality=12&learn=on&captions=ita)
 
 ## Creare il file di configurazione json
 

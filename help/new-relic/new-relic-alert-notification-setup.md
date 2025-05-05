@@ -33,4 +33,4 @@ Scopri come trovare avvisi, criteri, flussi di lavoro e destinazioni in New Reli
 * Scopri le notifiche, i criteri e i flussi di lavoro degli avvisi
 * Il salvataggio della destinazione e la convalida della nuova e-mail sono stati aggiunti a un criterio
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441212?learn=on&captions=ita)

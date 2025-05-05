@@ -29,7 +29,7 @@ I commercianti con un unico negozio in più magazzini, magazzini, ubicazioni di 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410197?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

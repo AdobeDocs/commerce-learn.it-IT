@@ -34,7 +34,7 @@ Scopri cos’è la cache delle query MySQL e alcune nozioni di base su come funz
 - Scopri come l’istruzione SQL viene salvata e utilizzata per trovare una cache di query corrispondente
 - Alcuni suggerimenti sulle impostazioni di configurazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423385?learn=on&captions=ita)
 
 ## Risorse utili
 

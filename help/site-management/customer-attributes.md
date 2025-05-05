@@ -29,7 +29,7 @@ Gli attributi del cliente forniscono le informazioni necessarie per supportare i
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343661?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410185?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

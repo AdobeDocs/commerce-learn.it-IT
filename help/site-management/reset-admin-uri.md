@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Scopri come ripristinare l’URI amministratore utilizzando il comando cli di Adobe Commerce Cloud. Questa opzione è utile se l’URL dell’amministratore è stato modificato dall’amministratore, ma è stato commesso un errore e non è più possibile accedere all’amministratore.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439700/?learn=on&captions=ita)
 
 ## Alcuni comandi utilizzati nell&#39;esercitazione
 

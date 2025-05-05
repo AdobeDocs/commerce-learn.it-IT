@@ -34,7 +34,7 @@ Per le piccole e medie imprese, i rivenditori di medie dimensioni o le grandi im
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410790?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

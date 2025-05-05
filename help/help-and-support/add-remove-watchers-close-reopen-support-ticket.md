@@ -31,7 +31,7 @@ Scopri come aggiungere e rimuovere gli osservatori e come chiudere e riaprire un
 * Scopri come chiudere un ticket di supporto
 * Scopri come riaprire un ticket di supporto
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441360?learn=on&captions=ita)
 
 ## Guida del centro assistenza della Knowledge Base di Commerce
 

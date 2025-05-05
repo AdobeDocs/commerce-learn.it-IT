@@ -32,7 +32,7 @@ Per gli esercenti B2B, la pagina _[!UICONTROL Companies]_&#x200B;elenca tutti gl
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344447?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410772?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

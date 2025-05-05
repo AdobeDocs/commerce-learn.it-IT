@@ -35,4 +35,4 @@ Strumenti di estensibilità come API Mesh e la gestione unificata degli eventi s
 - Adobe Commerce offre servizi componibili come ricerca in tempo reale, consigli sull’intelligenza artificiale e soluzioni di pagamento flessibili.
 - Integrazione avanzata che include Mesh API, gestione unificata degli eventi e integrazione perfetta con Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433443?learn=on&captions=ita)

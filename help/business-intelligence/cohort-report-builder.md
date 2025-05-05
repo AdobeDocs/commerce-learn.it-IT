@@ -42,7 +42,7 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/342407?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346396?quality=12&learn=on&captions=ita)
 
 ## Risorse utili
 

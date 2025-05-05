@@ -38,4 +38,4 @@ Adobe Commerce as a Cloud Service offre una soluzione flessibile, scalabile ed e
 * Onboarding semplificato e provisioning self-service per una configurazione rapida ed efficiente delle istanze sandbox o di produzione.
 * Architettura componibile per l’implementazione indipendente, il ridimensionamento e l’aggiornamento dei servizi con estensibilità API-first.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443319?learn=on&captions=ita)

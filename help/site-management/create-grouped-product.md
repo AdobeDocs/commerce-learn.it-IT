@@ -43,7 +43,7 @@ Crea prima i prodotti semplici quando crei prodotti raggruppati dall’amministr
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454046?learn=on&captions=ita)
 
 ## Impostazione del prodotto raggruppato
 

@@ -28,7 +28,7 @@ Quando un cliente effettua un ordine, viene creato un ordine di vendita come rec
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343935?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410798?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

@@ -33,7 +33,7 @@ Questo video spiega come impostare i consigli di prodotto.
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449966?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

@@ -27,7 +27,7 @@ L&#39;iniezione di dipendenza è un pattern di progettazione che consente a un o
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/35799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412447?quality=12&learn=on&captions=ita)
 
 ## Risorse utili
 

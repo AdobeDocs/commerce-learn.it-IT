@@ -34,7 +34,7 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412440?quality=12&learn=on&captions=ita)
 
 ## Esempio di codice
 

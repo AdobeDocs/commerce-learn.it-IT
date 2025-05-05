@@ -32,6 +32,6 @@ Scopri come utilizzare le note sugli elementi riga per un preventivo B2B di Adob
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423693?learn=on&captions=ita)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

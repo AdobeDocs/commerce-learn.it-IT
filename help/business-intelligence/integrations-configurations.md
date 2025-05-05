@@ -33,4 +33,4 @@ Il documento illustra inoltre la procedura per sincronizzare le tabelle con la D
 
 ## Integrazioni e configurazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452698?learn=on&captions=ita)

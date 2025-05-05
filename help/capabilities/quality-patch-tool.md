@@ -39,7 +39,7 @@ Lo strumento Quality Patches è un&#39;utility da riga di comando per Adobe Comm
 
 Queste patch vengono sviluppate da Adobe Developers e dalla community di Magenti Open Source per migliorare la stabilità e le prestazioni. Non è consigliabile applicare un numero elevato di patch, in quanto ciò potrebbe complicare gli aggiornamenti futuri.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454077?learn=on&captions=ita)
 
 ## Perché utilizzare lo strumento di correzione della qualità
 

@@ -43,4 +43,4 @@ Come navigare e utilizzare in modo efficace le funzioni della vetrina Adobe Comm
 * Informazioni su come gestire gli ordini, ad esempio l&#39;aggiunta di articoli al carrello, l&#39;estrazione come ospite, l&#39;annullamento degli ordini e il riordinamento degli articoli.
 * Ottieni informazioni approfondite sull’aggiornamento delle informazioni sull’account, l’unione dei carrelli guest e cliente e la garanzia di un’esperienza di pagamento fluida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446770?learn=on&captions=ita)

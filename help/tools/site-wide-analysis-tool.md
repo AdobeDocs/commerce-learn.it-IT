@@ -30,7 +30,7 @@ Site-Wide Analysis Tool è uno strumento proattivo self-service e un archivio ce
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410778?learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

@@ -33,6 +33,6 @@ Il Marketplace di Adobe Commerce sta ora accettando le richieste per l’inserim
 * Sezioni tecniche e di marketing dell’invio dell’app
 * Esempio di e-mail che riceverai dopo che l’app avrà superato la revisione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420313)
+>[!VIDEO](https://video.tv.adobe.com/v/3447352?captions=ita)
 
 {{$include /help/_includes/app-builder-related-links.md}}
