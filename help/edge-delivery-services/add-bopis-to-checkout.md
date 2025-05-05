@@ -41,4 +41,4 @@ Scopri come utilizzare il carrello di Adobe Commerce dai Edge Delivery Services 
 
 ## Documentazione aggiuntiva
 
-* [Acquista il ritiro online in negozio](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [Acquista il ritiro online in negozio](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=it)

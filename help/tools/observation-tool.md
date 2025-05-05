@@ -32,5 +32,5 @@ In questo video, scopri lo strumento di osservazione per Adobe Commerce, un nerd
 
 ## Risorse aggiuntive
 
-- [Osservazione per Adobe Commerce - Articolo di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [Usa osservazione per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [Osservazione per Adobe Commerce - Articolo di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=it&)
+- [Usa osservazione per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=it)

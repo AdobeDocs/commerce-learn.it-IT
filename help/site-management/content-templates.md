@@ -32,5 +32,5 @@ L’utilizzo dei modelli consente di risparmiare tempo e fatica durante la creaz
 
 ## Risorse aggiuntive
 
-- [[!DNL Page Builder] Modelli - [!DNL Page Builder] Guida utente](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] Modelli - [!DNL Page Builder] Guida utente](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=it)
 - [Aggiungi modelli - [!DNL Page Builder] Guida per gli sviluppatori](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

@@ -34,7 +34,7 @@ In questo video:
 
 >[!TIP]
 >
->Se hai poca esperienza con Commerce Intelligence, la [Guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fornisce una panoramica completa per ottenere informazioni e risultati aziendali migliori tramite l&#39;aggregazione, l&#39;analisi e la visualizzazione dei dati.
+>Se hai poca esperienza con Commerce Intelligence, la [Guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=it){target="_blank"} fornisce una panoramica completa per ottenere informazioni e risultati aziendali migliori tramite l&#39;aggregazione, l&#39;analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 
@@ -47,6 +47,6 @@ In questo video:
 
 ## Risorse utili
 
-[Creare set di filtri - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Creare set di filtri - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=it)
 
-[Dimension di dati consigliati per segmentazione e filtro - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Dimension di dati consigliati per segmentazione e filtro - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=it)

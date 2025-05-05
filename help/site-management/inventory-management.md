@@ -33,5 +33,5 @@ I commercianti con un unico negozio in più magazzini, magazzini, ubicazioni di 
 
 ## Risorse aggiuntive
 
-- [Guida di Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Guida di Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=it)
 - [Inventory management - Documentazione REST per sviluppatori](https://developer.adobe.com/commerce/webapi/rest/inventory/)

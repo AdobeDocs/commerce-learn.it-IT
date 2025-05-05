@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ## Risorse aggiuntive
 
-- [Cenni preliminari sulle virgolette](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Configura virgolette](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Richiesta di offerta](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Negoziare un preventivo](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Le mie quotazioni](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+- [Cenni preliminari sulle virgolette](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html?lang=it){target="_blank"}
+- [Configura virgolette](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html?lang=it){target="_blank"}
+- [Richiesta di offerta](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html?lang=it){target="_blank"}
+- [Negoziare un preventivo](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html?lang=it){target="_blank"}
+- [Le mie quotazioni](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html?lang=it){target="_blank"}
 - [Gestisci preventivi negoziabili](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"}
 - [Integrare con il modulo NegotiableQuote](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"}

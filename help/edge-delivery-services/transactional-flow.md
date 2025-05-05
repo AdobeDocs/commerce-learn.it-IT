@@ -41,4 +41,4 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 
 ## Documentazione aggiuntiva
 
-* [Configura riepilogo carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Configura riepilogo carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=it)

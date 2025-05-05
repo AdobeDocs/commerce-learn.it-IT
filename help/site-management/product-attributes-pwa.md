@@ -33,5 +33,5 @@ In questo video, scopri come gestire gli attributi del prodotto quando hai una v
 
 ## Risorse aggiuntive
 
-- [Attributi del prodotto - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [Attributi del prodotto - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=it)
 - [PWA Studi - Documentazione per sviluppatori](https://developer.adobe.com/commerce/pwa-studio/)

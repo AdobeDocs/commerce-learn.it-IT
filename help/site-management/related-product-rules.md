@@ -34,4 +34,4 @@ Le regole di prodotto correlate consentono di eseguire il targeting della selezi
 
 ## Risorse aggiuntive
 
-[Regole prodotto correlate - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Regole prodotto correlate - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=it)

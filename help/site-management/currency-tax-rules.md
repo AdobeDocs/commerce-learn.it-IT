@@ -33,5 +33,5 @@ Le regole fiscali includono una combinazione di classe di prodotto, classe di cl
 
 ## Risorse aggiuntive
 
-- [Regole fiscali - [!DNL Commerce] Guida agli archivi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Valuta - [!DNL Commerce] Archivi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Regole fiscali - [!DNL Commerce] Guida agli archivi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=it)
+- [Valuta - [!DNL Commerce] Archivi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=it)

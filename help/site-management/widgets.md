@@ -34,5 +34,5 @@ I widget sono componenti riutilizzabili che possono essere creati e modificati f
 
 ## Risorse aggiuntive
 
-- [Widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [Crea e gestisci widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=it)
+- [Crea e gestisci widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=it)

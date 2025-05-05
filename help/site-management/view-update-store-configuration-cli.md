@@ -62,5 +62,5 @@ Per visualizzare una pagina nel terminale e visualizzare i numeri di riga `cat -
 
 ## Risorse aggiuntive
 
-- [Strumento da riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Configura sicurezza amministratore](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Strumento da riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=it){target="_blank"}
+- [Configura sicurezza amministratore](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=it){target="_blank"}

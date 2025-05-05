@@ -33,5 +33,5 @@ I clienti a volte hanno bisogno di assistenza per completare un acquisto. Ad alc
 
 ## Risorse aggiuntive
 
-- [Fornisci assistenza per gli acquirenti - [!DNL Commerce] Negozi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Assistenza per gli acquisti - [!DNL Commerce] Negozi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [Fornisci assistenza per gli acquirenti - [!DNL Commerce] Negozi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=it)
+- [Assistenza per gli acquisti - [!DNL Commerce] Negozi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=it#shopping-assistance)

@@ -89,4 +89,4 @@ Dopo aver eseguito il ssh nel progetto e nell&#39;ambiente corretti, passare all
 
 ## Documentazione correlata
 
-- [Notifiche stato](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notifiche stato](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

@@ -33,5 +33,5 @@ I gruppi di clienti determinano gli sconti disponibili e la classe fiscale assoc
 
 ## Risorse aggiuntive
 
-- [Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=it)
 - [Limitazioni del gruppo di clienti per siti Web - [!DNL Commerce] Guida alla gestione clienti](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

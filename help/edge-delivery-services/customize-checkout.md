@@ -39,4 +39,4 @@ Scopri alcuni esempi per personalizzare l’esperienza di pagamento del carrello
 
 ## Documentazione aggiuntiva
 
-* [Estrazione guest in più passaggi](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Estrazione guest in più passaggi](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=it)

@@ -71,8 +71,8 @@ Prima di applicare le patch, è fondamentale verificarle in un ambiente di stagi
 
 ## Articoli e video correlati
 
-* [Ricerca di strumenti di patch di qualità](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [Note sulla versione](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Ricerca di strumenti di patch di qualità](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=it)
+* [Note sulla versione](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github per le patch](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Utilizzo dello strumento di correzione qualità](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Video tecnico su QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Utilizzo dello strumento di correzione qualità](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Video tecnico su QPT](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/tools/quality-patch-tool)
