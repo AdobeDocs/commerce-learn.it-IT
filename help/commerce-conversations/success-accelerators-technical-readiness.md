@@ -1,7 +1,6 @@
 ---
 title: Preparazione tecnica degli acceleratori di successo
-description: Preparazione tecnica, valutazione della soluzione, pianificazione degli eventi e monitoraggio 24 ore su 24, 7 giorni su 7 di Adobe Commerce Success Accelerator per prestazioni ottimali.
-feature: Site Management, Support
+description: Scopri la preparazione tecnica di Commerce Success Accelerator, la valutazione della soluzione, la pianificazione degli eventi e il monitoraggio 24 ore su 24, 7 giorni su 7 per prestazioni ottimali.
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -9,13 +8,13 @@ doc-type: Value Video
 duration: 160
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17804
-source-git-commit: 080c355e656e918415de74156830d787aad20af4
+exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
+source-git-commit: a79bc113cbedb89c56e74571a68538fa94a3945c
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Preparazione tecnica degli acceleratori di successo
 
