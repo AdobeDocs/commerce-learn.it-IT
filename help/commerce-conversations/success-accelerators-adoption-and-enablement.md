@@ -34,4 +34,4 @@ Gli Adobe Commerce Success Accelerator per l’adozione e l’abilitazione inclu
 * Formazione lato scrivania con più sessioni per colmare le lacune di competenze e allinearsi alle priorità strategiche.
 * Creazione di autorizzazioni di accesso e governance della progettazione per garantire l’adozione corretta dei prodotti e le relative best practice.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463086/?learn=on&enablevpops&captions=ita)
