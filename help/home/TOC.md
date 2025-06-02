@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 586a4e2a52cbe8ea3b5018b4c53d731b3d071467
+source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '877'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [Valutazione e risoluzione di 2 errori comuni del sito](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Valori di configurazione](../cloud/troubleshooting/config-values.md)
       + [Tronca registri](../cloud/troubleshooting/truncate-logs.md)
+   + [Hosting compatibile con HIPAA](../cloud/hippa-ready-hosting.md)
    + [Rileva indirizzo IP](../cloud/detect-ip-address.md)
    + [Marketing](../cloud/marketecture.md)
    + [Modello di consegna globale](../cloud/global-delivery-model.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [Panoramica di Upgrade Compatibility Tool](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilizzare Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
 + Sviluppo back-end {#backend-development}
-   + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+   + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creare un modulo](../backend-development/create-module.md)
    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -265,3 +266,4 @@ ht-degree: 3%
       + [6 - Peregrina](../pwa/introduction/6-peregrine.md)
    + [Sviluppo Docker PWA](../pwa/pwa-docker-development.md)
    + [Configurare Venia per lo sviluppo](../pwa/set-up-venia-for-dev.md)
+
