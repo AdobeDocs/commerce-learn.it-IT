@@ -41,7 +41,7 @@ In questo video, scopri come:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447902?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 
