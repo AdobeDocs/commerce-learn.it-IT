@@ -12,7 +12,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
+source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 15%
@@ -40,7 +40,7 @@ API Mesh combina più origini di dati per ottenere una singola risposta da utili
 * Caso d&#39;uso per eseguire il controllo dell&#39;inventario in tempo reale al momento del pagamento
 * Spostare le attività di sviluppo e l’utilizzo delle risorse dall’applicazione commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3421887?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Casi d’uso di esempio
 
