@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
+source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 15%
+source-wordcount: '305'
+ht-degree: 16%
 
 ---
 
@@ -40,7 +40,7 @@ API Mesh combina più origini di dati per ottenere una singola risposta da utili
 * Caso d&#39;uso per eseguire il controllo dell&#39;inventario in tempo reale al momento del pagamento
 * Spostare le attività di sviluppo e l’utilizzo delle risorse dall’applicazione commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3421887?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Casi d’uso di esempio
 
@@ -51,6 +51,6 @@ L’applicazione Commerce dispone di un’API REST e di un endpoint GraphQL. Ad 
 In qualità di sviluppatore che utilizza Adobe App Builder e API Mesh, non è necessario comprendere cosa sia un proxy inverso. Tuttavia, se ti interessa la funzionalità complessiva relativa ad Adobe App Builder, utilizza le risorse seguenti:
 
 * [Informazioni su un proxy inverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Community Experience League - proxy inverso](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
+
 
 {{$include /help/_includes/api-mesh-related-links.md}}
