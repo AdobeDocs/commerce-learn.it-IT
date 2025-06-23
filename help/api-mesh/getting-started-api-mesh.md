@@ -12,16 +12,16 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
+source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '311'
 ht-degree: 15%
 
 ---
 
 # Introduzione a Mesh API
 
-Se hai poca esperienza con API Mesh per Adobe Developer App Builder, l’Adobe consiglia di iniziare con questa esercitazione introduttiva prima di passare agli altri video e tutorial.
+Se hai poca esperienza con API Mesh per Adobe Developer App Builder, Adobe consiglia di iniziare con questo tutorial introduttivo, prima di passare agli altri video e tutorial.
 
 ## Cos’è API Mesh
 
@@ -31,7 +31,7 @@ API Mesh combina più origini di dati per ottenere una singola risposta da utili
 
 ## A chi serve questo video?
 
-* Qualsiasi sviluppatore che non ha mai utilizzato API Mesh o [!DNL Adobe Commerce] con esperienza limitata utilizzando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
+* Qualsiasi sviluppatore che non ha mai utilizzato API Mesh o [!DNL Adobe Commerce] con esperienza limitata nell&#39;utilizzo di [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
 
 ## Contenuto video
 
@@ -40,7 +40,7 @@ API Mesh combina più origini di dati per ottenere una singola risposta da utili
 * Caso d&#39;uso per eseguire il controllo dell&#39;inventario in tempo reale al momento del pagamento
 * Spostare le attività di sviluppo e l’utilizzo delle risorse dall’applicazione commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3421887?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Casi d’uso di esempio
 
@@ -51,6 +51,6 @@ L’applicazione Commerce dispone di un’API REST e di un endpoint GraphQL. Ad 
 In qualità di sviluppatore che utilizza Adobe App Builder e API Mesh, non è necessario comprendere cosa sia un proxy inverso. Tuttavia, se ti interessa la funzionalità complessiva relativa ad Adobe App Builder, utilizza le risorse seguenti:
 
 * [Informazioni su un proxy inverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Che cos&#39;è un proxy inverso e perché è importante](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Community Experience League - proxy inverso](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
