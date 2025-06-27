@@ -37,4 +37,4 @@ Scopri i flussi di lavoro GitHub inclusi nel kit di avvio Mesh API per la distri
 
 * [Repo GitHub del kit di avvio mesh API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guida all&#39;implementazione da server Adobe Developer OAuth](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Playlist dei video Mesh API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Playlist dei video Mesh API](https://experienceleague.adobe.com/it/playlists/commerce-get-started-app-builder-and-api-mesh)
