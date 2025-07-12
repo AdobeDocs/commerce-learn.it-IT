@@ -31,7 +31,7 @@ Limita l’accesso al sito Adobe Commerce con Fastly Edge ACL e VCL personalizza
 * Sviluppatore Adobe Commerce
 * Site Reliability Engineer
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464787/?learn=on&enablevpops&captions=ita)
 
 ## Esempio di codice
 
