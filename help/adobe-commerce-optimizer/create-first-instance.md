@@ -33,7 +33,7 @@ Scopri come creare la prima istanza di Adobe Commerce Optimizer dall’inizio al
 * Scegli l’ambiente e l’area geografica giusti per la tua istanza.
 * Implementa e prepara rapidamente la configurazione del catalogo nelle esercitazioni future.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469886?learn=on&enablevpops&captions=ita)
 
 ## Contenuto correlato
 
