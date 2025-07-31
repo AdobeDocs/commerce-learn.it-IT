@@ -37,6 +37,6 @@ Scopri come gestire un’istanza di Adobe Commerce Optimizer per aggiornare il n
 
 ## Contenuto correlato
 
-* [Cos&#39;è Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [Cos&#39;è Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce/optimizer/get-started){target="_blank"}
