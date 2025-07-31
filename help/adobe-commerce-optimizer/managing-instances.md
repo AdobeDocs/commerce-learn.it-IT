@@ -33,7 +33,7 @@ Scopri come gestire un’istanza di Adobe Commerce Optimizer per aggiornare il n
 * Nome e descrizioni dell’aggiornamento
 * Trova endpoint e identificatori chiave per le integrazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470240?learn=on&enablevpops&captions=ita)
 
 ## Contenuto correlato
 
