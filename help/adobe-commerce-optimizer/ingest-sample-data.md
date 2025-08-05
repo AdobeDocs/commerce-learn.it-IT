@@ -37,5 +37,5 @@ Scopri come acquisire i dati di esempio per l’istanza Adobe Commerce Optimizer
 ## Contenuto correlato
 
 * [Dati di esempio dell&#39;archivio GitHub](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Caso di utilizzo amministratore](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [Caso di utilizzo amministratore](https://experienceleague.adobe.com/it/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce/optimizer/get-started){target="_blank"}
