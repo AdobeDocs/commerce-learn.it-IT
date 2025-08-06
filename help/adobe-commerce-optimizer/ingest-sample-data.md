@@ -33,7 +33,7 @@ Scopri come acquisire i dati di esempio per l’istanza Adobe Commerce Optimizer
 * Creare criteri.
 * Creare visualizzazioni catalogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470482?learn=on&enablevpops&captions=ita)
 
 ## Contenuto correlato
 
