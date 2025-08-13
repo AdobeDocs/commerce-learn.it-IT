@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 622e996bf7124ffd74fe9db81b0e47ba65ae2279
+source-git-commit: 68f2108d3526cf4159cafc9259c1692a7dc98267
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '908'
 ht-degree: 3%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 3%
    + [Creare la prima istanza di Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
    + [Gestire le istanze di Adobe Commerce Optimizer](../adobe-commerce-optimizer/managing-instances.md)
    + [Acquisire dati di esempio](../adobe-commerce-optimizer/ingest-sample-data.md)
+   + [Prima query con GraphQL](../adobe-commerce-optimizer/first-query.md)
 + Architettura di riferimento globale {#global-reference-architecture-implementation-techniques}
    + [Panoramica](../global-reference-architecture/overview.md)
    + [Dividi Git](../global-reference-architecture/split-git.md)
@@ -241,7 +242,7 @@ ht-degree: 3%
    + [Panoramica di Upgrade Compatibility Tool](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilizzare Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
 + Sviluppo back-end {#backend-development}
-   + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+   + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creare un modulo](../backend-development/create-module.md)
    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
