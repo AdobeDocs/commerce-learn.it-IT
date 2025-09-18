@@ -30,7 +30,7 @@ Scopri come eseguire query sui dati utilizzando GraphQL su un’istanza Adobe Co
 * Eseguire query sui dati tramite GraphQL
 * Utilizzo di jq per semplificare la lettura di json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470808?learn=on&enablevpops&captions=ita)
 
 ## Esempi di codice
 
