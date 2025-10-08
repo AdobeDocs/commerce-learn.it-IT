@@ -10,9 +10,9 @@ duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
+source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1095'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Lo strumento CLI di Magento-Cloud è progettato per aiutare sviluppatori e ammin
 
 In questa sezione iniziale del codice di esempio, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` richiede l&#39;URL per l&#39;ambiente. Il valore restituito è simile al seguente `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. Ogni tanto assomiglia di più a `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Questo primo comando è piuttosto semplice e ora è il momento di passare al comando successivo.
 
-Per ulteriori informazioni, leggere [Panoramica di Cloud CLI](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Per ulteriori informazioni, leggere [Panoramica di Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Utilizzo di `sed` per ricerca e sostituzione
 
@@ -61,7 +61,7 @@ sed 's/.\.c\.(.)/\1/;s/.$//'
 Il comando `sed` in UNIX®Linux® sta per Stream Editor. Viene utilizzato per eseguire trasformazioni di testo di base su un flusso di input (un file o un input da una pipeline). Gli usi comuni includono la ricerca, la ricerca e la sostituzione, l’inserimento e l’eliminazione di testo. Il comando `sed` elabora il testo riga per riga e applica le operazioni specificate, rendendolo uno strumento potente per la manipolazione e la creazione di script di testo.
 
 Come indicato in precedenza, in genere sono disponibili 2 tipi di URL restituiti dal file CLI `magento-cloud`. Una variante contiene `.com.c.c` al centro. Questa variante è quella che deve essere modificata. Se viene rilevata questa struttura, è necessario rimuovere tutto a partire dall&#39;inizio dell&#39;URL fino a `.com.c.c`.  Quindi, rimane solo l’ultima parte dell’URL. Un URL di esempio è simile a `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Quando viene rilevato questo modello, l&#39;obiettivo è mantenere tutto dopo `.c.`.  In questo codice di esempio fornito, `sed 's/.\.c\.(.)/\1/'` viene utilizzato per acquisire questa parte e ignorare il resto del valore restituito originale. La parte rimanente dell&#39;URL è simile a `abcikdxbg789.ent.magento.cloud/`.\
-Due comandi in esecuzione in `sed`. Sono separati da un punto e virgola. La seconda parte del comando `;s/.$//'` di `sed` consiste nel rimuovere eventuali barre finali, se esistenti, per ripulire l&#39;URL in modo che sia simile a `abcikdxbg789.ent.magento.cloud`.  A questo punto, l’URL è stato pulito e pronto per il comando successivo.
+Due comandi in esecuzione in `sed`. Sono separati da un punto e virgola. La seconda parte del comando `sed` di `;s/.$//'` consiste nel rimuovere eventuali barre finali, se esistenti, per ripulire l&#39;URL in modo che sia simile a `abcikdxbg789.ent.magento.cloud`.  A questo punto, l’URL è stato pulito e pronto per il comando successivo.
 
 ## Xargs con scavo
 
@@ -120,4 +120,4 @@ Questi ambienti di livello inferiore sono multi-tenant e condividono i server so
 
 ## Documentazione correlata
 
-* [Indirizzi IP regionali](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses|https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Indirizzi IP regionali](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
