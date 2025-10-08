@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 608196b8f68fcd299059907981ec673f2cc60e42
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,9 @@ Scopri cos’è la cache delle query MySQL e alcune nozioni di base su come funz
 - Scopri come l’istruzione SQL viene salvata e utilizzata per trovare una cache di query corrispondente
 - Alcuni suggerimenti sulle impostazioni di configurazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3423385?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Risorse utili
 
-- [Linee guida generali di MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=it){target="_blank"}
-- [Deadlock in MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=it){target="_blank"}
-- [Replica Galera e query lente](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=it){target="_blank"}
+- [Linee guida generali di MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [Replica Galera e query lente](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
