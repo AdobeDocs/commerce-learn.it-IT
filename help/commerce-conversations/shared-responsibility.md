@@ -39,5 +39,5 @@ Scopri in che modo Adobe e gli esercenti condividono la responsabilità di mante
 
 * [Note sulla versione della patch di sicurezza](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/security-patches/overview)
 * [Canali di notifica](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Bollettini sulla sicurezza di Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Bollettini sulla sicurezza di Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
 * [Proteggere il sito e l&#39;infrastruttura di commerce](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
