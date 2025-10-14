@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '922'
 ht-degree: 3%
 
 ---
@@ -106,6 +106,10 @@ ht-degree: 3%
       + [Personalizzare il layout di un indirizzo](../edge-delivery-services/customize-address-new-account-link.md)
       + [Esperienza di acquisto](../edge-delivery-services/shopper-experience.md)
 + Webinar ed eventi {#webinars-and-events}
+   + Crescita aziendale {#business-growth}
+      + [Innovazione nell’intelligenza artificiale](../business-growth/ai-innovation.md)
+      + [Visione in avanti](../business-growth/vision-forward.md)
+      + [Adozione di prodotti](../business-growth/product-adoption.md)
    + Il futuro di Commerce {#future-of-commerce}
       + [Annunci di nuovi prodotti](../future-of-commerce/new-product-announcements.md)
       + [Riduzione drastica dei costi](../future-of-commerce/drastically-cut-costs.md)
@@ -243,7 +247,7 @@ ht-degree: 3%
    + [Panoramica di Upgrade Compatibility Tool](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilizzare Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
 + Sviluppo back-end {#backend-development}
-   + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+   + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creare un modulo](../backend-development/create-module.md)
    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)

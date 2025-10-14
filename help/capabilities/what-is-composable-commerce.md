@@ -1,5 +1,5 @@
 ---
-title: Adobe di creazione di Commerce componibili
+title: Creazione di Commerce componibili in Adobe
 description: Scopri l’e-commerce componibile, dando priorità a un approccio API-first e implementando un’architettura modulare e orientata ai servizi.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Il Commercio componibile è un approccio architettonico nell’e-commerce che comporta la separazione del livello di presentazione front-end dalla funzionalità di e-commerce back-end. &#x200B; Consente alle aziende di selezionare e combinare i componenti o i moduli migliori per creare una soluzione personalizzata. Questo approccio comporta la suddivisione della tradizionale piattaforma monolitica di e-commerce in servizi o microservizi più piccoli e indipendenti che possono essere composti insieme. Il commercio componibile offre vantaggi quali flessibilità, scalabilità, personalizzazione, agilità e la possibilità di semplificare le integrazioni con altri sistemi e tecnologie.
 
-Adobe Commerce fornisce molte funzionalità e strumenti per supportare i commercianti nell’adozione e implementazione del commercio componibile. Adobe Commerce offre una metodologia di e-commerce componibile ed esperienze front-end ibride headless e non headless. Tenendo presente l’estensibilità out-of-process, Adobe offre Mesh API per l’integrazione di più servizi e App Builder Adobe per la creazione di microservizi personalizzati.
+Adobe Commerce fornisce molte funzionalità e strumenti per supportare i commercianti nell’adozione e implementazione del commercio componibile. Adobe Commerce offre una metodologia di e-commerce componibile ed esperienze front-end ibride headless e non headless. Tenendo presente l’estensibilità out-of-process, Adobe offre API Mesh per l’integrazione di più servizi e Adobe App Builder per la creazione di microservizi personalizzati.
 
 ## Perché il commercio componibile è importante
 
@@ -59,7 +59,7 @@ Adobe Commerce offre diverse funzionalità per supportare i commercianti nell’
 
 **Mesh API:** La Mesh API di Adobe Commerce semplifica l&#39;integrazione di più microservizi, strumenti di terze parti e applicazioni in un endpoint API unificato per sviluppatori front-end. Consente agli sviluppatori di combinare più origini dati in un unico endpoint GraphQL, riducendo la complessità e semplificando lo sviluppo e la manutenzione di nuove funzioni ed esperienze.
 
-**Adobe App Builder:** Adobe App Builder è una piattaforma di estendibilità senza server che consente ai commercianti di creare microservizi personalizzati, creare esperienze personalizzate ed estendere le soluzioni Adobe. Con App Builder, i commercianti possono creare app sicure e scalabili che estendono le funzionalità native di Adobe Commerce e si integrano con soluzioni di terze parti. Questo elimina la necessità per i commercianti di creare e mantenere la propria infrastruttura per personalizzazioni e microservizi, riducendo la complessità e il costo totale di proprietà.
+**Adobe App Builder:** Adobe App Builder è una piattaforma di estensibilità senza server che consente ai commercianti di creare microservizi personalizzati, creare esperienze personalizzate ed estendere le soluzioni Adobe. Con App Builder, i commercianti possono creare app sicure e scalabili che estendono le funzionalità native di Adobe Commerce e si integrano con soluzioni di terze parti. Questo elimina la necessità per i commercianti di creare e mantenere la propria infrastruttura per personalizzazioni e microservizi, riducendo la complessità e il costo totale di proprietà.
 
 Queste funzionalità fornite da Adobe Commerce semplificano l’adozione e l’implementazione di soluzioni commerce componibili, consentendo ai commercianti di sfruttare i vantaggi di flessibilità, scalabilità, personalizzazione e funzionalità di integrazione riducendo al contempo la complessità e lo sforzo di sviluppo.
 
@@ -73,7 +73,7 @@ Il Commercio componibile è un approccio architettonico nell’e-commerce che co
 
 **Considerazioni:** Quando si considera l&#39;e-commerce componibile, è necessario valutare attentamente fattori quali complessità, maturità tecnica interna, dimensioni e struttura del progetto, personalizzazione rispetto alla standardizzazione, costo totale di proprietà e sicurezza e privacy dei dati.
 
-**Adobe Commerce:** Adobe Commerce fornisce funzionalità e strumenti per supportare i commercianti nell&#39;adozione e implementazione di Commerce componibile. Tra questi: una metodologia di e-commerce componibile, funzionalità avanzate, esperienze front-end ibride, Mesh API per l’integrazione e App Builder Adobe per microservizi personalizzati.
+**Adobe Commerce:** Adobe Commerce fornisce funzionalità e strumenti per supportare i commercianti nell&#39;adozione e implementazione di Commerce componibile. Questi includono una metodologia di e-commerce componibile, funzionalità avanzate, esperienze front-end ibride, Mesh API per l’integrazione e Adobe App Builder per microservizi personalizzati.
 
 **Impatto aziendale:** il commercio elettronico consente alle aziende di creare una piattaforma di e-commerce altamente flessibile, scalabile e personalizzabile. Consente loro di offrire esperienze cliente uniche, scalabilità basata sulla domanda, integrazione con altri sistemi, operazioni a prova di futuro e utilizzo dell&#39;esperienza degli sviluppatori.
 
