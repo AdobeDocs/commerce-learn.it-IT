@@ -32,4 +32,4 @@ Scopri Commerce Optimizer Salesforce Commerce Cloud Connector, uno strumento pro
 * scopri lo scopo del kit di avvio per l’integrazione con Salesforce Commerce Cloud.
 * Comprendere dove installare il kit di avvio
 
->[!VIDEO](https://video.tv.adobe.com/v/3476013)
+>[!VIDEO](https://video.tv.adobe.com/v/3476021?captions=ita)
