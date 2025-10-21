@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Tutorial su Commerce {#videos}
 
-Ti diamo il benvenuto nella raccolta di video e tutorial [!DNL Commerce]. L&#39;utilizzo di queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html), offre l&#39;opportunità di scoprire come utilizzare Adobe Commerce e Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori back-end, sviluppatori front-end, amministratori di sistema, commercianti e altri ruoli all’interno della tua organizzazione.
+Ti diamo il benvenuto nella raccolta di video e tutorial [!DNL Commerce]. L&#39;utilizzo di queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html?lang=it), offre l&#39;opportunità di scoprire come utilizzare Adobe Commerce e Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori back-end, sviluppatori front-end, amministratori di sistema, commercianti e altri ruoli all’interno della tua organizzazione.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,11 +27,11 @@ Ti diamo il benvenuto nella raccolta di video e tutorial [!DNL Commerce]. L&#39;
 
 >[!TIP]
 >
->Lo spazio [Eventi Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) consente di accedere al contenuto degli eventi registrati che è possibile visualizzare su richiesta.
+>Lo spazio [Eventi Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=it) consente di accedere al contenuto degli eventi registrati che è possibile visualizzare su richiesta.
 
 ## Risorse aggiuntive
 
-- [Documentazione per esercenti](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+- [Documentazione per esercenti](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=it)
 - [Documentazione per sviluppatori](https://developer.adobe.com/commerce)
 - [Servizi di apprendimento digitale Adobe - Catalogo corsi Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 
