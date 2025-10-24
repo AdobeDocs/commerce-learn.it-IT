@@ -33,4 +33,4 @@ Cloud Automation Patching Service (CAPS) di Adobe, una funzione all’interno di
 
 ## Documentazione correlata
 
-* [Documentazione del servizio di applicazione di patch per l&#39;automazione cloud](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentazione del servizio di applicazione di patch per l&#39;automazione cloud](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/caps-tool/intro)
