@@ -35,4 +35,4 @@ La roadmap di Adobe Commerce per il 2026 delinea una strategia completa per migl
 * Centro commerciale ed esperienza di amministrazione
 * Miglioramenti di esperienza e osservabilità per sviluppatori
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475714/?captions=ita&learn=on&enablevpops)
