@@ -62,7 +62,7 @@ Il diagramma seguente illustra come un’applicazione standard basata su App Bui
 
 ![Architettura](/help/assets/app-builder/app-builder-architecture.jpeg)
 
-Per ulteriori dettagli sull&#39;architettura di App Builder, vedi [Panoramica dell&#39;architettura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
+Per ulteriori dettagli sull&#39;architettura di App Builder, vedere [Panoramica dell&#39;architettura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Introduzione ad App Builder {#additional-resources}
 
@@ -89,6 +89,6 @@ Sei pronto a iniziare a sviluppare? Il seguente collegamento contiene applicazio
 
 ## Supporto {#support}
 
-Per le richieste di supporto per sviluppatori, utilizza il [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} per assistenza.
+Per richieste di supporto per sviluppatori, utilizza il [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} per assistenza.
 
 {{$include /help/_includes/app-builder-related-links.md}}

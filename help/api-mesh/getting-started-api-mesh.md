@@ -40,7 +40,7 @@ API Mesh combina più origini di dati per ottenere una singola risposta da utili
 * Caso d&#39;uso per eseguire il controllo dell&#39;inventario in tempo reale al momento del pagamento
 * Spostare le attività di sviluppo e l’utilizzo delle risorse dall’applicazione commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3421887?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Casi d’uso di esempio
 
