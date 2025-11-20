@@ -24,7 +24,7 @@ Questa è la parte 1 della serie per GraphQL e Adobe Commerce. GraphQL è rapida
 
 Se hai poca esperienza con GraphQL, questa sezione ti indirizza ai concetti e all’utilizzo di base.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443949?captions=ita&learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 

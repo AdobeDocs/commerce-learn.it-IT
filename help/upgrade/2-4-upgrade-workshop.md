@@ -38,7 +38,7 @@ In questo workshop, Adobe Commerce ha collaborato con Merkle per condividere:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432517?captions=ita&quality=12&learn=on)
 
 ## Risorse aggiuntive
 
