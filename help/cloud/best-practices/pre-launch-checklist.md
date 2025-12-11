@@ -38,7 +38,7 @@ Se all&#39;account è stato assegnato un CTA/CSE, contatta l&#39;account e l&#39
 1. Consulta la documentazione sui test e la pubblicazione della [documentazione di lancio del sito](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Assicurati che un _&quot;piano di preparazione alla pubblicazione&quot;_ completo sia stato preparato con il tuo partner o integratore di sistemi, includendo tutte le azioni necessarie. Ricorda che l&#39;elenco di controllo pre-lancio evidenzia le best practice di Adobe, ma _**non**_ sostituisce la necessità del tuo piano di preparazione alla pubblicazione.
+   >Assicurati che un _&quot;piano di preparazione alla pubblicazione&quot;_ completo sia stato preparato con il tuo partner o integratore di sistemi, includendo tutte le azioni necessarie. Ricorda che l&#39;elenco di controllo pre-lancio evidenzia le best practice di Adobe, ma _&#x200B;**non**&#x200B;_ sostituisce la necessità del tuo piano di preparazione alla pubblicazione.
 
 2. [!BADGE Blocco]{type=caution tooltip="Potenziale bloccante"} Rivedi i consigli e le informazioni di Support Insights (SWAT) ([Guida utente](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. L’utente finale/esercente ha condotto test di accettazione utente (UAT, User Acceptance Testing), comprese le operazioni back-end.
