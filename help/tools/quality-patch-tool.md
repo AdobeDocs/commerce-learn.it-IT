@@ -35,7 +35,7 @@ Il team di supporto Adobe Commerce e la community Magento Open Source sviluppano
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410784?captions=ita&quality=12&learn=on)
 
 ## Risorse aggiuntive
 

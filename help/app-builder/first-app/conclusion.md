@@ -33,7 +33,7 @@ Ora che hai creato la tua prima app Adobe Developer App Builder, scopri altre ri
 * Metodi di connessione ad altri sviluppatori
 * Commenti di chiusura
 
->[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421074?captions=ita&quality=12&learn=on)
 
 ## Risorse App Builder aggiuntive
 

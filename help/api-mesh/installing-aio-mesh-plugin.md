@@ -35,7 +35,7 @@ Per le istruzioni di installazione e i prerequisiti, visita la pagina Mesh API [
 * Installazione di Adobe I/O Runtime CLI (interfaccia della riga di comando)
 * Installazione del plug-in Mesh API
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419794?captions=ita&quality=12&learn=on)
 
 ## Installazione del plug-in `aio` CLI e API Mesh
 

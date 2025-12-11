@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430971?captions=ita&quality=12&learn=on)
 
 ## Risorse utili
 

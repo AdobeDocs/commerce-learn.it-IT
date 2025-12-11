@@ -34,4 +34,4 @@ Scopri come configurare e distribuire App Builder Starter Kit per Salesforce Com
 * Clonare App Builder Starter Kit e configurare i file di ambiente utilizzando Adobe IO CLI.
 * Distribuisci l’app e conferma la corretta registrazione di azioni ed eventi nell’area di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476090?captions=ita&learn=on)

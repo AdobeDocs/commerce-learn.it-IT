@@ -34,4 +34,4 @@ Il documento illustra inoltre il processo di sincronizzazione delle tabelle con 
 
 ## Integrazioni e configurazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452698?captions=ita&learn=on)

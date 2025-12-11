@@ -38,7 +38,7 @@ Come soluzione, se possibile, creare un batch delle operazioni di grandi dimensi
 - Le esecuzioni in blocco si verificano solo sul primario. Le repliche avvengono una alla volta
 - Assegna in batch i commit di grandi dimensioni per aiutare la replica a tenere il passo con il principale
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423541?captions=ita&learn=on)
 
 ## Risorse utili
 

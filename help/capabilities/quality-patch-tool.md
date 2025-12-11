@@ -39,7 +39,7 @@ Lo strumento Quality Patches (Patch di qualità) è un’utility per riga di com
 
 Queste patch sono sviluppate da Adobe Developers e dalla community Magento Open Source per migliorare la stabilità e le prestazioni. Non è consigliabile applicare un numero elevato di patch, in quanto ciò potrebbe complicare gli aggiornamenti futuri.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454077?captions=ita&learn=on)
 
 ## Perché utilizzare lo strumento di correzione della qualità
 

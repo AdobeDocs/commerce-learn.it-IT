@@ -31,7 +31,7 @@ Scopri i file Yaml chiave utilizzati in Adobe Commerce Cloud per la configurazio
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432821?captions=ita&learn=on)
 
 ## Documentazione di Experience League citata nel video
 

@@ -36,7 +36,7 @@ Scopri come registrare gli eventi, trovare gli eventi supportati e utilizzare un
 * Scopri come registrare gli eventi nelle istanze di Commerce `app/etc/config.php`
 * Scopri come annullare l’abbonamento a un evento
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419836?captions=ita&quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 

@@ -36,7 +36,7 @@ Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati i
 * Definizione delle regole da utilizzare negli eventi condizionali
 * Scopri come registrare gli eventi nelle istanze di Commerce `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419800?captions=ita&quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 

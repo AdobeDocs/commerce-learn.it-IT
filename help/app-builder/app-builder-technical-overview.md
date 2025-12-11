@@ -27,6 +27,6 @@ Il video seguente offre una panoramica tecnica su un esempio di modello di integ
 
 ## App Builder per Adobe Commerce {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430831?captions=ita&quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

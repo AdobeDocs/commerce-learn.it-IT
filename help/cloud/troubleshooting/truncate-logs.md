@@ -35,7 +35,7 @@ Se si ritiene che possano essere necessari questi file di registro, è possibile
 - Dove si trovano alcuni file di registro di grandi dimensioni comuni
 - Metodo rapido per troncare un file di registro
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454591?captions=ita&learn=on)
 
 
 ## Comandi utilizzati nel video

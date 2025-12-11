@@ -33,7 +33,7 @@ Scopri come eseguire il triage e risolvere due errori comuni rilevati nei proget
 - Gestisci modalità manutenzione
 - Suggerimenti per la risoluzione efficiente dei problemi
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447701?captions=ita&learn=on)
 
 
 ## Comandi utilizzati nel video

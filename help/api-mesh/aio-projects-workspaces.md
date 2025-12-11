@@ -37,7 +37,7 @@ Questo tutorial illustra come creare un progetto e un’area di lavoro che conte
 * Modifica dell&#39;organizzazione, del progetto o dell&#39;area di lavoro selezionata nell&#39;interfaccia CLI
 * Verifica dei comandi Mesh API semplici
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419739?captions=ita&quality=12&learn=on)
 
 ## Informazioni su Adobe Developer Console
 

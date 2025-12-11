@@ -36,7 +36,7 @@ I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscerne 
 * Scopo del file JavaScript trovato nelle cartelle `actions` e `commerce`
 * Panoramica rapida dei file di autenticazione OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421080?captions=ita&quality=12&learn=on)
 
 ## Esempi di codice
 

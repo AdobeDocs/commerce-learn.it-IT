@@ -34,4 +34,4 @@ Scopri come Adobe Commerce sta rivoluzionando l’e-commerce con soluzioni di in
 * Accelerare l’espansione globale con l’innovazione del catalogo
 * Miglioramento dell&#39;esperienza di vetrina tramite Commerce conversazionale
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475703/?captions=ita&learn=on&enablevpops)

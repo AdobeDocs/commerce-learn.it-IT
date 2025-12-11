@@ -35,7 +35,7 @@ Questo video aiuta gli sviluppatori a comprendere come creare una mesh con più 
 * Come risolvere gli errori, ad esempio conflitti di nomi, disponibilità dello schema e altri problemi di sintassi dello schema
 * Aggiornamento della rete con una configurazione modificata
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419788?captions=ita&quality=12&learn=on)
 
 ## Creare il file di configurazione json
 

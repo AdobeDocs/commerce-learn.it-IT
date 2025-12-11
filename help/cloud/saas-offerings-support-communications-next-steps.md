@@ -31,7 +31,7 @@ Scopri le offerte, il supporto e altre comunicazioni di Adobe Commerce Cloud Saa
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432836?captions=ita&learn=on&enablevpops)
 
 ## Acronimi
 

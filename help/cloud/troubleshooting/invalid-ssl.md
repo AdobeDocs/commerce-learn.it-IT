@@ -33,4 +33,4 @@ Scopri come identificare un certificato SSL scaduto e come generarne di nuovo un
 - Identifica quando durante il processo di creazione di un nuovo certificato.
 - Verifica che il nuovo certificato funzioni come previsto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439767?captions=ita&learn=on)

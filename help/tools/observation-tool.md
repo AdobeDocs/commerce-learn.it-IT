@@ -29,7 +29,7 @@ In questo video, scopri lo strumento di osservazione per Adobe Commerce, un nerd
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344444?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410748?captions=ita&quality=12&learn=on)
 
 ## Risorse aggiuntive
 
