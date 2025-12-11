@@ -41,6 +41,6 @@ In questo video:
 
 ## Risorse aggiuntive
 
-- [Strumento di compatibilità aggiornamento](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [Strumento di compatibilità aggiornamento](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=it)
 - [Plug-in Magento PHP Storm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=it)

@@ -39,5 +39,5 @@ Scopri cos’è la cache delle query MySQL e alcune nozioni di base su come funz
 
 ## Risorse utili
 
-- [Linee guida generali di MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
-- [Replica Galera e query lente](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
+- [Linee guida generali di MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=it){target="_blank"}
+- [Replica Galera e query lente](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=it){target="_blank"}
