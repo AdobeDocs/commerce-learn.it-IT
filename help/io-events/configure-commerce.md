@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,11 +22,11 @@ ht-degree: 0%
 
 # Configurare Adobe Commerce
 
-Scopri come configurare Adobe Commerce per esporre gli eventi. È stata trovata ulteriore documentazione in [Installa eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come configurare Adobe Commerce per esporre gli eventi. È stata trovata ulteriore documentazione in [Installa Adobe I/O Events per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto di Adobe App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto Adobe App Builder.
 
 ## Contenuto video {#video-content}
 
@@ -34,7 +35,7 @@ Scopri come configurare Adobe Commerce per esporre gli eventi. È stata trovata 
 * Salvataggio dell’identificatore univoco nell’amministratore di Commerce
 * Creare un provider di eventi
 
->[!VIDEO](https://video.tv.adobe.com/v/3419714?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 

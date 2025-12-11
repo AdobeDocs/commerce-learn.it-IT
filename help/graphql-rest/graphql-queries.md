@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Questa è la parte 2 della serie per GraphQL e Adobe Commerce. In questo tutorial e video, scopri le query GraphQL e come eseguirle su Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450066?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 

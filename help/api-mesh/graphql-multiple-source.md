@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Creare una mesh con più sorgenti
 
-Questo video aiuta gli sviluppatori a comprendere come creare una mesh con più sorgenti in API Mesh per Adobe Developer App Builder. Questo video mostra come creare una mesh con più sorgenti e identificare gli errori. Per ulteriori dettagli ed esempi di codice, visita [Crea una rete](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Questo video aiuta gli sviluppatori a comprendere come creare una mesh con più sorgenti in API Mesh per Adobe Developer App Builder. Questo video mostra come creare una mesh con più sorgenti e identificare gli errori. Per ulteriori dettagli ed esempi di codice, visita [Creare una rete](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## A chi serve questo video?
 
@@ -34,7 +35,7 @@ Questo video aiuta gli sviluppatori a comprendere come creare una mesh con più 
 * Come risolvere gli errori, ad esempio conflitti di nomi, disponibilità dello schema e altri problemi di sintassi dello schema
 * Aggiornamento della rete con una configurazione modificata
 
->[!VIDEO](https://video.tv.adobe.com/v/3419788?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
 ## Creare il file di configurazione json
 

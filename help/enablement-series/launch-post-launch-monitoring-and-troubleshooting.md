@@ -3,21 +3,22 @@ title: Adobe Commerce launch, post-lancio, monitoraggio continuo e risoluzione d
 description: Scopri le best practice e i suggerimenti per preparare e lanciare un sito web. Scopri come scegliere l’ambiente di staging corretto, fornire dettagli rilevanti nei ticket di supporto e utilizzare lo stesso strumento di monitoraggio del team di supporto per una comunicazione migliore.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
 exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
-source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Avviare, monitorare e risolvere i problemi di Adobe Commerce Cloud
+# Avviare, monitorare e risolvere i problemi in Adobe Commerce Cloud
 
 Questo webinar fornisce diverse best practice e suggerimenti per la preparazione e il lancio di un sito web. Sottolinea l’importanza di selezionare l’ambiente di staging appropriato e di fornire dettagli precisi nei ticket di supporto per facilitare una comunicazione efficace con il team di supporto. Per migliorare la collaborazione e la risoluzione dei problemi, si consiglia di utilizzare lo stesso strumento di monitoraggio del team di supporto, ad esempio New Relic. Verranno eseguiti test approfonditi sui sistemi periferici, come i processori di pagamento, per garantirne il corretto funzionamento durante il lancio. Il documento sottolinea anche la necessità di prevedere e pianificare potenziali problemi di produzione, come i colli di bottiglia delle prestazioni e il riscaldamento della cache, per garantire un lancio regolare e di successo. La comprensione del modello di responsabilità condivisa è un altro aspetto chiave discusso, chiarendo che alcune attività, come il ripristino del database e la sicurezza del codice dell’applicazione, sono responsabilità del proprietario del sito web. Seguendo queste best practice, è possibile semplificare l’avvio di siti web, affrontare in modo proattivo potenziali problemi e avviare con successo il progetto
 

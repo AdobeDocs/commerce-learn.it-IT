@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -27,7 +28,7 @@ Questo tutorial presenta i seguenti prerequisiti:
 * [L&#39;applicazione Adobe Developer App Builder è stata creata](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
 * [Il progetto Adobe Developer App Builder è stato creato](https://developer.adobe.com/console){target="_blank"}
 * [Le aree di lavoro di Adobe Developer App Builder sono state create - Passaggio 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
-* [I comandi CLI AIO per inizializzare il progetto ed eseguirlo sono stati eseguiti](https://developer.adobe.com/runtime){target="_blank"}
+* [Sono stati eseguiti i comandi CLI AIO per inizializzare il progetto ed eseguirlo](https://developer.adobe.com/runtime){target="_blank"}
 
 Per ulteriori informazioni sulla creazione della prima applicazione App Builder, puoi visualizzare il seguente post di blog per informazioni su questa configurazione iniziale [In che modo App Builder contribuisce a stimolare l&#39;agilità aziendale per la piattaforma commerce](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
@@ -41,7 +42,7 @@ Questo tutorial è stato progettato per seguire l’ordine delle pagine nel menu
 
 ## A chi serve questo video?
 
-* Sviluppatori che non hanno mai utilizzato Adobe Commerce con esperienza limitata utilizzando Adobe App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata nell’utilizzo di Adobe App Builder.
 
 ## Contenuto video
 
@@ -50,7 +51,7 @@ Questo tutorial è stato progettato per seguire l’ordine delle pagine nel menu
 * Aspettative per l’utilizzo del modulo di esempio
 * Parti riutilizzabili di nel modulo di esempio
 
->[!VIDEO](https://video.tv.adobe.com/v/3421025?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
 
 {{avoid-400-error}}
 

@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Creare una trama con un&#39;unica origine
 
-Questo video aiuta gli sviluppatori a comprendere come creare una mesh con un’unica sorgente in API Mesh per Adobe Developer App Builder. Affinché questo esempio di base funzioni come previsto, è necessario un endpoint API o GraphQL accessibile al pubblico. Nel video viene inoltre illustrato come creare un semplice file `mesh.json` da utilizzare con l&#39;istanza di Commerce. Per ulteriori dettagli ed esempi di codice, visita [Crea una rete](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Questo video aiuta gli sviluppatori a comprendere come creare una mesh con un’unica sorgente in API Mesh per Adobe Developer App Builder. Affinché questo esempio di base funzioni come previsto, è necessario un endpoint API o GraphQL accessibile al pubblico. Nel video viene inoltre illustrato come creare un semplice file `mesh.json` da utilizzare con l&#39;istanza di Commerce. Per ulteriori dettagli ed esempi di codice, visita [Creare una rete](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## A chi serve questo video?
 
@@ -35,7 +36,7 @@ Questo video aiuta gli sviluppatori a comprendere come creare una mesh con un’
 * Creazione di una trama da un file di configurazione JSON
 * Accesso all’endpoint GraphQL appena creato
 
->[!VIDEO](https://video.tv.adobe.com/v/3419720?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
 ## Creare il file di configurazione json
 

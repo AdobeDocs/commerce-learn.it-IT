@@ -1,9 +1,10 @@
 ---
 title: Configurazione e debug di Adobe Commerce Cloud
-description: Scopri i file di configurazione di Adobe Commerce Cloud, gli strumenti di debug e la gestione dei registri, essenziali per DevOps, amministratori di sistema e sviluppatori di back-end.
+description: Scopri i file di configurazione, gli strumenti di debug e la gestione dei registri di Adobe Commerce Cloud, essenziali per DevOps, amministratori di sistema e sviluppatori back-end.
 feature: Cloud
 topic: Commerce, Architecture, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 500
@@ -11,7 +12,7 @@ last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: 661e8cafc5870e4480c804c2aa482864272f602f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -30,21 +31,20 @@ Scopri i file Yaml chiave utilizzati in Adobe Commerce Cloud per la configurazio
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3432821?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
 ## Documentazione di Experience League citata nel video
 
-- [Configura Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=it)
+- [Configura Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [Docker cloud configura Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [Best practice per il debug](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=it)
-- [Panoramica dei file di configurazione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=it)
-- [Strumenti ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=it)
-- [Aggiorna il pacchetto ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=it)
-- [Panoramica di New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=it)
-- [Visualizza e gestisci i file di registro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=it)
-- [Gestione registro New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=it)
-- [Strumento Quality Patch](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=it)
-- [Utilizzo strumento patch di qualità](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=it)
+- [Best practice per il debug](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
+- [Panoramica dei file di configurazione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [Strumenti ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
+- [Aggiorna il pacchetto ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
+- [Panoramica di New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [Visualizza e gestisci i file di registro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+- [Gestione registro New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
+- [Strumento Quality Patch](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Utilizzo strumento patch di qualità](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
-

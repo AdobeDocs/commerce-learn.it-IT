@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Esplora la logica alla base della struttura del codice sorgente, descrivendo nel
 * Le quattro cartelle principali: `actions`, `scripts`, `test` e `utils`, con particolare attenzione alle cartelle `actions` e `scripts` durante la sessione. &#x200B;
 * Scopri la cartella `actions` e come contiene sottocartelle cruciali come `ingestion` e `webhook`.
 * Esplora la cartella `actions` e spiega perché esistono cartelle specifiche per entità come `customer`, `order`, `product` e `stock`, ognuna contenente azioni di runtime strutturate in `commerce` e `external` cartelle per gestire in modo efficace gli eventi provenienti da Commerce e da sistemi di terze parti. &#x200B;
-* Scopri l’importanza di non modificare il codice nella cartella `starter-kit-info`, che contiene un’azione di runtime utilizzata da Adobe per tenere traccia delle distribuzioni del progetto in base al kit di avvio. &#x200B;
+* Scopri l’importanza di non modificare il codice nella cartella `starter-kit-info`, che contiene un’azione di runtime utilizzata da Adobe per tenere traccia delle distribuzioni dei progetti in base al kit di avvio. &#x200B;
 * Informazioni sulla cartella `scripts` contenente script di automazione come `commerce-event-subscribe` e `onboarding`, che automatizzano la configurazione dell&#39;evento, la configurazione del provider e la configurazione del modulo Adobe I/O Events in Commerce. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)

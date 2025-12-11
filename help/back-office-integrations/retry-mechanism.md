@@ -9,16 +9,18 @@ audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: eb548dd83e3bab7a4a1486cd2cbd88efcc060121
+exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-# Sfruttare il meccanismo di esecuzione di nuovi tentativi degli eventi Adobe I/O per la resilienza dell’applicazione
+# Meccanismo di esecuzione di nuovi tentativi Adobe I/O Events per la resilienza delle applicazioni
 
 Il video illustra una guida completa sull’utilizzo del meccanismo di esecuzione dei tentativi integrato di Adobe I/O Events per migliorare la resilienza delle applicazioni. Scopri in che modo i codici di stato delle risposte HTTP specifici attivano i nuovi tentativi degli eventi. Adobe I/O Events utilizza strategie di back-off esponenziali e fisse per i nuovi tentativi, con intervalli che aumentano da un minuto a 15 minuti. La documentazione descrive anche come vengono visualizzati gli indicatori dei tentativi nella console per sviluppatori, con suggerimenti visivi come icone di avviso e frecce circolari che indicano rispettivamente gli eventi non riusciti e quelli ritentati.
 
@@ -27,7 +29,7 @@ Scopri come funziona il meccanismo di esecuzione dei nuovi tentativi nel contest
 ## Pubblico
 
 * Sviluppatori che desiderano comprendere i codici di stato delle risposte HTTP specifici che attivano i nuovi tentativi degli eventi.
-* Team che desiderano scoprire le strategie di back-off esponenziali e fisse utilizzate dagli eventi Adobi I/O per i nuovi tentativi.
+* Team che desiderano scoprire le strategie di back-off esponenziali e fisse utilizzate da Adobe I/O Events per i nuovi tentativi.
 * Sviluppatori che desiderano comprendere in che modo gli indicatori visivi nella console per sviluppatori rappresentano eventi non riusciti e tentativi.
 
 ## Video dontent
@@ -37,7 +39,7 @@ Scopri come funziona il meccanismo di esecuzione dei nuovi tentativi nel contest
 * Indicatori visivi nella console per sviluppatori, ad esempio icone di avviso per eventi non riusciti e icone a freccia circolare per eventi ritentati.
 * Le azioni di runtime &quot;consumer&quot; svolgono un ruolo fondamentale nella determinazione dei codici di stato delle risposte HTTP appropriati per la gestione degli eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449081?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

@@ -3,13 +3,15 @@ title: Tronca registri
 description: Scopri come eseguire il triage di una distribuzione non riuscita a causa di un disco rigido completo troncando i file di registro di grandi dimensioni.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ Se si ritiene che possano essere necessari questi file di registro, è possibile
 - Dove si trovano alcuni file di registro di grandi dimensioni comuni
 - Metodo rapido per troncare un file di registro
 
->[!VIDEO](https://video.tv.adobe.com/v/3454591?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Comandi utilizzati nel video
@@ -89,4 +91,4 @@ Dopo aver eseguito il ssh nel progetto e nell&#39;ambiente corretti, passare all
 
 ## Documentazione correlata
 
-- [Notifiche stato](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notifiche stato](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

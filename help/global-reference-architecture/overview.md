@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Intervento di Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributo di Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ In uno di questi scenari, è consigliabile esplorare utilizzando più istanze di
 1. **Proprietari store diversi**: se si gestisce il codice per più proprietari di store, ciascuno con il proprio archivio distinto, potrebbero essere necessarie istanze separate per mantenere efficacemente i singoli requisiti.
 2. **Conformità alle normative nazionali**: alcune normative impongono la memorizzazione dei dati dei clienti in aree geografiche specifiche. In tali casi, sono essenziali istanze separate per garantire il rispetto di tali regolamenti.
 3. **Variazioni operative tra aree geografiche**: l&#39;utilizzo in più aree geografiche può comportare diversi programmi e requisiti di manutenzione. L’utilizzo di istanze separate offre flessibilità nella gestione efficiente di tali varianti.
-4. **Vendite di Flash ad alta intensità**: i negozi che effettuano vendite flash su larga scala richiedono spesso prestazioni server ottimizzate. L’infrastruttura dedicata fornita da istanze separate garantisce prestazioni ottimali in periodi di domanda così elevata.
+4. **Vendite flash ad alta intensità**: i negozi che effettuano vendite flash su larga scala richiedono spesso prestazioni server ottimizzate. L’infrastruttura dedicata fornita da istanze separate garantisce prestazioni ottimali in periodi di domanda così elevata.
 5. **Differenze significative tra marchi o paesi**: quando la differenza tra marchi o paesi è grande, l&#39;utilizzo di una singola istanza determina il codice utilizzato solo per alcuni marchi o paesi. Istanze separate possono migliorare le prestazioni e la stabilità eliminando il codice non necessario per i marchi e i paesi che non ne hanno bisogno.
 
 ## Modelli di architettura di riferimento globali

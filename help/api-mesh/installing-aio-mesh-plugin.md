@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Per le istruzioni di installazione e i prerequisiti, visita la pagina Mesh API [
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di API Mesh o [!DNL Adobe Commerce] con esperienza limitata che utilizzano [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
+* Sviluppatori senza esperienza di API Mesh o [!DNL Adobe Commerce] con esperienza limitata utilizzando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
 
 ## Contenuto video
 
@@ -34,7 +35,7 @@ Per le istruzioni di installazione e i prerequisiti, visita la pagina Mesh API [
 * Installazione di Adobe I/O Runtime CLI (interfaccia della riga di comando)
 * Installazione del plug-in Mesh API
 
->[!VIDEO](https://video.tv.adobe.com/v/3419794?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## Installazione del plug-in `aio` CLI e API Mesh
 

@@ -7,12 +7,13 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer, Admin
+old-role: Architect, Developer
+role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
 duration: 101
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: 12cbb2929137778d82b707376da0e0250dae2c8b
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -30,9 +31,9 @@ Site-Wide Analysis Tool è uno strumento proattivo self-service e un archivio ce
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410778?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Risorse aggiuntive
 
-- [Strumento di analisi a livello di sito](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=it)
-- [Visualizza e gestisci i registri](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=it)
+- [Strumento di analisi a livello di sito](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [Visualizza e gestisci i registri](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

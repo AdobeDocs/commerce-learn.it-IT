@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Questa è la parte 4 della serie per GraphQL e Adobe Commerce. Le query e le mutazioni utilizzate si basano su un grafico dati specifico implementato sul server, che il runtime di GraphQL utilizza e utilizza per risolvere la query. La specifica di GraphQL definisce un linguaggio agnostico per esprimere i tipi e le relazioni del grafico dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446618?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 
@@ -105,7 +106,7 @@ type Mutation {
 }
 ```
 
-Puoi esplorare la [documentazione di GraphQL](https://graphql.org/learn/schema/){target="_blank"} per scoprire i dettagli del sistema dei tipi, inclusa la sintassi per alcuni concetti non rappresentati qui. L’esempio precedente, tuttavia, non richiede spiegazioni. Inoltre, la sintassi è simile a quella delle query. La definizione di uno schema di GraphQL consiste semplicemente nell’esprimere gli argomenti e i campi disponibili di un determinato tipo, insieme ai tipi di tali campi. Ogni tipo di campo complesso deve avere una definizione e così via nella struttura, fino a ottenere tipi scalari semplici come `String`.
+Puoi esplorare [la documentazione di GraphQL](https://graphql.org/learn/schema/){target="_blank"} per scoprire i dettagli del sistema dei tipi, inclusa la sintassi per alcuni concetti non rappresentati qui. L’esempio precedente, tuttavia, non richiede spiegazioni. Inoltre, la sintassi è simile a quella delle query. La definizione di uno schema di GraphQL consiste semplicemente nell’esprimere gli argomenti e i campi disponibili di un determinato tipo, insieme ai tipi di tali campi. Ogni tipo di campo complesso deve avere una definizione e così via nella struttura, fino a ottenere tipi scalari semplici come `String`.
 
 La dichiarazione `input` è simile a un `type`, ma definisce un tipo che può essere utilizzato come input per un argomento. Prendere nota anche della dichiarazione `interface`. Questa funzione è più o meno la stessa delle interfacce in PHP. Altri tipi ereditano da questa interfaccia.
 

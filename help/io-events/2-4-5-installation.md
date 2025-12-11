@@ -10,10 +10,11 @@ last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 # Installazione di Adobe Commerce 2.4.5
 
-Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.5. In questo modo vengono impostati i moduli richiesti da utilizzare nell’applicazione Adobe Commerce. È stata trovata ulteriore documentazione in [Installa eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Composer per la versione 2.4.5. In questo modo vengono impostati i moduli richiesti da utilizzare nell’applicazione Adobe Commerce. È stata trovata ulteriore documentazione in [Installa Adobe I/O Events per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## A chi serve questo video?
 
@@ -33,9 +34,9 @@ Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Compos
 * Installazione dei moduli richiesti tramite Compositore
 * Comandi da eseguire per l’hosting locale
 * Comandi da eseguire per Adobe Commerce Cloud
-* Adobe Commerce Cloud yaml modifica richiesta
+* Modifica richiesta dello yaml Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3419828?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 

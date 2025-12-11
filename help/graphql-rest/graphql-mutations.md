@@ -1,18 +1,19 @@
 ---
 title: Eseguire una mutazione utilizzando GraphQL
-description: Ottieni un'introduzione sull'esecuzione di una mutazione utilizzando GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando chiamate POST.
-landing-page-description: Ottieni un'introduzione sull'esecuzione di una mutazione utilizzando GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando chiamate POST.
-short-description: Ottieni un'introduzione sull'esecuzione di una mutazione utilizzando GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando chiamate POST.
+description: Ottieni un'introduzione sull'esecuzione di una mutazione utilizzando GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando le chiamate POST.
+landing-page-description: Ottieni un'introduzione sull'esecuzione di una mutazione utilizzando GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando le chiamate POST.
+short-description: Ottieni un'introduzione sull'esecuzione di una mutazione utilizzando GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando le chiamate POST.
 kt: 13938
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 Questa è la parte 3 della serie per GraphQL e Adobe Commerce. Le mutazioni consentono di salvare, aggiornare e restituire valori tramite GraphQL.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441933?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 

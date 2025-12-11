@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -26,7 +27,7 @@ I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscerne 
 
 ## A chi serve questo video?
 
-* Sviluppatori che non hanno mai utilizzato Adobe Commerce con un’esperienza limitata con Adobe App Builder e che stanno imparando a conoscere la cartella delle azioni nell’applicazione di esempio.
+* Sviluppatori che non hanno mai utilizzato Adobe Commerce con un’esperienza limitata con Adobe App Builder e che sono al corrente della cartella delle azioni nell’applicazione di esempio.
 
 ## Contenuto video
 
@@ -35,7 +36,7 @@ I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscerne 
 * Scopo del file JavaScript trovato nelle cartelle `actions` e `commerce`
 * Panoramica rapida dei file di autenticazione OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3421080?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
 ## Esempi di codice
 

@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
+exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 # Configurare, distribuire e personalizzare un webhook di acquisizione
 
-Scopri come configurare e personalizzare un webhook di acquisizione per l’integrazione di Commerce con un sistema di back office di terze parti&#x200B;. Questo video spiega come il webhook può risolvere i limiti nella comunicazione degli eventi tra sistemi fornendo un endpoint disponibile al pubblico per adattare i messaggi dal sistema di terze parti all&#39;API dell&#39;evento IO di Adobe. Il processo prevede la configurazione del webhook nel file `actions.config.yaml`, l&#39;abilitazione nel file `app.config.yaml` e la distribuzione per garantire la funzionalità corretta.
+Scopri come configurare e personalizzare un webhook di acquisizione per l’integrazione di Commerce con un sistema di back office di terze parti&#x200B;. Questo video spiega come il webhook può risolvere i limiti nella comunicazione degli eventi tra sistemi fornendo un endpoint disponibile al pubblico per adattare i messaggi dal sistema di terze parti all’API dell’evento IO di Adobe. Il processo prevede la configurazione del webhook nel file `actions.config.yaml`, l&#39;abilitazione nel file `app.config.yaml` e la distribuzione per garantire la funzionalità corretta.
 
 Il video illustra i passaggi per modificare il codice del webhook in modo da tradurre gli eventi di terze parti in formati compatibili con i tipi di evento sottoscritti dell’integrazione. Descrive l&#39;aggiunta di un file `event-mapping.json` per facilitare questa traduzione e sottolinea l&#39;importanza di ridistribuire l&#39;azione di runtime dopo aver apportato modifiche&#x200B; Il video evidenzia inoltre l’importanza di convalidare e trasformare i payload degli eventi in arrivo in modo che siano allineati allo schema previsto, garantendo la corretta elaborazione e integrazione con l’API di Commerce per la creazione dei clienti.
 

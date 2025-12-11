@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -21,11 +22,11 @@ ht-degree: 0%
 
 # Eventi condizionali di Adobe Commerce
 
-Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati in Adobe Developer App Builder. È stata trovata ulteriore documentazione in [Installa eventi di Adobe I/O per Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati in Adobe Developer App Builder. È stata trovata ulteriore documentazione in [Installa Adobe I/O Events per Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto di Adobe App Builder.
+* Sviluppatori senza esperienza di Adobe Commerce e Adobe Developer App Builder che utilizzano eventi di I/O e che devono creare un progetto Adobe App Builder.
 
 ## Contenuto video {#video-content}
 
@@ -35,7 +36,7 @@ Scopri gli eventi condizionali in Adobe Commerce che possono essere utilizzati i
 * Definizione delle regole da utilizzare negli eventi condizionali
 * Scopri come registrare gli eventi nelle istanze di Commerce `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3419800?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 
 ## Comandi utili {#useful-commands}
 
