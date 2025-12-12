@@ -35,10 +35,10 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-[Assegnazioni prodotti di categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+[Assegnazioni prodotti di categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html?lang=it)
