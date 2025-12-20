@@ -33,7 +33,7 @@ Scopri come la telemetria aperta standardizza l’osservabilità tra registri, t
 * Correlazione di registri, tracce e metriche per un&#39;analisi più rapida della root cause
 * Manutenzione degli strumenti di monitoraggio esistenti durante l&#39;unificazione dei flussi di dati
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478331?captions=ita&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

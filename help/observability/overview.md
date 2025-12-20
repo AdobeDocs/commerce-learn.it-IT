@@ -33,7 +33,7 @@ Scopri perché l’osservabilità centralizzata è essenziale per le moderne arc
 * L’osservabilità centralizzata è fondamentale: correlare registri e metriche tra tutti i componenti.
 * Migliora le prestazioni di pagamento: identifica rapidamente i colli di bottiglia per mantenere lo shopping fluido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478296?captions=ita&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

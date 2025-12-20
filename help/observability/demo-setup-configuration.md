@@ -33,7 +33,7 @@ Scopri come ottenere un’osservabilità end-to-end in tutte le applicazioni Ado
 * Utilizza Commerce Observability Module per i segnali automatizzati
 * Estensione del monitoraggio con la libreria di telemetria I/O Live per le app
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478342?captions=ita&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
