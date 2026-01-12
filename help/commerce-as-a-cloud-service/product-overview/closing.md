@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 45
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20095
-source-git-commit: d9f5530d20e93a9183a858f8aa4ca2adea2bf7da
+source-git-commit: 22b0ab3d933fc0c517e3b70ca3301751645d1907
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica di Adobe Commerce Cloud Service
+# Chiusura di Adobe Commerce Cloud Service
 
 Scopri alcuni dei vantaggi chiave di Adobe Commerce as a Cloud Service. Scopri come ACCS semplifica la configurazione, migliora le prestazioni e consente ai team di fornire esperienze di e-commerce digitali eccezionali.
 
