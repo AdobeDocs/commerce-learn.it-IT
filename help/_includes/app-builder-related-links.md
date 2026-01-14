@@ -1,9 +1,9 @@
 ---
 title: Pagine correlate a Mesh API
 description: Collegamenti a pagine correlate in App Builder
-source-git-commit: 47b9c561de9fdcac46139cfdb5c4bc6b3e6f8254
+source-git-commit: 4c2b79b12dce4a43f670f72af4cc570430cabd70
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,6 @@ ht-degree: 0%
 
 * [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
 * [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-* [Panoramica tecnica per App Builder](../app-builder/app-builder-technical-overview.md)
 * [Completare la panoramica delle informazioni sull&#39;estensione](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
 * [Sales Channel Amazon su App Builder](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
 * [SDK interfaccia utente amministratore](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}
