@@ -10,14 +10,14 @@ topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
-source-git-commit: 3a40cdbdbe26d2c78b250a9f0596c3e0ed8c5904
+source-git-commit: 3336d73e601f55c8be76616c52f087b0a067913e
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-# Architettura di Adobe Commerce as a Service
+# Architettura di Adobe Commerce as a Cloud Service
 
 Adobe Commerce as a cloud service offre una piattaforma di hosting sicura e automatizzata con funzioni self-service per la gestione delle applicazioni commerce. Le funzioni chiave includono la gestione delle risorse tramite Adobe Experience Manager, la copertura API completa con le API GraphQL e REST e i servizi di merchandising intelligente. La piattaforma supporta un’architettura completamente headless, che consente agli sviluppatori di utilizzare vari framework front-end come React e Angular. Fornisce inoltre una moderna vetrina headless con authoring basato su documenti e test A/B nativi. Inoltre, Adobe Commerce si integra con Adobe Experience Cloud per esperienze di e-commerce personalizzate e offre estesi strumenti per gli sviluppatori, tra cui Adobe Developer App Builder e API mesh.
 
@@ -39,4 +39,4 @@ Scopri l’architettura e le funzionalità chiave di Adobe Commerce as a Cloud S
 * Copertura API completa: la piattaforma supporta una copertura API estesa tramite API GraphQL e REST, consentendo un’integrazione perfetta con sistemi di terze parti.
 * Architettura headless: architettura completamente scollegata che consente agli sviluppatori di utilizzare vari framework front-end, offrendo flessibilità e prestazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443275?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
