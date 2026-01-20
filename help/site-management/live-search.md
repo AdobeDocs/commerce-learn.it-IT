@@ -10,7 +10,7 @@ role: Admin, User
 level: Beginner, Intermediate
 jira: KT-17151
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: 90752025ab3bc5650f871d6a12d907bfa5d22134
+source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Introduzione a [!DNL Live Search]
 
-Breve introduzione a [!DNL Live Search] da Adobe Commerce. [!DNL Live Search] con tecnologia Adobe Sensei utilizza algoritmi di intelligenza artificiale e machine learning per eseguire un&#39;analisi approfondita dei dati aggregati dei visitatori.
+Breve introduzione a [!DNL Live Search] da Adobe Commerce. [!DNL Live Search] basato su IA di Adobe utilizza algoritmi di intelligenza artificiale e machine learning per eseguire un&#39;analisi approfondita dei dati aggregati dei visitatori.
 
 {{ee-feature}}
 
@@ -30,12 +30,12 @@ Breve introduzione a [!DNL Live Search] da Adobe Commerce. [!DNL Live Search] co
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3452577?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
 
 
 ## Risorse aggiuntive
 
-- [Demo completa di Live Search](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=it){target="_blank"}
-- [[!DNL Live Search] per consigli](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=it){target="_blank"}
-- [[!DNL Live Search] panoramica](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=it){target="_blank"}
-- [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=it){target="_blank"}
+- [Demo completa di Live Search](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
+- [[!DNL Live Search] per consigli](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
+- [[!DNL Live Search] panoramica](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+- [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

@@ -1,5 +1,5 @@
 ---
-title: Piattaforma all'avanguardia basata su esperienze per risultati di business eccezionali
+title: Piattaforma Ultimate Experience-Led per risultati aziendali eccezionali
 description: Scopri la gestione avanzata dei cataloghi e delle ricerche di Adobe Commerce, basata sull’intelligenza artificiale, per ottimizzare le esperienze di e-commerce per i clienti B2B e B2C.
 feature: B2B, Catalog Management, Promotions/Events, Search
 topic: Administration, Architecture, Commerce
@@ -9,17 +9,17 @@ doc-type: Technical Video
 duration: 1227
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
-source-git-commit: 0f8faa05e44b49ade6d09291106ea331afccff18
+exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
+source-git-commit: f7019a524a6978908fdd50d93eb0fbe0b5f032a4
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
 
-
 # Esperienza di dati e promozioni sui lead  
 
-Scopri le funzionalità di ricerca avanzate di Adobe Commerce, basate su Adobe Sensei, e le sue solide funzioni di gestione dei cataloghi. Scopri alcuni dei punti salienti degli strumenti di ottimizzazione della ricerca, faceting e merchandising basati sull’intelligenza artificiale per migliorare l’esperienza utente. &#x200B; Inoltre, scopri i pacchetti di prodotti, la gestione delle promozioni e la perfetta integrazione con sistemi di terze parti, che offrono una soluzione completa per le esigenze di e-commerce B2B e B2C.
+Scopri le funzionalità di ricerca avanzate di Adobe Commerce, basate sull’intelligenza artificiale di Adobe, e le sue solide funzioni di gestione dei cataloghi. Scopri alcuni dei punti salienti degli strumenti di ottimizzazione della ricerca, faceting e merchandising basati sull’intelligenza artificiale per migliorare l’esperienza utente. &#x200B; Inoltre, scopri i pacchetti di prodotti, la gestione delle promozioni e la perfetta integrazione con sistemi di terze parti, che offrono una soluzione completa per le esigenze di e-commerce B2B e B2C.
 
 ## Per chi sono questi video?
 
@@ -38,11 +38,11 @@ Scopri i potenti strumenti di gestione dei cataloghi Adobe Commerce progettati p
 - Integrazione e personalizzazione avanzate.
 - Migliore esperienza di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434072?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
-Scopri le funzionalità di ricerca avanzate di Adobe Commerce, basate sulla funzione di ricerca guidata dall’intelligenza artificiale di Adobe Sensei. &#x200B; Questa robusta soluzione SaaS migliora l’esperienza di e-commerce fornendo risultati di ricerca altamente rilevanti in modo rapido ed efficiente. &#x200B; I commercianti e gli addetti al marketing possono ottimizzare i risultati della ricerca sul sito utilizzando strumenti come regole di ricerca avanzate, sinonimi e facet. Live Search offre suggerimenti in tempo reale, classificazione intelligente ed esperienze di ricerca personalizzabili, garantendo ai clienti di trovare ciò di cui hanno bisogno. &#x200B; Supporta anche modelli B2B con cataloghi condivisi e prezzi specifici, rendendola una soluzione versatile per tutte le esigenze aziendali.
+Scopri le funzionalità di ricerca avanzate di Adobe Commerce Live Search, basate sull’intelligenza artificiale di Adobe &#x200B;. Questa robusta soluzione SaaS migliora l’esperienza di e-commerce fornendo risultati di ricerca altamente rilevanti in modo rapido ed efficiente. &#x200B; I commercianti e gli addetti al marketing possono ottimizzare i risultati della ricerca sul sito utilizzando strumenti come regole di ricerca avanzate, sinonimi e facet. Live Search offre suggerimenti in tempo reale, classificazione intelligente ed esperienze di ricerca personalizzabili, garantendo ai clienti di trovare ciò di cui hanno bisogno. &#x200B; Supporta anche modelli B2B con cataloghi condivisi e prezzi specifici, rendendola una soluzione versatile per tutte le esigenze aziendali.
 
 ## Contenuto video Live Search
 
@@ -50,7 +50,7 @@ Scopri le funzionalità di ricerca avanzate di Adobe Commerce, basate sulla funz
 - Esperienza di ricerca personalizzabile: funzioni come regole di ricerca avanzate, sinonimi e facet consentono un’esperienza di ricerca personalizzata e ottimizzata per i clienti.
 - Integrazione B2B: Live Search supporta modelli B2B con cataloghi condivisi e prezzi specifici, migliorando la sua versatilità per varie esigenze aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434050?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Promozioni  
 
@@ -62,5 +62,5 @@ Adobe Commerce consente ai responsabili dei negozi di creare e gestire facilment
 - Strategie di promozione avanzate.
 - Integrazione perfetta con sistemi di terze parti, per una maggiore flessibilità e automazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434061?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >
