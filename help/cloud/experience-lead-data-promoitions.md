@@ -38,7 +38,7 @@ Scopri i potenti strumenti di gestione dei cataloghi Adobe Commerce progettati p
 - Integrazione e personalizzazione avanzate.
 - Migliore esperienza di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434072?captions=ita&learn=on)
 
 ## Live Search
 
@@ -50,7 +50,7 @@ Scopri le funzionalità di ricerca avanzate di Adobe Commerce Live Search, basat
 - Esperienza di ricerca personalizzabile: funzioni come regole di ricerca avanzate, sinonimi e facet consentono un’esperienza di ricerca personalizzata e ottimizzata per i clienti.
 - Integrazione B2B: Live Search supporta modelli B2B con cataloghi condivisi e prezzi specifici, migliorando la sua versatilità per varie esigenze aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434050?captions=ita&learn=on)
 
 ## Promozioni  
 
@@ -62,5 +62,5 @@ Adobe Commerce consente ai responsabili dei negozi di creare e gestire facilment
 - Strategie di promozione avanzate.
 - Integrazione perfetta con sistemi di terze parti, per una maggiore flessibilità e automazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434061?captions=ita&learn=on)
 >
