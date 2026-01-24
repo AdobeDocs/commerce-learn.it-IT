@@ -90,6 +90,6 @@ Sei pronto a iniziare a sviluppare? Il seguente collegamento contiene applicazio
 
 ## Supporto {#support}
 
-Per richieste di supporto per sviluppatori, utilizza il [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} per assistenza.
+Per richieste di supporto per sviluppatori, utilizza il [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=it){target="_blank"} per assistenza.
 
 {{$include /help/_includes/app-builder-related-links.md}}

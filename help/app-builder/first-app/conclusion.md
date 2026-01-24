@@ -40,7 +40,7 @@ Ora che hai creato la tua prima app Adobe Developer App Builder, scopri altre ri
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Versione di prova di Adobe Developer App Builder](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [documenti Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Forum Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [Forum Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=it){target="_blank"}
 * [Linee guida per i contributi di Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
