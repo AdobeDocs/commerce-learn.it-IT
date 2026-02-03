@@ -38,6 +38,6 @@ Scopri come sfruttare Global Reference Architecture o GRA in breve. Per preparar
 * Raccolta dei requisiti
 * Quando coinvolgi il team di QA?
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456008?captions=ita&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
