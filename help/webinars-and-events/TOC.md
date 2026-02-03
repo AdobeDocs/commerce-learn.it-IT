@@ -2,9 +2,9 @@
 user-guide-title: Webinar ed eventi su Adobe Commerce
 user-guide-description: Scopri Adobe Commerce tramite webinar ed eventi.
 breadcrumb-title: Webinar ed eventi su Adobe Commerce
-source-git-commit: 7a3cccd690a39fd2a5f84f577102f83e0ba85e09
+source-git-commit: 1a73be30f2ee55c9f767b7b10fd3c47172e4057d
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -34,3 +34,8 @@ ht-degree: 0%
    + [Adozione e abilitazione di Success Accelerators](./commerce-conversations/success-accelerators-adoption-and-enablement.md)
    + [Preparazione per l’organizzazione di Success Accelerators](./commerce-conversations/success-accelerators-organizational-readiness.md)
    + [Responsabilità condivisa](./commerce-conversations/shared-responsibility.md)
++ Architettura di riferimento globale{#global-reference-architecture}
+   + [Architettura di riferimento globale](../global-reference-architecture/what-is-global-reference-architecture.md)
+   + [Utilizzo dell&#39;architettura di riferimento globale](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+   + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+   + [Implementazione dell’architettura di riferimento globale](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
