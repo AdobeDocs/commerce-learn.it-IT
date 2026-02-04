@@ -10,7 +10,7 @@ duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -18,6 +18,8 @@ ht-degree: 0%
 ---
 
 # Migrazione ad Adobe Commerce - Blocco del codice
+
+{{only-for-on-prem-commerce-cloud}}
 
 L’implementazione di un blocco del codice durante la migrazione Adobe Commerce è fondamentale per garantire un lancio stabile e di successo. Interrompendo le nuove distribuzioni del codice, puoi consentire al team di controllo qualità, agli sviluppatori e alle parti interessate di lavorare con una base di codice statica, aumentando l’affidabilità e riducendo il rischio di difetti. Questo processo prevede test e convalida approfonditi, affrontando i bug ad alta priorità e garantendo tutti gli aspetti del sito come previsto. Un blocco del codice eseguito correttamente avvantaggia l’intero progetto, evitando problemi dell’ultimo minuto e garantendo una transizione fluida ad Adobe Commerce.
 

@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # Schema dell’architettura di riferimento globale dei pacchetti bulk
+
+{{only-for-on-prem-commerce-cloud}}
 
 Questa guida spiega come configurare Adobe Commerce con il modello Bulk Packages Global Reference Architecture (GRA).
 

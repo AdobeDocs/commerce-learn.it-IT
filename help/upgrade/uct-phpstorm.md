@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 35%
@@ -22,6 +22,8 @@ ht-degree: 35%
 ---
 
 # Utilizzo di Upgrade Compatibility Tool su PHP Storm
+
+{{only-for-on-prem-commerce-cloud}}
 
 Lo strumento di compatibilità per l’aggiornamento (UCT) è uno strumento gratuito che analizza in pochi minuti le incompatibilità tra la versione corrente e la versione di aggiornamento di destinazione. Il plugin PHP Storm rende questo strumento ancora più facile da usare.
 
@@ -37,10 +39,10 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344406?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-- [Strumento di compatibilità aggiornamento](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=it)
+- [Strumento di compatibilità aggiornamento](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
 - [Plug-in Magento PHP Storm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=it)
+- [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
