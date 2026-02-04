@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## Riferimenti
 
-* [Note sulla versione di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+* [Note sulla versione di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/it/docs/commerce/cloud-service/release-notes)
 * [Riferimento API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Guida all&#39;autenticazione utente](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
