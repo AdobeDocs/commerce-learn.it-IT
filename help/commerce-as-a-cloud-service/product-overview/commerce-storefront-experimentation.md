@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 288
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20089
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
+source-git-commit: 3f57925e9998570513d3e6746942c28fa44dc72e
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-
-# Ottimizzare gli store front con la sperimentazione incorporata
+# Ottimizza le vetrine con la sperimentazione integrata
 
 Scopri come Adobe Commerce as a Cloud Service consente ai team aziendali di eseguire test A/B e ottimizzare i contenuti della vetrina senza ricorrere a sviluppatori o strumenti di terze parti. Scopri come misurare l’impatto sulle conversioni e sul coinvolgimento utilizzando funzioni di sperimentazione native.
 
