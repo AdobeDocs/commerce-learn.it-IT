@@ -9,14 +9,14 @@ topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
 exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
-source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
+source-git-commit: cba4dc615b577f580a1c19a87cb81bc6944beed3
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Dimostrazione completa di Adobe Commerce Data Connection
+# Opzioni Commerce di Adobe
 
 Scopri le opzioni commerce di Adobe. Scopri alcune delle funzioni principali, come è ospitato e per chi ogni modello è più adatto. Scopri le differenze tra eseguire tutto da solo (on-premise), utilizzare l’infrastruttura cloud gestita da Adobe (PaaS), adottare un approccio SaaS completamente gestito o modernizzare solo il livello della vetrina con Commerce Optimizer mantenendo al contempo un back-end esistente.
 
@@ -34,10 +34,10 @@ Scopri le opzioni commerce di Adobe. Scopri alcune delle funzioni principali, co
 * Scopri quando modernizzare le vetrine senza sostituire il backend
 * Identificare la soluzione migliore in base alle risorse DevOps, alla scalabilità e agli obiettivi aziendali
 
->[!VIDEO](https://video.tv.adobe.com/v/3480251?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## Documentazione correlata
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/it/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
