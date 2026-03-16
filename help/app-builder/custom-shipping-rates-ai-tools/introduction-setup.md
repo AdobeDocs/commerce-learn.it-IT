@@ -1,6 +1,6 @@
 ---
-title: Tariffe di spedizione personalizzate con strumenti AI
-description: Scopri come configurare gli strumenti di intelligenza artificiale per creare tariffe di spedizione personalizzate, tra cui la clonazione del kit di avvio, la revisione delle strutture e la preparazione dell'ambiente.
+title: Creare tariffe di spedizione personalizzate con gli strumenti AI | Introduzione e configurazione
+description: Scopri come impostare strumenti di intelligenza artificiale per creare tariffe di spedizione personalizzate, inclusa la clonazione del kit di avvio, l’analisi delle strutture e la preparazione dell’ambiente.
 feature: Install
 topic: Development
 role: Developer
@@ -10,29 +10,29 @@ duration: 178
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+source-git-commit: 62cf2906dd6eaba7130b738d0d3f02f0e62858d7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Crea tariffe di spedizione personalizzate con gli strumenti AI
+# Creare tariffe di spedizione personalizzate con gli strumenti di intelligenza artificiale - Introduzione e configurazione
 
-Scopri come configurare gli strumenti AI per creare tariffe di spedizione personalizzate. Questa esercitazione descrive la clonazione del kit di avvio di pagamento, la revisione della struttura e la preparazione dell&#39;ambiente locale. Questa base garantisce una perfetta integrazione delle tariffe di spedizione esterne nel flusso di lavoro. Guarda il video seguente per iniziare.
+Scopri come impostare strumenti di intelligenza artificiale per creare tariffe di spedizione personalizzate. Questa esercitazione descrive come clonare il kit di avvio per il pagamento, rivederne la struttura e preparare l’ambiente locale. Questa base garantisce un’integrazione perfetta delle tariffe di spedizione esterne nel flusso di lavoro. Per iniziare, guarda il video seguente.
 
-## Per chi è questo video?
+## A chi serve questo video?
 
-* Architetti tecnici e di soluzioni
+* Tecnici e architetti di soluzioni
 * Sviluppatori e ingegneri back-end
 * Ingegneri dell&#39;implementazione e consulenti tecnici
 
 ## Contenuto video
 
-* Introduce il kit di avvio per il checkout e spiega lo scopo dell&#39;estensione, fornendo il contesto per ciò che verrà costruito e perché.
-* Configurazione dell&#39;ambiente di sviluppo, inclusi l&#39;estrazione del repository, la revisione della struttura del starter-kit e l&#39;installazione degli strumenti necessari.
-* Prepara il sistema per lo sviluppo basato sull&#39;intelligenza artificiale effettuando l&#39;accesso, configurando l&#39;accesso e verificando che tutte le dipendenze e i prerequisiti siano presenti.
+* Presenta il kit di avvio per il pagamento e spiega lo scopo dell’estensione, fornendo contesto per ciò che verrà generato e perché.
+* Illustra come configurare l’ambiente di sviluppo, estraendo l’archivio, rivedendo la struttura del kit di avvio e installando gli strumenti necessari.
+* Prepara il sistema per lo sviluppo basato sull’intelligenza artificiale accedendo, configurando l’accesso e garantendo che siano presenti tutte le dipendenze e i prerequisiti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

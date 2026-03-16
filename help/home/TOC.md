@@ -3,7 +3,7 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -39,11 +39,11 @@ ht-degree: 3%
       + [Fastly](../cloud/fastly.md)
       + [Configurazione e debug](../cloud/configuration-and-debugging.md)
       + [Distribuzione, test, monitoraggio e sicurezza](../cloud/deployments-testing-monitoring-security.md)
-      + [Offerte, supporto e comunicazioni SaaS e fasi successive](../cloud/saas-offerings-support-communications-next-steps.md)
-   + Procedure consigliate {#commerce-cloud-best-practices}
+      + [Offerte, supporto e comunicazioni SaaS e passaggi successivi](../cloud/saas-offerings-support-communications-next-steps.md)
+   + Best practice {#commerce-cloud-best-practices}
       + [Richiesta di supporto](../cloud/best-practices/support-request.md)
       + [Elenco di controllo pre-avvio](../cloud/best-practices/pre-launch-checklist.md)
-+ Introduzione {#getting-started}
++ Guida introduttiva {#getting-started}
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Panoramica](../commerce-as-a-cloud-service/overview.md)
       + [Architettura](../commerce-as-a-cloud-service/architecture.md)
@@ -96,18 +96,18 @@ ht-degree: 3%
 
 + Estensibilità {#extensibility}
    + Sviluppo back-end {#backend-development}
-      + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+      + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creare un modulo](../backend-development/create-module.md)
       + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
       + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
       + [Replica lenta del cluster Galera](../backend-development/galera-db-slow-replication.md)
       + [Cache query MySQL](../backend-development/mysql-query-cache.md)
-      + [PT - digest query](../backend-development/pt-query-digest.md)
+      + [PT Query Digest](../backend-development/pt-query-digest.md)
       + [Connessione e download del database Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
-      + Aggiornamenti di Commerce {#upgrade}
+      + Aggiornamenti Commerce {#upgrade}
          + [Workshop sull’aggiornamento ad Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
          + [Panoramica di Upgrade Compatibility Tool](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [Utilizzo dello strumento di compatibilità dell&#39;aggiornamento in PHP Storm](../upgrade/uct-phpstorm.md)
+         + [Utilizzare Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
    + Sviluppo Luma front-end {#frontend-development}
       + Page Builder PaaS/SaaS per sviluppatori {#page-builder}
          + [1 - Introduzione](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -148,7 +148,7 @@ ht-degree: 3%
       + [Installazione di app da Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
       + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-      + Creare tariffe di spedizione personalizzate con gli strumenti AI {#custom-shipping-rates-ai-tools}
+      + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
          + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
          + [Implementazione e test](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
@@ -261,15 +261,15 @@ ht-degree: 3%
    + [Dashboard dello strumento di analisi a livello di sito](../tools/site-wide-analysis-tool.md)
    + [Servizio di applicazione di patch per l&#39;automazione cloud](../tools/cloud-automation-patching-service.md)
    + [Osservazione per Adobe Commerce](../tools/observation-tool.md)
-   + [Strumento Toppa qualità](../tools/quality-patch-tool.md)
+   + [Strumento Quality Patch](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
-      + [Individuazione di un indirizzo IP dannoso](../new-relic/malicious-ip.md)
-      + [Impostazione della notifica di avviso](../new-relic/new-relic-alert-notification-setup.md)
+      + [Individuazione di un IP dannoso](../new-relic/malicious-ip.md)
+      + [Impostazione delle notifiche di avviso](../new-relic/new-relic-alert-notification-setup.md)
       + [Avvisi personalizzati](../new-relic/custom-alerts.md)
 + Commerce Intelligence {#mbi}
-   + [Introduzione](../business-intelligence/getting-started.md)
+   + [Guida introduttiva](../business-intelligence/getting-started.md)
    + [Integrazioni e configurazioni](../business-intelligence/integrations-configurations.md)
-   + [Report e dashboard](../business-intelligence/reports-and-dashboards.md)
+   + [Rapporti e dashboard](../business-intelligence/reports-and-dashboards.md)
    + [Set di filtri](../business-intelligence/filter-sets.md)
    + [Report Builder coorte](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
