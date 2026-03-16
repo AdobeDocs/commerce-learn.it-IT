@@ -34,7 +34,7 @@ Scopri le opzioni commerce di Adobe. Scopri alcune delle funzioni principali, co
 * Scopri quando modernizzare le vetrine senza sostituire il backend
 * Identificare la soluzione migliore in base alle risorse DevOps, alla scalabilità e agli obiettivi aziendali
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480251?captions=ita&learn=on)
 
 ## Documentazione correlata
 
