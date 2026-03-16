@@ -33,6 +33,6 @@ L&#39;agente finalizza l&#39;implementazione, pulisce il codice inutilizzato e p
 Le credenziali e l’ambiente sono configurati per distribuire e registrare la nuova estensione di spedizione.
 Il test Storefront conferma l&#39;apparizione delle tariffe di spedizione esterne e il funzionamento previsto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481365/?captions=ita&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
