@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 381
+duration: 429
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Demo completa del kit di avvio Salesforce Commerce Cloud
 
@@ -35,4 +35,4 @@ Guarda una dimostrazione end-to-end che mostra la corretta configurazione ed ese
 * Le modifiche ai dettagli dei prodotti e ai prezzi nel catalogo Salesforce Commerce Cloud vengono rilevate e aggiornate automaticamente in Commerce Optimizer tramite il processo di sincronizzazione Delta.
 * Aggiornamenti in tempo reale e dimostrazione di un flusso di dati e di una sincronizzazione senza soluzione di continuità tra i sistemi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476101?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

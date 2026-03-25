@@ -5,6 +5,7 @@ landing-page-description: Ottieni un'introduzione sull'esecuzione di una mutazio
 short-description: Ottieni un'introduzione sull'esecuzione di una mutazione utilizzando GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando le chiamate POST.
 kt: 13938
 doc-type: video
+duration: 268
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -25,7 +26,7 @@ ht-degree: 0%
 Questa è la parte 3 della serie per GraphQL e Adobe Commerce. Le mutazioni consentono di salvare, aggiornare e restituire valori tramite GraphQL.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441933?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 

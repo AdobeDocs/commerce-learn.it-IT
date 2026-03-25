@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 665
+duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Installare la cartuccia SFCC
 
@@ -37,4 +37,4 @@ Scopri come installare e configurare la cartuccia Adobe Commerce Optimizer per u
 * Importa definizioni di processi e oggetti personalizzati per supportare il tracciamento e la sincronizzazione.
 * Esegui il test di un endpoint API personalizzato per confermare l’installazione e prepararti per la sincronizzazione del catalogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476078?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

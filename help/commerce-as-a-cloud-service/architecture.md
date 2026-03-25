@@ -3,6 +3,7 @@ title: Architettura Commerce as a Cloud Service
 description: Scopri l’architettura di Adobe Commerce as a Cloud Service e le sue funzioni chiave per soluzioni di e-commerce scalabili, sicure e flessibili.
 kt: 17220
 doc-type: Technical Video
+duration: 235
 audience: all
 last-substantial-update: 2025-1-30
 feature: Catalog Management, Catalog Service, Services
@@ -10,7 +11,7 @@ topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
-source-git-commit: 3336d73e601f55c8be76616c52f087b0a067913e
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -39,4 +40,4 @@ Scopri l’architettura e le funzionalità chiave di Adobe Commerce as a Cloud S
 * Copertura API completa: la piattaforma supporta una copertura API estesa tramite API GraphQL e REST, consentendo un’integrazione perfetta con sistemi di terze parti.
 * Architettura headless: architettura completamente scollegata che consente agli sviluppatori di utilizzare vari framework front-end, offrendo flessibilità e prestazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443275?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)

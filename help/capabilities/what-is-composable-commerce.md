@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development, Headless, Integrations, Performance,
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%

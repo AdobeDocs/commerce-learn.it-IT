@@ -6,11 +6,11 @@ topic: Security
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 183
+duration: 207
 last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16606
 exl-id: a6546956-6aaa-4511-9a62-1bf94fd038f4
-source-git-commit: fbe79f36ba7cc699287b1adc1fcb1fab7246da1c
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Scopri come creare avvisi personalizzati in New Relic per monitorare il traffico
 * Informazioni su come impostare le soglie per gli avvisi in base all’aggregazione dei dati.
 * Configurare gli avvisi con livelli di gravità e assegnati ai criteri esistenti per controllare i flussi di lavoro e le destinazioni delle notifiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440779?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

@@ -4,7 +4,7 @@ description: Sfrutta il meccanismo di esecuzione di nuovi tentativi di Adobe I/O
 landing-page-description: Comprendi e utilizza il meccanismo integrato di esecuzione di nuovi tentativi di Adobe I/O Events per migliorare la resilienza delle applicazioni e gestire in modo efficace le attivazioni degli eventi.
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Scopri come funziona il meccanismo di esecuzione dei nuovi tentativi nel contest
 * Indicatori visivi nella console per sviluppatori, ad esempio icone di avviso per eventi non riusciti e icone a freccia circolare per eventi ritentati.
 * Le azioni di runtime &quot;consumer&quot; svolgono un ruolo fondamentale nella determinazione dei codici di stato delle risposte HTTP appropriati per la gestione degli eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449081?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

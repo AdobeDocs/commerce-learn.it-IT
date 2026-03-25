@@ -5,6 +5,7 @@ landing-page-description: Scopri come trovare avvisi, criteri e meccanismi di co
 short-description: Scopri come aggiungere un nuovo indirizzo e-mail a un criterio di avviso esistente in New Relic.
 kt: 15984
 doc-type: technical video
+duration: 162
 audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Scopri come trovare avvisi, criteri, flussi di lavoro e destinazioni in New Reli
 * Scopri le notifiche, i criteri e i flussi di lavoro degli avvisi
 * Il salvataggio della destinazione e la convalida della nuova e-mail sono stati aggiunti a un criterio
 
->[!VIDEO](https://video.tv.adobe.com/v/3441212?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

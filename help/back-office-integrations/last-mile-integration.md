@@ -4,7 +4,7 @@ description: Integrazione dell’ultimo miglio in Commerce, che evidenzia gli ho
 landing-page-description: Scopri la struttura e le funzioni degli hook di estensibilità nell’integrazione dell’ultimo miglio per i sistemi Commerce.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -45,6 +45,6 @@ Scopri il significato delle attività di post-elaborazione tramite l’hook di p
 * Scopri il ruolo dell’hook di trasformazione nella trasformazione degli oggetti dati tra i sistemi di origine e di destinazione.
 * Scopri l’importanza dell’hook di invio nel facilitare l’effettivo invio dei dati al sistema di destinazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451933?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

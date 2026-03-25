@@ -6,16 +6,16 @@ topic: Administration, Commerce
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 195
+duration: 218
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16565
-source-git-commit: e1dc4bf5b4434869667ab3601445f2965421829f
+exl-id: 70b66d2a-7f20-49de-ad4e-c0f665ca7eba
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Filtri griglia amministrazione
 
@@ -29,6 +29,6 @@ Scopri come trovare e regolare i filtri da utilizzare nell’amministratore di A
 
 * Dove trovare il valore di configurazione per ogni attributo per abilitarlo o disabilitarlo come filtro
 * Come utilizzare un filtro per limitare i risultati di una griglia di amministrazione
-* Scopri in che modo i filtri influiscono sugli altri amministratori nell’Admin Console di Adobe Commerce
+* Scopri in che modo i filtri influiscono sugli altri amministratori in Adobe Commerce Admin Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3440390?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)

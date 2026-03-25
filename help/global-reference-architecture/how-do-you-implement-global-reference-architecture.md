@@ -4,6 +4,7 @@ description: Scopri come implementare un’architettura di riferimento globale. 
 landing-page-description: Scopri come implementare un’architettura di riferimento globale con Adobe Commerce
 kt: 14042
 doc-type: video
+duration: 2289
 audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -39,6 +40,6 @@ Scopri come implementare Global Reference Architecture o GRA in breve. Scopri le
 * Bacheca di controllo globale: su quali funzioni lavorare
 * Concetto alternativo per l’utilizzo di GRA come marketplace dei moduli
 
->[!VIDEO](https://video.tv.adobe.com/v/3457216?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

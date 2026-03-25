@@ -5,6 +5,7 @@ landing-page-description: Questa è un’introduzione a GraphQL. Informazioni su
 short-description: Questa è un’introduzione a GraphQL. Informazioni sullo schema e come interpretare alcuni degli elementi
 kt: 13939
 doc-type: video
+duration: 363
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 Questa è la parte 4 della serie per GraphQL e Adobe Commerce. Le query e le mutazioni utilizzate si basano su un grafico dati specifico implementato sul server, che il runtime di GraphQL utilizza e utilizza per risolvere la query. La specifica di GraphQL definisce un linguaggio agnostico per esprimere i tipi e le relazioni del grafico dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446618?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 

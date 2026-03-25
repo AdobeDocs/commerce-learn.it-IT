@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 613
+duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -40,8 +40,8 @@ I project manager devono tenere traccia dell&#39;avanzamento delle attività di 
 * Convalida e gestione degli errori per i campi di input degli indirizzi, per garantire che gli utenti ricevano un feedback immediato sulle voci errate o incomplete, migliorando l’esperienza utente.
 * Estensione della dashboard dell’account utente che aggiunge una nuova voce di menu nella barra laterale alla dashboard dell’account utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442914?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=it)
+* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

@@ -6,11 +6,11 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 131
+duration: 173
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16050
 exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
-source-git-commit: 82e4e3e2a922a513c7d45ce3833971bda093a86f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Aggiungi e rimuovi gli osservatori, chiudi e riapri i ticket
 
-Scopri come aggiungere e rimuovere gli osservatori e come chiudere e riaprire un ticket di supporto all’interno di Experience League per Adobe Commerce.
+Scopri come aggiungere e rimuovere gli osservatori e come chiudere e riaprire un ticket di supporto in Experience League for Adobe Commerce.
 
 ## A chi serve questo video?
 
@@ -31,8 +31,8 @@ Scopri come aggiungere e rimuovere gli osservatori e come chiudere e riaprire un
 * Scopri come chiudere un ticket di supporto
 * Scopri come riaprire un ticket di supporto
 
->[!VIDEO](https://video.tv.adobe.com/v/3441360?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
 
 ## Guida del centro assistenza della Knowledge Base di Commerce
 
-[Invia un caso di supporto](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Invia un caso di supporto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
