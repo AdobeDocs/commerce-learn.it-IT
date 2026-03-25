@@ -43,4 +43,4 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 
 ## Documentazione aggiuntiva
 
-* [Aggiungi righe prodotto al carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [Aggiungi righe prodotto al carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=it)
