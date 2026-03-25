@@ -33,7 +33,7 @@ Questo video fa parte della serie di onboarding tecnico Adobe Commerce Cloud. Il
 * Flussi di lavoro di convalida, ottimizzazione e debug
 * ECE-Tools, Quality Patches Tool, New Relic, Xdebug e gestione dei registri.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432821?captions=ita&learn=on)
 
 ## Documentazione di Experience League citata nel video
 
