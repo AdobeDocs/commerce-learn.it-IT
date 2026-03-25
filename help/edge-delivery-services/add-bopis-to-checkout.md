@@ -37,7 +37,7 @@ Scopri come utilizzare Adobe Commerce cart di Edge Delivery Services per fornire
 * Passare dalla consegna al ritiro dal negozio
 * Recupero delle posizioni di prelievo
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441708?captions=ita&learn=on)
 
 ## Documentazione aggiuntiva
 

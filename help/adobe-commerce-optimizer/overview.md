@@ -33,7 +33,7 @@ Adobe Commerce Optimizer migliora le piattaforme commerce esistenti fornendo una
 * Perfetta integrazione con i sistemi ERP, CRM, OMS e altri sistemi esistenti, senza necessità di riconfigurazione.
 * Ridimensiona le operazioni digitali
 
->[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450471?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

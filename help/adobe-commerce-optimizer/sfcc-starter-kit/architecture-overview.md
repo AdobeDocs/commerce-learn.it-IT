@@ -33,4 +33,4 @@ Scopri l’architettura e le funzionalità del Commerce Optimizer Connector Star
 * La cartuccia SFCC e le API personalizzate rilevano le modifiche al catalogo tramite esportazioni delta, consentendo un’efficiente sincronizzazione dei dati con Adobe App Builder.
 * Le azioni di runtime di App Builder gestiscono le sincronizzazioni complete e delta, la convalida e il tracciamento dello stato per garantire aggiornamenti precisi e senza conflitti di Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476059?captions=ita&learn=on)
