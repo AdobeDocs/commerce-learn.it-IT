@@ -33,6 +33,6 @@ Se altri membri del team o provider di servizi necessitano dell&#39;accesso, è 
 
 ## Risorse aggiuntive
 
-[Gestisci account utente amministratore - [!DNL Commerce] Guida di Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Gestisci account utente amministratore - [!DNL Commerce] Guida di Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=it)
 
-[Ruoli utente - [!DNL Commerce] Guida all&#39;amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Ruoli utente - [!DNL Commerce] Guida all&#39;amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=it)

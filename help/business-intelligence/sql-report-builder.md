@@ -27,7 +27,7 @@ Adobe Commerce Intelligence SQL Report Builder consente di eseguire query nel da
 
 >[!TIP]
 >
-> Se sei un nuovo utente di Commerce Intelligence, la [guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} spiega come aggregare, analizzare e visualizzare i dati per ottenere informazioni aziendali più approfondite.
+> Se sei un nuovo utente di Commerce Intelligence, la [guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=it){target="_blank"} spiega come aggregare, analizzare e visualizzare i dati per ottenere informazioni aziendali più approfondite.
 
 ## A chi serve questo video?
 
@@ -44,5 +44,5 @@ Adobe Commerce Intelligence SQL Report Builder consente di eseguire query nel da
 
 ## Risorse utili
 
-* [Utilizzo di SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} (guida utente di Commerce Intelligence)
-* [Creazione di visualizzazioni da query SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"} (guida utente di Commerce Intelligence)
+* [Utilizzo di SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=it){target="_blank"} (guida utente di Commerce Intelligence)
+* [Creazione di visualizzazioni da query SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=it){target="_blank"} (guida utente di Commerce Intelligence)

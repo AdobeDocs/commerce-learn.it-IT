@@ -34,6 +34,6 @@ Prima di aggiungere prodotti al catalogo, è necessario stabilire la struttura d
 
 ## Risorse aggiuntive
 
-* [Crea categorie - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-* [Autorizzazioni categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-* [Navigazione superiore - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+* [Crea categorie - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=it)
+* [Autorizzazioni categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=it)
+* [Navigazione superiore - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=it)

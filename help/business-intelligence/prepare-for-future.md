@@ -32,7 +32,7 @@ Guarda questa serie di video per comprendere meglio i cambiamenti senza preceden
 
 >[!TIP]
 >
->Se hai poca esperienza con Commerce Intelligence, la [Guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fornisce una panoramica completa per ottenere risultati e informazioni aziendali migliori tramite l&#39;aggregazione, l&#39;analisi e la visualizzazione dei dati.
+>Se hai poca esperienza con Commerce Intelligence, la [Guida utente di Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=it){target="_blank"} fornisce una panoramica completa per ottenere risultati e informazioni aziendali migliori tramite l&#39;aggregazione, l&#39;analisi e la visualizzazione dei dati.
 
 ## A chi serve questo video?
 

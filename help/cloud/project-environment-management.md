@@ -38,6 +38,6 @@ Scopri come utilizzare Adobe Commerce Cloud per gestire progetti e ambienti. Mos
 
 ## Contenuto e documentazione correlati
 
-* [Gestisci accesso utente](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Connessione sicura agli ambienti remoti](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [Progetto infrastruttura cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [Gestisci accesso utente](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Connessione sicura agli ambienti remoti](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Progetto infrastruttura cloud](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/overview)

@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
@@ -34,5 +34,5 @@ L’utilizzo dei modelli consente di risparmiare tempo e fatica durante la creaz
 
 ## Risorse aggiuntive
 
-* [[!DNL Page Builder] Modelli - [!DNL Page Builder] Guida utente](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [[!DNL Page Builder] Modelli - [!DNL Page Builder] Guida utente](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=it)
 * [Aggiungi modelli - [!DNL Page Builder] Guida per gli sviluppatori](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
