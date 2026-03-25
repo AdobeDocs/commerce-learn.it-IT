@@ -38,7 +38,7 @@ In questo video:
 * Installare ed eseguire UCT da PhpStorm.
 * Rivedi i rapporti di HTML e assegna priorità alle correzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344406?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

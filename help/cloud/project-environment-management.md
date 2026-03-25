@@ -34,7 +34,7 @@ Scopri come utilizzare Adobe Commerce Cloud per gestire progetti e ambienti. Mos
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3474969?captions=ita&learn=on)
 
 ## Contenuto e documentazione correlati
 

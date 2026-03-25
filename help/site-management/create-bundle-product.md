@@ -62,7 +62,7 @@ Quando crei i prodotti bundle da Adobe Commerce Admin, puoi creare prima i prodo
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454510?captions=ita&learn=on)
 
 ## Creare prodotti con REST
 

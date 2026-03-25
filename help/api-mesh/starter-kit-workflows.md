@@ -33,7 +33,7 @@ Scopri i flussi di lavoro GitHub inclusi nel kit di avvio Mesh API per la distri
 * Flusso di lavoro deployMesh che distribuisce o aggiorna automaticamente una rete
 * Test di carico con il flusso di lavoro del test di carico K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464532?captions=ita&learn=on)
 
 ## Documentazione correlata
 

@@ -33,7 +33,7 @@ Se la funzione Catalogo condiviso è abilitata nella configurazione, il catalogo
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410754?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

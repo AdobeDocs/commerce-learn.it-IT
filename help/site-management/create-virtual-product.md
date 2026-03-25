@@ -31,7 +31,7 @@ Scopri come creare un prodotto virtuale utilizzando l’API REST e l’amministr
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444872?captions=ita&learn=on)
 
 ## Creare un prodotto virtuale utilizzando CURL
 

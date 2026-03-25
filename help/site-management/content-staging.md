@@ -33,7 +33,7 @@ La gestione temporanea dei contenuti offre al team aziendale la possibilità di 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343784?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410855?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

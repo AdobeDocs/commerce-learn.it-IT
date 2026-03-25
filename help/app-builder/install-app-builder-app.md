@@ -30,4 +30,4 @@ Scopri come trovare, installare e convalidare le app Adobe Commerce App Builder 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471532?captions=ita&learn=on)

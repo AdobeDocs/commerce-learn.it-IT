@@ -32,7 +32,7 @@ Lo strumento di riscrittura URL consente di modificare qualsiasi URL associato a
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410125?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

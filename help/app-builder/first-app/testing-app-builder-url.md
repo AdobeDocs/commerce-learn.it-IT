@@ -33,6 +33,6 @@ Scopri come testare la nuova applicazione Adobe Developer App Builder utilizzand
 * Come distribuire l’applicazione
 * Dove trovare l’URL dopo la distribuzione
 
->[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421047?captions=ita&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

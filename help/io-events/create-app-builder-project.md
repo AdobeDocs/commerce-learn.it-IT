@@ -35,7 +35,7 @@ Scopri come creare un progetto Adobe Developer App Builder per utilizzare gli ev
 * Utilizzo di Adobe Developer Console
 * Utilizzo di Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419806?captions=ita&learn=on)
 
 ## Comandi utili {#useful-commands}
 

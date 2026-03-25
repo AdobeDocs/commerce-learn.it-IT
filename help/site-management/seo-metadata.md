@@ -31,7 +31,7 @@ Il tuo archivio è pieno di luoghi in cui puoi immettere metadati ricchi di paro
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410175?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

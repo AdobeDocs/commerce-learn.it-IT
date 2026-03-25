@@ -43,7 +43,7 @@ Per ulteriori informazioni sullo strumento, consulta la [documentazione di Upgra
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344384?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

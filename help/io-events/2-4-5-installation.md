@@ -37,7 +37,7 @@ Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Compos
 * Comandi da eseguire per Adobe Commerce Cloud
 * Modifica richiesta dello yaml Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419828?captions=ita&learn=on)
 
 ## Comandi utili {#useful-commands}
 

@@ -38,7 +38,7 @@ Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impost
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344450?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410766?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

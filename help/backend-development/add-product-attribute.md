@@ -35,7 +35,7 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412440?captions=ita&learn=on)
 
 ## Esempio di codice
 

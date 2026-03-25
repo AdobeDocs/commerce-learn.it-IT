@@ -44,4 +44,4 @@ Scopri come navigare nell’esperienza della vetrina Adobe Commerce su Edge Deli
 * Utilizzare il carrello e gli ordini: aggiungere articoli, estrarre come ospite, annullare gli ordini, riordinare ed elaborare le restituzioni.
 * Aggiorna le informazioni sull&#39;account, unisci i carrelli ospiti e clienti e mantieni coerente l&#39;estrazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446770?captions=ita&learn=on)

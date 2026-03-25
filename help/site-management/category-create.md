@@ -30,7 +30,7 @@ Prima di aggiungere prodotti al catalogo, è necessario stabilire la struttura d
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410135?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

@@ -33,6 +33,6 @@ Scopri come impostare strumenti di intelligenza artificiale per creare tariffe d
 * Illustra come configurare l’ambiente di sviluppo, estraendo l’archivio, rivedendo la struttura del kit di avvio e installando gli strumenti necessari.
 * Prepara il sistema per lo sviluppo basato sull’intelligenza artificiale accedendo, configurando l’accesso e garantendo che siano presenti tutte le dipendenze e i prerequisiti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481336?captions=ita&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

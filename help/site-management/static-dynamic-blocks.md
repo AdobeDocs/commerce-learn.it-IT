@@ -31,7 +31,7 @@ Un blocco è un’unità modulare di contenuto che può essere posizionata nella
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411069?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

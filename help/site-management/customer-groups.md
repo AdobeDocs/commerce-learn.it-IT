@@ -30,7 +30,7 @@ I gruppi di clienti determinano gli sconti disponibili e la classe fiscale assoc
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410170?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

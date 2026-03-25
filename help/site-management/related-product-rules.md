@@ -31,7 +31,7 @@ Le regole di prodotto correlate consentono di eseguire il targeting della selezi
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411063?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

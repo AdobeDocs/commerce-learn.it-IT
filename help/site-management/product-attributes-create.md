@@ -30,7 +30,7 @@ Adobe Commerce utilizza gli attributi per gestire le informazioni associate a pr
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410130?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

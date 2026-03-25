@@ -31,7 +31,7 @@ Le regole di prezzo del carrello applicano sconti agli articoli nel carrello in 
 * Crea le regole di prezzo del carrello e i codici coupon facoltativi.
 * Scopri come appaiono gli sconti nel carrello e per le promozioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410805?captions=ita&learn=on)
 
 ## Problemi relativi alla visualizzazione dei prezzi
 

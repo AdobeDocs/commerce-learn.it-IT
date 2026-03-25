@@ -36,7 +36,7 @@ Scopri come configurare Adobe Commerce per esporre gli eventi. È stata trovata 
 * Salvataggio dell’identificatore univoco nell’amministratore di Commerce
 * Creare un provider di eventi
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419714?captions=ita&learn=on)
 
 ## Comandi utili {#useful-commands}
 

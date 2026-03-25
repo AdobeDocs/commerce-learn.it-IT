@@ -33,7 +33,7 @@ I segmenti di clienti consentono di visualizzare in modo dinamico contenuti e pr
 * Crea segmenti da attributi del cliente, ordini e dati del carrello.
 * Collega i segmenti alle promozioni e alle regole di prezzo del carrello.
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410190?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

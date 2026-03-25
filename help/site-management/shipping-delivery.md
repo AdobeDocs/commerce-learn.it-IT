@@ -30,7 +30,7 @@ La gestione dei metodi di spedizione e consegna è fondamentale per essere sicur
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410207?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

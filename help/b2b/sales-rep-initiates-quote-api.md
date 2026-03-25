@@ -33,6 +33,6 @@ Scopri come il rappresentante commerciale può avviare il preventivo dall’API 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423711?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

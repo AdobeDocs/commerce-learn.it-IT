@@ -32,6 +32,6 @@ Scopri in che modo il rappresentante commerciale può avviare il preventivo dal 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430579?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

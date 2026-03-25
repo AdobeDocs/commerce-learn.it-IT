@@ -31,7 +31,7 @@ Scopri come creare un prodotto scaricabile utilizzando l’API REST e l’ammini
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453953?captions=ita&learn=on)
 
 ## Domini scaricabili consentiti
 

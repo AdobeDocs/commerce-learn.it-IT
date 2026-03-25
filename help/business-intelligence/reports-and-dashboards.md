@@ -31,4 +31,4 @@ Scopri le diverse opzioni di Report Builder e come leggere e comprendere i rappo
 
 ## Rapporti e dashboard di Adobe Commerce Intelligence
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453151?captions=ita&learn=on)

@@ -30,7 +30,7 @@ Le regole fiscali includono una combinazione di classe di prodotto, classe di cl
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410212?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

@@ -30,7 +30,7 @@ L’utilizzo dei modelli consente di risparmiare tempo e fatica durante la creaz
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410843?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

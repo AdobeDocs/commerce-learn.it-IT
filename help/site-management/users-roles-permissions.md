@@ -29,7 +29,7 @@ Se altri membri del team o provider di servizi necessitano dell&#39;accesso, è 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443515?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

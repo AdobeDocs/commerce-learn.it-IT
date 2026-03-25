@@ -33,7 +33,7 @@ Questo file determina la configurazione dell&#39;applicazione.
 * Il file `app.config.yaml` ha discusso
 * Come vengono collegate le definizioni ad altri file `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430843?captions=ita&learn=on)
 
 ## Esempio di codice
 
