@@ -3,19 +3,19 @@ title: Apri telemetria
 description: 'Unificare l''osservabilità con OpenTelemetry: registri, tracce e metriche per il monitoraggio e l''analisi della root cause senza problemi.'
 feature: Observability,Extensibility,App Builder
 topic: Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 137
+duration: 175
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19975
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 697d4290-1181-4fde-b8a8-132de9057264
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Apri telemetria
 
@@ -33,7 +33,7 @@ Scopri come la telemetria aperta standardizza l’osservabilità tra registri, t
 * Correlazione di registri, tracce e metriche per un&#39;analisi più rapida della root cause
 * Manutenzione degli strumenti di monitoraggio esistenti durante l&#39;unificazione dei flussi di dati
 
->[!VIDEO](https://video.tv.adobe.com/v/3478331?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

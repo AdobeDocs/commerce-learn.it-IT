@@ -3,19 +3,19 @@ title: Informazioni sull’osservabilità
 description: Perché l’osservabilità centralizzata è fondamentale per la scalabilità di Adobe Commerce
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 165
+duration: 205
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19965
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 619e7ac0-4415-4bea-829b-2211a3bf7d21
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Panoramica sull’osservabilità
 
@@ -33,7 +33,7 @@ Scopri perché l’osservabilità centralizzata è essenziale per le moderne arc
 * L’osservabilità centralizzata è fondamentale: correlare registri e metriche tra tutti i componenti.
 * Migliora le prestazioni di pagamento: identifica rapidamente i colli di bottiglia per mantenere lo shopping fluido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478296?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

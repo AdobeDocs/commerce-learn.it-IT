@@ -3,19 +3,19 @@ title: Esplora le nuove API REST del cliente
 description: Scopri come utilizzare le nuove API REST dei clienti in Adobe Commerce Cloud Service. Ideale per architetti e sviluppatori.
 feature: REST, Customers, Saas
 topic: Development, Integrations
-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 225
+duration: 457
 last-substantial-update: 2026-01-27T00:00:00Z
 jira: KT-20160
-source-git-commit: ad2cfb4b38d739b03e0c2fff8bcd88d77d6e4b12
+exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
 
 ---
-
 
 # API REST del cliente
 
@@ -32,7 +32,7 @@ Scopri come utilizzare le nuove API REST dei clienti in Adobe Commerce as a Clou
 * Utilizza il formato dell’endpoint REST API corretto per Commerce as a Cloud Service
 * Creare e aggiornare gli account cliente a livello di programmazione utilizzando le richieste POST e PUT con payload JSON appropriati
 
->[!VIDEO](https://video.tv.adobe.com/v/3479370/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## Esempi di codice
 
@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## Riferimenti
 
-* [Note sulla versione di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/it/docs/commerce/cloud-service/release-notes)
+* [Note sulla versione di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Riferimento API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Guida all&#39;autenticazione utente](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

@@ -1,50 +1,52 @@
 ---
 title: Configurazione e debug di Adobe Commerce Cloud
-description: Scopri i file di configurazione, gli strumenti di debug e la gestione dei registri di Adobe Commerce Cloud, essenziali per DevOps, amministratori di sistema e sviluppatori back-end.
+description: Scopri come la configurazione YAML, gli strumenti di convalida, gli strumenti ECE, lo strumento Quality Patches, New Relic e Xdebug supportano il debug e la gestione dei registri in Adobe Commerce Cloud.
 feature: Cloud
 topic: Commerce, Architecture, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 500
+duration: 553
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
-kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# Onboarding tecnico - Configurazione e debug
+# Configurazione e debug
 
-Scopri i file Yaml chiave utilizzati in Adobe Commerce Cloud per la configurazione in ambienti diversi, gli strumenti disponibili per la convalida e l’ottimizzazione di tali configurazioni e il processo di debug e registrazione. Comprendi l’importanza delle impostazioni specifiche per l’ambiente, come utilizzare gli strumenti EC e le patch di qualità e il ruolo di New Relic nell’aggregazione dei registri. Ottieni informazioni approfondite sul debug remoto con Xdebug e sulla necessità di gestire i registri su più server di app.
+Questo video fa parte della serie di onboarding tecnico Adobe Commerce Cloud. Illustra il funzionamento dei file di configurazione YAML negli ambienti, quali strumenti consentono di convalidarli e ottimizzarli e come vengono gestiti il debug e la registrazione. È inoltre possibile vedere come gli strumenti ECE e lo strumento Quality Patches si adattano, come New Relic aggrega i registri, come utilizzare Xdebug per il debug remoto e come gestire i registri su più server applicazioni.
 
 ## A chi serve questo video?
 
-- Ingegneri DevOp
-- Architetti Commerce
-- Sviluppatori back-end
+* Ingegneri DevOps
+* Architetti Commerce
+* Sviluppatori back-end
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3432821?captions=ita&learn=on)
+* Configurazione YAML in ambienti cloud e impostazioni specifiche per l’ambiente.
+* Flussi di lavoro di convalida, ottimizzazione e debug
+* ECE-Tools, Quality Patches Tool, New Relic, Xdebug e gestione dei registri.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
 ## Documentazione di Experience League citata nel video
 
-- [Configura Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=it)
-- [Docker cloud configura Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [Best practice per il debug](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=it)
-- [Panoramica dei file di configurazione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=it)
-- [Strumenti ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=it)
-- [Aggiorna il pacchetto ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=it)
-- [Panoramica di New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=it)
-- [Visualizza e gestisci i file di registro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=it)
-- [Gestione registro New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=it)
-- [Strumento Quality Patch](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=it)
-- [Utilizzo strumento patch di qualità](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=it)
+* [Configura Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
+* [Docker cloud: configura Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
+* [Best practice per il debug](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html){target="_blank"}
+* [Panoramica dei file di configurazione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
+* [Strumenti ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html){target="_blank"}
+* [Aggiorna il pacchetto ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html){target="_blank"}
+* [Panoramica di New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html){target="_blank"}
+* [Visualizza e gestisci i file di registro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html){target="_blank"}
+* [Gestione registro New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html){target="_blank"}
+* [Strumento Patch di qualità](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html){target="_blank"}
+* [Utilizzo dello strumento Patch di qualità](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html){target="_blank"}
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
