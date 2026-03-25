@@ -4,6 +4,7 @@ description: Scopri Adobe Developer App Builder utilizzando Adobe Commerce e cre
 landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e crea la tua prima app.
 kt: 12421
 doc-type: tutorial
+duration: 197
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -51,7 +52,7 @@ Questo tutorial è stato progettato per seguire l’ordine delle pagine nel menu
 * Aspettative per l’utilizzo del modulo di esempio
 * Parti riutilizzabili di nel modulo di esempio
 
->[!VIDEO](https://video.tv.adobe.com/v/3421025?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 

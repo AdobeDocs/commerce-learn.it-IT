@@ -4,6 +4,7 @@ description: Scopri come testare la tua prima app Adobe Developer App Builder da
 landing-page-description: Scopri come testare la tua prima app Adobe Developer App Builder dall’URL fornito dal progetto.
 kt: 12427
 doc-type: tutorial
+duration: 78
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -32,6 +33,6 @@ Scopri come testare la nuova applicazione Adobe Developer App Builder utilizzand
 * Come distribuire l’applicazione
 * Dove trovare l’URL dopo la distribuzione
 
->[!VIDEO](https://video.tv.adobe.com/v/3421047?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

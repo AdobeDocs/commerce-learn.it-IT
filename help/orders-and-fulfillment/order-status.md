@@ -2,6 +2,7 @@
 title: Gestisci stato ordine
 description: Scopri come controllare lo stato degli ordini e i relativi dettagli e come modificare lo stato di un ordine.
 doc-type: feature video
+duration: 151
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
-source-git-commit: a123404202e95d449ad2fb9ede94d8b75bfe677c
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -23,14 +24,14 @@ Quando un cliente effettua un ordine, viene creato un ordine di vendita come rec
 
 ## A chi serve questo video?
 
-- Vendite
-- Rappresentanti del servizio clienti
+* Vendite
+* Rappresentanti del servizio clienti
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410798?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
 
 ## Risorse aggiuntive
 
-- [Elabora un ordine - [!DNL Commerce] Archivi e guida all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=it#process-an-order)
-- [Stato ordine - [!DNL Commerce] Memorizzazione e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=it)
+* [Elabora un ordine - [!DNL Commerce] Archivi e guida all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+* [Stato ordine - [!DNL Commerce] Memorizzazione e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

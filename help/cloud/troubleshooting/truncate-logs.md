@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 206
+duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -26,16 +26,16 @@ Se si ritiene che possano essere necessari questi file di registro, è possibile
 
 ## Per chi è questo video
 
-- Sviluppatori e professionisti IT
-- Amministratori di sistema
+* Sviluppatori e professionisti IT
+* Amministratori di sistema
 
 ## Contenuto video
 
-- Diagnosticare e risolvere una distribuzione non riuscita
-- Dove si trovano alcuni file di registro di grandi dimensioni comuni
-- Metodo rapido per troncare un file di registro
+* Diagnosticare e risolvere una distribuzione non riuscita
+* Dove si trovano alcuni file di registro di grandi dimensioni comuni
+* Metodo rapido per troncare un file di registro
 
->[!VIDEO](https://video.tv.adobe.com/v/3454591?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Comandi utilizzati nel video
@@ -91,4 +91,4 @@ Dopo aver eseguito il ssh nel progetto e nell&#39;ambiente corretti, passare all
 
 ## Documentazione correlata
 
-- [Notifiche stato](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notifiche stato](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

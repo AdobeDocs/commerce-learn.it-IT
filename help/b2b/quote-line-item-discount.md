@@ -2,6 +2,7 @@
 title: Utilizzo di Adobe Commerce mostra uno sconto su un articolo riga per un preventivo
 description: Scopri gli sconti sulle voci in un preventivo B2B in Adobe Commerce
 doc-type: feature video
+duration: 231
 audience: all
 activity: use
 kt: 13797
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -26,12 +27,12 @@ Scopri come utilizzare lo sconto per elemento riga e visualizzare i valori utili
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
-- Sviluppatori
+* Gestori di siti Web
+* eCommerce merchandisers
+* Sviluppatori
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3445593?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

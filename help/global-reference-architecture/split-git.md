@@ -3,6 +3,7 @@ title: Configurazione di Adobe Commerce con l’architettura di riferimento glob
 description: Scopri come configurare Adobe Commerce utilizzando l’architettura di riferimento globale Split Git per una gestione del codice efficiente e una distribuzione semplificata. ​
 kt: 16725
 doc-type: tutorial
+duration: 515
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Il pattern Git GRA diviso coinvolge due archivi Git per lo sviluppo e un archivi
 
 Vantaggi:
 
-- Riutilizzo del codice tramite un archivio di codice condiviso
-- Semplice pattern GRA, adatto anche per team con limitata conoscenza del Compositore
-- Oltre ai moduli, ai temi e ai Language Pack di Adobe Commerce, è possibile installare qualsiasi tipo di pacchetto Composer tramite questo modello, inclusi compositore-plugin, compositore-metapackage, componente magento2 e patch
-- Possibilità di rilasciare in fasi, pianificando le versioni per le aree nelle proprie finestre di manutenzione
-- Supporto per i tag Git a scopo amministrativo, non per il controllo della distribuzione
-- Garantire che la combinazione di pacchetti in una distribuzione di produzione sia sviluppata e testata in questa esatta configurazione
+* Riutilizzo del codice tramite un archivio di codice condiviso
+* Semplice pattern GRA, adatto anche per team con limitata conoscenza del Compositore
+* Oltre ai moduli, ai temi e ai Language Pack di Adobe Commerce, è possibile installare qualsiasi tipo di pacchetto Composer tramite questo modello, inclusi compositore-plugin, compositore-metapackage, componente magento2 e patch
+* Possibilità di rilasciare in fasi, pianificando le versioni per le aree nelle proprie finestre di manutenzione
+* Supporto per i tag Git a scopo amministrativo, non per il controllo della distribuzione
+* Garantire che la combinazione di pacchetti in una distribuzione di produzione sia sviluppata e testata in questa esatta configurazione
 
 Svantaggi:
 
-- Nessuna flessibilità aggiuntiva rispetto ad altri modelli GRA
-- Impossibile aggiornare o declassare singoli moduli per istanza, aggiornare o declassare sempre l&#39;intero GRA
-- Nella maggior parte dei casi, il modello dei pacchetti bulk è un adattamento migliore in quanto è ugualmente semplice, ma più convenzionale
+* Nessuna flessibilità aggiuntiva rispetto ad altri modelli GRA
+* Impossibile aggiornare o declassare singoli moduli per istanza, aggiornare o declassare sempre l&#39;intero GRA
+* Nella maggior parte dei casi, il modello dei pacchetti bulk è un adattamento migliore in quanto è ugualmente semplice, ma più convenzionale
 
 ## Configurare Adobe Commerce con il pattern Git GRA diviso
 
@@ -153,11 +154,11 @@ Adobe Commerce è un’applicazione Compositore. Il modo migliore per eseguire l
 
 Riepilogo:
 
-- **Adobe Commerce**: archiviato in un repository Composer.
-- **Moduli di terze parti**: archiviati in un repository Composer.
-- **Opzione di fallback moduli di terze parti**: archiviata nell&#39;archivio Git gra-split-3rdparty.
-- **Codice GRA Foundation**: archiviato nell&#39;archivio Git gra-split-gra.
-- **Codice locale**: archiviato nell&#39;archivio Git gra-split-brand-x.
+* **Adobe Commerce**: archiviato in un repository Composer.
+* **Moduli di terze parti**: archiviati in un repository Composer.
+* **Opzione di fallback moduli di terze parti**: archiviata nell&#39;archivio Git gra-split-3rdparty.
+* **Codice GRA Foundation**: archiviato nell&#39;archivio Git gra-split-gra.
+* **Codice locale**: archiviato nell&#39;archivio Git gra-split-brand-x.
 
 ### Collegare l&#39;archiviazione del pacchetto a Composer
 
@@ -377,9 +378,9 @@ Non unire mai commit di terze parti e GRA nell’archivio del brand all’intern
 
 Gli esempi di codice di questo articolo sono disponibili come set di archivi Git, che puoi utilizzare per testare la verifica di concetto.
 
-- Un esempio di archivio di produzione: <https://github.com/AntonEvers/gra-split-brand-x>
-- Archivio del codice di terze parti: <https://github.com/AntonEvers/gra-split-3rdparty>
-- Archivio del codice GRA: <https://github.com/AntonEvers/gra-split-gra>
-- Esempio di modulo locale: <https://github.com/AntonEvers/module-example-local>
-- Esempio di modulo GRA: <https://github.com/AntonEvers/module-example-gra>
-- Esempio di modulo di terze parti: <https://github.com/AntonEvers/module-example-3rdparty>
+* Un esempio di archivio di produzione: <https://github.com/AntonEvers/gra-split-brand-x>
+* Archivio del codice di terze parti: <https://github.com/AntonEvers/gra-split-3rdparty>
+* Archivio del codice GRA: <https://github.com/AntonEvers/gra-split-gra>
+* Esempio di modulo locale: <https://github.com/AntonEvers/module-example-local>
+* Esempio di modulo GRA: <https://github.com/AntonEvers/module-example-gra>
+* Esempio di modulo di terze parti: <https://github.com/AntonEvers/module-example-3rdparty>

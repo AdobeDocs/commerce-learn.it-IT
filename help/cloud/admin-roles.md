@@ -6,16 +6,16 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
-
 
 # Ruoli di amministratore di Adobe Commerce
 
@@ -23,14 +23,14 @@ Scopri come accedere al portale di amministrazione di Adobe Commerce utilizzando
 
 ## Per chi è questo video
 
-- Archivia amministratori e utenti aziendali responsabili della gestione di accesso e autorizzazioni.
-- Nuovi proprietari di store che necessitano di istruzioni sulla creazione di ruoli con autorizzazioni specifiche e sull’assegnazione di utenti a tali ruoli
-- Progetti Adobe Commerce per garantire una gestione sicura ed efficiente delle attività amministrative eseguite dall’amministratore Adobe Commerce.
+* Archivia amministratori e utenti aziendali responsabili della gestione di accesso e autorizzazioni.
+* Nuovi proprietari di store che necessitano di istruzioni sulla creazione di ruoli con autorizzazioni specifiche e sull’assegnazione di utenti a tali ruoli
+* Progetti Adobe Commerce per garantire una gestione sicura ed efficiente delle attività amministrative eseguite dall’amministratore Adobe Commerce.
 
 ## Contenuto video
 
-- Scopri i metodi di accesso più recenti.
-- Ottenere una buona comprensione della creazione e della gestione dei ruoli
-- Comprendere i livelli di accesso e di assegnazione degli utenti. &#x200B;
+* Scopri i metodi di accesso più recenti.
+* Ottenere una buona comprensione della creazione e della gestione dei ruoli
+* Comprendere i livelli di accesso e di assegnazione degli utenti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433521?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

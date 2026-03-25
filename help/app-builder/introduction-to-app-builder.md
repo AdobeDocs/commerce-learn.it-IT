@@ -5,6 +5,7 @@ landing-page-description: Scopri cos’è App Builder e come può essere utile n
 short-description: Scopri cos’è App Builder e come può essere utile nelle strategie di sviluppo per Adobe Commerce.
 kt: 11433
 doc-type: tutorial
+duration: 322
 audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 6%
@@ -26,7 +27,7 @@ In passato, lo sviluppo Adobe Commerce utilizzava l’estensibilità in-process.
 
 ## App Builder per Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder è una piattaforma di estensibilità senza server per l’integrazione e la creazione di esperienze personalizzate al fine di estendere le soluzioni Adobe, ed è ora disponibile per Adobe Commerce. Con App Builder, puoi creare app sicure e scalabili che estendono le funzionalità native di Commerce e si integrano con soluzioni di terze parti. In qualità di sviluppatore, ora puoi sfruttare l’estensibilità fuori processo con Adobe Commerce, il che a sua volta offre vantaggi immediati e a lungo termine.
 
@@ -90,6 +91,6 @@ Sei pronto a iniziare a sviluppare? Il seguente collegamento contiene applicazio
 
 ## Supporto {#support}
 
-Per richieste di supporto per sviluppatori, utilizza il [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=it){target="_blank"} per assistenza.
+Per richieste di supporto per sviluppatori, utilizza il [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} per assistenza.
 
 {{$include /help/_includes/app-builder-related-links.md}}

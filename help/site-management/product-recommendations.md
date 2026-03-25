@@ -2,6 +2,7 @@
 title: Configurare i consigli di prodotto
 description: Scopri come utilizzare i consigli di prodotto sul tuo store di Adobe Commerce.
 doc-type: feature video
+duration: 395
 audience: all
 activity: use
 kt: 13790
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -22,20 +23,20 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-I consigli di prodotto sono un potente strumento di marketing che puoi utilizzare per aumentare le conversioni, incrementare i ricavi e stimolare il coinvolgimento degli acquirenti. I prodotti consigliati da Adobe Commerce sono basati sull’intelligenza artificiale di Adobe, che utilizza algoritmi di intelligenza artificiale e machine learning per eseguire un’analisi approfondita dei dati aggregati dei visitatori. Quando vengono combinati con il tuo catalogo Adobe Commerce, questi dati offrono un’esperienza altamente coinvolgente, rilevante e personalizzata.
+I consigli di prodotto sono un potente strumento di marketing che puoi utilizzare per aumentare le conversioni, incrementare i ricavi e stimolare il coinvolgimento degli acquirenti. I consigli sui prodotti Adobe Commerce sono forniti da Adobe AI, che utilizza algoritmi di intelligenza artificiale e machine learning per eseguire un’analisi approfondita dei dati aggregati dei visitatori. Quando vengono combinati con il tuo catalogo Adobe Commerce, questi dati offrono un’esperienza altamente coinvolgente, rilevante e personalizzata.
 
 Questo video spiega come impostare i consigli di prodotto.
 
 ## A chi serve questo video?
 
-- Ecommerce marketer
-- Gestori di siti Web
+* Ecommerce marketer
+* Gestori di siti Web
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3449966?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
 
 ## Risorse aggiuntive
 
-- [Guida ai consigli di prodotto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=it){target="_blank"}
-- [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=it){target="_blank"}
+* [Guida ai consigli di prodotto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+* [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

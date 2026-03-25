@@ -7,16 +7,16 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 1419
+duration: 1449
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19376
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+exl-id: 66ae4364-1918-4ca5-8709-9596ead0e4af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # Crescita aziendale con innovazione basata su intelligenza artificiale
 
@@ -34,4 +34,4 @@ Scopri come Adobe Commerce sta rivoluzionando l’e-commerce con soluzioni di in
 * Accelerare l’espansione globale con l’innovazione del catalogo
 * Miglioramento dell&#39;esperienza di vetrina tramite Commerce conversazionale
 
->[!VIDEO](https://video.tv.adobe.com/v/3475703/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)

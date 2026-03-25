@@ -3,6 +3,7 @@ title: Creare gruppi di clienti
 description: Scopri come creare un gruppo di clienti e come assegnare clienti a gruppi specifici, che determinano gli sconti disponibili e la classe fiscale associata.
 kt: 10546
 doc-type: feature video
+duration: 141
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -24,14 +25,14 @@ I gruppi di clienti determinano gli sconti disponibili e la classe fiscale assoc
 
 ## A chi serve questo video?
 
-- Amministratori store
-- Ecommerce marketer
+* Amministratori store
+* Ecommerce marketer
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410170?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
 
 ## Risorse aggiuntive
 
-- [Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=it)
-- [Limitazioni del gruppo di clienti per siti Web - [!DNL Commerce] Guida alla gestione clienti](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+* [Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [Limitazioni del gruppo di clienti per siti Web - [!DNL Commerce] Guida alla gestione clienti](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

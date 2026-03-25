@@ -6,11 +6,11 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 182
+duration: 243
 last-substantial-update: 2025-08-13T00:00:00Z
 jira: KT-18548
 exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
-source-git-commit: 5d34c2e3b93c937139e88fa2f75dc6046f7093fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Scopri come eseguire query sui dati utilizzando GraphQL su un’istanza Adobe Co
 * Eseguire query sui dati tramite GraphQL
 * Utilizzo di jq per semplificare la lettura di json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470808?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
 
 ## Esempi di codice
 
@@ -57,4 +57,4 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 ## Contenuto correlato
 
 * [Guida introduttiva all&#39;API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Guida](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Guida](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

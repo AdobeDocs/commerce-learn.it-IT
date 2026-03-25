@@ -2,6 +2,7 @@
 title: Agente di vendita avvia il preventivo B2B utilizzando l’API REST
 description: Scopri come il rappresentante commerciale può avviare il preventivo dall’API REST di Adobe Commerce.
 doc-type: feature video
+duration: 250
 audience: all
 activity: use
 kt: 13797
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -26,12 +27,12 @@ Scopri come il rappresentante commerciale può avviare il preventivo dall’API 
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
-- Sviluppatori
+* Gestori di siti Web
+* eCommerce merchandisers
+* Sviluppatori
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3423711?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

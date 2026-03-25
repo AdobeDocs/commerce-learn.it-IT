@@ -5,6 +5,7 @@ landing-page-description: Scopri come utilizzare Adobe App Builder e installare 
 short-description: Scopri come utilizzare Adobe App Builder e installare il plug-in Adobe I/O Runtime con API Mesh.
 kt: 11801
 doc-type: tutorial
+duration: 433
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Per le istruzioni di installazione e i prerequisiti, visita la pagina Mesh API [
 * Installazione di Adobe I/O Runtime CLI (interfaccia della riga di comando)
 * Installazione del plug-in Mesh API
 
->[!VIDEO](https://video.tv.adobe.com/v/3419794?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
 
 ## Installazione del plug-in `aio` CLI e API Mesh
 

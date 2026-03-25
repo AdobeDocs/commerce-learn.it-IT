@@ -4,6 +4,7 @@ description: Scopri i tipi di file nella cartella web-src e i file e le cartelle
 landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e quali tipi di file si trovano nella cartella web-src.
 kt: 12425
 doc-type: tutorial
+duration: 285
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -33,7 +34,7 @@ La cartella web-src per questa app di esempio contiene molti file e cartelle di 
 * File e cartelle in genere inclusi
 * Utilizzo della cartella `web-src` e del contenuto all&#39;interno nell&#39;applicazione di esempio
 
->[!VIDEO](https://video.tv.adobe.com/v/3421040?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
 
 ## Esempi di codice
 

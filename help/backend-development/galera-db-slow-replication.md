@@ -3,6 +3,7 @@ title: Scopri come trovare query lente nei registri di query lente mysql e perch
 description: Galera DB dispone di un metodo di progettazione che rende la replica dei dati nei database secondari più lunga di quella primaria. Scopri come trovare questi eventi nel registro di query lente di mysql e il motivo per cui visualizzi le voci nei registri di query lente e forse come evitarli in futuro.
 kt: 13635
 doc-type: video
+duration: 452
 activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -26,20 +27,20 @@ Come soluzione, se possibile, creare un batch delle operazioni di grandi dimensi
 
 ## A chi serve questo video?
 
-- Architetti
-- Sviluppatori
-- DevOps
+* Architetti
+* Sviluppatori
+* DevOps
 
 ## Contenuto video
 
-- Replica Galera su database secondario
-- Informazioni sul controllo del flusso
-- Ricerca di numeri di thread nei registri di query lente di Mysql
-- Le esecuzioni in blocco si verificano solo sul primario. Le repliche avvengono una alla volta
-- Assegna in batch i commit di grandi dimensioni per aiutare la replica a tenere il passo con il principale
+* Replica Galera su database secondario
+* Informazioni sul controllo del flusso
+* Ricerca di numeri di thread nei registri di query lente di Mysql
+* Le esecuzioni in blocco si verificano solo sul primario. Le repliche avvengono una alla volta
+* Assegna in batch i commit di grandi dimensioni per aiutare la replica a tenere il passo con il principale
 
->[!VIDEO](https://video.tv.adobe.com/v/3423541?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Risorse utili
 
-- [Cluster Galera](https://galeracluster.com/)
+* [Cluster Galera](https://galeracluster.com/)

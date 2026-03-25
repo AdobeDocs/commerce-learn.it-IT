@@ -3,6 +3,7 @@ title: Creare una categoria
 description: Scopri come definire la struttura di categoria di base per il catalogo dei prodotti.
 kt: 10549
 doc-type: feature video
+duration: 164
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Prima di aggiungere prodotti al catalogo, è necessario stabilire la struttura d
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
+* Gestori di siti Web
+* eCommerce merchandisers
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410135?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## Risorse aggiuntive
 
-- [Crea categorie - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=it)
-- [Autorizzazioni categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=it)
-- [Navigazione superiore - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=it)
+* [Crea categorie - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [Autorizzazioni categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [Navigazione superiore - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

@@ -3,6 +3,7 @@ title: Creare un prodotto raggruppato
 description: Scopri come creare un prodotto raggruppato utilizzando l’API REST e l’amministratore Commerce.
 kt: 14585
 doc-type: video
+duration: 979
 audience: all
 activity: use
 last-substantial-update: 2023-11-30T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -37,13 +38,13 @@ Crea prima i prodotti semplici quando crei prodotti raggruppati dall’amministr
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
-- Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti raggruppati in Adobe Commerce utilizzando l’API REST.
+* Gestori di siti Web
+* eCommerce merchandisers
+* Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti raggruppati in Adobe Commerce utilizzando l’API REST.
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3454046?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## Impostazione del prodotto raggruppato
 
@@ -223,7 +224,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Risorse aggiuntive
 
-- [Crea e gestisci prodotti raggruppati](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [Prodotto Raggruppato](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=it){target="_blank"}
-- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Creare e gestire prodotti raggruppati](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Prodotto Raggruppato](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

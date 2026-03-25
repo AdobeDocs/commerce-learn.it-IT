@@ -6,11 +6,11 @@ topic: Administration, Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 1227
+duration: 1345
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-source-git-commit: f7019a524a6978908fdd50d93eb0fbe0b5f032a4
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 # Esperienza di dati e promozioni sui lead  
 
-Scopri le funzionalità di ricerca avanzate di Adobe Commerce, basate sull’intelligenza artificiale di Adobe, e le sue solide funzioni di gestione dei cataloghi. Scopri alcuni dei punti salienti degli strumenti di ottimizzazione della ricerca, faceting e merchandising basati sull’intelligenza artificiale per migliorare l’esperienza utente. &#x200B; Inoltre, scopri i pacchetti di prodotti, la gestione delle promozioni e la perfetta integrazione con sistemi di terze parti, che offrono una soluzione completa per le esigenze di e-commerce B2B e B2C.
+Scopri le funzionalità di ricerca avanzate di Adobe Commerce, basate su Adobe AI, e le sue solide funzioni di gestione dei cataloghi. Scopri alcuni dei punti salienti degli strumenti di ottimizzazione della ricerca, faceting e merchandising basati sull’intelligenza artificiale per migliorare l’esperienza utente. &#x200B; Inoltre, scopri i pacchetti di prodotti, la gestione delle promozioni e la perfetta integrazione con sistemi di terze parti, che offrono una soluzione completa per le esigenze di e-commerce B2B e B2C.
 
 ## Per chi sono questi video?
 
-- Responsabili dell’e-commerce
-- Commerce merchandisers
-- Esperti di marketing sui siti web
-- Sviluppatori software
+* Responsabili dell’e-commerce
+* Commerce merchandisers
+* Esperti di marketing sui siti web
+* Sviluppatori software
 
 ## Gestione catalogo
 
@@ -34,23 +34,23 @@ Scopri i potenti strumenti di gestione dei cataloghi Adobe Commerce progettati p
 
 ## Contenuto video gestione catalogo
 
-- Gestione efficiente del catalogo.
-- Integrazione e personalizzazione avanzate.
-- Migliore esperienza di acquisto.
+* Gestione efficiente del catalogo.
+* Integrazione e personalizzazione avanzate.
+* Migliore esperienza di acquisto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434072?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
-Scopri le funzionalità di ricerca avanzate di Adobe Commerce Live Search, basate sull’intelligenza artificiale di Adobe &#x200B;. Questa robusta soluzione SaaS migliora l’esperienza di e-commerce fornendo risultati di ricerca altamente rilevanti in modo rapido ed efficiente. &#x200B; I commercianti e gli addetti al marketing possono ottimizzare i risultati della ricerca sul sito utilizzando strumenti come regole di ricerca avanzate, sinonimi e facet. Live Search offre suggerimenti in tempo reale, classificazione intelligente ed esperienze di ricerca personalizzabili, garantendo ai clienti di trovare ciò di cui hanno bisogno. &#x200B; Supporta anche modelli B2B con cataloghi condivisi e prezzi specifici, rendendola una soluzione versatile per tutte le esigenze aziendali.
+Scopri le funzionalità di ricerca avanzate di Adobe Commerce Live Search, con tecnologia Adobe AI. &#x200B; Questa robusta soluzione SaaS migliora l’esperienza di e-commerce fornendo risultati di ricerca altamente rilevanti in modo rapido ed efficiente. &#x200B; I commercianti e gli addetti al marketing possono ottimizzare i risultati della ricerca sul sito utilizzando strumenti come regole di ricerca avanzate, sinonimi e facet. Live Search offre suggerimenti in tempo reale, classificazione intelligente ed esperienze di ricerca personalizzabili, garantendo ai clienti di trovare ciò di cui hanno bisogno &#x200B;. Supporta anche modelli B2B con cataloghi condivisi e prezzi specifici, rendendola una soluzione versatile per tutte le esigenze aziendali.
 
 ## Contenuto video Live Search
 
-- Ottimizzazione della ricerca basata sull’intelligenza artificiale: Adobe Commerce Live Search sfrutta l’intelligenza artificiale e l’apprendimento automatico per fornire risultati di ricerca altamente pertinenti ed efficienti.
-- Esperienza di ricerca personalizzabile: funzioni come regole di ricerca avanzate, sinonimi e facet consentono un’esperienza di ricerca personalizzata e ottimizzata per i clienti.
-- Integrazione B2B: Live Search supporta modelli B2B con cataloghi condivisi e prezzi specifici, migliorando la sua versatilità per varie esigenze aziendali.
+* Ottimizzazione della ricerca basata sull’intelligenza artificiale: Adobe Commerce Live Search sfrutta l’intelligenza artificiale e l’apprendimento automatico per fornire risultati di ricerca altamente pertinenti ed efficienti.
+* Esperienza di ricerca personalizzabile: funzioni come regole di ricerca avanzate, sinonimi e facet consentono un’esperienza di ricerca personalizzata e ottimizzata per i clienti.
+* Integrazione B2B: Live Search supporta modelli B2B con cataloghi condivisi e prezzi specifici, migliorando la sua versatilità per varie esigenze aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434050?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Promozioni  
 
@@ -58,9 +58,9 @@ Adobe Commerce consente ai responsabili dei negozi di creare e gestire facilment
 
 ## Contenuto video promozioni
 
-- Gestione delle promozioni senza codice.
-- Strategie di promozione avanzate.
-- Integrazione perfetta con sistemi di terze parti, per una maggiore flessibilità e automazione.
+* Gestione delle promozioni senza codice.
+* Strategie di promozione avanzate.
+* Integrazione perfetta con sistemi di terze parti, per una maggiore flessibilità e automazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434061?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

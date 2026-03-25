@@ -1,46 +1,44 @@
 ---
-title: Connettere ed eseguire query sul database
-description: Scopri diversi metodi per la connessione a un progetto cloud Adobe Commerce. Scopri come estrarre un database per utilizzarlo fuori sede. Scopri alcuni metodi per mascherare i dati PII e rimuoverli.
+title: Connettere ed eseguire query sul database di Adobe Commerce
+description: Connettersi a un progetto Adobe Commerce on cloud, creare un dump del database per l’utilizzo fuori sede, mascherare o rimuovere PII ed eseguire SQL con Cloud CLI, un client GUI o connessioni dirette.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
 role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
-duration: 0
+duration: 1024
 last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: 9af981957b5c8722002a5c1cbd09b71e98e0a754
+source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
 
 # Connettere ed eseguire query sul database di Adobe Commerce
 
-Scopri come connettersi a un progetto Adobe Commerce su cloud, creare un’immagine del database per l’utilizzo fuori sede e gestire le informazioni personali (PII, Personally Identifiable Information) mascherandole o rimuovendole. Scopri come accedere ai dati di Adobe Commerce utilizzando vari metodi, tra cui immagini di database locali, connessioni di database remote con applicazioni come MySQL Workbench o TablesPlus e connessioni dirette tramite lo strumento Magento Cloud CLI.
+Scopri come connettersi a un progetto Adobe Commerce su cloud, creare un’immagine di database per l’utilizzo fuori sede e mascherare o rimuovere informazioni personali (PII, personally identifiable information). Accedere ai dati con un dump locale, un&#39;interfaccia utente grafica come MySQL Workbench o TablePlus o l&#39;interfaccia CLI `magento-cloud`.
 
 ## Contenuti video
 
-* Scopri come connettersi rapidamente a un progetto Adobe Commerce Cloud remoto utilizzando uno strumento come MysqlWorkbench o TablesPlus.
-* Scopri come connettersi rapidamente al progetto Adobe Commerce per eseguire SQL tramite la riga di comando
+* Connettiti a un progetto Adobe Commerce Cloud remoto con uno strumento GUI come MySQL Workbench o TablePlus.
+* Connettersi al progetto ed eseguire SQL dalla riga di comando.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450044?learn=on&captions=ita)
-
-Scopri come connettersi a un progetto Adobe Commerce on cloud, scaricare un database per l’utilizzo fuori sede, mascherare i dati PII e rimuoverlo.
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 Puoi accedere ai dati di Adobe Commerce dal progetto cloud utilizzando uno dei seguenti metodi:
 
-* Utilizzo di un dump del database locale
-* Una connessione DB all’ambiente cloud remoto utilizzando un’applicazione come Mysql Workbench o Tables Plus
-* Connessione diretta all&#39;ambiente cloud mediante lo strumento CLI di Magento-Cloud ed esecuzione di comandi sul server remoto
+* Utilizza un dump del database locale.
+* Aprire una connessione DB all&#39;ambiente cloud remoto con un&#39;applicazione quale MySQL Workbench o TablePlus.
+* Connettersi direttamente all&#39;ambiente cloud con CLI `magento-cloud` ed eseguire i comandi sul server remoto.
 
-Il metodo preferito consiste nell&#39;eseguire un dump del database e scorrerlo per rimuovere eventuali informazioni sui clienti. Rimuovi completamente i dati del cliente se non sono necessari.
+Per rimuovere le informazioni sul cliente, preferisci un dump del database che esegui lo scorrimento. Rimuovi completamente i dati del cliente quando non ne hai bisogno.
 
 ## Utilizzo dello strumento CLI di Adobe Commerce Cloud
 
-La creazione di un dump del database richiede l&#39;installazione di [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=it). Sul notebook locale, accedi a una directory ed esegui il seguente comando. Sostituire `your-project-id` con l&#39;ID progetto, simile a `asasdasd45q`. È inoltre necessario sostituire `your-environment-name` con il nome dell&#39;ambiente, ad esempio `master` o `staging`.
+Per creare un dump del database è necessario installare [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html). Nel computer locale aprire una directory ed eseguire il comando seguente. Sostituisci `your-project-id` con il tuo ID progetto (simile a `asasdasd45q`). Sostituisci `your-environment-name` con il nome dell&#39;ambiente, ad esempio `master` o `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -62,7 +60,7 @@ Ora esegui il comando per creare l’immagine del database
 magento-cloud db:dump
 ```
 
-Poiché non è stato specificato un progetto o un ambiente, Adobe Commerce CLI porrà alcune domande, di seguito è riportata una finestra di dialogo di esempio
+Poiché non hai specificato un progetto o un ambiente, la CLI di Adobe Commerce Cloud pone alcune domande. L’esempio seguente mostra una finestra di dialogo di esempio.
 
 ```bash
 Enter a number to choose a project:
@@ -141,10 +139,10 @@ Visualizza il contenuto del file per verificarne il corretto download.
 ```bash
 ls -lah
 total 29840
-drwxr-xr-x    4 <ussername>  staff   128B Feb 13 13:02 .
-drwx------@ 103 <ussername>   staff   3.2K Feb 13 12:52 ..
--rw-r--r--    1 <ussername>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
--rw-r--r--    1 <ussername>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
+drwxr-xr-x    4 <username>  staff   128B Feb 13 13:02 .
+drwx------@ 103 <username>   staff   3.2K Feb 13 12:52 ..
+-rw-r--r--    1 <username>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
+-rw-r--r--    1 <username>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
 ```
 
 Una volta che disponi dei dati, assicurati di rimuoverli o mascherarli. Il seguente script di esempio ti aiuterà a iniziare.
@@ -206,11 +204,11 @@ SET FOREIGN_KEY_CHECKS=1;
 
 In alternativa, è possibile eliminare i record invece di mascherare le informazioni, riducendo anche le dimensioni del nuovo database. Una volta mascherati o rimossi i dati PII, questi possono essere forniti in modo sicuro a un compagno di squadra per l’utilizzo nel proprio ambiente locale.
 
-## Connessione DB remoto a un progetto Adobe Commerce Cloud
+## Connessione DB remota a un progetto Adobe Commerce Cloud
 
-Questo metodo consente di modificare ed eliminare accidentalmente i dati reali. Questo approccio deve essere utilizzato con cautela. L&#39;utilizzo di un backup del database e la revisione dei dati offline è l&#39;approccio preferito. In alcuni casi è necessario accedere ai dati direttamente sul Adobe Commerce Cloud, ma questo comporta dei rischi. Non ci sono &quot;sei sicuro?&quot; domande poste, in modo da poter modificare o rimuovere inavvertitamente i dati.
+Questo metodo consente la modifica e l’eliminazione accidentale di dati live. Usatelo con cautela. Se possibile, preferisci il backup del database e la revisione offline. A volte devi accedere ai dati direttamente su Adobe Commerce Cloud; quel flusso di lavoro comporta ancora dei rischi. Le interfacce grafiche non aggiungono richieste di conferma, pertanto è possibile modificare o rimuovere i dati per errore.
 
-Super importante! Effettuare una connessione DB remota è comodo e utilizza dati reali in tempo reale, ma comporta dei rischi. Personalmente e in qualità di architetto tecnico principale per Adobe Commerce, non lo consiglio. È troppo facile dimenticare di essere sul database remoto ed eliminare o modificare accidentalmente i dati. È disponibile un&#39;opzione per la connessione alla replica di sola lettura, ma questo offre un certo impatto sul sito a seconda del peso delle attività SQL. Tuttavia, poiché è possibile, questi sono i passaggi per realizzarlo.
+Una connessione al database remoto è comoda ma rischiosa. Puoi facilmente dimenticare di essere connesso alla produzione ed eliminare o modificare i dati. È possibile connettersi a una replica di sola lettura, ma le istruzioni SQL pesanti influiscono ancora sul sito. Adobe non consiglia connessioni remote di routine a database scrivibili. Utilizzare i passaggi seguenti solo quando si è consapevoli dei rischi.
 
 Stabilire un tunnel SSH:
 
@@ -256,19 +254,19 @@ Stabilire una connessione utilizzando un&#39;interfaccia grafica MySQL utilizzan
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 ```
 
-Ora che disponi delle informazioni corrette, continua a inserire questi valori nella console Cloud.
+Ora che disponi delle informazioni corrette, immetti questi valori nella console Cloud.
 
 Puoi trovare il nome host e il nome utente SSH dalle credenziali cloud nella console Cloud.
 
-![logo - Console Adobe Commerce Cloud](./assets/cloud-ui-screenshot.png "Console Adobe Commerce Cloud")
+![Console Adobe Commerce Cloud](./assets/cloud-ui-screenshot.png "Console Adobe Commerce Cloud")
 
 Di seguito è riportato un esempio: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 Il nome host SSH è tutto dopo il segno @: `ssh.us-4.magento.cloud` in questo esempio.
-Il nome utente SSH precede il simbolo @: `abasrpikfw4123-remote-db-ecpefky—mymagento`
+Il nome utente SSH è tutto ciò che precede il simbolo @: `abasrpikfw4123-remote-db-ecpefky--mymagento`
 
 ## Ricerca dei valori per la connessione al database
 
-Per accedere direttamente al database MariaDB è necessario utilizzare SSH per accedere all&#39;ambiente Cloud remoto e connettersi al database.
+Per accedere direttamente al database MariaDB, utilizza SSH per accedere all’ambiente Cloud remoto e connettersi al database.
 
 1. Utilizza SSH per accedere all’ambiente remoto.
 
@@ -276,7 +274,7 @@ Per accedere direttamente al database MariaDB è necessario utilizzare SSH per a
    magento-cloud ssh
    ```
 
-1. Recuperare le credenziali di accesso MySQL dalle proprietà `database` e `type` nella variabile [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=it#relationships).
+2. Recuperare le credenziali di accesso MySQL dalle proprietà `database` e `type` nella variabile [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +312,15 @@ Per accedere direttamente al database MariaDB è necessario utilizzare SSH per a
 
 Quindi utilizzare i valori di configurazione nell&#39;interfaccia utente grafica MySQL. Nell&#39;esempio seguente viene utilizzato MySQL Workbench, ma tutte le app che supportano le connessioni MySQL avranno campi simili.
 
-![logo - Esempio di interfaccia grafica Mysql con Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Esempio di interfaccia grafica Mysql con Mysql Workbench")
+![Esempio di connessione a MySQL Workbench](./assets/mysql-workbench-after-connecting.png "Esempio di connessione a MySQL Workbench")
 
-![logo - Esempio di interfaccia grafica Mysql con TablesPlus](./assets/tablesPlus-db-connection.png " Esempio di interfaccia grafica Mysql con TablesPlus")
+![Esempio di connessione TablePlus](./assets/tablesPlus-db-connection.png "Esempio di connessione TablePlus")
 
-Dopo aver configurato tutto, è possibile utilizzare una GUI MySQL per eseguire query su un progetto Adobe Commerce Cloud remoto.
+Dopo aver configurato la connessione, puoi utilizzare un’interfaccia utente grafica MySQL per eseguire query su un progetto Adobe Commerce Cloud remoto.
 
 ## Connessione diretta al database del progetto cloud per eseguire SQL
 
-Il metodo seguente utilizza l&#39;interfaccia cli `magento-cloud` per connettersi direttamente al database mysql ed eseguire SQL, in modo da velocizzare l&#39;esecuzione di query nel database. Se devi copiare questo database, fai riferimento a uno dei metodi alternativi per [creare un&#39;immagine del database](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=it).
+Il metodo seguente utilizza la CLI `magento-cloud` per connettersi direttamente al database MySQL ed eseguire SQL per eseguire query più veloci. Se hai bisogno di una copia di questo database, utilizza uno dei metodi alternativi per [creare un&#39;immagine del database](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +380,7 @@ MariaDB [main]>
 
 ## Risorse aggiuntive
 
-[CLI Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=it)
-[Configura servizio MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=it)
-[Configurare una connessione remota al database MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=it)
-[Crea un dump del database su Adobe Commerce nell&#39;infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=it)
+* [CLI di Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [Configura servizio MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
+* [Configurare una connessione remota al database MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
+* [Crea un dump del database su Adobe Commerce nell&#39;infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

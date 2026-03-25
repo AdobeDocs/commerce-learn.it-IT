@@ -6,11 +6,11 @@ topic: Commerce, Performance
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 195
+duration: 215
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20084
 exl-id: b4d22bc1-20a9-4876-be7e-df46a24c1330
-source-git-commit: 37fe84da708a76a5695f4b9d4ad4ca3f425332c3
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Scopri in che modo Adobe Commerce as a Cloud Service consente ai team di avviare
 * Scopri come impostare e avviare i punti vendita di Adobe Commerce in pochi minuti utilizzando una dashboard self-service.
 * Scoprite come Edge Delivery Services consente prestazioni e scalabilità estremamente veloci.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478790/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478790?learn=on)

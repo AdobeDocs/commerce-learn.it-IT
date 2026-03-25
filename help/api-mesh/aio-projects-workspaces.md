@@ -5,6 +5,7 @@ landing-page-description: Scopri come utilizzare la console Adobe Developer. Sco
 short-description: Scopri come utilizzare la console Adobe Developer. Scopri i progetti e le aree di lavoro da utilizzare con API Mesh.
 kt: 11803
 doc-type: tutorial
+duration: 593
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Questo tutorial illustra come creare un progetto e un’area di lavoro che conte
 * Modifica dell&#39;organizzazione, del progetto o dell&#39;area di lavoro selezionata nell&#39;interfaccia CLI
 * Verifica dei comandi Mesh API semplici
 
->[!VIDEO](https://video.tv.adobe.com/v/3419739?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## Informazioni su Adobe Developer Console
 

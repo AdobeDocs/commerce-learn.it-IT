@@ -5,31 +5,31 @@ topic: Architecture, Commerce, Integrations
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 189
+duration: 223
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
+exl-id: afd2c688-8abd-47cb-a6ec-c7e2c3b44743
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Commerce AEM Assets
 
-L’integrazione dell’intelligenza artificiale con Adobe Commerce centralizza la gestione delle risorse, migliorando il coinvolgimento dei clienti tramite contenuti personalizzati e semplificando i flussi di lavoro. &#x200B; Questa integrazione nativa aumenta l&#39;efficienza e velocizza il time-to-market dei contenuti senza costi aggiuntivi per i commercianti. &#x200B; Consente una sincronizzazione perfetta tra prodotti e risorse, con un controllo completo del ciclo di vita, che comprende l&#39;approvazione, la rimozione e la scadenza. &#x200B; L&#39;integrazione garantisce la sincronizzazione e la visualizzazione automatica delle risorse sia nel pannello di amministrazione che nella vetrina, con un processo di gestione dei contenuti fluido ed efficiente. &#x200B;
+L’integrazione dell’intelligenza artificiale con Adobe Commerce centralizza la gestione delle risorse, migliorando il coinvolgimento dei clienti tramite contenuti personalizzati e semplificando i flussi di lavoro. &#x200B; Questa integrazione nativa migliora l&#39;efficienza e velocizza il time-to-market dei contenuti senza costi aggiuntivi per gli esercenti. &#x200B; Consente una sincronizzazione perfetta tra prodotti e risorse, con controllo completo del ciclo di vita, tra cui approvazione, rimozione e scadenza. &#x200B; L’integrazione garantisce la sincronizzazione e la visualizzazione automatica delle risorse sia nel pannello di amministrazione che nella vetrina, con un processo di gestione dei contenuti fluido ed efficiente. &#x200B;
 
 ## Per chi è questo video
 
-- Commercianti e marketer digitali di e-commerce che utilizzano Adobe Commerce
-- Amministratori IT
-- Gestori dei contenuti che cercano di ottimizzare il ciclo di vita dei contenuti
+* Commercianti e marketer digitali di e-commerce che utilizzano Adobe Commerce
+* Amministratori IT
+* Gestori dei contenuti che cercano di ottimizzare il ciclo di vita dei contenuti
 
 ## Contenuto video
 
-- Maggiore efficienza e velocità.
-- Sincronizzazione perfetta tra prodotti e risorse.
-- Controllo completo del ciclo di vita, incluse approvazione, rimozione e scadenza.
+* Maggiore efficienza e velocità.
+* Sincronizzazione perfetta tra prodotti e risorse.
+* Controllo completo del ciclo di vita, incluse approvazione, rimozione e scadenza.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434084?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)

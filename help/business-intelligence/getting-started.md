@@ -8,12 +8,12 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 398
+duration: 429
 last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15141
 kt: 15141
 exl-id: 26bc788c-0fc8-405b-a99e-0d202ac18ab8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -26,8 +26,8 @@ Informazioni su Adobe Commerce Intelligence. Questa esercitazione fornisce una p
 
 ## A chi serve questo video?
 
-- Utenti aziendali
-- Analisti di dati
+* Utenti aziendali
+* Analisti di dati
 
 ## Introduzione a Adobe Commerce Intelligence
 

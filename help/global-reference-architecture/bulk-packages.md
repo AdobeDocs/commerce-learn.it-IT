@@ -3,6 +3,7 @@ title: Ottimizzazione di Adobe Commerce con l'architettura di riferimento global
 description: Scopri come configurare Adobe Commerce utilizzando l’architettura di riferimento globale per pacchetti in blocco per una gestione efficiente del codice e il controllo delle versioni.
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Il modello GRA per pacchetti in blocco coinvolge un singolo archivio Git per osp
 
 Vantaggi:
 
-- Riutilizzo del codice tramite un archivio di codice condiviso
-- Flessibilità per installare diverse versioni storiche del GRA su istanze diverse, consentendo rilasci graduali
-- Flessibilità per il supporto e la manutenzione di più versioni principali della GRA
-- Supporto per il controllo delle versioni semantiche della GRA
-- Semplicità, gli sviluppatori non hanno bisogno di più competenze rispetto ai normali modelli di sviluppo per singolo negozio
-- Non sono necessari strumenti speciali, infrastrutture complesse o strategie speciali di ramificazione
-- La combinazione di pacchetti in una versione viene sempre sviluppata e testata insieme
+* Riutilizzo del codice tramite un archivio di codice condiviso
+* Flessibilità per installare diverse versioni storiche del GRA su istanze diverse, consentendo rilasci graduali
+* Flessibilità per il supporto e la manutenzione di più versioni principali della GRA
+* Supporto per il controllo delle versioni semantiche della GRA
+* Semplicità, gli sviluppatori non hanno bisogno di più competenze rispetto ai normali modelli di sviluppo per singolo negozio
+* Non sono necessari strumenti speciali, infrastrutture complesse o strategie speciali di ramificazione
+* La combinazione di pacchetti in una versione viene sempre sviluppata e testata insieme
 
 Svantaggi:
 
-- Possibilità di aggiornare l&#39;intero GRA, inclusi tutti i pacchetti in esso contenuti.
-- Il pacchetto GRA bulk non supporta pacchetti compositore diversi da moduli Adobe Commerce, Language Pack e temi, quindi non supporta metapacchetti, pacchetti di componenti Magento2, plug-in e patch per Compositore
+* Possibilità di aggiornare l&#39;intero GRA, inclusi tutti i pacchetti in esso contenuti.
+* Il pacchetto GRA bulk non supporta pacchetti compositore diversi da moduli Adobe Commerce, Language Pack e temi, quindi non supporta metapacchetti, pacchetti di componenti Magento2, plug-in e patch per Compositore
 
 ## Configurare Adobe Commerce con il pattern Git GRA diviso
 
@@ -233,11 +234,11 @@ git push origin main
 
 Solo se la terza parte non offre l&#39;installazione tramite un repository Composer, è possibile memorizzare i moduli di terze parti nella directory `src/` dell&#39;archivio di base o in un pacchetto bulk di terze parti dedicato.
 
-- **Adobe Commerce core**: disponibile tramite repo.magento.com.
-- **Moduli di terze parti**: disponibili tramite Marketplace o l&#39;archivio del Compositore di un fornitore.
-- **Opzione di fallback moduli di terze parti**: archiviata in `src/` di un pacchetto bulk.
-- **Codice GRA Foundation**: archiviato in `src/` del pacchetto bulk di foundation.
-- **Codice locale**: archiviato nella directory `packages/local` dell&#39;archivio di distribuzione.
+* **Adobe Commerce core**: disponibile tramite repo.magento.com.
+* **Moduli di terze parti**: disponibili tramite Marketplace o l&#39;archivio del Compositore di un fornitore.
+* **Opzione di fallback moduli di terze parti**: archiviata in `src/` di un pacchetto bulk.
+* **Codice GRA Foundation**: archiviato in `src/` del pacchetto bulk di foundation.
+* **Codice locale**: archiviato nella directory `packages/local` dell&#39;archivio di distribuzione.
 
 ## Sviluppare un modulo GRA
 
@@ -272,6 +273,6 @@ Nei rami ticket non dovrebbe quasi mai essere necessario aggiornare il file comp
 
 Gli esempi di codice di questo articolo sono disponibili come set di archivi Git, che puoi utilizzare per testare la verifica di concetto.
 
-- Un esempio di archivio di produzione: <https://github.com/AntonEvers/gra-bulk-brand-x>
-- Archivio del codice GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
-- Esempio di modulo locale: <https://github.com/AntonEvers/module-example-local>
+* Un esempio di archivio di produzione: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* Archivio del codice GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
+* Esempio di modulo locale: <https://github.com/AntonEvers/module-example-local>

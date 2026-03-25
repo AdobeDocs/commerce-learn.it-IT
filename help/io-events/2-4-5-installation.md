@@ -5,6 +5,7 @@ landing-page-description: Scopri come installare i diversi moduli necessari per 
 short-description: Scopri come installare i diversi moduli necessari per Adobe Commerce 2.4.5 utilizzando Compositore.
 kt: 11886
 doc-type: tutorial
+duration: 214
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.5
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Scopri come installare diversi nuovi moduli in Adobe Commerce utilizzando Compos
 * Comandi da eseguire per Adobe Commerce Cloud
 * Modifica richiesta dello yaml Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3419828?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
 
 ## Comandi utili {#useful-commands}
 

@@ -3,14 +3,15 @@ title: 'Page Builder per sviluppatori: configurazione e personalizzazione dei co
 description: 'Configura e imposta Page Builder​. Comprendere l’area di lavoro di Page Builder​. Comprendere e utilizzare i tipi di contenuto: layout, elementi, file multimediali e altro contenuto​. Aggiungere contenuto catalogo con Page Builder.'
 kt: 5651
 doc-type: video
+duration: 751
 activity: use
 feature: Page Content, Native Luma Frontend Development
 topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -23,27 +24,27 @@ ht-degree: 0%
 
 In questo video:
 
-- Configurare e configurare Page Builder&#x200B;
-- Comprendere l’area di lavoro di Page Builder&#x200B;
-- Comprendere e utilizzare i tipi di contenuto: layout, elementi, file multimediali e altri contenuti&#x200B;
-- Aggiungere contenuto al catalogo con Page Builder
-- Panoramica della personalizzazione del tipo di contenuto
+* Configurare e configurare Page Builder&#x200B;
+* Comprendere l’area di lavoro di Page Builder&#x200B;
+* Comprendere e utilizzare i tipi di contenuto: layout, elementi, file multimediali e altri contenuti&#x200B;
+* Aggiungere contenuto al catalogo con Page Builder
+* Panoramica della personalizzazione del tipo di contenuto
 
 ## A chi serve questo video?
 
-- Creatori di contenuti
-- Sviluppatori front-end
+* Creatori di contenuti
+* Sviluppatori front-end
 
 ## Contenuto video
 
 >[!NOTE]
 >
->Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=it).
+>Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430911?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35710?learn=on)
 
 ## Risorse utili
 
 [Documentazione per gli sviluppatori di Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guida di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=it)
+[Guida di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

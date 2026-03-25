@@ -3,6 +3,7 @@ title: Scopri come memorizzare in cache le query mysql
 description: A volte viene eseguito il backup delle query mysql in attesa di un blocco. Questo tutorial spiega cosa è il caching delle query e alcuni consigli per le impostazioni in caso di problemi.
 kt: 13690
 doc-type: video
+duration: 444
 activity: use
 last-substantial-update: 2023-7-27
 feature: Backend Development, Cache, Logs
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -24,20 +25,20 @@ Scopri cos’è la cache delle query MySQL e alcune nozioni di base su come funz
 
 ## A chi serve questo video?
 
-- Architetti
-- Sviluppatori
-- DevOps
+* Architetti
+* Sviluppatori
+* DevOps
 
 ## Contenuto video
 
-- Scopri come memorizzare in cache le query
-- Come rilevare se le impostazioni della cache delle query possono costituire un problema individuando &quot;in attesa del blocco della cache delle query&quot;
-- Scopri come l’istruzione SQL viene salvata e utilizzata per trovare una cache di query corrispondente
-- Alcuni suggerimenti sulle impostazioni di configurazione
+* Scopri come memorizzare in cache le query
+* Come rilevare se le impostazioni della cache delle query possono costituire un problema individuando &quot;in attesa del blocco della cache delle query&quot;
+* Scopri come l’istruzione SQL viene salvata e utilizzata per trovare una cache di query corrispondente
+* Alcuni suggerimenti sulle impostazioni di configurazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3423385?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Risorse utili
 
-- [Linee guida generali di MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=it){target="_blank"}
-- [Replica Galera e query lente](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=it){target="_blank"}
+* [Linee guida generali di MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+* [Replica Galera e query lente](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

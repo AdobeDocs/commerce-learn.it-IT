@@ -3,6 +3,7 @@ title: '[!DNL Commerce] per utenti aziendali - Gestione clienti'
 description: Scopri le autorizzazioni consigliate per il servizio clienti, la creazione di un cliente in  [!DNL Admin], la gestione delle informazioni sui clienti e la creazione di gruppi di clienti.
 kt: 5779
 doc-type: video
+duration: 308
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -21,21 +22,21 @@ ht-degree: 0%
 
 In questo video:
 
-- Autorizzazioni consigliate per un CSR (rappresentante del servizio clienti)
-- Creazione di un cliente in [!DNL Admin]
-- Gestione delle informazioni sui clienti
-- Creazione di gruppi di clienti
+* Autorizzazioni consigliate per un CSR (rappresentante del servizio clienti)
+* Creazione di un cliente in [!DNL Admin]
+* Gestione delle informazioni sui clienti
+* Creazione di gruppi di clienti
 
 ## A chi serve questo video?
 
-- Utenti aziendali
+* Utenti aziendali
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/330196?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/36189?learn=on)
 
 ## Risorse aggiuntive
 
-[Crea un account cliente individuale - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=it)
+[Crea un account cliente individuale - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=it)
+[Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

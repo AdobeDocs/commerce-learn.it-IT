@@ -1,21 +1,21 @@
 ---
 title: Modello di consegna globale
-description: Adobe Commerce è una piattaforma con funzionalità basate sull’intelligenza artificiale, API affidabili e massima sicurezza ed è disponibile in AWS e Azure con opzioni di supporto flessibili.
+description: Adobe Commerce è una piattaforma con funzioni basate sull’intelligenza artificiale, API affidabili e massima sicurezza ed è disponibile su AWS e Azure con opzioni di supporto flessibili.
 feature: Auto Scaling, Cloud, Checkout, Customers, Orders
 topic: Architecture, Commerce, Security, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 278
+duration: 340
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
+exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Modello di consegna globale Adobe Commerce
 
@@ -23,14 +23,14 @@ Adobe Commerce è una piattaforma di eCommerce cloud ibrido disponibile su AWS e
 
 ## Per chi è questo video
 
-- Le aziende di tutte le dimensioni che intendono stabilire o migliorare la propria presenza nell’e-commerce trarrebbero vantaggio da Adobe Commerce.
-- Rivenditori, grossisti e aziende alla ricerca di una piattaforma scalabile, sicura e personalizzabile con funzioni avanzate basate sull’intelligenza artificiale per ottimizzare l’esperienza dei clienti e l’efficienza operativa.
-- Sviluppatori e team IT che esaminano le opzioni di e-commerce che offrono un solido set di strumenti e API nativi per il cloud per la creazione e la gestione di applicazioni commerce.
+* Le aziende di tutte le dimensioni che intendono stabilire o migliorare la propria presenza nell’e-commerce trarrebbero vantaggio da Adobe Commerce.
+* Rivenditori, grossisti e aziende alla ricerca di una piattaforma scalabile, sicura e personalizzabile con funzioni avanzate basate sull’intelligenza artificiale per ottimizzare l’esperienza dei clienti e l’efficienza operativa.
+* Sviluppatori e team IT che esaminano le opzioni di e-commerce che offrono un solido set di strumenti e API nativi per il cloud per la creazione e la gestione di applicazioni commerce.
 
 ## Contenuto video
 
-- Infrastruttura scalabile e sicura.  Scopri l’infrastruttura multi-cloud completamente ridondante su AWS e Azure, che garantisce prestazioni ottimizzate, resilienza e scalabilità elastica con elevati standard di sicurezza e conformità.
-- Servizi avanzati basati sull’intelligenza artificiale. Potrai acquisire familiarità con i servizi intelligenti e basati su API come la ricerca in tempo reale, i consigli sui prodotti basati su intelligenza artificiale e i servizi di catalogo per migliorare l’esperienza del cliente e l’efficienza operativa.
-- Strumenti per sviluppatori completi. Scopri la suite di strumenti per sviluppatori nativi per il cloud e senza server, come API Mesh e App Builder, che consentono un’integrazione e una personalizzazione senza soluzione di continuità per estendere le funzionalità commerce.
+* Infrastruttura scalabile e sicura.  Scopri l’infrastruttura multi-cloud completamente ridondante su AWS e Azure, che garantisce prestazioni ottimizzate, resilienza e scalabilità elastica con elevati standard di sicurezza e conformità.
+* Servizi avanzati basati sull’intelligenza artificiale. Potrai acquisire familiarità con i servizi intelligenti e basati su API come la ricerca in tempo reale, i consigli sui prodotti basati su intelligenza artificiale e i servizi di catalogo per migliorare l’esperienza del cliente e l’efficienza operativa.
+* Strumenti per sviluppatori completi. Scopri la suite di strumenti per sviluppatori nativi per il cloud e senza server, come API Mesh e App Builder, che consentono un’integrazione e una personalizzazione senza soluzione di continuità per estendere le funzionalità commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433508?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)

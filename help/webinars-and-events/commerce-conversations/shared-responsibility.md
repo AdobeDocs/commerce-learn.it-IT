@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Scopri in che modo Adobe e gli esercenti condividono la responsabilità di mante
 * Risposta agli incidenti: i commercianti devono rispondere tempestivamente agli avvisi di sicurezza, che possono essere inviati tramite vari canali, come e-mail e notifiche dell’amministratore.
 * Best practice: Adobe consiglia le best practice per gli esercenti, tra cui l’abilitazione dell’autenticazione a due fattori, l’impostazione di un accesso amministratore sicuro e il rispetto del principio del privilegio minimo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Note sulla versione della patch di sicurezza](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/security-patches/overview)
+* [Note sulla versione della patch di sicurezza](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
 * [Canali di notifica](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Bollettini sulla sicurezza di Adobe](https://helpx.adobe.com/it/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Proteggere il sito e l&#39;infrastruttura di commerce](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Bollettini sulla sicurezza di Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Proteggere il sito e l&#39;infrastruttura di commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

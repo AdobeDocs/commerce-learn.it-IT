@@ -1,46 +1,47 @@
 ---
-title: Vetrina Commerce basata sull'esperienza di acquisto Edge Delivery Services
-description: Scopri la vetrina Adobe Commerce fornita da Edge Delivery Services per scoprire cosa può aspettarsi il cliente da questa esperienza di acquisto estremamente veloce e potente.
+title: Esperienza di acquisto con Edge Delivery Services
+description: Scopri cosa vedono e fanno gli acquirenti sulla vetrina Adobe Commerce fornita da Edge Delivery Services, compresi carrello, pagamento, sconti, attività dell’account, ordini e restituzioni.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
-role: Developer
+role: User
 level: Beginner
 doc-type: Technical Video
-duration: 543
-last-substantial-update: 2024-2-21
+duration: 596
+last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-17259
-source-git-commit: 202256387b88a22a0c46d6ae313c9d262d26e55b
+exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
+source-git-commit: 0eff93523a3c798c77c4750a325f5eb0b37f82f8
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # Esperienza di acquisto
 
-Scopri varie funzioni della vetrina Commerce basate sui servizi di consegna Edge. Questo video illustra l’esperienza dell’acquirente: l’aggiunta di articoli al carrello, l’applicazione delle regole di prezzo del carrello e dei codici coupon, il check-out come ospite, l’aggiornamento delle informazioni sull’account, l’annullamento degli ordini, il riordinamento degli articoli e la restituzione dei prodotti. Scoprirai anche come gestire gli ordini, come i clienti possono applicare sconti e talvolta anche impilare codici coupon per ottenere sconti migliori.
+Scopri in che modo la vetrina Commerce fornita da Edge Delivery Services supporta le attività più comuni: aggiungere articoli al carrello, applicare le regole di prezzo del carrello e i codici coupon, effettuare il check-out come ospite, aggiornare le informazioni sull’account, annullare gli ordini, riordinare e avviare le restituzioni. Il video illustra inoltre la gestione degli ordini, il modo in cui i clienti applicano gli sconti e i casi in cui più codici coupon possono sovrapporsi.
 
-## Cosa imparerai
+## Cosa impara
 
-Come navigare e utilizzare in modo efficace le funzioni della vetrina Adobe Commerce. Ciò include la gestione del carrello, l’applicazione di sconti e codici coupon, il check-out come ospite, l’aggiornamento delle informazioni sull’account, l’annullamento e il riordinamento di articoli e la restituzione di prodotti, il tutto allo scopo di migliorare l’esperienza di acquisto complessiva.
+Scopri come navigare nell’esperienza della vetrina Adobe Commerce su Edge Delivery Services, compresi il carrello, gli sconti e i codici coupon, il pagamento degli ospiti, gli aggiornamenti dell’account, l’annullamento e il riordinamento, le restituzioni e un percorso più semplice attraverso il pagamento.
 
 ## A chi serve questo video?
 
-* Proprietario business eCommerce
-* Amministratore sito Web
-* Addetto marketing digitale
-* Rappresentante del Servizio Clienti
-* Professionista IT
-* Gestore del negozio online
-* DESIGNER UX/INTERFACCIA UTENTE
-* Responsabile vendite
-* Specialista di marketing
-* Product Manager
+* Proprietari business eCommerce
+* Amministratori del sito web
+* Marketing digitali
+* Rappresentanti del servizio clienti
+* Professionisti IT
+* Manager negozio online
+* Designer UX/interfaccia utente
+* Responsabili vendite
+* Specialisti di marketing
+* Responsabili del prodotto
 
 ## Contenuto video
 
-* Scopri come applicare le regole del prezzo del carrello e i codici coupon per massimizzare i risparmi durante il processo di pagamento.
-* Informazioni su come gestire gli ordini, ad esempio l&#39;aggiunta di articoli al carrello, l&#39;estrazione come ospite, l&#39;annullamento degli ordini e il riordinamento degli articoli.
-* Ottieni informazioni approfondite sull’aggiornamento delle informazioni sull’account, l’unione dei carrelli guest e cliente e la garanzia di un’esperienza di pagamento fluida.
+* Applica le regole di prezzo del carrello e i codici coupon durante il pagamento, anche quando è disponibile la sovrapposizione.
+* Utilizzare il carrello e gli ordini: aggiungere articoli, estrarre come ospite, annullare gli ordini, riordinare ed elaborare le restituzioni.
+* Aggiorna le informazioni sull&#39;account, unisci i carrelli ospiti e clienti e mantieni coerente l&#39;estrazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446770?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

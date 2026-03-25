@@ -6,11 +6,11 @@ topic: Commerce
 role: Developer, User
 level: Beginner
 doc-type: Tutorial
-duration: 250
+duration: 273
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18829
 exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
-source-git-commit: c85cd679a3f1486aa04222921ee0d165ef76fc93
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -24,10 +24,10 @@ Scopri come trovare, installare e convalidare le app Adobe Commerce App Builder 
 
 ## A chi serve questo video?
 
-- Sviluppatori Adobe Commerce
-- Architetti tecnici
-- Amministratori di sistema
+* Sviluppatori Adobe Commerce
+* Architetti tecnici
+* Amministratori di sistema
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3471532/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)

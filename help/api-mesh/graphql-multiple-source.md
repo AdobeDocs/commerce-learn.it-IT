@@ -5,6 +5,7 @@ landing-page-description: Scopri come utilizzare API Mesh su Adobe Commerce e  [
 short-description: Scopri come utilizzare API Mesh su Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con più origini e come risolvere alcuni errori comuni.
 kt: 11804
 doc-type: tutorial
+duration: 409
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Questo video aiuta gli sviluppatori a comprendere come creare una mesh con più 
 * Come risolvere gli errori, ad esempio conflitti di nomi, disponibilità dello schema e altri problemi di sintassi dello schema
 * Aggiornamento della rete con una configurazione modificata
 
->[!VIDEO](https://video.tv.adobe.com/v/3419788?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Creare il file di configurazione json
 

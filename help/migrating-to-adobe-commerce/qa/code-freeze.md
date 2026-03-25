@@ -6,11 +6,11 @@ topic: Commerce, Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 199
+duration: 253
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -37,4 +37,4 @@ L’implementazione di un blocco del codice durante la migrazione Adobe Commerce
 * Coordinare le prove manuali e automatizzate, le prove di carico e le prove di penetrazione per garantire che tutti gli aspetti del sito funzionino come previsto.
 * Coinvolgere le parti interessate, gli sviluppatori e i team IT nel processo di convalida per garantire un lancio regolare e di successo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965?learn=on)

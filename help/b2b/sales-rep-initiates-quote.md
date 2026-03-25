@@ -2,6 +2,7 @@
 title: Agente di vendita avvia l'offerta
 description: Scopri in che modo il rappresentante commerciale può avviare il preventivo dall’amministratore Adobe Commerce
 doc-type: feature video
+duration: 283
 audience: all
 activity: use
 kt: 13794
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -26,11 +27,11 @@ Scopri in che modo il rappresentante commerciale può avviare il preventivo dal 
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
+* Gestori di siti Web
+* eCommerce merchandisers
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3430579?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

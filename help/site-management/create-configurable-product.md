@@ -3,6 +3,7 @@ title: Creare un prodotto configurabile
 description: Scopri come creare un prodotto configurabile utilizzando l’API REST e l’amministratore Commerce.
 kt: 14586
 doc-type: video
+duration: 1760
 audience: all
 activity: use
 last-substantial-update: 2023-12-15T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -30,7 +31,7 @@ In questo tutorial, scopri come creare un prodotto configurabile utilizzando l�
 
 Utilizza l’API REST per creare un prodotto configurabile:
 
-1. Ottieni gli attributi per un [set di attributi](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=it) per utilizzare i numeri ID per le chiamate API successive.
+1. Ottieni gli attributi per un [set di attributi](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) per utilizzare i numeri ID per le chiamate API successive.
 1. Crea prodotti semplici da utilizzare nel prodotto configurabile.
 1. Crea un prodotto configurabile vuoto e associa i prodotti semplici.
 1. Imposta gli attributi del prodotto configurabile.
@@ -43,9 +44,9 @@ Quando crei prodotti configurabili dall’amministratore di Adobe Commerce, puoi
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
-- Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti configurabili in Adobe Commerce utilizzando l’API REST
+* Gestori di siti Web
+* eCommerce merchandisers
+* Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti configurabili in Adobe Commerce utilizzando l’API REST
 
 ## Contenuto video
 
@@ -100,8 +101,8 @@ Crea il primo prodotto semplice utilizzando l’API per inviare la seguente rich
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
-- Cambia `"attribute-set": 10` per sostituire `10` con l&#39;ID del set di attributi dal tuo ambiente.
-- Cambia `"value": "13"` per sostituire `13` con il valore del tuo ambiente.
+* Cambia `"attribute-set": 10` per sostituire `10` con l&#39;ID del set di attributi dal tuo ambiente.
+* Cambia `"value": "13"` per sostituire `13` con il valore del tuo ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +142,8 @@ Crea il secondo prodotto semplice utilizzando l’API per inviare la seguente ri
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
-- Cambia `"attribute_set_id": 10,` e sostituisci `10` con l&#39;ID del set di attributi da nell&#39;ambiente.
-- Cambia `"value": "14"` e sostituisci `14` con il valore del tuo ambiente.
+* Cambia `"attribute_set_id": 10,` e sostituisci `10` con l&#39;ID del set di attributi da nell&#39;ambiente.
+* Cambia `"value": "14"` e sostituisci `14` con il valore del tuo ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +183,8 @@ Crea il terzo prodotto semplice inviando la seguente richiesta POST utilizzando 
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
-- Cambia `"attribute_set_id": 10,` per sostituire `10` con l&#39;ID del set di attributi dal tuo ambiente.
-- Cambia `"value": "15"` e sostituisci `15` con il valore del tuo ambiente.
+* Cambia `"attribute_set_id": 10,` per sostituire `10` con l&#39;ID del set di attributi dal tuo ambiente.
+* Cambia `"value": "15"` e sostituisci `15` con il valore del tuo ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +224,8 @@ Crea un prodotto configurabile vuoto inviando la seguente richiesta POST utilizz
 
 Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
 
-- Cambia `"attribute_set_id": 10,` e sostituisci `10` con l&#39;ID del set di attributi dal tuo ambiente.
-- Cambia `"value": "93"` e sostituisci `93` con il valore del tuo ambiente.
+* Cambia `"attribute_set_id": 10,` e sostituisci `10` con l&#39;ID del set di attributi dal tuo ambiente.
+* Cambia `"value": "93"` e sostituisci `93` con il valore del tuo ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -284,9 +285,9 @@ Se si dimentica di impostare le opzioni per il prodotto configurabile (padre), v
 
 Ora hai creato tre semplici prodotti:
 
-- `"Kids Hawaiian Ukulele Red"`,
-- `"Kids-Hawaiian-Ukulele-Blue"`
-- `"Kids-Hawaiian-Ukulele-Green"`
+* `"Kids Hawaiian Ukulele Red"`,
+* `"Kids-Hawaiian-Ukulele-Blue"`
+* `"Kids-Hawaiian-Ukulele-Green"`
 
 Aggiungi questi prodotti semplici come elementi secondari del prodotto configurabile inviando la seguente richiesta POST. Invia una richiesta separata per ciascun prodotto.
 
@@ -347,7 +348,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Risorse aggiuntive
 
-- [Crea un&#39;esercitazione di prodotto configurabile](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Prodotto Configurabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=it){target="_blank"}
-- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Crea un&#39;esercitazione di prodotto configurabile](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [Prodotto Configurabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+* [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

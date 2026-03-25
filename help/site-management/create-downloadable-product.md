@@ -3,6 +3,7 @@ title: Creare un prodotto scaricabile
 description: Scopri come creare un prodotto scaricabile utilizzando l’API REST e l’amministratore Adobe Commerce.
 kt: 14464
 doc-type: video
+duration: 946
 audience: all
 activity: use
 last-substantial-update: 2023-11-16T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -24,13 +25,13 @@ Scopri come creare un prodotto scaricabile utilizzando l’API REST e l’ammini
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
-- Nuovi sviluppatori di Adobe Commerce che desiderano imparare a creare prodotti in Adobe Commerce utilizzando l’API REST
+* Gestori di siti Web
+* eCommerce merchandisers
+* Nuovi sviluppatori di Adobe Commerce che desiderano imparare a creare prodotti in Adobe Commerce utilizzando l’API REST
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3453953?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Domini scaricabili consentiti
 
@@ -54,7 +55,7 @@ Una volta completato, `env.php` viene modificato all&#39;interno dell&#39;array 
 
 Ora che il dominio è stato aggiunto a `env.php`, è possibile creare un prodotto scaricabile in Adobe Commerce Admin o utilizzando l&#39;API REST.
 
-Per ulteriori informazioni, consulta [Riferimento configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=it#downloadable_domains).
+Per ulteriori informazioni, consulta [Riferimento configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains).
 
 >[!IMPORTANT]
 >In alcune versioni di Adobe Commerce, quando un prodotto viene modificato in Adobe Commerce Admin, potrebbe venire visualizzato il seguente errore. Il prodotto viene creato utilizzando l’API REST, ma il download collegato ha un prezzo `null`.
@@ -118,18 +119,18 @@ Questo esempio illustra come utilizzare cURL per creare un prodotto scaricabile 
 
 In questo caso d&#39;uso, quando l&#39;amministratore che gestisce il catalogo sceglie `upload file`, il file viene trasferito alla directory `pub/media/downloadable/files/links/`.  L’automazione crea e sposta i file nelle rispettive posizioni in base al seguente pattern:
 
-- Ogni file caricato viene memorizzato in una cartella in base ai primi due caratteri del nome del file.
-- Quando il caricamento viene avviato, l&#39;applicazione Commerce crea o utilizza cartelle esistenti per trasferire il file.
-- Durante il download del file, la sezione `link_file` del percorso utilizza la parte del percorso aggiunta alla directory `pub/media/downloadable/files/links/`.
+* Ogni file caricato viene memorizzato in una cartella in base ai primi due caratteri del nome del file.
+* Quando il caricamento viene avviato, l&#39;applicazione Commerce crea o utilizza cartelle esistenti per trasferire il file.
+* Durante il download del file, la sezione `link_file` del percorso utilizza la parte del percorso aggiunta alla directory `pub/media/downloadable/files/links/`.
 
 Ad esempio, se il file caricato è denominato `download-example.zip`:
 
-- Il file è stato caricato nel percorso `pub/media/downloadable/files/links/d/o/`.
+* Il file è stato caricato nel percorso `pub/media/downloadable/files/links/d/o/`.
 Le sottodirectory `/d` e `/d/o` vengono create se non esistono.
 
-- Il percorso finale del file è `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+* Il percorso finale del file è `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- Il valore `link_url` per questo esempio è `d/o/download-example.zip`
+* Il valore `link_url` per questo esempio è `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -236,7 +237,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Risorse aggiuntive
 
-- [Tipo di prodotto scaricabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=it){target="_blank"}
-- [Guida alla configurazione dei domini scaricabili](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=it#downloadable_domains){target="_blank"}
-- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Tipo di prodotto scaricabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Guida alla configurazione dei domini scaricabili](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

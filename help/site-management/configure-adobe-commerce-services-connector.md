@@ -3,6 +3,7 @@ title: Configurare Adobe Commerce Services Connector
 description: Scopri come configurare Adobe Commerce Services Connector per l’utilizzo con i prodotti SaaS di Commerce e come risolvere i problemi comuni.
 kt: 14777
 doc-type: video
+duration: 521
 audience: all
 activity: use
 last-substantial-update: 2024-01-09T00:00:00Z
@@ -11,8 +12,8 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
-source-git-commit: 03fab8e76116374c69240173572a276652197d9b
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -27,8 +28,8 @@ Guarda il video _Configurare Adobe Commerce Services Connector_ per configurare 
 
 ## A chi serve questo video?
 
-- Ingegneri operativi
-- Responsabili eCommerce e punti di contatto
+* Ingegneri operativi
+* Responsabili eCommerce e punti di contatto
 
 ## Contenuto video
 
@@ -38,16 +39,16 @@ Guarda il video _Configurare Adobe Commerce Services Connector_ per configurare 
 
 Commerce Services Connector è una configurazione sviluppata da Adobe che sblocca varie funzionalità SaaS. Queste sono alcune delle domande più frequenti sulla configurazione:
 
-- Correggi le chiavi non valide o pubbliche.
-- Ruota la chiave API del tuo negozio.
-- Passare al passaggio Identificatore SaaS per configurare il connettore di servizio Commerce.
-- Risolvi i problemi relativi al pulsante sandbox durante l’onboarding di Payment Services.
-- Il connettore del servizio Commerce non viene caricato nell’interfaccia utente.
+* Correggi le chiavi non valide o pubbliche.
+* Ruota la chiave API del tuo negozio.
+* Passare al passaggio Identificatore SaaS per configurare il connettore di servizio Commerce.
+* Risolvi i problemi relativi al pulsante sandbox durante l’onboarding di Payment Services.
+* Il connettore del servizio Commerce non viene caricato nell’interfaccia utente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
 ## Risorse aggiuntive
 
-- [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=it){target="_blank"}
-- [Guida ai servizi di pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=it){target="+blank"}
-- [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=it){target="+blank"}
+* [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [Guida ai servizi di pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+* [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

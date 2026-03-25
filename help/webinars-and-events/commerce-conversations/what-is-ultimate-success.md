@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 240
+duration: 267
 last-substantial-update: 2025-04-15T00:00:00Z
 jira: KT-17798
 exl-id: 8c920d49-183a-4a2e-a4b9-5dfdc1cf3476
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Adobe Commerce Ultimate Success è progettato per migliorare e supportare le azi
 * Mappe stradali su più livelli e acceleratori di successo: fornisce una pianificazione completa e impegni di impatto per migliorare l’utilizzo dei prodotti.
 * Risoluzione dei problemi con priorità e gestione dell&#39;escalation: offre tempi di risposta più rapidi e analisi da parte di esperti per i problemi critici.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457644/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457644?learn=on)

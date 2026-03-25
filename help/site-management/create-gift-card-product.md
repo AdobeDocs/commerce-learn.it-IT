@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Scopri come creare un prodotto gift card utilizzando l’API REST e l’amminist
 
 ## A chi serve questo video?
 
-- Gestori di siti Web
-- eCommerce merchandisers
-- Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti in Adobe Commerce utilizzando l’API REST.
+* Gestori di siti Web
+* eCommerce merchandisers
+* Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti in Adobe Commerce utilizzando l’API REST.
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3453085?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## Creare una gift card con un semplice payload
 
@@ -145,7 +145,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Creare una gift card con payload completo
 
-Nell&#39;esempio seguente viene illustrata la richiesta del POST di creare una gift card con un payload completo. Il payload include tutti gli attributi che possono essere configurati quando si crea una gift card. Se utilizzi questo esempio di codice, personalizza la configurazione aggiornando i valori predefiniti per ciascun attributo in base alle esigenze prima di inviare la richiesta.
+L&#39;esempio seguente mostra la richiesta POST per creare una gift card con un payload completo. Il payload include tutti gli attributi che possono essere configurati quando si crea una gift card. Se utilizzi questo esempio di codice, personalizza la configurazione aggiornando i valori predefiniti per ciascun attributo in base alle esigenze prima di inviare la richiesta.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Risorse aggiuntive
 
-- [Crea un prodotto gift card dall&#39;amministratore Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=it){target="_blank"}
-- [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Crea un prodotto gift card dall&#39;amministratore Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
