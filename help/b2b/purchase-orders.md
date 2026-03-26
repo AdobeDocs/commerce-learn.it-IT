@@ -1,19 +1,18 @@
 ---
-title: Ordini di acquisto e approvazioni
-description: Scopri come abilitare gli ordini di acquisto e le regole di approvazione per gli account aziendali B2B.
-doc-type: feature video
-duration: 258
-audience: all
-activity: use
-last-substantial-update: 2023-2-16
-feature: Configuration, System, B2B, Companies
+title: Ordini di acquisto e approvazioni B2B
+description: Scopri come abilitare gli ordini di acquisto B2B e le regole di approvazione per gli account aziendali, inclusi i limiti di spesa, gli approvatori designati e i criteri di acquisto.
+doc-type: Feature Video
+duration: 257
+last-substantial-update: 2026-03-25T00:00:00Z
+feature: Purchase Orders, B2B
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
+jira: KT-10683
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 8c2fed53cdc9508be9d728a893ab8651feb26f25
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '146'
 ht-degree: 1%
 
 ---
@@ -38,9 +37,9 @@ Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impost
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410766?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344450?learn=on)
 
 ## Risorse aggiuntive
 
-* [Ordini di acquisto per società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=it){target="_blank"}
-* [Regole di approvazione ordini di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=it){target="_blank"}
+* [Ordini di acquisto per società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+* [Regole di approvazione ordini di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
