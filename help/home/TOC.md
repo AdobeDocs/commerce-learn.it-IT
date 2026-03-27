@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
+source-git-commit: e25c2abc470e1f3cb97b153d335482f8a004c644
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
       + [Valori di configurazione](../cloud/troubleshooting/config-values.md)
       + [Tronca registri](../cloud/troubleshooting/truncate-logs.md)
    + [Gestione di progetti e ambienti](../cloud/project-environment-management.md)
+   + [Come viene ridimensionato Adobe Commerce Cloud](../cloud/how-adobe-commerce-cloud-scales.md)
    + [Hosting compatibile con HIPAA](../cloud/hippa-ready-hosting.md)
    + [Rileva indirizzo IP](../cloud/detect-ip-address.md)
    + [Marketing](../cloud/marketecture.md)
@@ -96,7 +97,7 @@ ht-degree: 3%
 
 + Estensibilità {#extensibility}
    + Sviluppo back-end {#backend-development}
-      + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+      + [Procedure consigliate per la modifica delle tabelle del database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creare un modulo](../backend-development/create-module.md)
       + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
       + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
