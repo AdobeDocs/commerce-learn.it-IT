@@ -28,7 +28,7 @@ Questo tutorial spiega come funziona la capacità su Adobe Commerce Cloud, cosa 
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482044?captions=ita&learn=on)
 
 ## Documentazione correlata
 
