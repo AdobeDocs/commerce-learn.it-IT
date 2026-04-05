@@ -33,6 +33,6 @@ Questo tutorial spiega come funziona la capacità su Adobe Commerce Cloud, cosa 
 
 ## Documentazione correlata
 
-* [Commerce su Cloud: panoramica del progetto](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
-* [Indicazioni per i test delle prestazioni](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [Commerce su Cloud: panoramica del progetto](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/overview)
+* [Indicazioni per i test delle prestazioni](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [Elenco di controllo pre-avvio](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)
