@@ -1,17 +1,16 @@
 ---
 title: Gestisci cataloghi condivisi
 description: Scopri come utilizzare i cataloghi condivisi B2B per gestire i cataloghi gestiti con prezzi personalizzati per diverse aziende.
-doc-type: feature video
+doc-type: Feature Video
 duration: 456
-audience: all
-activity: use
-last-substantial-update: 2023-5-10
+jira: KT-10682
+last-substantial-update: 2023-05-10T00:00:00Z
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 1e8f867de0a8c95fec285f99624c9079f0bdf9b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -33,9 +32,9 @@ Se la funzione Catalogo condiviso è abilitata nella configurazione, il catalogo
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410754?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
 
 ## Risorse aggiuntive
 
-* [Utilizzo dei cataloghi condivisi](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=it){target="_blank"}
-* [Crea un catalogo condiviso](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=it){target="_blank"}
+* [Utilizzo dei cataloghi condivisi](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+* [Crea un catalogo condiviso](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
