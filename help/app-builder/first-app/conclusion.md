@@ -1,21 +1,18 @@
 ---
 title: Conclusione
 description: Scopri dove andare per ulteriori informazioni su App Builder.
-landing-page-description: Scopri dove andare per ulteriori informazioni su App Builder.
-kt: 12428
-doc-type: tutorial
+jira: KT-12428
+doc-type: Tutorial
 duration: 100
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -34,14 +31,14 @@ Ora che hai creato la tua prima app Adobe Developer App Builder, scopri altre ri
 * Metodi di connessione ad altri sviluppatori
 * Commenti di chiusura
 
->[!VIDEO](https://video.tv.adobe.com/v/3421074?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416741?learn=on)
 
 ## Risorse App Builder aggiuntive
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Versione di prova di Adobe Developer App Builder](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [documenti Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Forum Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=it){target="_blank"}
+* [Forum Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
 * [Linee guida per i contributi di Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

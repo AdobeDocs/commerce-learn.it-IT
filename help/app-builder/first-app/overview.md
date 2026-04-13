@@ -1,21 +1,18 @@
 ---
-title: I generatori di app creano la prima app
+title: Creare la prima app App Builder
 description: Scopri Adobe Developer App Builder utilizzando Adobe Commerce e crea la tua prima app.
-landing-page-description: Scopri Adobe Developer App Builder utilizzato con Adobe Commerce e crea la tua prima app.
-kt: 12421
-doc-type: tutorial
+jira: KT-12421
+doc-type: Tutorial
 duration: 197
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -52,7 +49,7 @@ Questo tutorial è stato progettato per seguire l’ordine delle pagine nel menu
 * Aspettative per l’utilizzo del modulo di esempio
 * Parti riutilizzabili di nel modulo di esempio
 
->[!VIDEO](https://video.tv.adobe.com/v/3421025?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 
