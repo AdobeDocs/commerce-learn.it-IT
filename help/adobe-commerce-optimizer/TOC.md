@@ -2,10 +2,10 @@
 user-guide-title: Video e tutorial su Adobe Commerce Optimizer
 user-guide-description: Scopri Adobe Commerce Optimizer tramite video e tutorial.
 breadcrumb-title: Adobe Commerce Optimizer
-source-git-commit: ac213bf038d786c1f6285ae700c9c1d42b8114f7
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 + [Gestire le istanze di Adobe Commerce Optimizer](./managing-instances.md)
 + [Acquisire dati di esempio](./ingest-sample-data.md)
 + [Prima query con GraphQL](./first-query.md)
-+ Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
++ Kit di avvio Salesforce Commerce Cloud {#sfcc-starter-kit}
    + [Panoramica](./sfcc-starter-kit/overview.md)
    + [Panoramica dell’architettura](./sfcc-starter-kit/architecture-overview.md)
    + [Installazione della cartuccia SFCC](./sfcc-starter-kit/installation-sfcc-cartridge.md)

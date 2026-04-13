@@ -1,9 +1,8 @@
 ---
-title: Panoramica di App Builder Starter Kit per Salesforce Commerce Cloud
+title: App Builder Starter Kit per Salesforce Commerce Cloud
 description: Scopri il kit di avvio Adobe App Builder per Salesforce Commerce Cloud con Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,14 +10,14 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Scopri l’architettura del kit di avvio cloud di Salesforce Commerce
+# Scopri l’architettura del kit di avvio Salesforce Commerce Cloud
 
 Scopri come configurare e distribuire App Builder Starter Kit per Salesforce Commerce Cloud utilizzando Adobe Commerce Optimizer. Scopri come creare un nuovo progetto in Adobe Developer Console, aggiungere le API necessarie e scaricare il file JSON dell’area di lavoro. Scopri come clonare l’archivio del kit di avvio, configurare i file di configurazione e installare Adobe IO CLI per collegare la base di codice locale al progetto della console di sviluppo. Comprendi il processo di compilazione delle variabili di ambiente e sincronizzazione dei dettagli del sito, e la verifica che l’app sia stata creata e distribuita correttamente. scopri alcuni dei passaggi di onboarding, ad esempio le azioni di registrazione, e la distribuzione viene confermata nell’area di lavoro della console di sviluppo.
 
@@ -34,4 +33,4 @@ Scopri come configurare e distribuire App Builder Starter Kit per Salesforce Com
 * Clonare App Builder Starter Kit e configurare i file di ambiente utilizzando Adobe IO CLI.
 * Distribuisci l’app e conferma la corretta registrazione di azioni ed eventi nell’area di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476090?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

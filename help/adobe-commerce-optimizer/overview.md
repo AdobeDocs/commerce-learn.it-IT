@@ -1,16 +1,16 @@
 ---
 title: Panoramica di Adobe Commerce Optimizer
-description: Scopri come Adobe Commerce Optimizer può migliorare la tua vetrina con prestazioni elevate, traffico aumentato e integrazione perfetta.
+description: Scopri come Adobe Commerce Optimizer può migliorare la vetrina con prestazioni elevate, traffico aumentato e integrazione perfetta.
 feature: Saas, Storefront
 topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 242
-last-substantial-update: 2025-03-6
+last-substantial-update: 2025-03-06T00:00:00Z
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,8 +33,8 @@ Adobe Commerce Optimizer migliora le piattaforme commerce esistenti fornendo una
 * Perfetta integrazione con i sistemi ERP, CRM, OMS e altri sistemi esistenti, senza necessità di riconfigurazione.
 * Ridimensiona le operazioni digitali
 
->[!VIDEO](https://video.tv.adobe.com/v/3450471?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## Risorse aggiuntive
 
-[[!DNL Adobe Commerce Optimizer] Guida](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] Guida](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

@@ -10,7 +10,7 @@ duration: 131
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,9 +33,9 @@ Scopri come creare la prima istanza di Adobe Commerce Optimizer dall’inizio al
 * Scegli l’ambiente e l’area geografica giusti per la tua istanza.
 * Implementa e prepara rapidamente la configurazione del catalogo nelle esercitazioni future.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469886?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
 ## Contenuto correlato
 
-* [[!DNL Adobe Commerce Optimizer] Guida](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
-* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [[!DNL Adobe Commerce Optimizer] Guida](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
