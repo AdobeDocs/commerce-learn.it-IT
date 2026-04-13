@@ -1,22 +1,18 @@
 ---
 title: Creare un GraphQL da utilizzare in Mesh API
 description: Scopri come utilizzare più origini per Mesh API su Adobe Commerce e  [!DNL Adobe App Builder]. Scopri alcuni errori comuni e come risolverli.
-landing-page-description: Scopri come utilizzare API Mesh su Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con più origini e come risolvere alcuni errori comuni.
-short-description: Scopri come utilizzare API Mesh su Adobe Commerce e  [!DNL Adobe App Builder]. Scopri come creare una rete con più origini e come risolvere alcuni errori comuni.
-kt: 11804
-doc-type: tutorial
+jira: KT-11804
+doc-type: Tutorial
 duration: 409
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

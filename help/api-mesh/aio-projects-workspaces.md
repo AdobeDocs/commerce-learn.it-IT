@@ -1,22 +1,18 @@
 ---
 title: Utilizzo di progetti e aree di lavoro
 description: Scopri come utilizzare la console Adobe Developer per lavorare con progetti e aree di lavoro.
-landing-page-description: Scopri come utilizzare la console Adobe Developer. Scopri i progetti e le aree di lavoro da utilizzare con API Mesh.
-short-description: Scopri come utilizzare la console Adobe Developer. Scopri i progetti e le aree di lavoro da utilizzare con API Mesh.
-kt: 11803
-doc-type: tutorial
+jira: KT-11803
+doc-type: Tutorial
 duration: 593
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -42,7 +38,7 @@ Questo tutorial illustra come creare un progetto e un’area di lavoro che conte
 
 ## Informazioni su Adobe Developer Console
 
-In Adobe Developer Console, la seguente gerarchia rappresenta il modo in cui le API si adattano all&#39;organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, sull&#39;accesso alla console e sulla risoluzione dei problemi di base, visitare il sito [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+In Adobe Developer Console, la seguente gerarchia rappresenta il modo in cui le API si adattano all&#39;organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, sull&#39;accesso alla console e sulla risoluzione dei problemi di base, visitare il sito [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Introduzione ai progetti in Adobe Developer Console
 
