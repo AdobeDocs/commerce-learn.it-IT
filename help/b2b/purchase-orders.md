@@ -59,5 +59,5 @@ With the required permissions for their role, B2B customers can set up approval 
 
 ## Risorse aggiuntive
 
-* [Purchase Orders for Companies](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-* [Purchase Order Approval Rules](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+* [Purchase Orders for Companies](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=it){target="_blank"}
+* [Purchase Order Approval Rules](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=it){target="_blank"}

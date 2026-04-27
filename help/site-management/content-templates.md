@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
 TQID: https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -49,5 +49,5 @@ Using templates saves you time and effort when creating content (or replacing ol
 
 ## Risorse aggiuntive
 
-* [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=it)
 * [Add templates - [!DNL Page Builder] Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

@@ -45,4 +45,4 @@ Scopri come creare un ticket di supporto per ricerche, recensioni, commenti e in
 
 ## Guida del centro assistenza della Knowledge Base di Commerce
 
-[Inviare un caso di supporto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Inviare un caso di supporto](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

@@ -58,4 +58,4 @@ I project manager devono tenere traccia dell&#39;avanzamento delle attività di 
 
 ## Documentazione aggiuntiva
 
-* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=it)

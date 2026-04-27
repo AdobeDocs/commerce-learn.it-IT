@@ -51,4 +51,4 @@ Il tuo archivio è pieno di luoghi in cui puoi immettere metadati ricchi di paro
 
 ## Risorse aggiuntive
 
-[Dati Meta - [!DNL Commerce] Guida a merchandising e promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Dati Meta - [!DNL Commerce] Guida a merchandising e promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=it)

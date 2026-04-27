@@ -55,4 +55,4 @@ Learn how to use Adobe Commerce cart drop in and adjust the transactional flow t
 
 ## Documentazione aggiuntiva
 
-* [Add Product lines to cart](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [Add Product lines to cart](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=it)

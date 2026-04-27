@@ -52,4 +52,4 @@ Scopri come utilizzare Adobe Commerce cart drop in e regolare l’esperienza del
 
 ## Documentazione aggiuntiva
 
-* [Riepilogo ordine](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Riepilogo ordine](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=it)

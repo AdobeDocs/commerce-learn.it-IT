@@ -50,5 +50,5 @@ Gli attributi del cliente forniscono le informazioni necessarie per supportare i
 
 ## Risorse aggiuntive
 
-* [Proprietà attributo cliente - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-* [Creazione di un account cliente individuale - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+* [Proprietà attributo cliente - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=it)
+* [Creazione di un account cliente individuale - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=it)

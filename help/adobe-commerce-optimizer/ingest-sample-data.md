@@ -46,6 +46,6 @@ Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. 
 ## Contenuto correlato
 
 * [GitHub Repository Sample Data](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Admin use case](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
-* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Admin use case](https://experienceleague.adobe.com/it/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce/optimizer/get-started){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
