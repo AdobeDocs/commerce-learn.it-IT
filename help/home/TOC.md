@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '932'
 ht-degree: 3%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + Estensibilità {#extensibility}
    + Sviluppo back-end {#backend-development}
-      + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+      + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creare un modulo](../backend-development/create-module.md)
       + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
       + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -148,9 +148,10 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [Installazione di app da Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
-      + [Creazione di un POC di pagamento frazionato: strumenti App Builder e AI](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-      + [Creazione di una demo completa per il pagamento frazionato POC: App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Utilizza gli strumenti di intelligenza artificiale per creare un POC di pagamento frazionato {#create-a-split-payment-poc}
+         + [Creazione di un POC di pagamento frazionato: strumenti App Builder e AI](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+         + [Creazione di una demo completa per il pagamento frazionato POC: App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
          + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
