@@ -7,12 +7,24 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 126
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/Si-izuH329pVtctIZ71FLXHfo48YaFtOGXGtAisu-tw
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: 519
 ht-degree: 0%
 
 ---
@@ -35,8 +47,8 @@ Discutendo e documentando tutti i passaggi di valutazione eseguiti finora, i tec
 
 ## Collegamenti ai rapporti di New Relic o dichiarazione NRQL
 
-Molti dei problemi relativi ad Adobe Commerce sono tracciabili tramite New Relic. Osservando le dashboard di New Relic o le istruzioni NRQL personalizzate, puoi scoprire da dove vengono originati alcuni problemi. Le stesse dashboard e query New Relic personalizzate sono condivisibili. Fornendo questi collegamenti nel ticket di supporto, gli ingegneri sono in grado di vedere esattamente cos&#39;è il reporter.
+Molti dei problemi relativi ad Adobe Commerce sono tracciabili tramite New Relic. Osservando le dashboard di New Relic o le istruzioni NRQL personalizzate, puoi scoprire da dove vengono originati alcuni problemi. Le stesse dashboard e query New Relic personalizzate sono condivisibili. By providing those links in the support ticket, the engineers are able to see exactly what the reporter is.
 
 >[!MORELIKETHIS]
 > 
-> * [Guida utente di Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Adobe Commerce Help User Guide](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

@@ -7,12 +7,25 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 624
-last-substantial-update: 2025-04-07T00:00:00Z
+last-substantial-update: 2025-04-07T00:00:00.000Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: 1127
 ht-degree: 0%
 
 ---
@@ -61,7 +74,7 @@ sed 's/.\.c\.(.)/\1/;s/.$//'
 Il comando `sed` in UNIX®Linux® sta per Stream Editor. Viene utilizzato per eseguire trasformazioni di testo di base su un flusso di input (un file o un input da una pipeline). Gli usi comuni includono la ricerca, la ricerca e la sostituzione, l’inserimento e l’eliminazione di testo. Il comando `sed` elabora il testo riga per riga e applica le operazioni specificate, rendendolo uno strumento potente per la manipolazione e la creazione di script di testo.
 
 Come indicato in precedenza, in genere sono disponibili 2 tipi di URL restituiti dal file CLI `magento-cloud`. Una variante contiene `.com.c.c` al centro. Questa variante è quella che deve essere modificata. Se viene rilevata questa struttura, è necessario rimuovere tutto a partire dall&#39;inizio dell&#39;URL fino a `.com.c.c`.  Quindi, rimane solo l’ultima parte dell’URL. Un URL di esempio è simile a `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Quando viene rilevato questo modello, l&#39;obiettivo è mantenere tutto dopo `.c.`.  In questo codice di esempio fornito, `sed 's/.\.c\.(.)/\1/'` viene utilizzato per acquisire questa parte e ignorare il resto del valore restituito originale. La parte rimanente dell&#39;URL è simile a `abcikdxbg789.ent.magento.cloud/`.\
-Due comandi in esecuzione in `sed`. Sono separati da un punto e virgola. La seconda parte del comando `sed` di `;s/.$//'` consiste nel rimuovere eventuali barre finali, se esistenti, per ripulire l&#39;URL in modo che sia simile a `abcikdxbg789.ent.magento.cloud`.  A questo punto, l’URL è stato pulito e pronto per il comando successivo.
+Due comandi in esecuzione in `sed`. Sono separati da un punto e virgola. La seconda parte del comando `;s/.$//'` di `sed` consiste nel rimuovere eventuali barre finali, se esistenti, per ripulire l&#39;URL in modo che sia simile a `abcikdxbg789.ent.magento.cloud`.  A questo punto, l’URL è stato pulito e pronto per il comando successivo.
 
 ## Xargs con scavo
 
@@ -108,16 +121,16 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## Il comando `grep`
 
-Talvolta viene restituita una stringa come parte del risultato di `dig`. A questo scopo, l’obiettivo è solo gli indirizzi IP e sono composti da numeri con punti. Per assicurarsi che l&#39;output finale contenga solo numeri, è possibile regolare il comando. Al termine, la sintassi finale è ` grep '^\d'`.  Aggiungendo `'^\d'`, il comando `grep` mantiene solo i numeri e ignora tutto il resto.
+Talvolta viene restituita una stringa come parte del risultato di `dig`. A questo scopo, l’obiettivo è solo gli indirizzi IP e sono composti da numeri con punti. Per assicurarsi che l&#39;output finale contenga solo numeri, è possibile regolare il comando. Al termine, la sintassi finale è ` grep '^\d'`.  By adding `'^\d'`, the command `grep` only keeps numbers and disregard anything else.
 
 ## Il comando `sort`
 
-Utilizzando `sort -u`, verranno rimossi tutti i duplicati dall&#39;elenco degli IP. I duplicati si verificano solo quando si esaminano i livelli di sviluppo.
+By using `sort -u`, it removes any duplicates from the list of IPs. Duplicates only happen when looking in development levels.
 
-Questi ambienti di livello inferiore sono multi-tenant e condividono i server sottostanti con molti altri progetti. Gli ambienti di sviluppo sono server singoli e non cluster. Pertanto, quando il comando dig esegue il ciclo su ogni iterazione, restituisce più volte lo stesso IP. Pertanto, utilizzando il comando `sort -u`, tutti gli IP duplicati vengono rimossi e rimangono solo indirizzi IP univoci.
+These lower level environments are multi-tenant and share underlying servers with many other projects. Development environments are single servers, and never a cluster. Therefore, when the dig command is looping over each iteration, it returns the same IP many times. So, by using the command `sort -u`, all duplicate IPs are removed and only unique IP addresses remain.
 
 
 
 ## Documentazione correlata
 
-* [Indirizzi IP regionali](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Regional IP Addresses](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

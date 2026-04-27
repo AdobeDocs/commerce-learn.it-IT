@@ -6,15 +6,29 @@ doc-type: video
 duration: 946
 audience: all
 activity: use
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2023-11-16T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: 631
 ht-degree: 0%
 
 ---
@@ -45,7 +59,7 @@ Scopri come creare un prodotto scaricabile utilizzando l’API REST e l’ammini
 
 Per impostare il dominio, connettersi al server: `bin/magento downloadable:domains:add www.example.com`
 
-Una volta completato, `env.php` viene modificato all&#39;interno dell&#39;array _downloadable_domains_.
+Una volta completato, `env.php` viene modificato all&#39;interno dell&#39;array _downloadable_ domains_.
 
 ```php
     'downloadable_domains' => [
@@ -68,7 +82,7 @@ Per ulteriori informazioni, consulta la sezione [Aggiornare un collegamento di d
 
 ## Creare un prodotto scaricabile utilizzando cURL (download dal server remoto)
 
-Questo esempio mostra come creare un prodotto scaricabile utilizzando cURL quando il file da scaricare non si trova sullo stesso server. Questo caso d’uso è tipico se il file viene memorizzato in un bucket S3 o in un altro gestore di risorse digitali.
+Questo esempio mostra come creare un prodotto scaricabile utilizzando cURL quando il file da scaricare non si trova sullo stesso server. This use case is typical if the file is stored in an S3 bucket or other digital asset manager.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -113,24 +127,24 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Creare un prodotto scaricabile utilizzando cURL (download dal server applicazioni Commerce)
+## Create a downloadable product using cURL (download from Commerce application server)
 
-Questo esempio illustra come utilizzare cURL per creare un prodotto scaricabile dall’amministratore di Adobe Commerce quando il file viene memorizzato sullo stesso server dell’applicazione Adobe Commerce.
+This example demonstrates how to use cURL to create a downloadable product from the Adobe Commerce Admin when the file is stored on the same server as the Adobe Commerce application.
 
-In questo caso d&#39;uso, quando l&#39;amministratore che gestisce il catalogo sceglie `upload file`, il file viene trasferito alla directory `pub/media/downloadable/files/links/`.  L’automazione crea e sposta i file nelle rispettive posizioni in base al seguente pattern:
+In this use case, when the administrator managing the catalog chooses `upload file`, the file is transferred to the `pub/media/downloadable/files/links/` directory.  Automation creates and moves the files to their respective locations based on the following pattern:
 
-* Ogni file caricato viene memorizzato in una cartella in base ai primi due caratteri del nome del file.
-* Quando il caricamento viene avviato, l&#39;applicazione Commerce crea o utilizza cartelle esistenti per trasferire il file.
-* Durante il download del file, la sezione `link_file` del percorso utilizza la parte del percorso aggiunta alla directory `pub/media/downloadable/files/links/`.
+* Each uploaded file is stored in a folder based on the first two characters of the file name.
+* When the upload is initiated, the Commerce application creates or uses existing folders to transfer the file.
+* When downloading the file, the `link_file` section of the path uses the portion of the path appended to the `pub/media/downloadable/files/links/` directory.
 
-Ad esempio, se il file caricato è denominato `download-example.zip`:
+For example, if the uploaded file is named `download-example.zip`:
 
-* Il file è stato caricato nel percorso `pub/media/downloadable/files/links/d/o/`.
-Le sottodirectory `/d` e `/d/o` vengono create se non esistono.
+* The file is uploaded to the path `pub/media/downloadable/files/links/d/o/`.
+The subdirectories `/d` and `/d/o` are created if they do not exist.
 
-* Il percorso finale del file è `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+* The final path to the file is `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-* Il valore `link_url` per questo esempio è `d/o/download-example.zip`
+* The `link_url` value for this example is `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -180,10 +194,10 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 --header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01e'
 ```
 
-## Aggiornare il prodotto utilizzando Postman {#update-downloadable-links}
+## Update the product using Postman {#update-downloadable-links}
 
-Usa l&#39;endpoint `rest/all/V1/products/{sku}/downloadable-links`
-`SKU` è l&#39;ID prodotto generato al momento della creazione del prodotto. Ad esempio, nell’esempio di codice seguente, è il numero 39, ma assicurati che sia aggiornato per utilizzare l’ID dal tuo sito web. Questo aggiorna i collegamenti per i prodotti scaricabili.
+Use the endpoint `rest/all/V1/products/{sku}/downloadable-links`
+The `SKU` is the product ID that was generated when the product was created. For example in the code sample below, it is the number 39, but make sure it is updated to use the ID from your website. This updates the links for the downloadable products.
 
 ```json
 {
@@ -206,9 +220,9 @@ Usa l&#39;endpoint `rest/all/V1/products/{sku}/downloadable-links`
 }
 ```
 
-## Aggiornare un collegamento per il download di prodotti utilizzando CURL
+## Update a product download link using CURL
 
-Quando aggiorni un collegamento per il download di un prodotto utilizzando cURL, l’URL include lo SKU del prodotto che viene aggiornato.  Nell&#39;esempio di codice seguente, lo SKU è `abcd12345`. Quando invii il comando, modifica il valore in modo che corrisponda allo SKU del prodotto che desideri aggiornare.
+When you update a product download link using cURL, the URL includes the SKU for the product that is being updated.  In the following code example, the SKU is `abcd12345`. When you submit the command, change value to match the SKU for the product you want to update.
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
@@ -237,7 +251,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Risorse aggiuntive
 
-* [Tipo di prodotto scaricabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=it){target="_blank"}
-* [Guida alla configurazione dei domini scaricabili](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=it#downloadable_domains){target="_blank"}
-* [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Downloadable Product Type](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=it){target="_blank"}
+* [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=it#downloadable_domains){target="_blank"}
+* [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

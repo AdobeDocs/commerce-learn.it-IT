@@ -2,7 +2,7 @@
 title: Crea regole prezzo carrello
 description: Scopri come creare regole di prezzo del carrello che applicano sconti nel carrello quando vengono soddisfatte le condizioni definite.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00Z
+last-substantial-update: 2022-12-28T00:00:00.000Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -10,9 +10,23 @@ level: Beginner
 duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: 701
 ht-degree: 0%
 
 ---
@@ -100,7 +114,7 @@ Prodotto 2 Il nuovo valore è 2,00
 Il totale complessivo di 3,99 è stato effettivamente fornito come sconto al cliente,
 tuttavia, se arriviamo a questo punto, ciò dimostrerebbe che sono stati dati 4 dollari, il che non è corretto.
 
-2,00 + 2,00 = 4,00 $
+2.00 + 2.00 = $4.00
 
 >[!ENDSHADEBOX]
 
@@ -122,11 +136,11 @@ Prodotto 2 Il nuovo valore è 1,99
 Il totale complessivo di 3,99 è stato effettivamente fornito come sconto al cliente,
 tuttavia, se si lascia cadere il terzo decimale, si vedrebbe che $3,98 è stato dato, e questo non è corretto.
 
-1,99 + 1,99 = $ 3,98
+1.99 + 1.99 = $3.98
 
 >[!ENDSHADEBOX]
 
 ## Risorse aggiuntive
 
-* [Crea regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=it){target="_blank"}
+* [Crea una regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=it){target="_blank"}
 * [Codici coupon - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=it){target="_blank"}

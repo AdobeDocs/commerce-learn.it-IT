@@ -8,12 +8,29 @@ role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3624
-last-substantial-update: 2024-05-07T00:00:00Z
+last-substantial-update: 2024-05-07T00:00:00.000Z
 jira: KT-15465
 exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/QO48-EUvrWmkJHTmaboYTDtFKX9UjtBabUgkwGEZxJM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: 396
 ht-degree: 0%
 
 ---
@@ -21,7 +38,7 @@ ht-degree: 0%
 # Pianificazione dell’implementazione moderna di Adobe Commerce
 
 Questo webinar offre una panoramica completa di vari argomenti relativi ad Adobe Commerce, tra cui il servizio di catalogo, la comprensione dell’architettura del cliente e Edge Delivery Services.
-&#x200B;Gli argomenti includono funzioni e vantaggi nuovi o esistenti di ciascun servizio, ad esempio la ricerca in tempo reale e i consigli sui prodotti nel catalogo Adobe Commerce as a Service, l’analisi delle API e del flusso di dati per comprendere l’architettura del cliente e le prestazioni elevate e la bassa latenza di Edge Delivery Services. Inoltre, il documento menziona l&#39;importanza di disporre di documenti standard e di un elenco di domande quando si interagisce con i clienti, nonché il concetto di Global Reference Architecture (GRA) per la creazione di progetti efficienti.
+&#x200B;Gli argomenti includono funzioni e vantaggi nuovi o esistenti di ciascun servizio, ad esempio la ricerca in tempo reale e i consigli sui prodotti nel catalogo Adobe Commerce as a Service, l’analisi delle API e del flusso di dati per comprendere l’architettura del cliente e le prestazioni elevate e la bassa latenza del Edge Delivery Services. Inoltre, il documento menziona l&#39;importanza di disporre di documenti standard e di un elenco di domande quando si interagisce con i clienti, nonché il concetto di Global Reference Architecture (GRA) per la creazione di progetti efficienti.
 
 ## Pubblico
 

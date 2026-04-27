@@ -7,12 +7,22 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 1024
-last-substantial-update: 2024-06-25T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00.000Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
+TQID: https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1010'
+source-wordcount: 1099
 ht-degree: 0%
 
 ---
@@ -46,21 +56,21 @@ Se non sei sicuro dell’ID del progetto o dell’ambiente, puoi omettere questi
 
 `magento-cloud db:dump`
 
-La CLI richiede di specificare il progetto e l&#39;ambiente corretti. Nell&#39;esempio seguente viene visualizzata tale finestra di dialogo. Questo esempio mostra diversi progetti assegnati al tuo account, ma probabilmente avrai a disposizione un solo progetto.
+La CLI richiede di specificare il progetto e l&#39;ambiente corretti. Nell&#39;esempio seguente viene visualizzata tale finestra di dialogo. This example shows several projects assigned to your account, but you will likely have only one project available.
 
-Cambia in una directory
+Change into a directory
 
 ```bash
 cd ~/Downloads/db-tutorial 
 ```
 
-Ora esegui il comando per creare l’immagine del database
+Now execute the command to create the database dump
 
 ```bash
 magento-cloud db:dump
 ```
 
-Poiché non hai specificato un progetto o un ambiente, la CLI di Adobe Commerce Cloud pone alcune domande. L’esempio seguente mostra una finestra di dialogo di esempio.
+Because you did not specify a project or environment, the Adobe Commerce Cloud CLI asks a few questions. The following example shows sample dialog.
 
 ```bash
 Enter a number to choose a project:
@@ -78,10 +88,10 @@ Default: master
 Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
 ```
 
-## Utilizzo degli strumenti ECE di Adobe Commerce
+## Using the Adobe Commerce ECE-tools
 
-Se non si dispone dello strumento Adobe Commerce CLI, è possibile `ssh` nel progetto ed eseguire il comando `ece` `vendor/bin/ece-tools db-dump`:
-Risposta di esempio:
+If you do not have the Adobe Commerce CLI tool, you can `ssh` into your project and run the `ece` command `vendor/bin/ece-tools db-dump`:
+Sample response:
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -115,15 +125,15 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-Utilizza `SFTP` o `rsync` per estrarre il dump del database nell&#39;ambiente locale.
+Use `SFTP` or `rsync` to pull the database dump to your local environment.
 
-Nell&#39;esempio seguente viene utilizzato `rsync` per estrarre il file nella cartella `~/Downloads/db-tutorial`.
+The following example uses `rsync` to pull the file to the `~/Downloads/db-tutorial` folder.
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
 ```
 
-La finestra del terminale fornisce alcune informazioni. Ecco un esempio di output
+The terminal window will output some information, here is some example output
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -134,7 +144,7 @@ sent 38 bytes  received 2691041 bytes  358810.53 bytes/sec
 total size is 2690241  speedup is 1.00
 ```
 
-Visualizza il contenuto del file per verificarne il corretto download.
+View the contents of the file to verify it was successfully downloaded.
 
 ```bash
 ls -lah
@@ -145,11 +155,11 @@ drwx------@ 103 <username>   staff   3.2K Feb 13 12:52 ..
 -rw-r--r--    1 <username>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
 ```
 
-Una volta che disponi dei dati, assicurati di rimuoverli o mascherarli. Il seguente script di esempio ti aiuterà a iniziare.
+Once you have the data, make sure you clean it up by removing or masking the customer data. The following sample script will help you get started.
 
-In questo esempio i dati del cliente vengono convertiti in stringhe casuali, ma vengono mantenuti tutti gli elementi. Questo esempio contiene alcune tabelle aggiuntive per dimostrare che i dati PII dei clienti si trovano nelle tabelle di terze parti e nelle tabelle principali. Esamina attentamente i dati in ogni tabella e maschera o rimuovi eventuali dati dei clienti.
+This example turns customer data into random strings, but keeps all the items. This example contains a few extra tables to demonstrate that customer PII can be found in third-party tables as well as core tables. Carefully examine data in every table and mask or remove any customer data.
 
-In genere l’architetto o lo sviluppatore principale è l’unico responsabile del mascheramento e della bonifica delle immagini di database. Disporre di uno strumento sanitario dedicato riduce l&#39;esposizione dei dati non elaborati, riducendo così la possibilità di violare le norme e i regolamenti di conformità.
+Typically the architect or lead developer is the only person responsible for masking and sanitizing database dumps. Having a dedicated sanitizer lowers the exposure of the raw data, which reduces the opportunity for violating compliance rules and regulations.
 
 ```sql
 SET FOREIGN_KEY_CHECKS=0;
@@ -202,11 +212,11 @@ TRUNCATE cron_schedule;
 SET FOREIGN_KEY_CHECKS=1;
 ```
 
-In alternativa, è possibile eliminare i record invece di mascherare le informazioni, riducendo anche le dimensioni del nuovo database. Una volta mascherati o rimossi i dati PII, questi possono essere forniti in modo sicuro a un compagno di squadra per l’utilizzo nel proprio ambiente locale.
+Alternatively, you can delete the records instead of masking the information, which also make the new DB smaller. Once PII is masked or removed, the data can be safely provided to a teammate for use on their local environment.
 
-## Connessione DB remota a un progetto Adobe Commerce Cloud
+## Remote DB connection to an Adobe Commerce Cloud project
 
-Questo metodo consente la modifica e l’eliminazione accidentale di dati live. Usatelo con cautela. Se possibile, preferisci il backup del database e la revisione offline. A volte devi accedere ai dati direttamente su Adobe Commerce Cloud; quel flusso di lavoro comporta ancora dei rischi. Le interfacce grafiche non aggiungono richieste di conferma, pertanto è possibile modificare o rimuovere i dati per errore.
+This method allows accidental editing and deletion of live data. Use it with caution. Prefer a database backup and offline review when you can. A volte devi accedere ai dati direttamente su Adobe Commerce Cloud; quel flusso di lavoro comporta ancora dei rischi. Le interfacce grafiche non aggiungono richieste di conferma, pertanto è possibile modificare o rimuovere i dati per errore.
 
 Una connessione al database remoto è comoda ma rischiosa. Puoi facilmente dimenticare di essere connesso alla produzione ed eliminare o modificare i dati. È possibile connettersi a una replica di sola lettura, ma le istruzioni SQL pesanti influiscono ancora sul sito. Adobe non consiglia connessioni remote di routine a database scrivibili. Utilizzare i passaggi seguenti solo quando si è consapevoli dei rischi.
 
@@ -260,7 +270,7 @@ Puoi trovare il nome host e il nome utente SSH dalle credenziali cloud nella con
 
 ![Console Adobe Commerce Cloud](./assets/cloud-ui-screenshot.png "Console Adobe Commerce Cloud")
 
-Di seguito è riportato un esempio: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
+Ecco un esempio: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 Il nome host SSH è tutto dopo il segno @: `ssh.us-4.magento.cloud` in questo esempio.
 Il nome utente SSH è tutto ciò che precede il simbolo @: `abasrpikfw4123-remote-db-ecpefky--mymagento`
 
@@ -383,4 +393,4 @@ MariaDB [main]>
 * [CLI di Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=it)
 * [Configura servizio MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=it)
 * [Configurare una connessione remota al database MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=it)
-* [Crea un dump del database su Adobe Commerce nell&#39;infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=it)
+* [Creazione di un dump del database sull’infrastruttura cloud di Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=it)

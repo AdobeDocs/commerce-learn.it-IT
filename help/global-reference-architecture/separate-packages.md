@@ -13,9 +13,26 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '2101'
+source-wordcount: 2132
 ht-degree: 0%
 
 ---
@@ -274,27 +291,27 @@ Tipi di ramo comuni nelle strategie di ramificazione e negli archivi in cui dovr
 
 **Rami di controllo qualità/sviluppo**: simile ai rami di rilascio.
 
-**Ramo principale**: deve esistere in ogni archivio e deve essere sempre il ramo che rappresenta lo stato di produzione o pronto per la produzione. Nel ramo principale viene applicato il tag al codice per le versioni di rilascio.
-Assicurati di scegliere una strategia di ramificazione con un minimo sovraccarico di manutenzione. Ad esempio, l’unione del ramo principale in rami di controllo qualità, UAT, rilascio o sviluppo dopo un rilascio di hotfix è un’attività di manutenzione generale. Maggiore è il numero di pacchetti, maggiore sarà il numero di archivi e più ripetitive saranno le attività di sovraccarico.
+**Ramo principale**: deve esistere in ogni archivio e deve essere sempre il ramo che rappresenta lo stato di produzione o pronto per la produzione. The main branch is where you tag code to release versions.
+Make sure you choose a branching strategy with little maintenance overhead. For example, merging the main branch back into QA, UAT, release, or dev branches after a hotfix release is an overhead maintenance task. The more packages, the more repositories and the more repetitive overhead tasks.
 
-Utilizzare uno strumento come mixu/gr per eseguire operazioni di routine su più archivi Git in un batch: <https://github.com/mixu/gr>
+Use a tool like mixu/gr to perform routine operations on multiple Git repositories in a batch: <https://github.com/mixu/gr>
 
 ## Convenzioni di denominazione
 
-Con il modello GRA dei pacchetti separati, i pacchetti fanno parte della base GRA se il metapacchetto di base li richiede. Aggiungi o rimuovi pacchetti dal metapacchetto per spostarli all’interno e all’esterno della base.
+With the Separate Packages GRA pattern, packages are part of the GRA foundation if the foundation metapackage requires them. Add or remove packages from the metapackage to move them in and out of the foundation.
 
-I metapacchetti offrono flessibilità per l&#39;ambito di installazione dei pacchetti. È inoltre importante che i nomi dei colli non contengano alcuna dicitura relativa all’uso previsto del collo. Il nome antonevers/module-gra-store-locator potrebbe confondersi quando si decide di estrarre il pacchetto dalla GRA foundation. Evita ambito (GRA, foundation, locale). Evita le aree geografiche (EMEA, Spagna, Globale). Nella maggior parte dei casi evita il nome dell’archivio per il quale viene creato un pacchetto. Scegliere i nomi che si riferiscono solo alla funzionalità aggiunta nel pacchetto. In questo modo è possibile riutilizzarli ovunque si desideri, anche in scenari futuri imprevisti. Il nome antonevers/module-store-locator sarebbe eccellente.
+Metapackages give flexibility to the installation scope of packages. It is extra important that the names of packages do not contain any words that relate to the intended use of the package. The name antonevers/module-gra-store-locator may become confusing when you decide to take that package out of the GRA foundation. Avoid scope (GRA, foundation, local). Avoid region (EMEA, Spain, Global). Most definitely avoid the name of the store that a package is built for. Choose names that only relate to the functionality that is added in the package. That way you can reuse them everywhere you please, also in unforeseen future scenarios. The name antonevers/module-store-locator would be excellent.
 
-Assicurati che i pacchetti correlati vengano visualizzati insieme nelle panoramiche. Nomi di build da generici a specifici. Quindi, contrari/modulo-b2b-esente da imposta invece di contrari/esenzione fiscale-modulo-b2b.
+Make sure that related packages show up together in overviews. Build names from generic to specific. So, antonevers/module-b2b-tax-exempt instead of antonevers/tax-exempt-module-b2b.
 
-## Esempi di codice
+## Code examples
 
-Gli esempi di codice di questo post di blog sono stati combinati in un set di archivi Git, che puoi utilizzare per aggirare con la prova del concetto.
+The code examples of this blog post have been combined in a set of Git repositories, which you can use to play around with the proof of concept.
 
-* Un esempio di archivio di produzione: <https://github.com/AntonEvers/gra-separate-brand-x>
-* Esempio di modulo di base: <https://github.com/AntonEvers/module-example-gra>
-* Esempio di modulo di terze parti: <https://github.com/AntonEvers/module-example-3rdparty>
-* Esempio di modulo locale: <https://github.com/AntonEvers/module-example-local>
-* Un esempio di metapacchetto di base: <https://github.com/AntonEvers/gra-meta-foundation>
-* Un esempio di metapacchetto locale (facoltativo): <https://github.com/AntonEvers/gra-meta-brand-x>
-* Un esempio di repository Composer: <https://github.com/AntonEvers/gra-composer-repository>
+* An example production store: <https://github.com/AntonEvers/gra-separate-brand-x>
+* An example foundation module: <https://github.com/AntonEvers/module-example-gra>
+* An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>
+* An example local module: <https://github.com/AntonEvers/module-example-local>
+* An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
+* An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
+* An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>

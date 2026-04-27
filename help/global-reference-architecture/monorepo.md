@@ -13,9 +13,21 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/22ayPTG7ZgpcWr5l53Ide2sZeGTN-9P0jept0ZQ6njQ
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1371'
+source-wordcount: 1418
 ht-degree: 0%
 
 ---
@@ -277,9 +289,9 @@ Se necessario, nella directory `packages` possono essere presenti più spazi dei
 
 Lo sviluppo avviene nella directory dei pacchetti. I collegamenti simbolici ai pacchetti all&#39;interno della directory `packages` vengono creati nella directory `vendor` una volta eseguito `composer update`. In questo modo, il codice diventa parte dell’installazione di Adobe Commerce.
 
-Eseguire `bin/magento module:enable --all` o solo per moduli specifici per abilitare i moduli aggiunti.
+Run `bin/magento module:enable --all` or for only specific modules to enable the modules that were added.
 
-A questo punto è necessario disporre di un’installazione di Adobe Commerce funzionante con i tre moduli di esempio installati e funzionanti. Puoi verificare se i moduli sono installati e funzionano eseguendo i comandi:
+By now you should have a working Adobe Commerce installation with the three sample modules installed and working. You can validate if the modules are installed and working by running the commands:
 
 ```bash
 bin/magento test:gra
@@ -287,33 +299,33 @@ bin/magento test:3rdparty
 bin/magento test:local
 ```
 
-### Creazione automatizzata dei pacchetti
+### Achieve automated package creation
 
-Sono disponibili diverse opzioni per la creazione automatica dei pacchetti. Alcune opzioni sono:
+There are multiple options to achieve automated package creation. Some options are:
 
-1. [Packagist privato](https://packagist.com/)
-1. [Semplifica Generatore Monorepo](https://github.com/symplify/monorepo-builder)
-1. Creare una soluzione personalizzata
+1. [Private Packagist](https://packagist.com/)
+1. [Simplyfy Monorepo Builder](https://github.com/symplify/monorepo-builder)
+1. Build your own solution
 
-[Private Packagist](https://packagist.com/) automatizza il riconoscimento dei pacchetti in Git monorepo e li espone tramite Composer. È compatibile con Adobe Commerce, veloce, a bassa manutenzione e soggetto a errori, ed è per questo che questa guida si concentra sull’opzione Private Packagist.
+[Private Packagist](https://packagist.com/) automates recognizing packages in the Git monorepo and exposes them through Composer. It is compatible with Adobe Commerce, fast, low-maintenance and error-prone, which is why this guide focuses on the Private Packagist option.
 
-Non rientra nell&#39;ambito di questa guida spiegare come impostare l&#39;elenco dei package privati. Vedere i [documenti](https://packagist.com/docs).
+It is beyond the scope of this guide to explain how to set up Private Packagist, please see the [docs](https://packagist.com/docs).
 
-Esiste la possibilità di trasformare un pacchetto in un monorepo dopo aver configurato la sincronizzazione dell’organizzazione e gli archivi Git vengono sincronizzati automaticamente in Private Packagist.
+There is the possibility to turn a package into a monorepo once you have set up organization syncing and your Git repositories are automatically syncing to Private Packagist.
 
-Per prima cosa, vai alla scheda dei pacchetti e trova il monorepo:
+First, go to the packages tab and find the monorepo:
 
-![Schermata del Packagist privato con il pacchetto monorepo visibile nella schermata dei pacchetti](/help/assets/global-reference-architecture/packagist-packages-before-multi-package.png){align="center"}
+![Private Packagist screen shot with the monorepo package visible in the packages screen](/help/assets/global-reference-architecture/packagist-packages-before-multi-package.png){align="center"}
 
-Fai clic sul pacchetto monorepo e fai clic su &quot;Modifica&quot; nella schermata dei dettagli, che ti porta alla seguente pagina:
+Click on the monorepo package and click &quot;Edit&quot; in the details screen, which takes you to the following page:
 
-![Schermata di Private Packagist con la pagina di modifica del pacchetto monorepo](/help/assets/global-reference-architecture/packagist-packages-edit.png)
+![Private Packagist screen shot with the monorepo package edit page](/help/assets/global-reference-architecture/packagist-packages-edit.png)
 
-Sotto il primo campo di input è presente un collegamento che indica: Creare un archivio con più pacchetti. Fai clic su questo collegamento.
+Underneath the first input field, there is a link saying: Create a multi-package repository. Click this link.
 
-![Schermata del Packagist privato con la configurazione di più pacchetti](/help/assets/global-reference-architecture/packagist-packages-multi-package.png)
+![Private Packagist screen shot with the multi-package configuration](/help/assets/global-reference-architecture/packagist-packages-multi-package.png)
 
-Definisci la posizione in cui trovare i pacchetti del compositore all’interno del monorepo. Nell&#39;esempio, la posizione è `packages/**/composer.json`. Modifica la posizione in modo da limitare o ampliare la ricerca dei pacchetti da estrarre da parte di Private Packagist.
+Define the location where composer packages can be found inside your monorepo. In the example, the location is `packages/**/composer.json`. Change the location to limit or broaden where Private Packagist searches for packages to extract.
 
 La scheda dei pacchetti mostra tutti i pacchetti trovati dopo il salvataggio e il monorepo stesso non sarà più visibile come pacchetto Compositore:
 

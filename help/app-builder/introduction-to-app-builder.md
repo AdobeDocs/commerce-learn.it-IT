@@ -4,15 +4,30 @@ description: Scopri Adobe App Builder e perché è un aspetto importante dell’
 jira: KT-11433
 doc-type: Tutorial
 duration: 322
-last-substantial-update: 2023-02-16T00:00:00Z
+last-substantial-update: 2023-02-16T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+TQID: https://experienceleague.adobe.com/c3dl6gZ7Jtje5rZCB9HrwmCbFrcu8bllL0z0B9cl5Jg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: 777
 ht-degree: 2%
 
 ---
@@ -66,7 +81,7 @@ Per ulteriori dettagli sull&#39;architettura di App Builder, vedere [Panoramica 
 
 Una panoramica della strategia di commercio componibile, che include la configurazione iniziale, può essere trovato leggendo il seguente post di blog:
 
-[In che modo App Builder contribuisce a promuovere l&#39;agilità aziendale per la piattaforma commerce](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[In che modo App Builder contribuisce a promuovere l’agilità aziendale per la piattaforma commerce](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 Per aiutarti a iniziare a utilizzare App Builder, Adobe ha creato la seguente documentazione:
 
@@ -83,7 +98,7 @@ App Builder fornisce video e documentazione per gli sviluppatori, incluse guide 
 
 Sei pronto a iniziare a sviluppare? Il seguente collegamento contiene applicazioni di esempio per iniziare:
 
-* [Laboratori di codice App Builder sul sito Web Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+* [App Builder Code Labs sul sito web Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## Supporto {#support}
 

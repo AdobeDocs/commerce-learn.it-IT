@@ -1,39 +1,57 @@
 ---
-title: Ordini di acquisto e approvazioni B2B
-description: Scopri come abilitare gli ordini di acquisto B2B e le regole di approvazione per gli account aziendali, inclusi i limiti di spesa, gli approvatori designati e i criteri di acquisto.
+title: B2B Purchase Orders and Approvals
+description: Learn how to enable B2B purchase orders and approval rules for company accounts, including spending limits, designated approvers, and purchase policies.
 doc-type: Feature Video
 duration: 257
-last-substantial-update: 2026-03-25T00:00:00Z
+last-substantial-update: 2026-03-25T00:00:00.000Z
 feature: Purchase Orders, B2B
 topic: Commerce, Administration
 role: User
 level: Beginner
 jira: KT-10683
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: 8c2fed53cdc9508be9d728a893ab8651feb26f25
+TQID: https://experienceleague.adobe.com/IEoKp3qmLkFH-CZcCab7t7aMWjfBXd2hGHLXaZjYz-8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+subfeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: 167
 ht-degree: 1%
 
 ---
 
 # Ordini di acquisto e approvazioni
 
-La maggior parte delle società B2B dispone di regole di approvazione degli ordini di acquisto. Le aziende possono controllare chi può creare ordini di acquisto e quanto può spendere. Ad esempio:
+Most B2B companies have order approval rules for purchase orders. Companies can control who can create purchase orders and how much they can spend. Ad esempio:
 
-* Tutti gli ordini di acquisto inferiori a X vengono approvati automaticamente.
-* Gli ordini di acquisto superiori a X ma inferiori a Q devono essere approvati da Y.
-* Qualsiasi valore PO superiore a X deve essere approvato da Y e Z.
-* Un ordine di acquisto creato da chiunque a livello di Direttore o superiore viene automaticamente approvato.
+* Any PO less than X value is automatically approved.
+* POs over X value but less than Q must be approved by Y.
+* Any PO over X value must be approved by Y and Z.
+* A PO created by anyone at the Director level or above is automatically approved.
 
-Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impostare regole di approvazione per applicare i criteri aziendali.
+With the required permissions for their role, B2B customers can set up approval rules to enforce company policies.
 
 {{b2b-feature}}
 
 ## A chi serve questo video?
 
-* Account manager società
-* Responsabili acquisti
+* Company account managers
+* Purchasing managers
 
 ## Contenuto video
 
@@ -41,5 +59,5 @@ Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impost
 
 ## Risorse aggiuntive
 
-* [Ordini di acquisto per società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=it){target="_blank"}
-* [Regole di approvazione ordini di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=it){target="_blank"}
+* [Purchase Orders for Companies](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=it){target="_blank"}
+* [Purchase Order Approval Rules](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=it){target="_blank"}

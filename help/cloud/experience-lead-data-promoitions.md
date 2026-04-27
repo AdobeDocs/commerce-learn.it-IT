@@ -7,12 +7,33 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 1345
-last-substantial-update: 2024-09-09T00:00:00Z
+last-substantial-update: 2024-09-09T00:00:00.000Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: e91a50b1-0b31-436e-9033-00e4776e94cb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: 489
 ht-degree: 0%
 
 ---
@@ -30,7 +51,7 @@ Scopri le funzionalità di ricerca avanzate di Adobe Commerce, basate su Adobe A
 
 ## Gestione catalogo
 
-Scopri i potenti strumenti di gestione dei cataloghi Adobe Commerce progettati per amministratori e sviluppatori di e-commerce. &#x200B; Gestione semplificata di elenchi di prodotti, inventario, prezzi e promozioni con funzioni intuitive di programmazione e automazione. Integrazione perfetta con sistemi di terze parti e utilizzo di servizi avanzati come la ricerca in tempo reale e consigli sui prodotti. &#x200B; Puoi trarre vantaggio da una solida acquisizione dei dati tramite API e sincronizzazione in tempo reale, migliorando al contempo la tua vetrina con contenuti generati dall’intelligenza artificiale di Adobe Experience Manager. &#x200B; Migliora la tua esperienza di e-commerce e resta agile in un mercato dinamico con Adobe Commerce.  
+Scopri i potenti strumenti di gestione dei cataloghi Adobe Commerce progettati per amministratori e sviluppatori di e-commerce. &#x200B; Gestione semplificata di elenchi di prodotti, inventario, prezzi e promozioni con funzioni intuitive di programmazione e automazione. Integrazione perfetta con sistemi di terze parti e utilizzo di servizi avanzati come la ricerca in tempo reale e consigli sui prodotti. &#x200B; trarre vantaggio da una solida acquisizione dei dati tramite API e sincronizzazione in tempo reale, il tutto migliorando la vetrina con contenuti generati dall’intelligenza artificiale di Adobe Experience Manager. &#x200B; Migliora la tua esperienza di e-commerce e resta agile in un mercato dinamico con Adobe Commerce.  
 
 ## Contenuto video gestione catalogo
 
@@ -42,7 +63,7 @@ Scopri i potenti strumenti di gestione dei cataloghi Adobe Commerce progettati p
 
 ## Live Search
 
-Scopri le funzionalità di ricerca avanzate di Adobe Commerce Live Search, con tecnologia Adobe AI. &#x200B; Questa robusta soluzione SaaS migliora l’esperienza di e-commerce fornendo risultati di ricerca altamente rilevanti in modo rapido ed efficiente. &#x200B; I commercianti e gli addetti al marketing possono ottimizzare i risultati della ricerca sul sito utilizzando strumenti come regole di ricerca avanzate, sinonimi e facet. Live Search offre suggerimenti in tempo reale, classificazione intelligente ed esperienze di ricerca personalizzabili, garantendo ai clienti di trovare ciò di cui hanno bisogno &#x200B;. Supporta anche modelli B2B con cataloghi condivisi e prezzi specifici, rendendola una soluzione versatile per tutte le esigenze aziendali.
+Scopri le funzionalità di ricerca avanzate di Adobe Commerce Live Search basate su Adobe AI. &#x200B; Questa robusta soluzione SaaS migliora l&#39;esperienza di e-commerce fornendo risultati di ricerca altamente rilevanti in modo rapido ed efficiente. &#x200B; I commercianti e gli esperti di marketing possono ottimizzare i risultati della ricerca nel sito utilizzando strumenti come regole di ricerca avanzate, sinonimi e facet. Live Search offre suggerimenti in tempo reale, classificazione intelligente ed esperienze di ricerca personalizzabili, garantendo ai clienti di trovare ciò di cui hanno bisogno. &#x200B; Supporta anche modelli B2B con cataloghi condivisi e prezzi specifici, rendendolo una soluzione versatile per tutte le esigenze aziendali.
 
 ## Contenuto video Live Search
 
