@@ -49,7 +49,7 @@ If the Shared Catalog feature is enabled in the configuration, the original prim
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410754?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

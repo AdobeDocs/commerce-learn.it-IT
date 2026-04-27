@@ -47,7 +47,7 @@ If you think you might need these log files, you can `rsync` them or use other m
 * Where some common large log files are found
 * Quick method to truncate a log file
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454591?captions=ita&learn=on)
 
 
 ## Comandi utilizzati nel video

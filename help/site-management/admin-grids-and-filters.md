@@ -43,4 +43,4 @@ Learn how to find and adjust filters for use in the Adobe Commerce admin. Learn 
 * Understand how to use a filter to limit the results of an admin grid
 * Learn how filters affect other administrators in the Adobe Commerce Admin Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440390?captions=ita&learn=on)

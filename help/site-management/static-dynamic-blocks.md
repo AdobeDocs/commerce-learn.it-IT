@@ -46,7 +46,7 @@ A block is a modular unit of content that can be positioned most anywhere on the
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411069?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

@@ -46,7 +46,7 @@ Customers sometimes need assistance to complete a purchase. Some customers like 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410202?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

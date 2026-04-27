@@ -46,7 +46,7 @@ Learn how to create a gift card product using the REST API and the Adobe Commerc
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453085?captions=ita&learn=on)
 
 ## Create a gift card with a simple payload
 

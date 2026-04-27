@@ -47,7 +47,7 @@ Content Staging gives your business team the ability to easily create, preview, 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343784?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410855?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

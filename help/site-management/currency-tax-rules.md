@@ -45,7 +45,7 @@ Tax rules incorporate a combination of product class, customer class, and tax ra
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410212?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

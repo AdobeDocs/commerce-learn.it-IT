@@ -41,7 +41,7 @@ Learn how to create a simple product using the REST API and the Adobe Commerce A
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443910?captions=ita&learn=on)
 
 ## Create a product using curl
 

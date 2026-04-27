@@ -45,7 +45,7 @@ Managing your shipping and delivery methods is critical to making sure you&#39;r
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410207?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 

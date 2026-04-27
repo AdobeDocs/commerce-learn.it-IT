@@ -47,7 +47,7 @@ Learn about the Adobe Commerce Cloud deployment strategies, testing best practic
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432830?captions=ita&learn=on)
 
 ## Documentazione di Experience League citata nel video
 

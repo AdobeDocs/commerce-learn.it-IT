@@ -45,6 +45,6 @@ Learn how the sales representative can initiate the quote from the admin panel, 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430579?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

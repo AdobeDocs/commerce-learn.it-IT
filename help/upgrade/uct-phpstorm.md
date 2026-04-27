@@ -50,7 +50,7 @@ In questo video:
 * Install and run UCT from PhpStorm.
 * Review HTML reports and prioritize fixes.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344406?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 
