@@ -8,17 +8,17 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
 # Creazione di una demo completa per il pagamento frazionato POC: App Builder
 
-Questa è la procedura dettagliata end-to-end del concetto proof of (Verifica del pagamento frazionato) basato su Adobe Commerce e Adobe App Builder. La demo presuppone che tu abbia già utilizzato strumenti di intelligenza artificiale e un prompt per produrre l’estensione in-process Commerce e l’app App Builder; questo video mostra cosa accade dopo che il codice viene unito, distribuito a Commerce nel cloud (Luma) e il progetto App Builder è live.
+Questa è la procedura dettagliata end-to-end del concetto proof of (Verifica del pagamento frazionato) basato su Adobe Commerce e Adobe App Builder. La demo presuppone che tu abbia già utilizzato strumenti di intelligenza artificiale e un prompt per produrre l’estensione in-process Commerce e l’app App Builder; questo video mostra cosa accade dopo che il codice viene unito, distribuito a un sito web Adobe Commerce Cloud utilizzando il tema Luma nativo e il progetto App Builder è live.
 
 Un acquirente paga con parte contanti e parte **[!UICONTROL Store Credit]**. Commerce è il proprietario del checkout sincrono e delle API necessarie per la vetrina; App Builder gestisce l’orchestrazione, i flussi di lavoro degli operatori e i consumatori di eventi di I/O. L’implementazione di riferimento utilizza un progetto Commerce (PaaS) e il checkout nativo di Luma invece di una vetrina Edge Delivery Services, che è ancora un percorso comune per molti commercianti. Se utilizzi **Adobe Commerce as a Cloud Service** in una topologia diversa, il codice di App Builder rimane simile ma il lavoro in vetrina e quello in corso risulterebbero diversi. Per on-premise, self-hosted e Commerce nel cloud su Luma, questo video mostra una suddivisione pratica tra il codice in-process e App Builder per le nuove funzionalità.
 
