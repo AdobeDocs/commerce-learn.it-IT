@@ -3,9 +3,9 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -118,59 +118,60 @@ ht-degree: 3%
          + [5 - Temi personalizzati](../frontend-development/page-builder/5-customize-theme.md)
          + [6 - Tipi di contenuto personalizzati](../frontend-development/page-builder/6-custom-content-types.md)
       + [Aggiungere un modulo JavaScript](../frontend-development/add-javascript-module.md)
-      + [Create a page](../frontend-development/create-page.md)
+      + [Creare una pagina](../frontend-development/create-page.md)
       + Servizi di consegna Edge {#edge-delivery-services}
          + Guida introduttiva {#getting-started}
-            + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
-            + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
-            + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
-            + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
-            + [Customize checkout](../edge-delivery-services/customize-checkout.md)
-            + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
-            + [Shopper experience](../edge-delivery-services/shopper-experience.md)
-      + Headless Architecture {#headless-architecture}
-         + Introduction to headless {#introduction-to-headless}
-            + [Headless Architecture - Session 1](../headless/session-1.md)
-         + Introduction to PWA Studio {#introduction}
+            + [Modifica del flusso transazionale](../edge-delivery-services/transactional-flow.md)
+            + [Usa attributi prodotto per articoli carrello](../edge-delivery-services/product-attributes-cart-items.md)
+            + [Aggiorna il riepilogo dell&#39;ordine all&#39;acquisto](../edge-delivery-services/update-order-summary.md)
+            + [Aggiunta di BOPIS al pagamento](../edge-delivery-services/add-bopis-to-checkout.md)
+            + [Personalizza estrazione](../edge-delivery-services/customize-checkout.md)
+            + [Personalizzare il layout di un indirizzo](../edge-delivery-services/customize-address-new-account-link.md)
+            + [Esperienza di acquisto](../edge-delivery-services/shopper-experience.md)
+      + Architettura headless {#headless-architecture}
+         + Introduzione a headless {#introduction-to-headless}
+            + [Architettura headless - Sessione 1](../headless/session-1.md)
+         + Introduzione a PWA Studio {#introduction}
             + [Panoramica](../pwa/introduction/1-overview.md)
-            + [PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Strumenti PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
             + [Launch](../pwa/introduction/3-launch.md)
-            + [UPWARD](../pwa/introduction/4-upward.md)
+            + [VERSO L&#39;ALTO](../pwa/introduction/4-upward.md)
             + [Introduzione](../pwa/introduction/5-getting-started.md)
-            + [Peregrine](../pwa/introduction/6-peregrine.md)
-         + [PWA Docker Development](../pwa/pwa-docker-development.md)
-         + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
-   + GraphQL and REST {#graphql-rest}
-      + [GraphQL basics](../graphql-rest/intro-graphql.md)
-      + [Queries](../graphql-rest/graphql-queries.md)
-      + [Mutations](../graphql-rest/graphql-mutations.md)
+            + [Peregrina](../pwa/introduction/6-peregrine.md)
+         + [Sviluppo Docker PWA](../pwa/pwa-docker-development.md)
+         + [Configurare Venia per lo sviluppo](../pwa/set-up-venia-for-dev.md)
+   + GRAPHQL e REST {#graphql-rest}
+      + [Nozioni di base su GraphQL](../graphql-rest/intro-graphql.md)
+      + [Query](../graphql-rest/graphql-queries.md)
+      + [Mutazioni](../graphql-rest/graphql-mutations.md)
       + [Schema](../graphql-rest/graphql-schema.md)
    + Adobe Developer App Builder {#adobe-developer-app-builder}
-      + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
-      + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
-      + [Create a split payment POC: App Builder and AI tools](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-      + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-      + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
-         + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-         + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-         + [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-         + [Provide feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-      + Build your first App builder App {#first-app}
+      + [Installazione di app da Adobe Exchange](../app-builder/install-app-builder-app.md)
+      + [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
+      + [Creazione di un POC di pagamento frazionato: strumenti App Builder e AI](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+      + [Creazione di una demo completa per il pagamento frazionato POC: App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+      + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
+         + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+         + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+         + [Implementazione e test](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+         + [Fornire feedback ad Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+      + Creare la prima app App Builder {#first-app}
          + [Panoramica](../app-builder/first-app/overview.md)
-         + [Generate and configure the .env file](../app-builder/first-app/env-file.md)
-         + [Description and usage of the app.config.yaml file](../app-builder/first-app/app-config-yaml-file.md)
-         + [Learn about the actions folder](../app-builder/first-app/actions-folder.md)
-         + [Learn about the test folder](../app-builder/first-app/test-folder.md)
-         + [Discover the purpose of the web-src folder](../app-builder/first-app/web-src-folder.md)
-         + [Testing locally](../app-builder/first-app/testing-locally.md)
-         + [Testing Using App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
-         + [Conclusion](../app-builder/first-app/conclusion.md)
-         + [Sample Module source code](https://github.com/magento/app-builder-samples){target="_blank"}
-      + IO Events for Adobe Commerce {#io-events}
-         + [Getting started IO Events](../io-events/getting-started-io-events.md)
+         + [Generare e configurare il file .env](../app-builder/first-app/env-file.md)
+         + [Descrizione e utilizzo del file app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+         + [Informazioni sulla cartella delle azioni](../app-builder/first-app/actions-folder.md)
+         + [Scopri la cartella di test](../app-builder/first-app/test-folder.md)
+         + [Scoprire lo scopo della cartella web-src](../app-builder/first-app/web-src-folder.md)
+         + [Test locale](../app-builder/first-app/testing-locally.md)
+         + [Test tramite l’URL di App Builder](../app-builder/first-app/testing-app-builder-url.md)
+         + [Conclusione](../app-builder/first-app/conclusion.md)
+         + [Codice sorgente del modulo di esempio](https://github.com/magento/app-builder-samples){target="_blank"}
+      + Eventi I/O per Adobe Commerce {#io-events}
+         + [Eventi I/O introduttivi](../io-events/getting-started-io-events.md)
          + [Installazione di Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
          + [Installazione di Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-         + [Create an App Builder project](../io-events/create-app-builder-project.md)
+         + [Crea un progetto App Builder](../io-events/create-app-builder-project.md)
          + [Configurare Adobe Commerce](../io-events/configure-commerce.md)
          + [Sviluppo modulo Adobe Commerce](../io-events/commerce-module-development.md)
          + [Eventi condizionali di Adobe Commerce](../io-events/conditional-events.md)
@@ -276,6 +277,4 @@ ht-degree: 3%
    + [Report Builder coorte](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Preparazione per il futuro](../business-intelligence/prepare-for-future.md)
-
-
 
