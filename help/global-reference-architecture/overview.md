@@ -1,6 +1,6 @@
 ---
-title: Ottimizzazione del riutilizzo del codice con Adobe Commerce
-description: Scopri come ottimizzare il riutilizzo del codice in Adobe Commerce con i modelli dell’architettura di riferimento globale, migliorando le prestazioni e la conformità in più istanze.
+title: Optimizing Code Reuse with Adobe Commerce
+description: Learn how to optimize code reuse in Adobe Commerce with Global Reference Architecture patterns, enhancing performance and compliance across multiple instances.
 kt: 15773
 doc-type: tutorial
 duration: 287
@@ -13,29 +13,35 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/1-cE8TS4syjsMuX3VmhQu5zhFX-z3yxV-GlwxVl7eqM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1119'
+source-wordcount: 1127
 ht-degree: 0%
 
 ---
 
-# Tecniche di implementazione dell&#39;architettura di riferimento globale
+# Global Reference Architecture Implementation Techniques
 
 {{only-for-on-prem-commerce-cloud}}
 
-Esistono diversi modi per ottimizzare il riutilizzo del codice con Adobe Commerce. Ognuna di queste quattro tecniche di implementazione presenta i propri vantaggi. Gli esempi in questo articolo sono ordinati da semplici a più complessi. Scegli la strategia più adatta al tuo progetto e alla roadmap futura. La migrazione da una strategia all&#39;altra può richiedere molto tempo.
+There are several ways to optimize code reuse with Adobe Commerce. These four implementation techniques each have their own advantages. The examples in this article are ordered from simple to more complex. Pick the strategy that best fits your project and future roadmap. A migration from one strategy to another can be time consuming.
 
-## Quando utilizzare l’architettura di riferimento globale
+## When to use Global Reference Architecture
 
-L’architettura di riferimento globale può essere utile, a seconda del numero di istanze che possiedi. Un’istanza è un’installazione autonoma di Adobe Commerce che utilizza il proprio database. Contare il numero di database di produzione per conoscere il numero di istanze di cui si dispone. Se gestisci più di un’istanza o se prevedi questo scenario in futuro, puoi beneficiare dell’architettura di riferimento globale. Maggiore è il numero di funzionalità condivise dalle istanze, maggiore è il valore aggiunto da un&#39;architettura di riferimento globale.
+Global reference architecture can be valuable, depending on the number of instances you own. An instance is a standalone installation of Adobe Commerce using its own database. Count the number of production databases to know how many instances you own. If you maintain more than one instance, or if you foresee this scenario in the future, you can benefit from global reference architecture. The more functionality the instances share, the more value a global reference architecture adds.
 
-In uno di questi scenari, è consigliabile esplorare utilizzando più istanze di Adobe Commerce.
+In any of these scenarios, it is advisable to explore using multiple instances of Adobe Commerce.
 
-1. **Proprietari store diversi**: se si gestisce il codice per più proprietari di store, ciascuno con il proprio archivio distinto, potrebbero essere necessarie istanze separate per mantenere efficacemente i singoli requisiti.
-2. **Conformità alle normative nazionali**: alcune normative impongono la memorizzazione dei dati dei clienti in aree geografiche specifiche. In tali casi, sono essenziali istanze separate per garantire il rispetto di tali regolamenti.
-3. **Variazioni operative tra aree geografiche**: l&#39;utilizzo in più aree geografiche può comportare diversi programmi e requisiti di manutenzione. L’utilizzo di istanze separate offre flessibilità nella gestione efficiente di tali varianti.
-4. **Vendite flash ad alta intensità**: i negozi che effettuano vendite flash su larga scala richiedono spesso prestazioni server ottimizzate. L’infrastruttura dedicata fornita da istanze separate garantisce prestazioni ottimali in periodi di domanda così elevata.
+1. **Different Store Owners**: If you maintain code for multiple store owners, each with their own distinct store, separate instances may be needed to maintain their individual requirements effectively.
+2. **Compliance with National Regulations**: Certain regulations mandate that customer data must be stored within specific regions. In such cases, separate instances are essential to ensure compliance with these regulations.
+3. **Operational Variances Across Geographical Regions**: Operating in multiple regions may mean differing maintenance schedules and requirements. Using separate instances allows for flexibility in managing these variations efficiently.
+4. **High-Intensity Flash Sales**: Stores conducting large-scale flash sales often require optimized server performance. Dedicated infrastructure provided by separate instances ensures optimal performance during such high-demand periods.
 5. **Differenze significative tra marchi o paesi**: quando la differenza tra marchi o paesi è grande, l&#39;utilizzo di una singola istanza determina il codice utilizzato solo per alcuni marchi o paesi. Istanze separate possono migliorare le prestazioni e la stabilità eliminando il codice non necessario per i marchi e i paesi che non ne hanno bisogno.
 
 ## Modelli di architettura di riferimento globali
@@ -64,39 +70,39 @@ Questo modello è costituito da archivi Git per lo sviluppo e da un archivio Git
 
 ![Icona che rappresenta il modello GRA &quot;bulk&quot;](/help/assets/global-reference-architecture/bulk-packages.png){align="center"}
 
-I moduli core e di terze parti di Adobe Commerce vengono installati direttamente tramite gli archivi del Compositore. Gli archivi Git possono essere utilizzati come archivi Compositore. In questo modello, l’intera base di codice condivisa GRA è ospitata in un singolo o in alcuni archivi Git e installata tramite Composer. La caratteristica chiave è che più moduli, Language Pack o temi sono ospitati in un unico pacchetto di compositore, semplificando lo sviluppo.
+I moduli core e di terze parti di Adobe Commerce vengono installati direttamente tramite gli archivi del Compositore. Gli archivi Git possono essere utilizzati come archivi Compositore. In questo modello, l’intera base di codice condivisa GRA è ospitata in un singolo o in alcuni archivi Git e installata tramite Composer. The key characteristic is that multiple modules, language packs or themes are hosted in a single composer package, simplifying development.
 
 ![Diagramma che mostra dove è memorizzato il codice in un modello GRA per pacchetti bulk](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"}
 
-### Il pattern GRA dei pacchetti separati
+### The separate packages GRA pattern
 
-![Icona che rappresenta il pattern GRA dei &quot;pacchetti separati&quot;](/help/assets/global-reference-architecture/separate-packages.png){align="center"}
+![An icon representing the &quot;separate packages&quot; GRA pattern](/help/assets/global-reference-architecture/separate-packages.png){align="center"}
 
-Ogni modulo, Language Pack o tema di Adobe Commerce viene installato come pacchetto del compositore separato. Ogni personalizzazione dispone di un proprio archivio Git. Ciò significa flessibilità finale nella composizione delle istanze e dispone di una gestione affidabile delle dipendenze del Compositore. Per ottimizzare le prestazioni, tutti i pacchetti vengono rispecchiati in un unico repository del compositore privato.
+Each Adobe Commerce module, language pack or theme is installed as a separate composer package. Each customization has its own Git repository. This means ultimate flexibility in the composition of the instances and has reliable Composer dependency management. For performance optimization, all packages are mirrored in a single private composer repository.
 
-![Diagramma che mostra dove è memorizzato il codice in un pattern GRA dei pacchetti separati](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
+![A diagram showing where code is stored in a separate packages GRA pattern](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
 
-### Il modello GRA monorepo
+### The monorepo GRA pattern
 
-![Icona che rappresenta il pattern GRA &quot;monorepo&quot;](/help/assets/global-reference-architecture/monorepo.png){align="center"}
+![An icon representing the &quot;monorepo&quot; GRA pattern](/help/assets/global-reference-architecture/monorepo.png){align="center"}
 
-Tutto lo sviluppo avviene in un unico archivio di codice. L’automazione genera pacchetti per le nuove versioni e li pubblica in un archivio del compositore. Il modello combina il basso sovraccarico di sviluppo dell&#39;approccio dei pacchetti di massa con la flessibilità dell&#39;approccio dei pacchetti separati. Il modello monorepo è ideale anche per l’esecuzione di test funzionali automatizzati.
+All development takes place in a single code repository. Automation generates packages for new versions and publishes them to a composer repository. The pattern combines the low development overhead of the bulk packages approach with the flexibility of the separate packages approach. The monorepo pattern is also ideal for running automated functional tests.
 
 ![Diagramma che mostra dove è memorizzato il codice in un modello GRA monorepo](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
 
-## Scelta di un pattern GRA
+## Choosing a GRA pattern
 
-La scelta di un modello GRA è fatta valutando la complessità del progetto, la necessità di flessibilità e la capacità di adattamento del team di sviluppo.
+The choice for a GRA pattern is made by assessing the project complexity, the need for flexibility, and the development team&#39;s ability to adapt.
 
-Per i team con poca esperienza Adobe Commerce, la cosa migliore è iniziare semplice. Tuttavia, se il progetto richiede un modello di GRA più complesso a causa delle sue caratteristiche, non compromettere.
+Teams with little Adobe Commerce experience best start simple. However, if the project demands a more complex GRA pattern due to its characteristics, do not compromise.
 
-Caratteristiche comuni del progetto relative a ciascun modello:
+Common project characteristics related to each pattern:
 
-1. **Nessun pattern GRA**: singola istanza di Adobe Commerce senza piani di estensione. Più istanze di Adobe Commerce con compatibilità minima tra di esse.
+1. **No GRA pattern**: Single instance of Adobe Commerce without plans to extend. Multiple instances of Adobe Commerce with minimal commonality between them.
 
-2. **Schema Git GRA diviso**: team che desiderano evitare Composer per le proprie personalizzazioni; nella maggior parte dei casi, il pattern Bulk packages è quello preferito a Split Git.
+2. **Split Git GRA pattern**: Teams that wish to avoid Composer for their customizations, in most cases Bulk packages pattern is a preferred pattern to Split Git.
 
-3. **Pattern GRA per pacchetto bulk**: base di codice di personalizzazione con interdipendenza elevata. Tutte le istanze hanno combinazioni molto simili di pacchetti personalizzati. Nessuna promozione frequente o retrocessione di singoli pacchetti. Team con poca esperienza nella gestione del codice e che necessitano di semplicità.
+3. **Bulk package GRA pattern**: Customization codebase with high interdependency. Tutte le istanze hanno combinazioni molto simili di pacchetti personalizzati. Nessuna promozione frequente o retrocessione di singoli pacchetti. Team con poca esperienza nella gestione del codice e che necessitano di semplicità.
 
 4. **Pattern GRA per pacchetti separati**: è necessaria una gestione flessibile dell&#39;ambito di rilascio. Sono previsti fino a 50 pacchetti personalizzati nei prossimi 5 anni. Livelli potenzialmente globali e regionali di codice comune. Nessun piano di migrazione a un modello Monorepo. Il team è tecnicamente esperto e ha una rigorosa aderenza al processo.
 

@@ -1,5 +1,5 @@
 ---
-title: Creare un attributo di prodotto
+title: Create a product attribute
 description: Crea una pagina che restituisca json con un parametro.
 kt: 14131
 doc-type: video
@@ -11,35 +11,40 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: 325
 ht-degree: 0%
 
 ---
 
-# Creare un attributo di prodotto
+# Create a product attribute
 
-L&#39;aggiunta di un attributo di prodotto è una delle operazioni più comuni in [!DNL Commerce]. Gli attributi sono un modo potente per risolvere molte attività pratiche relative a un prodotto. È disponibile un semplice processo per aggiungere un attributo di tipo a discesa a un prodotto.
+Adding a product attribute is one of the most popular operations in [!DNL Commerce]. Attributes are a powerful way to solve many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.
 
 In questo video:
 
-* Aggiungete un attributo denominato abbigliamento_material con i valori possibili: Cotone, Pelle, Seta, Denim, Pelliccia e Lana
-* Rendi visibile questo attributo nella pagina di visualizzazione del prodotto, in grassetto
-* Assegnalo al set di attributi predefinito e aggiungi una restrizione
-* Aggiungi il nuovo attributo
+* Add an attribute called clothing_material with the possible values: Cotton, Leather, Silk, Denim, Fur, and Wool
+* Make this attribute visible on the product view page, in bold text
+* Assign it to the Default attribute set and add a restriction
+* Add the new attribute
 
 ## A chi serve questo video?
 
-* Sviluppatori senza esperienza di commerce che devono imparare a creare un attributo di prodotto a livello di programmazione
+* Developers new to commerce who need to learn how to create a product attribute programmatically
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3412440?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
-## Esempio di codice
+## Code Sample
 
-Creare innanzitutto le cartelle, i file XML e PHP necessari:
+First create the folders, xml and PHP files that necessary:
 
 * app/code/Learning/ClothingMaterial/registration.php
 * app/code/Learning/ClothingMaterial/etc/module.xml
@@ -65,8 +70,8 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Se il modulo utilizza lo schema dichiarativo e la maggior parte dispone della versione 2.3.0, omettere setup_version. Tuttavia, se disponi di alcuni progetti legacy, potresti vedere questo metodo utilizzato.  Per ulteriori informazioni, vedere [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.\
->NOTA: affinché questo codice di esempio funzioni, è necessario includere setup_version; in caso contrario, InstallData.php non viene eseguito.
+>If your module is using Declarative Schema, and most have since 2.3.0 you should omit setup_version. However if you have some legacy projects you may see this method used.  See [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} for more information.\
+>PLEASE NOTE: for this example code to work, you do need to include the setup_version otherwise the InstallData.php does not execute.
 
 
 
@@ -82,7 +87,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Assicurati di utilizzare l’ID del set di attributi presente nel progetto; in questo esempio è il numero 9.
+>Be sure to use the attribute set ID that is in your project, in this example it is the number 9.
 
 ```php
 <?php
@@ -236,4 +241,4 @@ class InstallData implements InstallDataInterface
 
 ## Risorse utili
 
-[Aggiungere un attributo del campo di testo personalizzato](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Add a custom text field attribute](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

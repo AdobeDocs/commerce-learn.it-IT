@@ -10,17 +10,22 @@ duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: cc250cf1-34eb-4863-80d0-d170d45ea067id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: 322
 ht-degree: 0%
 
 ---
 
-
 # Personalizzare il layout di un indirizzo
 
-Scopri come personalizzare il layout del modulo dell’indirizzo al momento del pagamento per garantire che tutti i campi siano larghi al 50%, ad eccezione dell’area di testo. Scopri un approccio all’utilizzo di un’API di terze parti integrata, in particolare l’API degli indirizzi di Google, per abilitare la ricerca e la convalida automatiche degli indirizzi nel modulo degli indirizzi. &#x200B; Scopri come aggiungere una nuova voce di menu nella barra laterale alla dashboard dell’account utente, collegandola a una pagina personalizzata per un localizzatore di store.
+Scopri come personalizzare il layout del modulo dell’indirizzo al momento del pagamento per garantire che tutti i campi siano larghi al 50%, ad eccezione dell’area di testo. Scopri un approccio all’utilizzo di un’API di terze parti integrata, in particolare l’API degli indirizzi di Google, per abilitare la ricerca e la convalida automatiche degli indirizzi nel modulo degli indirizzi. &#x200B; Scopri come aggiungere una nuova voce di menu nella barra laterale alla dashboard dell’account utente e come collegare una pagina personalizzata per un archivio.
 
 ## A chi serve questo video?
 
@@ -40,8 +45,8 @@ I project manager devono tenere traccia dell&#39;avanzamento delle attività di 
 * Convalida e gestione degli errori per i campi di input degli indirizzi, per garantire che gli utenti ricevano un feedback immediato sulle voci errate o incomplete, migliorando l’esperienza utente.
 * Estensione della dashboard dell’account utente che aggiunge una nuova voce di menu nella barra laterale alla dashboard dell’account utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442914?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=it)
+* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

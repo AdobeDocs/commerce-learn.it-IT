@@ -1,39 +1,44 @@
 ---
-title: Creare un prodotto semplice
-description: Scopri come creare un prodotto semplice utilizzando l’API REST e l’amministratore Commerce.
+title: Create a simple product
+description: Learn how to create a simple product using the REST API and the Commerce Admin.
 kt: 14446
 doc-type: video
 duration: 197
 audience: all
 activity: use
-last-substantial-update: 2023-11-14T00:00:00Z
+last-substantial-update: 2023-11-14T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/LaJ36-CuEiOAzS4VzeONwI6HCfdOFExwuKusXFmqzns
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c18ed297-2187-4aec-affb-9d9654eca6fc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: 106
 ht-degree: 0%
 
 ---
 
-# Creare un prodotto semplice
+# Create a simple product
 
-Scopri come creare un prodotto semplice utilizzando l’API REST e l’amministratore Adobe Commerce.
+Learn how to create a simple product using the REST API and the Adobe Commerce Admin.
 
 ## A chi serve questo video?
 
 * Gestori di siti Web
 * eCommerce merchandisers
-* Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti in Adobe Commerce utilizzando l’API REST.
+* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API.
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3443910?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Creare un prodotto utilizzando CURL
+## Create a product using curl
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -51,7 +56,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Ottieni un prodotto utilizzando CURL
+## Get a product using curl
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
@@ -61,5 +66,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## Risorse aggiuntive
 
-* [Tutorial REST di Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [RiDoc REST Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

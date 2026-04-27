@@ -1,43 +1,49 @@
 ---
-title: Gestione di progetti e ambienti
-description: Scopri il progetto Adobe Commerce Cloud e l’interfaccia di gestione dell’ambiente
+title: Project and Environment management
+description: Learn about the Adobe Commerce Cloud project and environment management interface
 topic: Administration,Commerce
 role: User
 level: Beginner
 doc-type: Technical Video
 duration: 461
-last-substantial-update: 2025-09-16T00:00:00Z
+last-substantial-update: 2025-09-16T00:00:00.000Z
 jira: KT-19185
 exl-id: 5e92894a-dc12-4ca6-ac04-d1d584551f8f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/7tHjRrHZ68B7UGAa-uXvNU-MjyqUYz8Ix9NHwVpZzsk
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 200
 ht-degree: 0%
 
 ---
 
-# Gestione di progetti e ambienti Adobe Commerce Cloud
+# Adobe Commerce Cloud Project and Environment Management
 
-Scopri come utilizzare Adobe Commerce Cloud per gestire progetti e ambienti. Mostra come accedere con l’e-mail e l’ID MAG corretti, configurare il profilo, aggiungere chiavi SSH e comprendere il layout di diversi ambienti come la produzione e la staging. Vengono inoltre fornite informazioni su come consentire alle persone di accedere alle parti giuste del sistema, sull&#39;importanza della ridistribuzione dopo aver apportato modifiche e sulle differenze tra l&#39;accesso al cloud e l&#39;accesso al back office del punto vendita. L’obiettivo è aiutare gli utenti a mantenere i loro progetti organizzati, sicuri e ben funzionanti.
+Learn how to use Adobe Commerce Cloud to manage projects and environments. It shows how to log in with the right email and MAG ID, set up your profile, add SSH keys, and understand the layout of different environments like production and staging. It also covers how to give people access to the right parts of the system, why it&#39;s important to redeploy after making changes, and how cloud access is different from store back office access. The goal is to help users keep their projects organized, secure, and running smoothly.
 
 ## Per chi è questo video
 
-* Ingegneri operativi per cloud
-* Amministratori di Adobe Commerce Cloud
-* Project manager tecnici
+* Cloud operations engineers
+* Adobe Commerce Cloud administrators
+* Technical Project Managers
 
-## Cosa imparerai
+## What you will learn
 
-* Accesso e configurazione del profilo
-* Gestire ambienti e implementazioni
-* Controllare l’accesso e le autorizzazioni degli utenti
+* Log in and set up your profile
+* Manage environments and deployments
+* Control user access and permissions
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3474969?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
 
-## Contenuto e documentazione correlati
+## Related content and documentation
 
-* [Gestisci accesso utente](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Connessione sicura agli ambienti remoti](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [Progetto infrastruttura cloud](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/overview)
+* [Manage User Access](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Secure connectsion to remote environments](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Cloud infrastructure project](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)

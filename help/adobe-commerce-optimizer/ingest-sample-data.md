@@ -1,25 +1,29 @@
 ---
-title: Come inserire dati di esempio per un’istanza Adobe Commerce Optimizer
-description: Scopri come acquisire dati di esempio per un’istanza Adobe Commerce Optimizer.
+title: How to Ingest Sample Data for an Adobe Commerce Optimizer Instance
+description: Learn how to ingest sample data for an Adobe Commerce Optimizer instance.
 feature: Saas, Storefront
 topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 446
-last-substantial-update: 2025-08-05T00:00:00Z
+last-substantial-update: 2025-08-05T00:00:00.000Z
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+TQID: https://experienceleague.adobe.com/KeK3RtTA95vbPO1dlH-GLkqXt2j-h4hJ85Q46-mvZ5k
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 145
 ht-degree: 0%
 
 ---
 
-# Acquisire dati di esempio Adobe Commerce Optimizer
+# Ingest sample data Adobe Commerce Optimizer
 
-Scopri come acquisire i dati di esempio per l’istanza Adobe Commerce Optimizer. Questo video illustra l’intero processo dall’inizio alla fine utilizzando il file readme ufficiale dell’archivio GitHub come guida.
+Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. This video outlines the entire process from start to finish using the official GitHub repository readme as a guide.
 
 ## A chi serve questo video?
 
@@ -29,15 +33,15 @@ Scopri come acquisire i dati di esempio per l’istanza Adobe Commerce Optimizer
 
 ## Contenuto video
 
-* Acquisisci i dati di esempio per un’istanza di Adobe Commerce Optimizer passo dopo passo.
-* Creare criteri.
-* Creare visualizzazioni catalogo.
+* Ingest sample data for an Adobe Commerce Optimizer instance step by step.
+* Create Policies.
+* Create Catalog Views.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470482?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on)
 
 ## Contenuto correlato
 
-* [Dati di esempio dell&#39;archivio GitHub](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Caso di utilizzo amministratore](https://experienceleague.adobe.com/it/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Guida](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [GitHub Repository Sample Data](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
+* [Admin use case](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Introduzione a Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

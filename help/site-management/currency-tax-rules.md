@@ -1,38 +1,44 @@
 ---
 title: Gestisci regole divisa e imposta
-description: Scopri come configurare la valuta e le regole fiscali che [!DNL Commerce] utilizza per calcolare l'imposta appropriata in base al cliente e alle classi di prodotto.
+description: Learn how to configure currency and the tax rules that [!DNL Commerce] uses to calculate the appropriate tax according to the customer and product classes.
 kt: 10542
 doc-type: feature video
 duration: 157
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00Z
+last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Shopping Cart, Taxes
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/o-QMP4itqMmUf8qtErGDIq3iDAC6C2CjqvyP02uTbTw
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: 141
 ht-degree: 0%
 
 ---
 
 # Gestisci regole divisa e imposta
 
-Le regole fiscali includono una combinazione di classe di prodotto, classe di cliente e aliquota. A ogni cliente viene assegnata una classe di clienti e a ogni prodotto viene assegnata una classe di prodotti. [!DNL Commerce] analizza il carrello di ciascun cliente e calcola l&#39;imposta appropriata in base al cliente e alle classi di prodotti e all&#39;area geografica (in base all&#39;indirizzo di spedizione, all&#39;indirizzo di fatturazione o all&#39;origine di spedizione).
+Tax rules incorporate a combination of product class, customer class, and tax rate. Each customer is assigned to a customer class, and each product is assigned a product class. [!DNL Commerce] analyzes the shopping cart of each customer and calculates the appropriate tax according to the customer and product classes, and the region (based on shipping address, billing address, or shipping origin).
 
 ## A chi serve questo video?
 
 * Amministratori store
-* Manager eCommerce
+* eCommerce managers
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410212?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## Risorse aggiuntive
 
-* [Regole fiscali - [!DNL Commerce] Guida agli archivi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=it)
-* [Valuta - [!DNL Commerce] Archivi e guida all&#39;acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=it)
+* [Tax rules - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [Currency - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

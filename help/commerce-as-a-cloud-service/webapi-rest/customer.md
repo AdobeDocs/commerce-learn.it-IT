@@ -7,12 +7,19 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00Z
+last-substantial-update: 2026-01-27T00:00:00.000Z
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
-source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
+TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: 505
 ht-degree: 0%
 
 ---
@@ -32,7 +39,7 @@ Scopri come utilizzare le nuove API REST dei clienti in Adobe Commerce as a Clou
 * Utilizza il formato dell’endpoint REST API corretto per Commerce as a Cloud Service
 * Creare e aggiornare gli account cliente a livello di programmazione utilizzando le richieste POST e PUT con payload JSON appropriati
 
->[!VIDEO](https://video.tv.adobe.com/v/3479370?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## Esempi di codice
 
@@ -244,6 +251,6 @@ curl -s -X PUT \
 
 ## Riferimenti
 
-* [Note sulla versione di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/it/docs/commerce/cloud-service/release-notes)
+* [Note sulla versione di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Riferimento API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-* [Guida all&#39;autenticazione utente](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+* [Guida all’autenticazione utente](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
