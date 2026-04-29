@@ -1,27 +1,27 @@
 ---
-title: 'Create a split payment POC: App Builder and AI tools'
+title: 'Creazione di un POC di pagamento frazionato: strumenti App Builder e AI'
 description: Learn about a split payment proof of concept with App Builder and Commerce PaaS, including the goals, architecture, and what this first session covers.
 feature: App Builder, Paas, Payments
-topic: App Builder, Commerce, Development, Integrations
+topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 259
+duration: 260
 jira: KT-20791
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
 
-# Create a split payment POC: App Builder and AI tools
+# Creazione di un POC di pagamento frazionato: strumenti App Builder e AI
 
-This is the first of a set of tutorialsthat introduce you to using AI-assisted development to help you build a split payment proof of concept. You work with Adobe App Builder and Adobe Commerce in the cloud (PaaS) or on-premises, moving from an overview in this session to the hands-on tutorials that follow. Expect goals, high-level architecture, and a roadmap to what the rest of the series covers.
+This is the first of a set of tutorials that introduce you to using AI-assisted development to help you build a split payment proof of concept. You work with Adobe App Builder and Adobe Commerce in the cloud (PaaS) or on-premises, moving from an overview in this session to the hands-on tutorials that follow. Expect goals, high-level architecture, and a roadmap to what the rest of the series covers.
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483941?captions=ita&learn=on)
 
 ## Important Details
 
@@ -31,11 +31,13 @@ This tutorial bridges the gap between where most Adobe Commerce teams are today 
 ### What You&#39;ll Actually Build
 
 A split payment system where customers pay using a combination of Cash on Delivery and Store Credit. After the order is placed, an operator (or ERP system) confirms or declines the cash payment through a standalone dashboard — without ever opening Commerce Admin. The entire accept/decline workflow runs in App Builder.
-The Architectural Lesson (This Is the Core Teaching)
+
+#### The architectural lesson (core teaching)
+
 The tutorial demonstrates a deliberate and repeatable decision framework:
 
-What must stay in PHP: anything that runs synchronously in the Commerce request cycle, or that calls Commerce-internal APIs with no clean external surface
-What moves to App Builder: everything else — event processing, operator workflow, external integrations, and operator-facing tools
+* **What must stay in PHP:** anything that runs synchronously in the Commerce request cycle, or that calls Commerce-internal APIs with no clean external surface
+* **What moves to App Builder:** everything else — event processing, operator workflow, external integrations, and operator-facing tools
 
 This isn&#39;t &quot;move everything to App Builder.&quot; It&#39;s a practical, honest starting point for teams who need to begin the transition without a rewrite.
 
@@ -45,10 +47,10 @@ The AI prompt approach is actually better than sample code for this use case, be
 
 ### What Is Included
 
-Complete App Builder application code (consistent across projects — use it directly or as a reference)
-A full set of numbered AI prompts designed for Cursor and Claude, covering the Commerce module, the App Builder orchestrator, the operator dashboard, testing, and the path to production
-Uno script di simulazione per testare il flusso di accettazione/rifiuto rispetto a un sito Commerce live senza la necessità di un ERP reale
-Documentazione dell’architettura che illustra ogni decisione
+* Complete App Builder application code (consistent across projects — use it directly or as a reference)
+* A full set of numbered AI prompts designed for Cursor and Claude, covering the Commerce module, the App Builder orchestrator, the operator dashboard, testing, and the path to production
+* Uno script di simulazione per testare il flusso di accettazione/rifiuto rispetto a un sito Commerce live senza la necessità di un ERP reale
+* Documentazione dell’architettura che illustra ogni decisione
 
 ### Per Chi È Questo
 
@@ -61,3 +63,5 @@ Adobe Commerce 2.4.5 o versione successiva, accesso a un’organizzazione Adobe 
 ### Considerazioni finali
 
 Questa dovrebbe essere considerata una discussione di livello base sullo sviluppo basato sull’intelligenza artificiale. Questo tutorial è una dimostrazione per l’utilizzo di strumenti di intelligenza artificiale in un flusso di lavoro di sviluppo di Commerce, non solo un tutorial sulla suddivisione dei pagamenti.
+
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}
