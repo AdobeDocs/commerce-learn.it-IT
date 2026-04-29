@@ -3,7 +3,8 @@ user-guide-title: Video e tutorial
 user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite video e tutorial.
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
-source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
+author: Russell
+source-git-commit: 42dd052e619b51bb32c64faa5c98c5946f03295a
 workflow-type: tm+mt
 source-wordcount: '1001'
 ht-degree: 3%
@@ -97,7 +98,7 @@ ht-degree: 3%
 
 + Estensibilità {#extensibility}
    + Sviluppo back-end {#backend-development}
-      + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+      + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creare un modulo](../backend-development/create-module.md)
       + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
       + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -150,17 +151,17 @@ ht-degree: 3%
       + [Introduzione ad App Builder](../app-builder/introduction-to-app-builder.md)
       + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Utilizza gli strumenti di intelligenza artificiale per creare un POC di pagamento frazionato {#create-a-split-payment-poc}
-         + [Creazione di un POC di pagamento frazionato: strumenti App Builder e AI](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-         + [Creazione di una demo completa per il pagamento frazionato POC: App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-         + [Dividi pagamento POC: decisioni su architettura e progettazione](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
-         + [Dividi POC pagamento: prerequisiti e impostazione dell&#39;ambiente](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
-         + [Dividi pagamento POC: riferimento variabili ambiente](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
-         + [Dividi pagamento POC: richiesta di IA del modulo Commerce](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
-         + [Dividi pagamento POC: App Builder Orchestrator AI prompt](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
-         + [Dividi pagamento POC: richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
-         + [Dividi pagamento POC: guida al test e alla verifica](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
-         + [Dividi pagamento POC: passaggi successivi alla prova di concetto](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
-         + [Dividi POC pagamento: riferimento rapido tutorial per autori](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
+         + [Creazione di un POC di pagamento frazionato: strumenti App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
+         + [Creazione di una demo completa per il pagamento frazionato POC: App Builder](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [Dividi pagamento POC: decisioni su architettura e progettazione](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+         + [Dividi POC pagamento: prerequisiti e impostazione dell&#39;ambiente](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+         + [Dividi pagamento POC: riferimento variabili ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
+         + [Dividi pagamento POC: richiesta di IA del modulo Commerce](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+         + [Dividi pagamento POC: App Builder Orchestrator AI prompt](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+         + [Dividi pagamento POC: richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+         + [Dividi pagamento POC: guida al test e alla verifica](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+         + [Dividi pagamento POC: passaggi successivi alla prova di concetto](../app-builder/split-payment-ai-tools/next-steps.md)
+         + [Dividi POC pagamento: riferimento rapido tutorial per autori](../app-builder/split-payment-ai-tools/quick-reference.md)
       + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
          + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
