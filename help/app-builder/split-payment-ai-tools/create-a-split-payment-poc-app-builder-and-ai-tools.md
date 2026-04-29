@@ -21,7 +21,7 @@ This is the first of a set of tutorials that introduce you to using AI-assisted 
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483941?captions=ita&learn=on)
 
 ## Important Details
 
