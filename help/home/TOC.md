@@ -4,9 +4,9 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3737713df7e1bf1478550f9cc28d74f30e1e98cf
+source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
@@ -98,7 +98,7 @@ ht-degree: 3%
 
 + Estensibilità {#extensibility}
    + Sviluppo back-end {#backend-development}
-      + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+      + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creare un modulo](../backend-development/create-module.md)
       + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
       + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -152,16 +152,17 @@ ht-degree: 3%
       + [Framework di estensibilità per App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Utilizza gli strumenti di intelligenza artificiale per creare un POC di pagamento frazionato {#create-a-split-payment-poc}
          + [Strumenti di App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
-         + [Dividi il POC dei pagamenti utilizzando la demo completa di App Builder](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [Demo completa](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [Guida dettagliata all’implementazione](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
          + [Decisioni relative all&#39;architettura e alla progettazione](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
          + [Prerequisiti e configurazione dell’ambiente](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-         + [Riferimento delle variabili di ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
-         + [Prompt di IA del modulo Commerce](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-         + [prompt di IA per orchestrator di App Builder](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-         + [Richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
-         + [Guida alle prove e alla verifica](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-         + [Passaggi successivi dopo la verifica del concetto](../app-builder/split-payment-ai-tools/next-steps.md)
-         + [Guida di riferimento rapido per autori](../app-builder/split-payment-ai-tools/quick-reference.md)
+         + [Test e verifica](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+         + [Passaggi successivi](../app-builder/split-payment-ai-tools/next-steps.md)
+         + Risorse di riferimento {#split-payment-resources}
+            + [Riferimento delle variabili di ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
+            + [Prompt di IA del modulo Commerce](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+            + [prompt di IA per orchestrator di App Builder](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+            + [Richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
       + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
          + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
