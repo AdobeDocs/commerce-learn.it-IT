@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%
@@ -145,42 +145,42 @@ App Builder `payment-orchestrator` reads the split amounts
 
 **Attributi di estensione** (in `CartInterface`, `OrderInterface` e `OrderPaymentInterface`)
 
-* `split_store_credit_amount` (float)
-* `split_cash_amount` (float)
-* `split_cash_status` (string)
+* `split_store_credit_amount` (virgola mobile)
+* `split_cash_amount` (virgola mobile)
+* `split_cash_status` (stringa)
 
-## I/O event payload fields
+## Campi payload dell’evento di I/O
 
-`observer.sales_order_place_before` is configured in `io_events.xml` to include the following in the event:
+`observer.sales_order_place_before` è configurato in `io_events.xml` per includere quanto segue nell&#39;evento:
 
 ```xml
 entity_id, quote_id, increment_id, subtotal,
 split_store_credit_amount, split_cash_amount, split_cash_status
 ```
 
-App Builder uses `entity_id` as the order ID and `split_store_credit_amount` and `split_cash_amount` for threshold validation.
+App Builder utilizza `entity_id` come ID ordine e `split_store_credit_amount` e `split_cash_amount` per la convalida della soglia.
 
-## The five edge cases the proof of concept covers
+## I cinque casi edge coperti dalla prova di concetto
 
 ### 1. `CapCustomerBalanceCollectPlugin`
 
-Commerce’s native **[!UICONTROL Customer balance]** total collector can over-apply (it can see the full available balance, not the session-declared split amount). This plugin caps the amount to the value declared in the session.
+L&#39;agente di raccolta totale **[!UICONTROL Customer balance]** nativo di Commerce può applicare un numero eccessivo di righe (può visualizzare l&#39;intero saldo disponibile, non l&#39;importo suddiviso dichiarato dalla sessione). Questo plug-in limita la quantità al valore dichiarato nella sessione.
 
 ### 2. `FixSplitPaymentGrandTotalPlugin`
 
-After store credit is applied, the quote **[!UICONTROL Grand Total]** can drop to the cash-only amount. The checkout JavaScript must compute the order total for split validation *before* that change. The plugin runs after totals collection and corrects the display, while the JavaScript does not trust `grand_total` alone and reconstructs the value from subtotal segments.
+Dopo l&#39;applicazione del credito del negozio, il preventivo **[!UICONTROL Grand Total]** può essere eliminato all&#39;importo solo contanti. Il JavaScript di estrazione deve calcolare il totale dell&#39;ordine per la convalida di suddivisione *prima* che cambi. Il plug-in viene eseguito dopo la raccolta dei totali e corregge la visualizzazione, mentre JavaScript non considera attendibile `grand_total` da solo e ricostruisce il valore dai segmenti dei subtotali.
 
 ### 3. `FixInvoiceCustomerBalanceAfterTotalsPlugin`
 
-When invoice totals are recollected, store credit can be applied twice. This plugin corrects `customer_balance_amount` on invoices.
+Quando vengono recuperati i totali delle fatture, il credito di magazzino può essere applicato due volte. Questo plug-in corregge `customer_balance_amount` sulle fatture.
 
 ### 4. `SplitPaymentZeroTotalPlugin`
 
-After store credit is applied, the cart **[!UICONTROL Grand Total]** can be $0 (full store credit order). Commerce’s **[!UICONTROL Zero subtotal checkout]** check can block COD in that case. This plugin allows COD when the session cash amount is greater than 0.
+Dopo aver applicato il credito dell&#39;archivio, il carrello **[!UICONTROL Grand Total]** può essere $0 (ordine di credito dell&#39;archivio completo). Il controllo **[!UICONTROL Zero subtotal checkout]** di Commerce può bloccare il COD in questo caso. Questo plug-in consente il contrassegno quando l’importo contanti della sessione è maggiore di 0.
 
-### 5. Quote recollection before `BalanceManagementInterface::apply()`
+### &#x200B;5. Recupero preventivo prima di `BalanceManagementInterface::apply()`
 
-`apply()` checks the amount against the current **[!UICONTROL Grand Total]**. If the total is already the cash portion only, `apply()` can fail or cap. `PlaceOrderPlugin` temporarily suspends the grand-total fix while balance is applied, using a session flag (`beginBalanceApply` / `endBalanceApply`).
+`apply()` controlla l&#39;importo rispetto all&#39;attuale **[!UICONTROL Grand Total]**. Se il totale è già solo la parte contante, `apply()` può non riuscire o raggiungere il limite massimo. `PlaceOrderPlugin` sospende temporaneamente la correzione del totale complessivo mentre viene applicato il saldo, utilizzando un flag di sessione (`beginBalanceApply` / `endBalanceApply`).
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

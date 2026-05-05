@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -58,51 +58,51 @@ Segui questi passaggi prima di tutto. Il JavaScript di pagamento dipende da corr
 
 * **[!UICONTROL Enable Store Credit Functionality]**: **Sì**
 
-### 2 quater. Add store credit to your test customer
+### 2 quater. Aggiungi il credito del punto vendita al cliente di prova
 
-**[!UICONTROL Customers]** > **[!UICONTROL All Customers]** > *[your test customer]* > **[!UICONTROL Store Credit]** > **[!UICONTROL Update Balance]**
+**[!UICONTROL Customers]** > **[!UICONTROL All Customers]** > *[il tuo cliente di prova]* > **[!UICONTROL Store Credit]** > **[!UICONTROL Update Balance]**
 
-Add at least **$50** in store credit. You will test with an order under $100 total.
+Aggiungi almeno **$50** nel credito dell&#39;archivio. Verrai testato con un ordine inferiore a 100 $ in totale.
 
-### 2d. Create the Commerce integration
+### 2d. Creare l’integrazione con Commerce
 
 **[!UICONTROL System]** > **[!UICONTROL Integrations]** > **[!UICONTROL Add New Integration]**
 
-* **[!UICONTROL Name]**: `Split Payment App Builder` (or any name you prefer)
-* On the **[!UICONTROL API]** tab, grant at minimum:
-   * `Magento_Sales::actions` (required for the `cash-received` endpoint)
-   * `Magento_Sales::cancel` (required for the `cash-decline` endpoint)
-   * Quote or cart management (full or a relevant subset)
-   * **[!UICONTROL Customer balance]** (full or a relevant subset)
+* **[!UICONTROL Name]**: `Split Payment App Builder` (o un nome qualsiasi)
+* Nella scheda **[!UICONTROL API]**, concedi almeno:
+   * `Magento_Sales::actions` (obbligatorio per l&#39;endpoint `cash-received`)
+   * `Magento_Sales::cancel` (obbligatorio per l&#39;endpoint `cash-decline`)
+   * Gestione dei preventivi o del carrello (completo o relativo sottoinsieme)
+   * **[!UICONTROL Customer balance]** (completo o un sottoinsieme rilevante)
 
-Select **[!UICONTROL Save]**, then **[!UICONTROL Activate]**.
+Selezionare **[!UICONTROL Save]**, quindi **[!UICONTROL Activate]**.
 
-**Copy all four values; they are only shown once:**
+**Copia tutti e quattro i valori; vengono visualizzati una sola volta:**
 
 | Valore | Variabile di ambiente |
 | --- | --- |
-| Consumer Key | `COMMERCE_CONSUMER_KEY` |
-| Consumer Secret | `COMMERCE_CONSUMER_SECRET` |
+| Chiave consumer | `COMMERCE_CONSUMER_KEY` |
+| Segreto consumer | `COMMERCE_CONSUMER_SECRET` |
 | Token di accesso | `COMMERCE_ACCESS_TOKEN` |
-| Access Token Secret | `COMMERCE_ACCESS_TOKEN_SECRET` |
+| Segreto token di accesso | `COMMERCE_ACCESS_TOKEN_SECRET` |
 
-Store these values securely. You need them in every App Builder `.env` file.
-
-
-## 3. Adobe Developer Console and App Builder
-
-* Access to an Adobe Developer Console organization
-* An **App Builder project** (new or one you reuse)
-* A workspace configured; the prompts assume **[!UICONTROL Stage]**
-* **[!UICONTROL Adobe I/O Events]** added as a service to the workspace
-* **Commerce** connected as an event provider for the workspace
-
-The event code used in the proof of concept is: `com.adobe.commerce.observer.sales_order_place_before`
-
-If you have not connected Commerce as an event provider, see [Configure Commerce to emit events to Adobe I/O](https://developer.adobe.com/commerce/extensibility/events/configure-commerce/){target="_blank"} in the Commerce Extensibility guide.
+Memorizza questi valori in modo sicuro. Sono necessari in ogni file di App Builder `.env`.
 
 
-## 4. Local development environment
+## &#x200B;3. ADOBE DEVELOPER CONSOLE e APP BUILDER
+
+* Accesso a un’organizzazione Adobe Developer Console
+* Un **progetto App Builder** (nuovo o riutilizzato)
+* Un&#39;area di lavoro configurata; i prompt presuppongono **[!UICONTROL Stage]**
+* **[!UICONTROL Adobe I/O Events]** aggiunto come servizio all&#39;area di lavoro
+* **Commerce** connesso come provider di eventi per l&#39;area di lavoro
+
+Il codice evento utilizzato nella prova di concetto è: `com.adobe.commerce.observer.sales_order_place_before`
+
+Se non hai connesso Commerce come provider di eventi, consulta [Configurare Commerce per emettere eventi in Adobe I/O](https://developer.adobe.com/commerce/extensibility/events/configure-commerce/){target="_blank"} nella guida Commerce Extensibility.
+
+
+## &#x200B;4. Ambiente di sviluppo locale
 
 ```bash
 # Required versions
@@ -121,18 +121,18 @@ aio app use
 ```
 
 
-## 5. Two project directories to know
+## &#x200B;5. Due directory di progetto da conoscere
 
-This tutorial uses two separate directory roots. Keep them separate.
+Questa esercitazione utilizza due directory principali separate. Tenetele separate.
 
-**Commerce project root** (your Magento git repository):
+**Directory principale del progetto Commerce** (archivio Git Magento):
 
 ```text
 <commerce-root>/
 └── app/code/Client/SplitPayment/   ← Module goes here
 ```
 
-**App Builder project root** (the `split-payment-orchestrator` folder from the source package, or a new project you create):
+**Directory principale progetto App Builder** (la cartella `split-payment-orchestrator` dal pacchetto di origine o un nuovo progetto creato):
 
 ```text
 split-payment-orchestrator/
@@ -143,39 +143,39 @@ split-payment-orchestrator/
 ```
 
 
-## 6. entity_id compared to increment_id
+## &#x200B;6. entity_id confrontato con increment_id
 
-> **Always use `entity_id` (the numeric database ID), not `increment_id` (for example `000000042`), in REST calls.**
+> **Utilizzare sempre `entity_id` (l&#39;ID di database numerico) e non `increment_id` (ad esempio `000000042`) nelle chiamate REST.**
 
-Find `entity_id` from the **[!UICONTROL Commerce Admin]** order URL:
+Trova `entity_id` dall&#39;URL ordine **[!UICONTROL Commerce Admin]**:
 
 ```text
 /admin/sales/order/view/order_id/42/   →   entity_id = 42
 ```
 
-Or from the simulation script:
+Oppure dallo script di simulazione:
 
 ```bash
 node scripts/simulate-split-payment.mjs show 42
 ```
 
 
-## 7. The $100 threshold
+## &#x200B;7. La soglia di $100
 
-The split payment UI and threshold guard target orders **$100.00 or less**. The flow behaves as follows:
+L&#39;interfaccia utente per il pagamento frazionato e gli ordini target di soglia guardia **$100.00 o meno**. Il flusso si comporta come segue:
 
-* **At or below $100:** the split payment UI appears; the customer can set a cash plus store credit split
-* **Above $100:** `CheckoutPlugin` throws an error at the payment step
+* **Al prezzo di $100 o inferiore:** viene visualizzata l&#39;interfaccia utente per il pagamento frazionato; il cliente può impostare un frazionamento del credito in contanti e del negozio
+* **Al di sopra di $100:** `CheckoutPlugin` genera un errore al passaggio di pagamento
 
-To test, build a cart whose subtotal, shipping, and tax are **less than or equal to $100** (for example, a product under $90 so shipping and tax still fit under the cap).
+Per eseguire il test, crea un carrello con subtotale, spese di spedizione e imposte pari a **o inferiori a $100** (ad esempio, un prodotto inferiore a $90 in modo che la spedizione e le imposte rientrino ancora nel limite).
 
-The threshold is stored in:
+La soglia viene memorizzata in:
 
-* Commerce config: `split_payment/general/threshold` (default `100` in `etc/config.xml`)
-* App Builder environment: `PAYMENT_THRESHOLD=100` (must match Commerce)
+* Configurazione Commerce: `split_payment/general/threshold` (impostazione predefinita `100` in `etc/config.xml`)
+* Ambiente App Builder: `PAYMENT_THRESHOLD=100` (deve corrispondere a Commerce)
 
 
-## 8. Fastly (Commerce Cloud only)
+## &#x200B;8. Fastly (solo Commerce Cloud)
 
 Le azioni di App Builder richiamano Commerce su REST (`/rest/V1/split-payment/orders/...`). Se il progetto Commerce Cloud utilizza Fastly con la inserire nell&#39;elenco Consentiti di IP in uscita, è necessario inserire nell&#39;elenco Consentiti gli indirizzi IP in uscita del runtime App Builder.
 
@@ -197,7 +197,7 @@ Prima di avviare le richieste di generazione, verifica quanto segue:
 * [ ] Nel progetto App Builder sono configurati il servizio Eventi di I/O e il provider di eventi Commerce
 * [ ] `aio login` è completato e l&#39;area di lavoro corretta è selezionata con `aio app use`
 * [ ] Node.js 18 o versione successiva è installato e `aio` CLI è installato
-* [ ] `.env` file preparati per [Dividi POC pagamento: riferimento variabili di ambiente](split-payment-poc-env-reference.md) (e pacchetto di origine, se utilizzato)
+* [ ] `.env` file preparati per [Dividi POC pagamento: riferimento variabili di ambiente](./env-reference.md) (e pacchetto di origine, se utilizzato)
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

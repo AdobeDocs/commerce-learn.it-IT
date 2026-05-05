@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Dividi pagamento POC: richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud
 
-Questo è il passaggio facoltativo che incorpora un pannello di ordini di pagamento frazionati nell&#39;Admin Shell (Experience Cloud) di **[!UICONTROL Adobe Commerce]** utilizzando il pattern `commerce-checkout-starter-kit` e `commerce-backend-ui-1`. Il dashboard [demo](split-payment-poc-app-builder-orchestrator-prompt.md) autonomo di App Builder Orchestrator copre lo stesso flusso di accettazione e rifiuto senza l&#39;integrazione di Admin Shell.
+Questo è il passaggio facoltativo che incorpora un pannello di ordini di pagamento frazionati nell&#39;Admin Shell (Experience Cloud) di **[!UICONTROL Adobe Commerce]** utilizzando il pattern `commerce-checkout-starter-kit` e `commerce-backend-ui-1`. Il dashboard [demo](./orchestrator-prompt.md) autonomo di App Builder Orchestrator copre lo stesso flusso di accettazione e rifiuto senza l&#39;integrazione di Admin Shell.
 
 ## Come utilizzare questo prompt
 
@@ -26,8 +26,8 @@ Copia tutto da **PROMPT START** a **End of prompt** in Cursor o Claude. Eseguire
 
 ## Prima dell’esecuzione
 
-* Questo percorso necessita di **credenziali IMS** oltre ai valori OAuth (vedi [Dividi POC pagamento: riferimento alle variabili di ambiente](split-payment-poc-env-reference.md) per le variabili `commerce-checkout-starter-kit`).
-* Completa [Dividi POC pagamento: richiesta di IA di App Builder Orchestrator](split-payment-poc-app-builder-orchestrator-prompt.md) prima se vuoi confrontare lo stesso comportamento `payment-accept` e `payment-decline`; l&#39;estensione dell&#39;interfaccia utente riutilizza tale logica con i nomi env `COMMERCE_INTEGRATION_*`.
+* Questo percorso necessita di **credenziali IMS** oltre ai valori OAuth (vedi [Dividi POC pagamento: riferimento alle variabili di ambiente](./env-reference.md) per le variabili `commerce-checkout-starter-kit`).
+* Completa [Dividi POC pagamento: richiesta di IA di App Builder Orchestrator](./orchestrator-prompt.md) prima se vuoi confrontare lo stesso comportamento `payment-accept` e `payment-decline`; l&#39;estensione dell&#39;interfaccia utente riutilizza tale logica con i nomi env `COMMERCE_INTEGRATION_*`.
 
 
 ## Il prompt
@@ -137,16 +137,16 @@ commerce-checkout-starter-kit/commerce-backend-ui-1/
 
 **`scripts/simulate-split-payment.mjs`**
 
-A Node.js ESM script for testing Commerce REST calls directly (without going through App Builder). Uses the same OAuth 1.0a signing as the App Builder actions.
+Uno script ESM Node.js per testare direttamente le chiamate REST di Commerce (senza passare attraverso App Builder). Utilizza la stessa firma OAuth 1.0a delle azioni di App Builder.
 
-Commands:
-* `node simulate-split-payment.mjs help` — show usage
-* `node simulate-split-payment.mjs list` — list recent orders with split payment data
-* `node simulate-split-payment.mjs show <orderId>` — show split payment fields for a specific order (entity_id)
-* `node simulate-split-payment.mjs accept <orderId>` — call `cash-received` endpoint
-* `node simulate-split-payment.mjs decline <orderId>` — call `cash-decline` endpoint
+Comandi:
+* `node simulate-split-payment.mjs help` — mostra utilizzo
+* `node simulate-split-payment.mjs list` — elenca gli ordini recenti con dati di pagamento frazionati
+* `node simulate-split-payment.mjs show <orderId>` — mostra i campi di pagamento frazionato per un ordine specifico (entity_id)
+* `node simulate-split-payment.mjs accept <orderId>` — chiama endpoint `cash-received`
+* `node simulate-split-payment.mjs decline <orderId>` — chiama endpoint `cash-decline`
 
-Reads credentials from `commerce-backend-ui-1/.env.simulation` (copy from `.env.simulation.example`).
+Legge le credenziali da `commerce-backend-ui-1/.env.simulation` (copia da `.env.simulation.example`).
 
 **`.env.simulation.example`:**
 
@@ -161,14 +161,14 @@ COMMERCE_ACCESS_TOKEN_SECRET=
 
 ### `ext.config.yaml`
 
-Configure the extension with:
-* The `commerce-backend-ui-1` extension type
-* The four backend actions (`commerce`, `payment-accept`, `payment-decline`, `registration`)
-* `require-adobe-auth: true` for all actions except `registration`
-* Input bindings from env for `COMMERCE_INTEGRATION_*` credentials
+Configura l&#39;estensione con:
+* Tipo di estensione `commerce-backend-ui-1`
+* Le quattro azioni di backend (`commerce`, `payment-accept`, `payment-decline`, `registration`)
+* `require-adobe-auth: true` per tutte le azioni eccetto `registration`
+* Assegnazioni di input dall&#39;ambiente per le credenziali `COMMERCE_INTEGRATION_*`
 
 
-### After Generating Files
+### Dopo la generazione dei file
 
 ```bash
 cd commerce-checkout-starter-kit
