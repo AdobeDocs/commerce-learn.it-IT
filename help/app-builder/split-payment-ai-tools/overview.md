@@ -21,7 +21,7 @@ Questa è la prima di una serie di tutorial che ti introducono all’utilizzo de
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483941?captions=ita&learn=on)
 
 ## Dettagli importanti
 
