@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 297
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Le visualizzazioni del catalogo consentono di gestire ogni pubblico in modo dive
 * Come una vetrina utilizza una vista a catalogo per filtrare prodotti e prezzi (ad esempio, Celport)
 * Visualizzazione del catalogo con ID univoci e valore aziendale di un’unica fonte di verità
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491270?captions=ita&learn=on)
 
 ## Scenario: Carvelo Automobiles
 
