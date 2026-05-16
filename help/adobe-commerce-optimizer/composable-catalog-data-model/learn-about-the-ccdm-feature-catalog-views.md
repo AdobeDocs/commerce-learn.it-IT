@@ -31,7 +31,7 @@ Le visualizzazioni del catalogo consentono di gestire ogni pubblico in modo dive
 * Come una vetrina utilizza una vista a catalogo per filtrare prodotti e prezzi (ad esempio, Celport)
 * Visualizzazione del catalogo con ID univoci e valore aziendale di un’unica fonte di verità
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491270?captions=ita&learn=on)
 
 ## Scenario: Carvelo Automobiles
 
