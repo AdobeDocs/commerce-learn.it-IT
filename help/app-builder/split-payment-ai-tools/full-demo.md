@@ -24,7 +24,7 @@ Un acquirente paga con parte contanti e parte **[!UICONTROL Store Credit]**. Com
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3484107?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
 
 ## A chi serve questo video?
 
