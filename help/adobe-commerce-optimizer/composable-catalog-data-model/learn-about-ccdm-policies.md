@@ -32,7 +32,7 @@ Se una **vista catalogo** è l&#39;obiettivo che determina ciò che gli acquiren
 * Criteri TRIGGER attivati dalle intestazioni di richiesta API (ad esempio `AC-Policy-Brand`)
 * Aggiornamento dei criteri nelle operazioni quotidiane senza ricompilazione del catalogo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491432?captions=ita&learn=on)
 
 Un **criterio** è un **filtro di accesso ai dati**. Esamina gli attributi del prodotto e applica le regole che determinano quali prodotti può esporre una vista catalogo. I criteri si trovano sopra il catalogo composabile condiviso e non duplicano i dati del catalogo.
 
