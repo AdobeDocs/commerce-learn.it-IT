@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,7 @@ Se una **vista catalogo** è l&#39;obiettivo che determina ciò che gli acquiren
 * Criteri TRIGGER attivati dalle intestazioni di richiesta API (ad esempio `AC-Policy-Brand`)
 * Aggiornamento dei criteri nelle operazioni quotidiane senza ricompilazione del catalogo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## Scenario: Carvelo Automobiles e Celport
-
-**Carvelo Automobiles** è una società fittizia di parti di ricambio per auto utilizzata nelle dimostrazioni di Adobe Commerce. Carvelo vende parti in tre marchi: **Aurora**, **Bolt** e **Cruz** attraverso concessionari tra cui **Celport**.
-
-Nella [visualizzazione catalogo Celport](./learn-about-the-ccdm-feature-catalog-views.md), due criteri funzionano insieme:
-
-1. **Filtro marchio** - consente solo **Bolt** e **Cruz** marchi. I prodotti Aurora non passano questo filtro.
-2. **Filtro categoria** — limita i prodotti visibili solo a **freni** e **sospensioni**.
-
-Un prodotto deve soddisfare **ogni criterio attivo** per essere visibile. Tutto il resto è escluso.
-
-I criteri valutano gli attributi del prodotto come **brand**, **veicolo modello** o **categoria parte** e definiscono quali prodotti possono essere utilizzati per la visualizzazione catalogo.
-
-## Che cos&#39;è una policy?
+>[!VIDEO](https://video.tv.adobe.com/v/3491432?captions=ita&learn=on)
 
 Un **criterio** è un **filtro di accesso ai dati**. Esamina gli attributi del prodotto e applica le regole che determinano quali prodotti può esporre una vista catalogo. I criteri si trovano sopra il catalogo composabile condiviso e non duplicano i dati del catalogo.
 
