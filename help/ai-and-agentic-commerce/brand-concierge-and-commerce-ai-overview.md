@@ -38,4 +38,4 @@ La porta d&#39;ingresso al commercio non è più una home page, è una conversaz
 
 ## Risorse aggiuntive
 
-[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/it/docs/brand-concierge/content/home){target="_blank"}
