@@ -7,14 +7,16 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21575
 duration: 225
-source-git-commit: cb1adeac1e57f4a0d43827a72f8762fff17bc727
+source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # Sviluppo agente
+
+[!BADGE Beta]{type=Informative tooltip="Questa funzione è attualmente in versione beta ed è soggetta a modifiche."}
 
 La creazione di personalizzazioni di e-commerce richiede tradizionalmente più team, strumenti e giorni di lavoro distribuiti tra analisi, progettazione, sviluppo e distribuzione. Lo sviluppo di agenti in Adobe Commerce comprime tutto ciò in un singolo loop intelligente. Un agente di intelligenza artificiale comprende il sistema esistente, non solo ciò che il codice fa, ma ciò che deve fare, genera un blueprint, scrive codice pronto per la produzione, convalida durante la creazione e orchestra la distribuzione senza handoff o perdita di contesto.
 

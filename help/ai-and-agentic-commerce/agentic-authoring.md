@@ -7,14 +7,16 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21574
 duration: 376
-source-git-commit: cb1adeac1e57f4a0d43827a72f8762fff17bc727
+source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # Authoring agente
+
+[!BADGE Beta]{type=Informative tooltip="Questa funzione è attualmente in versione beta ed è soggetta a modifiche."}
 
 Experience Workspace è l’ambiente di authoring per agenti integrato nella vetrina Adobe Commerce. Offre agli addetti al marketing e agli sviluppatori una superficie unificata, ovvero struttura dei file, contenuto della pagina, metadati e anteprima live, il tutto in un’unica posizione. Il suo assistente per l’authoring di IA è in esecuzione su MCP. Si collega direttamente al catalogo dei prodotti e al contenuto del brand, per descrivere cosa si desidera creare e guardarlo mentre viene visualizzato, senza cambiare scheda, copiare-incollare o archiviare i ticket.
 
