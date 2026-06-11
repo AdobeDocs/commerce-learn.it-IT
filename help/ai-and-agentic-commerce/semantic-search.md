@@ -35,4 +35,4 @@ La ricerca tradizionale delle parole chiave corrisponde alle parole esatte, ma g
 
 ## Risorse aggiuntive
 
-[Panoramica di [!DNL Live Search]](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+[Panoramica di [!DNL Live Search]](https://experienceleague.adobe.com/it/docs/commerce/live-search/overview){target="_blank"}
