@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Panoramica di IA per Brand Concierge e Commerce
 
-[!BADGE Beta]{type=Informative tooltip="Questa funzione è attualmente in versione beta ed è soggetta a modifiche."}
+[!BADGE Disponibile a breve]{type=Informative tooltip="Questa funzione sarà presto disponibile ed è soggetta a modifiche."}
 
 La porta d&#39;ingresso al commercio non è più una home page, è una conversazione. Brand Concierge, integrato con Adobe Commerce, sostituisce filtri, barre di ricerca e pagine di categorie con un Assistente AI che comprende le intenzioni degli acquirenti, esegue query sul catalogo e gestisce il carrello in una sola conversazione. Gli acquirenti che fanno riferimento all’intelligenza artificiale convertono il 31% in più, generano il 254% di ricavi in più per visita e trascorrono il 45% di tempo in più sul sito (Adobe Digital Insights, gennaio 2026).
 
