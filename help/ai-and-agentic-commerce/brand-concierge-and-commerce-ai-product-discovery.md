@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Disponibile a breve]{type=Informative tooltip="Questa funzione sarà presto disponibile ed è soggetta a modifiche."}
 
-Anche i cataloghi di prodotti più ricchi hanno solo una visibilità parziale sui modelli in grandi lingue (LLM, Large Language Model). Attributi avanzati come varianti di prodotto, tipo di rettifica, note di gusto e packaging sono spesso nascosti dietro pannelli e pop-up comprimibili che i crawler di intelligenza artificiale non sono in grado di leggere. L&#39;agente catalogo di Brand Concierge identifica automaticamente queste lacune di visibilità e le risolve senza modificare la vetrina.
+Anche i cataloghi di prodotti più ricchi hanno solo una visibilità parziale sui modelli in grandi lingue (LLM, Large Language Model). Attributi avanzati come varianti di prodotto, tipo di rettifica, note di gusto e packaging sono spesso nascosti dietro pannelli e pop-up comprimibili che i crawler di intelligenza artificiale non sono in grado di leggere. L&#39;agente del catalogo commerciale identifica automaticamente queste lacune di visibilità e le risolve senza modificare la vetrina.
 
 ## A chi serve questo video?
 
@@ -34,7 +34,7 @@ Anche i cataloghi di prodotti più ricchi hanno solo una visibilità parziale su
 * Arricchimento del catalogo che genera nomi e descrizioni di prodotti ottimizzati con IA
 * Convalida dei miglioramenti tramite Verifica Visibilità dei contenuti IA
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492329?captions=ita)
 
 ## Risorse aggiuntive
 
