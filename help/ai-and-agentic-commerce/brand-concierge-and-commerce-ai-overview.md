@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Disponibile a breve]{type=Informative tooltip="Questa funzione sarà presto disponibile ed è soggetta a modifiche."}
 
-La porta d&#39;ingresso al commercio non è più una home page, è una conversazione. Brand Concierge, integrato con Adobe Commerce, sostituisce filtri, barre di ricerca e pagine di categorie con un Assistente AI che comprende le intenzioni degli acquirenti, esegue query sul catalogo e gestisce il carrello in una sola conversazione. Gli acquirenti che fanno riferimento all’intelligenza artificiale convertono il 31% in più, generano il 254% di ricavi in più per visita e trascorrono il 45% di tempo in più sul sito (Adobe Digital Insights, gennaio 2026).
+Brand Concierge porta lo shopping conversazionale in Adobe Commerce, consentendo agli acquirenti di descrivere cosa vogliono in linguaggio semplice e di ottenere prodotti corrispondenti dal catalogo live, senza filtri né barre di ricerca richieste. La stessa conversazione gestisce aggiornamenti del carrello, pagamento e indicazioni post-acquisto, mantenendo il contesto completo durante la sessione.
 
 ## A chi serve questo video?
 
@@ -38,4 +38,4 @@ La porta d&#39;ingresso al commercio non è più una home page, è una conversaz
 
 ## Risorse aggiuntive
 
-[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/it/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
