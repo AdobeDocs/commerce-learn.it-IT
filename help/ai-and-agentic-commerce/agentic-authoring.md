@@ -34,7 +34,7 @@ Experience Workspace è l’ambiente di authoring agenziale che offre agli addet
 * Il linguaggio naturale richiede di eseguire una query sul catalogo e generare pagine complete della campagna
 * Modifica a livello di blocco e anteprima live con rendering edge prima della pubblicazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492302?captions=ita)
 
 <!-- ## Additional resources -->
 
