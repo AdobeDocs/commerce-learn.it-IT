@@ -34,7 +34,7 @@ La creazione di personalizzazioni di e-commerce richiede tradizionalmente più t
 * Convalida e ottimizzazione simultanee nell&#39;intera vista del sistema
 * Flusso di distribuzione continuo senza handoff o perdita di contesto
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492293?captions=ita)
 
 <!-- ## Additional resources -->
 
