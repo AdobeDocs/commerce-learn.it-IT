@@ -36,4 +36,4 @@ Scopri come installare e configurare la cartuccia Adobe Commerce Optimizer per u
 * Importa definizioni di processi e oggetti personalizzati per supportare il tracciamento e la sincronizzazione.
 * Esegui il test di un endpoint API personalizzato per confermare l’installazione e prepararti per la sincronizzazione del catalogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476078?captions=ita&learn=on)

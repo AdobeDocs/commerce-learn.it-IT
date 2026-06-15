@@ -31,7 +31,7 @@ I moderni team di commerce vendono spesso tra **marchi**, **aree geografiche**, 
 * Funzionamento delle visualizzazioni del catalogo come &quot;obiettivo&quot; tra un catalogo di base condiviso e una vetrina o un pubblico specifico
 * Modalità di utilizzo delle API di Merchandising Services in modo che le esperienze headless rimangano allineate al catalogo configurato
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491293?captions=ita&learn=on)
 
 ## La sfida con i cataloghi in silos
 
