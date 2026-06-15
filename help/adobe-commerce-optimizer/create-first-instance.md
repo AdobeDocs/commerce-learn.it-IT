@@ -1,13 +1,13 @@
 ---
-title: How to Create Your First Adobe Commerce Optimizer Instance
-description: Learn how to create your first Adobe Commerce Optimizer instance with this step-by-step tutorial.
+title: Come creare la prima istanza di Adobe Commerce Optimizer
+description: Scopri come creare la prima istanza di Adobe Commerce Optimizer verificando i diritti, verificando i crediti e selezionando il tipo e l’area geografica di istanza corretti.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00.000Z
+last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
 TQID: https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk
@@ -18,16 +18,16 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: 173
 ht-degree: 0%
 
 ---
 
-# Create your first instance of Adobe Commerce Optimizer
+# Creare la prima istanza di Adobe Commerce Optimizer
 
-Learn how to create your first Adobe Commerce Optimizer instance from start to finish. A few topics that are covered include verifying your organization and entitlements, checking available credits, and selecting the right instance type and environment. This beginner-friendly walkthrough is designed to help you get up and running quickly, with clear steps and helpful tips to ensure a smooth experience.
+Scopri come creare la prima istanza di Adobe Commerce Optimizer dall’inizio alla fine. Alcuni argomenti trattati includono la verifica dell’organizzazione e delle adesioni, il controllo dei crediti disponibili e la selezione del tipo di istanza e dell’ambiente corretti. Questa procedura dettagliata semplice e intuitiva è progettata per aiutarti a iniziare rapidamente, con passaggi chiari e suggerimenti utili per garantire un’esperienza fluida.
 
 ## A chi serve questo video?
 
@@ -37,13 +37,13 @@ Learn how to create your first Adobe Commerce Optimizer instance from start to f
 
 ## Contenuto video
 
-* Set up your first Adobe Commerce Optimizer instance step by step.
-* Choose the right environment and region for your instance.
-* Quickly deploy and prepare for catalog setup in future tutorials.
+* Imposta la prima istanza di Adobe Commerce Optimizer passo dopo passo.
+* Scegli l’ambiente e l’area geografica giusti per la tua istanza.
+* Implementa e prepara rapidamente la configurazione del catalogo nelle esercitazioni future.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469886?captions=ita&learn=on)
 
 ## Contenuto correlato
 
 * [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
-* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}

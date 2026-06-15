@@ -1,17 +1,17 @@
 ---
 title: Informazioni sui criteri CCDM in Composable Catalog Data Model
-description: Scopri in che modo i criteri di Adobe Composable Catalog Data Model filtrano i prodotti con regole STATIC e intestazioni TRIGGER su ogni vista di catalogo.
+description: Scopri in che modo i criteri STATIC e TRIGGER di Adobe Composable Catalog Data Model controllano la visibilità dei prodotti nelle visualizzazioni del catalogo senza ricostruire il catalogo.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ I criteri sono filtri leggeri in un **catalogo condiviso**, non regole raggruppa
 * [Scopri le visualizzazioni del catalogo](./learn-about-the-ccdm-feature-catalog-views.md)
 * [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/it/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
-* [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
