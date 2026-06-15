@@ -64,4 +64,4 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 ## Contenuto correlato
 
 * [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
-* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
