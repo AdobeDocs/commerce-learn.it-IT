@@ -1,20 +1,20 @@
 ---
-title: Rilevamento di prodotti Brand Concierge e Commerce AI
-description: Scopri in che modo Brand Concierge utilizza un agente di catalogo per colmare i gap di visibilità AI, arricchendo i dati dei prodotti Commerce in modo che gli LDM possano scoprire e consigliare i tuoi prodotti.
+title: Rilevamento di prodotti Commerce AI
+description: Scopri in che modo l’agente del catalogo Commerce risolve i gap di visibilità dell’intelligenza artificiale, arricchendo i dati dei prodotti Commerce in modo che gli LDM possano scoprire e consigliare i tuoi prodotti.
 role: User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Rilevamento di prodotti Brand Concierge e Commerce AI
+# Rilevamento di prodotti Commerce AI
 
 [!BADGE Disponibile a breve]{type=Informative tooltip="Questa funzione sarà presto disponibile ed è soggetta a modifiche."}
 
@@ -35,8 +35,4 @@ Anche i cataloghi di prodotti più ricchi hanno solo una visibilità parziale su
 * Convalida dei miglioramenti tramite Verifica Visibilità dei contenuti IA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492329?captions=ita)
-
-## Risorse aggiuntive
-
-[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/it/docs/brand-concierge/content/home){target="_blank"}
 
