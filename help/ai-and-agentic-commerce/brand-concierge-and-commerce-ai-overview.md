@@ -34,7 +34,7 @@ Brand Concierge integrato con Adobe Commerce trasforma le conversazioni in conve
 * Estrazione completata all&#39;interno della conversazione, senza spostarsi
 * Indicazioni contestuali post-acquisto specifiche per il prodotto acquistato
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492320?captions=ita)
 
 ## Risorse aggiuntive
 
