@@ -34,5 +34,5 @@ Anche i cataloghi di prodotti più ricchi hanno solo una visibilità parziale su
 * Arricchimento del catalogo che genera nomi e descrizioni di prodotti ottimizzati con IA
 * Convalida dei miglioramenti tramite Verifica Visibilità dei contenuti IA
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492329?captions=ita)
 
