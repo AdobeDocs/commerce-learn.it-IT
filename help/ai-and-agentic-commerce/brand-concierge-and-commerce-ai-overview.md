@@ -38,4 +38,4 @@ Brand Concierge integrato con Adobe Commerce trasforma le conversazioni in conve
 
 ## Risorse aggiuntive
 
-[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/it/docs/brand-concierge/content/home){target="_blank"}
