@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
+source-git-commit: 34d8e5a85419be1b8b219f1deafb9d714bd075a1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Disponibile a breve]{type=Informative tooltip="Questa funzione sarà presto disponibile ed è soggetta a modifiche."}
 
-Brand Concierge porta lo shopping conversazionale in Adobe Commerce, consentendo agli acquirenti di descrivere cosa vogliono in linguaggio semplice e di ottenere prodotti corrispondenti dal catalogo live, senza filtri né barre di ricerca richieste. La stessa conversazione gestisce aggiornamenti del carrello, pagamento e indicazioni post-acquisto, mantenendo il contesto completo durante la sessione.
+Brand Concierge integrato con Adobe Commerce trasforma le conversazioni in conversioni tramite un assistente AI che comprende le intenzioni degli acquirenti. Grazie a questa integrazione, è possibile fornire consigli di prodotto precisi e in tempo reale basati su dati di catalogo, prezzi e inventario live, in modo che i clienti possano prendere decisioni di acquisto affidabili.
 
 ## A chi serve questo video?
 
@@ -34,8 +34,8 @@ Brand Concierge porta lo shopping conversazionale in Adobe Commerce, consentendo
 * Estrazione completata all&#39;interno della conversazione, senza spostarsi
 * Indicazioni contestuali post-acquisto specifiche per il prodotto acquistato
 
->[!VIDEO](https://video.tv.adobe.com/v/3492320?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3492285)
 
 ## Risorse aggiuntive
 
-[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/it/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] documentazione](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
