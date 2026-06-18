@@ -1,15 +1,15 @@
 ---
-title: 'Dividi pagamento POC: richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud'
-description: 'Scopri come utilizzare questo prompt facoltativo per incorporare lo split payment in Commerce Admin: interfaccia di amministrazione di SDK, IMS, OAuth, accept and declinare e lo script di simulazione.'
+title: Dividi pagamento POC — richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud
+description: Scopri come utilizzare questo prompt facoltativo per incorporare lo split payment in Commerce Admin — Admin UI SDK, IMS, OAuth, accept and declinare e lo script di simulazione.
 feature: App Builder, Admin Workspace, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Dividi pagamento POC: richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud
 
-Questo è il passaggio facoltativo che incorpora un pannello di ordini di pagamento frazionati nell&#39;Admin Shell (Experience Cloud) di **[!UICONTROL Adobe Commerce]** utilizzando il pattern `commerce-checkout-starter-kit` e `commerce-backend-ui-1`. Il dashboard [demo](./orchestrator-prompt.md) autonomo di App Builder Orchestrator copre lo stesso flusso di accettazione e rifiuto senza l&#39;integrazione di Admin Shell.
+Questo è il passaggio facoltativo che incorpora un pannello di ordini di pagamento frazionati nell&#39;Admin Shell di **[!UICONTROL Adobe Commerce]** (Experience Cloud) utilizzando il pattern `commerce-checkout-starter-kit` e `commerce-backend-ui-1`. Il dashboard [demo](./orchestrator-prompt.md) autonomo di App Builder Orchestrator copre lo stesso flusso di accettazione e rifiuto senza l&#39;integrazione di Admin Shell.
 
 ## Come utilizzare questo prompt
 

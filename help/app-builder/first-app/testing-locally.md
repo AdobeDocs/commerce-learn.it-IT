@@ -1,7 +1,7 @@
 ---
-title: Testing locally
-description: Learn how to test your first Adobe Developer App Builder app.
-jira: KT-12427
+title: Test locale
+description: Scopri come testare l’applicazione Adobe Developer App Builder a livello locale, includendo unit test, test end-to-end e approcci di test manuali per gli sviluppatori Commerce.
+jira: KT-21685
 doc-type: Tutorial
 duration: 85
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,27 +18,27 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 68
+source-wordcount: 82
 ht-degree: 0%
 
 ---
 
-# Testing Locally {#testing-locally}
+# Test locale {#testing-locally}
 
-Learn how to locally test your new Adobe Developer App Builder application.
+Scopri come testare localmente la nuova applicazione Adobe Developer App Builder.
 
 ## A chi serve questo video?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who are ready to test their first Adobe Developer App Builder app.
+* Sviluppatori senza esperienza di Adobe Commerce con esperienza limitata nell’utilizzo di Adobe App Builder pronti per testare la loro prima app Adobe Developer App Builder.
 
 ## Contenuto video
 
-* Different levels of testing
-* Unit tests
-* E2E test
-* Manual test
+* Diversi livelli di test
+* Test di unità
+* Test E2E
+* Test manuale
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421056?captions=ita&learn=on)
 

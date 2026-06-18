@@ -1,15 +1,15 @@
 ---
-title: 'Dividi pagamento POC: passaggi successivi alla prova di concetto'
-description: Scopri come spostare il POC di pagamento frazionato verso la produzione. Interfaccia utente di Experience Cloud, hook ERP, Mesh API, ambito PHP, flussi di lavoro App Builder ed elenco di controllo della distribuzione.
+title: Dividi POC pagamento — passaggi successivi alla prova di concetto
+description: Scopri come spostare il POC di pagamento frazionato verso la produzione. Interfaccia utente di Experience Cloud, hook ERP, Mesh API, ambito PHP, flussi di lavoro di App Builder ed elenco di controllo per la distribuzione.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Il dashboard demo e lo script di simulazione creati in questa esercitazione sono
 
 L&#39;azione Web `demo-dashboard` utilizza HTML da una stringa all&#39;interno di una funzione Node.js. Funziona, ma non è il modello di produzione.
 
-La sostituzione corretta è l&#39;estensione `commerce-backend-ui-1` in `commerce-checkout-starter-kit` — un&#39;applicazione React incorporata in Commerce Admin Shell tramite Adobe Admin UI SDK. Per il prompt di generazione, vedere [Dividi POC pagamento: prompt di IA per l&#39;estensione dell&#39;interfaccia utente di Experience Cloud](./experience-cloud-ui-prompt.md).
+La sostituzione corretta è l&#39;estensione `commerce-backend-ui-1` in `commerce-checkout-starter-kit` — un&#39;applicazione React incorporata in Commerce Admin Shell tramite Adobe Admin UI SDK. Per il prompt di generazione, consulta il [prompt di IA dell&#39;estensione dell&#39;interfaccia utente di Experience Cloud](./experience-cloud-ui-prompt.md) per dividere il POC dei pagamenti.
 
 **Modifiche:**
 * Gli operatori accedono tramite Commerce Admin Shell (autenticazione IMS anziché segreto condiviso)
@@ -117,11 +117,11 @@ aio app deploy
 ```
 
 **Elenco di controllo per la preparazione alla produzione:**
-* [ Set ] `DEMO_UI_SECRET` (o dashboard demo sostituito con interfaccia utente Experience Cloud)
+* [ Set ] `DEMO_UI_SECRET` (o dashboard demo sostituito con l&#39;interfaccia utente di Experience Cloud)
 * [ ] `LOG_LEVEL=warn` o `error` in produzione (non `debug`)
 * [ ] `PAYMENT_THRESHOLD` corrisponde alla configurazione di produzione Commerce
 * [ Le credenziali di integrazione di ] Commerce in `.env` sono per un&#39;integrazione di produzione dedicata (non per staging)
-* [ Aggiornamento del inserisco nell&#39;elenco Consentiti di Fastly di ] con gli IP in uscita di produzione di App Builder (Commerce Cloud)
+* [ ] Aggiornamento del inserisco nell&#39;elenco Consentiti di IP fastly con gli IP in uscita di produzione di App Builder (Commerce Cloud)
 * [ Registrazione dell&#39;evento di I/O ] confermata nell&#39;area di lavoro di produzione
 
 

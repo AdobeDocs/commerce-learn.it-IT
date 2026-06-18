@@ -1,6 +1,6 @@
 ---
 title: Installare le app App Builder da Adobe Exchange
-description: Scopri come installare e convalidare le app Adobe Commerce App Builder tramite Adobe Exchange.
+description: Scopri come trovare, installare e convalidare le app Adobe Commerce App Builder da Adobe Exchange, incluse le funzioni di filtro, approvazione, configurazione dell’ambiente e verifica dell’installazione.
 feature: App Builder
 topic: Commerce
 role: Developer, User
@@ -22,16 +22,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 120
 ht-degree: 0%
 
 ---
 
 # Installare le app App Builder da Adobe Exchange
 
-Scopri come trovare, installare e convalidare le app Adobe Commerce App Builder tramite Adobe Exchange. Puoi filtrare le app rilevanti, acquisirle e approvarle, configurare ambienti di distribuzione e verificare l’installazione corretta, il tutto utilizzando un esempio reale con l’app Feed Generator. Che tu sia un nuovo utente di App Builder o desideri semplificare il flusso di lavoro, questo tutorial fornisce una panoramica pratica e dettagliata per iniziare.
+Scopri come trovare, installare e convalidare le app Adobe Commerce App Builder tramite Adobe Exchange. Puoi filtrare le app rilevanti, acquisirle e approvarle, configurare ambienti di distribuzione e verificare se l’installazione è andata a buon fine, il tutto utilizzando un esempio con l’app Feed Generator. Che tu sia un nuovo utente di App Builder o desideri semplificare il flusso di lavoro, questo tutorial fornisce una panoramica pratica e dettagliata per iniziare.
 
 
 ## A chi serve questo video?

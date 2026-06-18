@@ -1,7 +1,7 @@
 ---
 title: La cartella web-src
-description: Scopri i tipi di file nella cartella web-src e i file e le cartelle nidificati per questa applicazione di esempio.
-jira: KT-12425
+description: Scopri la struttura delle cartelle web-src, i file JavaScript e le cartelle nidificate e come questa cartella supporta l’interfaccia utente nell’applicazione di esempio App Builder.
+jira: KT-21683
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -20,16 +20,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 179
 ht-degree: 0%
 
 ---
 
 # Scoprire lo scopo della cartella web-src {#web-src-folder}
 
-La cartella web-src per questa app di esempio contiene molti file e cartelle di JavaScript. Questa cartella viene utilizzata per le applicazioni che dispongono di un&#39;interfaccia utente. Non tutte le applicazioni utilizzano questa funzione. Ad esempio, un’integrazione Commerce con un sistema esterno di gestione dell’inventario potrebbe non richiedere un’interfaccia e un codice front-end.
+La cartella web-src per questa app di esempio contiene molti file e cartelle di JavaScript. Questa cartella viene utilizzata per le applicazioni che dispongono di un&#39;interfaccia utente. Non tutte le applicazioni utilizzano questa funzione. Ad esempio, un’integrazione Commerce con un sistema esterno di gestione dell’inventario non richiede un’interfaccia e un codice front-end.
 
 ## A chi serve questo video?
 

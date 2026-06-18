@@ -1,17 +1,17 @@
 ---
-title: 'Creazione di una demo completa per il pagamento frazionato POC: App Builder'
+title: Demo completa di Split Payment POC — App Builder
 description: Scopri come funzionano in questa demo Luma il pagamento frazionato, REST, App Builder I/O e l’accettazione/rifiuto da parte dell’operatore, oltre a un totale preordine configurabile che può bloccare il carrello.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 933
+duration: 861
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---

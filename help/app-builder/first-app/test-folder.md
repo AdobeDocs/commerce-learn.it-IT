@@ -1,7 +1,7 @@
 ---
-title: The test folder
-description: Learn about the types of files in the test folder for this sample application.
-jira: KT-12424
+title: Cartella di prova
+description: Scopri il file di unit test di JavaScript nella cartella dei test di App Builder e come espanderlo per testare completamente l’applicazione di esempio Adobe Commerce.
+jira: KT-21682
 doc-type: Tutorial
 duration: 233
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,28 +18,28 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: 122
 ht-degree: 0%
 
 ---
 
-# Learn about the test folder {#test-folder}
+# Scopri la cartella di test {#test-folder}
 
-The `test` folder for this sample app contains a single JavaScript file, which is used when running unit tests on the application.
+La cartella `test` per questa app di esempio contiene un singolo file JavaScript, utilizzato per l&#39;esecuzione di unit test nell&#39;applicazione.
 
-This is a simple example and can be expanded to create comprehensive tests for your specific applications.
+Questo punto di partenza può essere esteso per creare test completi per le applicazioni specifiche.
 
 ## A chi serve questo video?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who wants to learn about the `test` folder.
+* Sviluppatori senza esperienza di Adobe Commerce con Adobe App Builder che desiderano conoscere la cartella `test`.
 
 ## Contenuto video
 
-* Why use the `test` folder?
-* A brief explanation of the unit test file and its components
-* Introduction to end-to-end testing
+* Perché utilizzare la cartella `test`?
+* Breve spiegazione del file di unit test e dei relativi componenti
+* Introduzione ai test end-to-end
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421062?captions=ita&learn=on)
 

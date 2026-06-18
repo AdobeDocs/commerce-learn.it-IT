@@ -1,15 +1,15 @@
 ---
-title: 'Dividi POC pagamento: riferimento rapido tutorial'
+title: Dividi POC pagamento — riferimento rapido tutorial
 description: Scopri la mappa del file POC per il pagamento frazionato. Quale pagina di Experience League corrisponde a ogni prompt di IA, ordine di sezione suggerito e note dell’autore per il checkout Luma.
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -120,10 +120,10 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Utilizzo dell&#39;esercitazione:** sezione &quot;Generare l&#39;applicazione App Builder&quot;. Accedi al prompt dei moduli di Commerce.
 
 
-### [Dividi POC pagamento: richiesta IA estensione interfaccia utente Experience Cloud](./experience-cloud-ui-prompt.md)
+### [Dividi POC pagamento: richiesta IA estensione interfaccia utente di Experience Cloud](./experience-cloud-ui-prompt.md)
 
 
-**Scopo:** richiesta di IA per generare l&#39;estensione SDK opzionale dell&#39;interfaccia utente di amministrazione di Experience Cloud.
+**Scopo:** richiesta di IA per generare l&#39;estensione opzionale di SDK dell&#39;interfaccia utente di amministrazione di Experience Cloud.
 
 **Perché è necessario:** Il dashboard demo nel prompt dell&#39;orchestratore è intenzionalmente approssimativo, è una prova di concetto, non di produzione. Questa sezione mostra agli sviluppatori il passaggio successivo: incorporare il dashboard dei pagamenti divisi in Commerce Admin Shell utilizzando l’interfaccia di amministrazione di SDK. Mancava completamente dai prompt originali.
 
@@ -165,7 +165,7 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 
 **Scopo:** roadmap per l&#39;evoluzione del PoC in modelli pronti per la produzione.
 
-**Perché è necessario:** un&#39;esercitazione PoC rischia di lasciare agli sviluppatori un messaggio di tipo &quot;che cosa è ora?&quot; sensazione. Questo documento mappa le progressioni naturali da demo a produzione: sostituzione del dashboard demo con un’estensione Experience Cloud, connessione di un ERP reale, aggiunta di Mesh API, espansione del flusso di lavoro App Builder e checklist di distribuzione della produzione.
+**Perché è necessario:** un&#39;esercitazione PoC rischia di lasciare agli sviluppatori un messaggio di tipo &quot;che cosa è ora?&quot; sensazione. Questo documento mappa le progressioni naturali da demo a produzione: sostituzione del dashboard demo con un’estensione Experience Cloud, connessione di un ERP reale, aggiunta di Mesh API, espansione del flusso di lavoro App Builder ed elenco di controllo della distribuzione di produzione.
 
 **Contenuto chiave:**
 
@@ -192,7 +192,7 @@ In base a questi file, una struttura tipica per i lettori è:
 | Passaggio 1: creare il modulo Commerce | [Dividi POC pagamento: richiesta di IA modulo Commerce](./commerce-module-prompt.md) |
 | Passaggio 2: creare App Builder Orchestrator | [Dividi POC pagamento: richiesta di IA di App Builder Orchestrator](./orchestrator-prompt.md) |
 | Passaggio 3: verificare il flusso end-to-end | [Dividi POC pagamento: guida alla verifica e alla verifica](./testing-and-verification.md) |
-| Passaggio 4 (facoltativo): estensione dell’interfaccia di amministrazione | [Dividi POC pagamento: richiesta IA estensione interfaccia utente Experience Cloud](./experience-cloud-ui-prompt.md) |
+| Passaggio 4 (facoltativo): estensione dell’interfaccia di amministrazione | [Dividi POC pagamento: richiesta IA estensione interfaccia utente di Experience Cloud](./experience-cloud-ui-prompt.md) |
 | Passaggi successivi e percorso di produzione | [Dividi POC pagamento: passaggi successivi alla verifica del concetto](./next-steps.md) |
 
 
