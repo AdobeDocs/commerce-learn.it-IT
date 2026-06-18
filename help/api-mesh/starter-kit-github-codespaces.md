@@ -48,4 +48,4 @@ Questa sessione introduce Adobe Commerce API Mesh Starter Kit. È progettato per
 
 * [Kit starter mesh API per archivio GitHub](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [documentazione Adobe Developer graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [Playlist dei video Mesh API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Playlist dei video Mesh API](https://experienceleague.adobe.com/it/playlists/commerce-get-started-app-builder-and-api-mesh)
