@@ -1,17 +1,14 @@
 ---
-title: Last mile integration in the Commerce integration starter kit.
-description: Last mile integration in Commerce, highlighting extensibility hooks like validation, transformation, preprocessing, sending, and post-processing.​
-landing-page-description: Learn the structure and functions of extensibility hooks in last mile integration for Commerce systems.
-kt: 15869
-doc-type: video
+title: Integrazione dell’ultimo miglio nel kit di avvio Commerce
+description: Scopri l’integrazione dell’ultimo miglio in Commerce utilizzando gli hook di estensibilità per la convalida, la trasformazione, la pre-elaborazione, l’invio e la post-elaborazione.
+doc-type: Technical Video
 duration: 557
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15869
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
 TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
 product_v2:
@@ -24,37 +21,37 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 359
+source-wordcount: 342
 ht-degree: 0%
 
 ---
 
-# Last mile integration using the Adobe Starter Kit
+# Integrazione dell’ultimo miglio con Adobe Starter Kit
 
-Learn about items to consider when starting the last-mile integration with Adobe Commerce with a focus on using extensibility hooks to enhance connectivity with third-party systems. This video outlines a structured approach where various hooks such as validation, transformation, preprocessing, sending, and post-processing ensure seamless data flow and system synchronization. Each hook serves a distinct purpose, including:
+Scopri gli elementi da considerare all’avvio dell’integrazione dell’ultimo miglio con Adobe Commerce, concentrandoti sugli hook di estensibilità per migliorare la connettività con sistemi di terze parti. Questo video illustra un approccio strutturato in cui vari hook, come la convalida, la trasformazione, la pre-elaborazione, l’invio e la post-elaborazione, garantiscono un flusso di dati e una sincronizzazione del sistema fluidi. Ciascun amo ha uno scopo distinto, tra cui:
 
-* Validating incoming data against schemas
-* Transforming data objects between systems
-* Performing calculations before sending relevant information
-* Sending the data to the destination system
+* Convalida dei dati in arrivo in base agli schemi
+* Trasformazione di oggetti dati tra sistemi
+* Esecuzione di calcoli prima dell&#39;invio di informazioni rilevanti
+* Invio dei dati al sistema di destinazione
 
-It is important to maintain separate JavaScript files for each block to uphold business logic integrity and facilitate future framework upgrades, ensuring a robust and adaptable integration setup.
+È importante mantenere file JavaScript separati per ciascun blocco per garantire l’integrità della logica di business e facilitare i futuri aggiornamenti del framework, garantendo una configurazione dell’integrazione solida e adattabile.
 
-Learn about the significance of post-processing activities through the post process hook, which enables users to perform additional actions after data synchronization, such as adding comments to orders or storing external IDs. The video includes best practices like encapsulating API requests within specific libraries to streamline connections with third-party systems. You will also learn typical use cases for each hook and guidance on handling different scenarios.
+Scopri il significato delle attività di post-elaborazione tramite l’hook di post-elaborazione, che consente agli utenti di eseguire azioni aggiuntive dopo la sincronizzazione dei dati, ad esempio l’aggiunta di commenti agli ordini o la memorizzazione di ID esterni. Il video include best practice come l’incapsulamento delle richieste API in librerie specifiche per semplificare le connessioni con sistemi di terze parti. Scoprirai anche i casi d’uso tipici di ogni hook e le indicazioni sulla gestione di scenari diversi.
 
 ## Pubblico
 
-* Developers who want to learn the structure and functionality of extensibility hooks, and how these hooks can enhance connectivity with third-party systems.
-* Developers who want to learn typical use cases and best practices associated with each extensibility hook, such as validation, transformation, preprocessing, sending, and post-processing, to facilitate seamless data flow, system synchronization, and efficient integration setup maintenance. &#x200B;
+* Sviluppatori che desiderano imparare la struttura e la funzionalità degli hook di estensibilità e come questi hook possono migliorare la connettività con sistemi di terze parti.
+* Sviluppatori che desiderano apprendere i casi d’uso tipici e le best practice associate a ciascun hook di estensibilità, come convalida, trasformazione, pre-elaborazione, invio e post-elaborazione, per facilitare il flusso di dati, la sincronizzazione del sistema e la manutenzione efficiente dell’impostazione dell’integrazione. &#x200B;
 
 ## Contenuto video
 
-* Learn about the structure of the invoked actions in last-mile integration.
-* Understand typical use cases within the validation hook, including validating incoming data against schemas and skipping specific events based on certain criteria. &#x200B;
-* Learn the role of the transform hook in transforming data objects between the origin and destination systems.
-* Learn about the significance of the send hook in facilitating the actual data send to the destination system.
+* Scopri la struttura delle azioni richiamate nell’integrazione dell’ultimo miglio.
+* Comprendi i casi d’uso tipici all’interno dell’hook di convalida, inclusa la convalida dei dati in arrivo rispetto agli schemi e l’esclusione di eventi specifici in base a determinati criteri. &#x200B;
+* Scopri il ruolo dell’hook di trasformazione nella trasformazione degli oggetti dati tra i sistemi di origine e di destinazione.
+* Scopri l’importanza dell’hook di invio nel facilitare l’effettivo invio dei dati al sistema di destinazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451933?captions=ita&learn=on)
 

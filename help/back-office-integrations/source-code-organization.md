@@ -1,17 +1,14 @@
 ---
-title: Scopri Commerce Integration Starter Kit con le cartelle chiave e gli script di automazione illustrati
-description: Scopri l’organizzazione del codice sorgente nel kit di avvio dell’integrazione di Commerce. ​
-landing-page-description: Esplorazione dell’organizzazione del codice Source in un kit di avvio per l’integrazione di Commerce
-kt: 15868
-doc-type: video
+title: Organizzazione del codice Source nel kit di avvio Commerce
+description: Scopri l’organizzazione del codice sorgente nel kit di avvio per l’integrazione di Commerce, comprese le cartelle chiave come azioni e script, script di automazione e gestione degli eventi.
+doc-type: Technical Video
 duration: 534
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15868
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
 TQID: https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY
 product_v2:
@@ -25,9 +22,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 371
+source-wordcount: 252
 ht-degree: 0%
 
 ---
@@ -36,7 +33,7 @@ ht-degree: 0%
 
 Scopri l’organizzazione del codice sorgente nel kit di avvio dell’integrazione di Adobe Commerce. &#x200B; Esplora la struttura del progetto, evidenziando le cartelle chiave come `actions` e `scripts` e i rispettivi contenuti.&#x200B; La cartella &quot;actions&quot; contiene sottocartelle come `ingestion` e `webhook` che contengono codice essenziale per la gestione e il tracciamento degli eventi. Verranno inoltre fornite informazioni sulle cartelle `starter-kit-info` e `scripts`. La cartella `scripts` si concentra su script di automazione come `commerce-event-subscribe` e `onboarding` che semplificano la configurazione degli eventi e la configurazione del provider all&#39;interno del progetto.
 &#x200B;
-Esplora la logica alla base della struttura del codice sorgente, descrivendo nel dettaglio in che modo le cartelle `commerce` e `external` in ciascuna cartella di entità gestiscono gli eventi provenienti da sistemi diversi. Nel video viene illustrato il ruolo della cartella `consumer` nell&#39;invio degli eventi all&#39;azione di runtime appropriata del gestore eventi, in modo da garantire un&#39;elaborazione senza problemi. Il video illustra inoltre il meccanismo di esecuzione dei nuovi tentativi implementato nelle azioni di runtime per gestire in modo efficace gli eventi che generano errori. &#x200B;Comprendi l’organizzazione e le funzionalità del codice sorgente nel kit di avvio dell’integrazione di Adobe Commerce, fornendo informazioni utili sulla gestione degli eventi, gli script di automazione e le configurazioni di configurazione.
+Esplora la logica alla base della struttura del codice sorgente, descrivendo nel dettaglio in che modo le cartelle `commerce` e `external` in ciascuna cartella di entità gestiscono gli eventi provenienti da sistemi diversi. Nel video viene illustrato il ruolo della cartella `consumer` nell&#39;invio di eventi all&#39;azione di runtime appropriata del gestore eventi, in modo da garantire un&#39;elaborazione ottimale. Il video illustra inoltre il meccanismo di esecuzione dei nuovi tentativi implementato nelle azioni di runtime per gestire in modo efficace gli eventi che generano errori. &#x200B;Comprendi l’organizzazione e le funzionalità del codice sorgente nel kit di avvio dell’integrazione di Adobe Commerce, fornendo informazioni utili sulla gestione degli eventi, gli script di automazione e le configurazioni di configurazione.
 
 ## Pubblico
 

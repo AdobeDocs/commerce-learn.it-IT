@@ -1,17 +1,14 @@
 ---
 title: Utilizzare la funzionalità nativa di un meccanismo di ripetizione
-description: Sfrutta il meccanismo di esecuzione di nuovi tentativi di Adobe I/O Events per applicazioni resilienti, incluse condizioni di esecuzione di nuovi tentativi e indicatori visivi.
-landing-page-description: Comprendi e utilizza il meccanismo integrato di esecuzione di nuovi tentativi di Adobe I/O Events per migliorare la resilienza delle applicazioni e gestire in modo efficace le attivazioni degli eventi.
-kt: 15872
-doc-type: video
+description: Scopri come utilizzare il meccanismo di esecuzione di nuovi tentativi di Adobe I/O Events per creare applicazioni resilienti che includono condizioni di esecuzione di nuovi tentativi, strategie di back-off e indicatori visivi.
+doc-type: Technical Video
 duration: 402
-audience: all
-last-substantial-update: 2024-7-31
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
 TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
 product_v2:
@@ -22,14 +19,14 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: 382
 ht-degree: 0%
 
 ---
 
-# Meccanismo di esecuzione di nuovi tentativi Adobe I/O Events per la resilienza delle applicazioni
+# Utilizzare il meccanismo di esecuzione di nuovi tentativi di Adobe I/O Events per migliorare la resilienza delle applicazioni
 
 Il video illustra una guida completa sull’utilizzo del meccanismo di esecuzione dei tentativi integrato di Adobe I/O Events per migliorare la resilienza delle applicazioni. Scopri in che modo i codici di stato delle risposte HTTP specifici attivano i nuovi tentativi degli eventi. Adobe I/O Events utilizza strategie di back-off esponenziali e fisse per i nuovi tentativi, con intervalli che aumentano da un minuto a 15 minuti. La documentazione descrive anche come vengono visualizzati gli indicatori dei tentativi nella console per sviluppatori, con suggerimenti visivi come icone di avviso e frecce circolari che indicano rispettivamente gli eventi non riusciti e quelli ritentati.
 
@@ -41,7 +38,7 @@ Scopri come funziona il meccanismo di esecuzione dei nuovi tentativi nel contest
 * Team che desiderano scoprire le strategie di back-off esponenziali e fisse utilizzate da Adobe I/O Events per i nuovi tentativi.
 * Sviluppatori che desiderano comprendere in che modo gli indicatori visivi nella console per sviluppatori rappresentano eventi non riusciti e tentativi.
 
-## Video dontent
+## Contenuto video
 
 * Adobe I/O Events dispone di un meccanismo predefinito di esecuzione di nuovi tentativi che ritenta automaticamente le attivazioni degli eventi in base a specifici codici di stato di risposta HTTP.
 * Il meccanismo di esecuzione di nuovi tentativi implementato da Adobe I/O Events prevede strategie di back-off esponenziali e fisse.
