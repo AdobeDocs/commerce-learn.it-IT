@@ -57,5 +57,5 @@ Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispon
 
 ## Risorse aggiuntive
 
-* [Configura pagamento in acconto](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gestisci credito società](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
+* [Configura pagamento in acconto](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gestisci credito società](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/credit-company)

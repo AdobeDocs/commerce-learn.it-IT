@@ -53,5 +53,5 @@ Se la funzione Catalogo condiviso è abilitata nella configurazione, il catalogo
 
 ## Risorse aggiuntive
 
-* [Utilizzo dei cataloghi condivisi](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
-* [Creare un catalogo condiviso](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
+* [Utilizzo dei cataloghi condivisi](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [Creare un catalogo condiviso](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}

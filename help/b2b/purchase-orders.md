@@ -59,5 +59,5 @@ Con le autorizzazioni necessarie per il loro ruolo, i clienti B2B possono impost
 
 ## Risorse aggiuntive
 
-* [Ordini di acquisto per società](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
-* [Regole di approvazione ordine di acquisto](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
+* [Ordini di acquisto per società](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
+* [Regole di approvazione ordine di acquisto](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}

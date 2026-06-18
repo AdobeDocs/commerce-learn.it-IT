@@ -52,5 +52,5 @@ Per gli esercenti B2B, la pagina _[!UICONTROL Companies]_&#x200B;elenca tutti gl
 
 ## Risorse aggiuntive
 
-* [Account società](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Gestire gli account aziendali](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Account società](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Gestire gli account aziendali](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
