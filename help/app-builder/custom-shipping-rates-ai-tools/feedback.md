@@ -32,6 +32,6 @@ Scopri come creare tariffe di spedizione personalizzate utilizzando gli strument
 * Scopri come funziona lo strumento di feedback MCP
 * Scopri come è possibile fornire ad Adobe un feedback dall’IDE
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481314?captions=ita&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

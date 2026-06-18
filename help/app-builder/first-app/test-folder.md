@@ -41,7 +41,7 @@ Questo punto di partenza può essere esteso per creare test completi per le appl
 * Breve spiegazione del file di unit test e dei relativi componenti
 * Introduzione ai test end-to-end
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421062?captions=ita&learn=on)
 
 ## Esempi di codice
 
