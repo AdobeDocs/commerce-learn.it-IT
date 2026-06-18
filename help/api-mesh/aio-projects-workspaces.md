@@ -1,18 +1,18 @@
 ---
 title: Utilizzo di progetti e aree di lavoro
-description: Scopri come utilizzare la console Adobe Developer per lavorare con progetti e aree di lavoro.
+description: Scopri come utilizzare Adobe Developer Console per lavorare con progetti e aree di lavoro per API Mesh, tra cui l’aggiunta di un mesh, l’accesso tramite CLI e le organizzazioni di switching.
 jira: KT-11803
 doc-type: Tutorial
-duration: 593
+duration: 572
 last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -34,16 +34,16 @@ Questo tutorial illustra come creare un progetto e un’area di lavoro che conte
 * Modifica dell&#39;organizzazione, del progetto o dell&#39;area di lavoro selezionata nell&#39;interfaccia CLI
 * Verifica dei comandi Mesh API semplici
 
->[!VIDEO](https://video.tv.adobe.com/v/3419739?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## Informazioni su Adobe Developer Console
 
-In Adobe Developer Console, la seguente gerarchia rappresenta il modo in cui le API si adattano all&#39;organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, sull&#39;accesso alla console e sulla risoluzione dei problemi di base, visitare il sito [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
+In Adobe Developer Console, la seguente gerarchia rappresenta l&#39;organizzazione delle API all&#39;interno dell&#39;organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, sull&#39;accesso alla console e sulla risoluzione dei problemi di base, visitare il sito [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Introduzione ai progetti in Adobe Developer Console
 
 Tutto il lavoro di sviluppo in Adobe Developer Console viene fatto come parte di un progetto. Un progetto può includere uno o più prodotti e una combinazione di API, eventi, runtime e plug-in. Per ulteriori dettagli sui progetti nella console Adobe Developer, visita [Progetti](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-Per ulteriori informazioni sull&#39;utilizzo di progetti e aree di lavoro nel contesto di Mesh API, vedere [Modificare progetti e aree di lavoro](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
+Per ulteriori informazioni sull&#39;utilizzo di progetti e aree di lavoro nel contesto di Mesh API, vedere [Modificare progetti e aree di lavoro](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}
