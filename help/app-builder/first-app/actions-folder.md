@@ -1,7 +1,7 @@
 ---
 title: Cartella delle azioni
-description: Scopri i tipi di file nella cartella delle azioni per questa applicazione di esempio.
-jira: KT-12422
+description: Scopri i file e le cartelle di JavaScript nella cartella delle azioni di App Builder, inclusi l’autenticazione OAuth e i modelli di connessione Commerce per l’applicazione di esempio.
+jira: KT-21680
 doc-type: Tutorial
 duration: 465
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,25 +11,20 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 TQID: https://experienceleague.adobe.com/v3hBL3cNfFO-xM8Dat2Be21-ihyORvvSrvZYZ-6wzf0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 189
+source-wordcount: 199
 ht-degree: 0%
 
 ---
 
 # Informazioni sulla cartella delle azioni {#actions-folder}
 
-La cartella `actions` per questa app di esempio contiene alcuni file JavaScript e una cartella denominata `commerce`. Il JavaScript mostrato è un eccellente file di esempio che può essere riutilizzato se è rilevante per il tuo lavoro. Questa cartella consente di risparmiare tempo nelle attività di sviluppo durante la connessione all’applicazione Adobe Commerce tramite OAuth e REST.
+La cartella `actions` per questa app di esempio contiene alcuni file JavaScript e una cartella denominata `commerce`. Il JavaScript mostrato è un utile file di esempio che può essere riutilizzato se è rilevante per il tuo lavoro. Questa cartella consente di risparmiare tempo nelle attività di sviluppo durante la connessione all’applicazione Adobe Commerce tramite OAuth e REST.
 
 I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscerne i nomi può essere utile per interpretare il codice di esempio. Utilizzando una convenzione di denominazione significativa, puoi evitare confusione se l’applicazione diventa più complessa.
 
@@ -44,7 +39,7 @@ I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscerne 
 * Scopo del file JavaScript trovato nelle cartelle `actions` e `commerce`
 * Panoramica rapida dei file di autenticazione OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3421080?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Esempi di codice
 

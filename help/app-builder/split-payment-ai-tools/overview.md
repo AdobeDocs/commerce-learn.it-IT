@@ -1,16 +1,16 @@
 ---
-title: 'Creazione di un POC di pagamento frazionato: strumenti App Builder e AI'
+title: Dividi POC di pagamento — Strumenti App Builder e AI
 description: Scopri una proof of concept per pagamenti divisi con App Builder e Commerce PaaS, inclusi gli obiettivi, l’architettura e ciò che copre questa prima sessione.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 237
 jira: KT-20791
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Questa è la prima di una serie di tutorial che ti introducono all’utilizzo de
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3483941?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
 
 ## Dettagli importanti
 

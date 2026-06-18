@@ -1,16 +1,16 @@
 ---
-title: Introduzione e configurazione delle tariffe di spedizione personalizzate con gli strumenti AI
-description: Scopri come impostare strumenti di intelligenza artificiale per creare tariffe di spedizione personalizzate, inclusa la clonazione del kit di avvio, l’analisi delle strutture e la preparazione dell’ambiente.
+title: Introduzione e configurazione per tariffe di spedizione basate sull’intelligenza artificiale
+description: Scopri come impostare strumenti di intelligenza artificiale per creare tariffe di spedizione personalizzate, inclusa la clonazione del kit di avvio, l’analisi delle strutture dei progetti e la preparazione dell’ambiente.
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 195
+duration: 180
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Scopri come impostare strumenti di intelligenza artificiale per creare tariffe d
 ## Contenuto video
 
 * Presenta il kit di avvio per il pagamento e spiega lo scopo dell’estensione, fornendo contesto per ciò che verrà generato e perché.
-* Illustra come configurare l’ambiente di sviluppo, estraendo l’archivio, rivedendo la struttura del kit di avvio e installando gli strumenti necessari.
+* Descrive la configurazione dell’ambiente di sviluppo, inclusa la clonazione dell’archivio, la revisione della struttura del kit di avvio e l’installazione degli strumenti necessari.
 * Prepara il sistema per lo sviluppo basato sull’intelligenza artificiale accedendo, configurando l’accesso e garantendo che siano presenti tutte le dipendenze e i prerequisiti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481336?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

@@ -3,13 +3,13 @@ title: 'Dividi POC pagamento: prerequisiti e impostazione dell''ambiente'
 description: Scopri come impostare Commerce, Admin for COD e memorizzare il credito, l’integrazione OAuth, gli eventi I/O, App Builder e CLI aio prima che venga richiesto di creare la suddivisione dei pagamenti.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -177,7 +177,7 @@ La soglia viene memorizzata in:
 
 ## &#x200B;8. Fastly (solo Commerce Cloud)
 
-Le azioni di App Builder richiamano Commerce su REST (`/rest/V1/split-payment/orders/...`). Se il progetto Commerce Cloud utilizza Fastly con la inserire nell&#39;elenco Consentiti di IP in uscita, è necessario inserire nell&#39;elenco Consentiti gli indirizzi IP in uscita del runtime App Builder.
+Le azioni di App Builder richiamano Commerce su REST (`/rest/V1/split-payment/orders/...`). Se il progetto Commerce Cloud utilizza Fastly con la inserisce nell&#39;elenco Consentiti di IP in uscita, è necessario inserire nell&#39;elenco Consentiti gli indirizzi IP in uscita del runtime App Builder.
 
 **Come verificare:** Eseguire prima lo script di simulazione (curl diretto con firma OAuth). Se funziona ma l&#39;azione App Builder restituisce `403`, è probabile che Fastly blocchi la richiesta.
 
