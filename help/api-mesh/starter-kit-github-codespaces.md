@@ -1,6 +1,6 @@
 ---
 title: Kit di avvio Mesh API con codespace GitHub
-description: Get started with Adobe Commerce API Mesh using a GitHub-based starter kit—no local setup required.
+description: Scopri come iniziare a usare Mesh API di Adobe Commerce utilizzando un kit di avvio per Codespaces GitHub, senza che sia necessaria alcuna configurazione di ambiente locale.
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
@@ -19,33 +19,33 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: 188
 ht-degree: 0%
 
 ---
 
 # Kit di avvio Mesh API con codespace GitHub
 
-This session introduces the Adobe Commerce API Mesh Starter Kit, designed to help developers quickly explore API Mesh using GitHub Codespaces without local setup. It walks through setting up a repository, configuring endpoints, and using built-in tools like GraphQL Yoga for testing.
+Questa sessione introduce Adobe Commerce API Mesh Starter Kit. È progettato per aiutare gli sviluppatori a esplorare rapidamente la rete API utilizzando i codespace GitHub senza configurazione locale. Illustra come configurare un archivio, configurare gli endpoint e utilizzare strumenti incorporati come GraphQL Yoga per il test.
 
 ## A chi serve questo video?
 
-* Frontend Developers
-* Backend/API Developers
-* DevOps Engineers
+* Sviluppatori front-end
+* Sviluppatori back-end/API
+* Ingegneri DevOps
 
 ## Contenuto video
 
-* Use GitHub Codespaces to explore Adobe Commerce API Mesh without configuring a local environment.
-* Built-in Tools for Testing: Includes a pre-configured GraphQL server (Yoga) and automatic server restarts for seamless development.
-* Hands-On Learning: Clone the starter kit, configure endpoints, and test API responses directly in the browser.
+* Utilizza i codespace GitHub per esplorare la rete API di Adobe Commerce senza configurare un ambiente locale.
+* Strumenti di test incorporati: include un server GraphQL (Yoga) preconfigurato e riavvii automatici del server per uno sviluppo senza soluzione di continuità.
+* Apprendimento pratico: clona il kit di avvio, configura gli endpoint e testa le risposte API direttamente nel browser.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464025?captions=ita&learn=on)
 
 ## Documentazione correlata
 
-* [API mesh starter kit GitHub repo](https://github.com/adobe-commerce/api-mesh-starter-kit)
-* [Adobe Developer docs graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [Playlist of API Mesh videos](https://experienceleague.adobe.com/it/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Kit starter mesh API per archivio GitHub](https://github.com/adobe-commerce/api-mesh-starter-kit)
+* [documentazione Adobe Developer graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
+* [Playlist dei video Mesh API](https://experienceleague.adobe.com/it/playlists/commerce-get-started-app-builder-and-api-mesh)
