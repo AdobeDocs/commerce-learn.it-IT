@@ -1,14 +1,14 @@
 ---
 title: Gestisci credito società
-description: Scopri come fare in modo che gli utenti dell’account aziendale B2B possano effettuare acquisti sul proprio account fino al limite di credito concesso.
-doc-type: Feature Video
+description: Scopri come gli utenti dell’account aziendale B2B possono acquistare in acconto fino a un limite di credito e come gli amministratori configurano la valuta del credito, i limiti e le impostazioni di approvazione.
+doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 TQID: https://experienceleague.adobe.com/XJ1zsz-XBkOoy6C3lWC-hRiXPX4Q3fe4AvMptfwhC0E
 product_v2:
@@ -25,16 +25,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 141
 ht-degree: 0%
 
 ---
 
 # Gestisci credito società
 
-Per le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispongono di crediti aziendali, possono effettuare acquisti sul proprio conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
+Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispongono di crediti aziendali possono effettuare acquisti sul proprio conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
 
 È possibile impostare i seguenti parametri relativi al credito per ciascun profilo società:
 
@@ -57,5 +57,5 @@ Per le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e di
 
 ## Risorse aggiuntive
 
-* [Configura pagamento in acconto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=it#configure-payment-on-account)
-* [Gestisci credito società](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=it)
+* [Configura pagamento in acconto](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gestisci credito società](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/credit-company)

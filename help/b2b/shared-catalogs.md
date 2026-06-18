@@ -1,14 +1,14 @@
 ---
 title: Gestisci cataloghi condivisi
-description: Learn how to use B2B shared catalogs to maintain gated catalogs with custom pricing for different companies.
+description: Scopri come utilizzare i cataloghi condivisi B2B in Adobe Commerce per gestire cataloghi di prodotti gestiti con strutture di prezzo personalizzate per diversi account aziendali.
 doc-type: Feature Video
 duration: 456
 jira: KT-10682
-last-substantial-update: 2023-05-10T00:00:00.000Z
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 TQID: https://experienceleague.adobe.com/Fk8p57LTFTqSPxjVCPsxvubqnmr0wCUCINIsK8xqmW0
 product_v2:
@@ -27,18 +27,18 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: 164
 ht-degree: 0%
 
 ---
 
 # Gestisci cataloghi condivisi
 
-B2B for Adobe Commerce gives you the ability to maintain gated shared catalogs with custom pricing for different companies. In addition to the standard primary product catalog, it provides customer access to two types of shared catalogs with different pricing structures.
+B2B per Adobe Commerce consente di gestire cataloghi condivisi gestiti con prezzi personalizzati per diverse aziende. Oltre al catalogo dei prodotti principale standard, fornisce l&#39;accesso del cliente a due tipi di cataloghi condivisi con strutture di prezzo diverse.
 
-If the Shared Catalog feature is enabled in the configuration, the original primary catalog remains visible from the Admin, but only the Default (General) public shared catalog is visible from the storefront. In addition, custom catalogs can be created that are visible only to members of specific company accounts.
+Se la funzione Catalogo condiviso è abilitata nella configurazione, il catalogo principale originale rimane visibile dall’amministratore, ma solo il catalogo condiviso pubblico predefinito (Generale) è visibile dalla vetrina. Inoltre, è possibile creare cataloghi personalizzati visibili solo ai membri di account aziendali specifici.
 
 {{b2b-feature}}
 
@@ -53,5 +53,5 @@ If the Shared Catalog feature is enabled in the configuration, the original prim
 
 ## Risorse aggiuntive
 
-* [Working with Shared Catalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=it){target="_blank"}
-* [Create a Shared Catalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=it){target="_blank"}
+* [Utilizzo dei cataloghi condivisi](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [Creare un catalogo condiviso](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
