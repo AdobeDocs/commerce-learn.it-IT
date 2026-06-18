@@ -53,7 +53,7 @@ Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispon
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410760?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 
