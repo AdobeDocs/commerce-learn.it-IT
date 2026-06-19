@@ -31,7 +31,7 @@ La ricerca tradizionale delle parole chiave corrisponde alle parole esatte, ma g
 * Indicizzazione automatica del catalogo per trasformare i dati dei prodotti in segnali semantici
 * Aumento dei risultati, soglie di somiglianza e configurazione di ricerca fuzzy
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492311?captions=ita)
 
 ## Risorse aggiuntive
 
