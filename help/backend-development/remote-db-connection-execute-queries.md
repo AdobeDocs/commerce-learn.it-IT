@@ -48,7 +48,7 @@ Per rimuovere le informazioni sul cliente, preferisci un dump del database che e
 
 ## Utilizzo dello strumento CLI di Adobe Commerce Cloud
 
-Per creare un dump del database è necessario installare [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview). Nel computer locale aprire una directory ed eseguire il comando seguente. Sostituisci `your-project-id` con il tuo ID progetto (simile a `asasdasd45q`). Sostituisci `your-environment-name` con il nome dell&#39;ambiente, ad esempio `master` o `staging`.
+Per creare un dump del database è necessario installare [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview). Nel computer locale aprire una directory ed eseguire il comando seguente. Sostituisci `your-project-id` con il tuo ID progetto (simile a `asasdasd45q`). Sostituisci `your-environment-name` con il nome dell&#39;ambiente, ad esempio `master` o `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -284,7 +284,7 @@ Per accedere direttamente al database MariaDB, utilizza SSH per accedere all’a
    magento-cloud ssh
    ```
 
-2. Recuperare le credenziali di accesso MySQL dalle proprietà `database` e `type` nella variabile [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships).
+2. Recuperare le credenziali di accesso MySQL dalle proprietà `database` e `type` nella variabile [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -330,7 +330,7 @@ Dopo aver configurato la connessione, puoi utilizzare un’interfaccia utente gr
 
 ## Connessione diretta al database del progetto cloud per eseguire SQL
 
-Il metodo seguente utilizza la CLI `magento-cloud` per connettersi direttamente al database MySQL ed eseguire SQL per eseguire query più veloci. Se hai bisogno di una copia di questo database, utilizza uno dei metodi alternativi per [creare un&#39;immagine del database](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud).
+Il metodo seguente utilizza la CLI `magento-cloud` per connettersi direttamente al database MySQL ed eseguire SQL per eseguire query più veloci. Se hai bisogno di una copia di questo database, utilizza uno dei metodi alternativi per [creare un&#39;immagine del database](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud).
 
 ```bash
 magento-cloud db:sql    
@@ -390,7 +390,7 @@ MariaDB [main]>
 
 ## Risorse aggiuntive
 
-* [CLI di Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
-* [Configura servizio MySQL](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/service/mysql)
-* [Configurare una connessione remota al database MySQL](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
-* [Creazione di un dump del database sull’infrastruttura cloud di Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)
+* [CLI di Adobe Commerce Cloud](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
+* [Configura servizio MySQL](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/configure/service/mysql)
+* [Configurare una connessione remota al database MySQL](https://experienceleague.adobe.com/it/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
+* [Creazione di un dump del database sull’infrastruttura cloud di Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)
