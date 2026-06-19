@@ -36,7 +36,7 @@ Scopri come connettersi a un progetto Adobe Commerce su cloud, creare un’immag
 * Connettiti a un progetto Adobe Commerce Cloud remoto con uno strumento di gestione del database come MySQL Workbench o TablePlus.
 * Connettersi al progetto ed eseguire SQL dalla riga di comando.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450044?captions=ita&learn=on)
 
 Puoi accedere ai dati di Adobe Commerce dal progetto cloud utilizzando uno dei seguenti metodi:
 

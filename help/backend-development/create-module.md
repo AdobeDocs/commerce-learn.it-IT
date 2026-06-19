@@ -44,7 +44,7 @@ Un modulo è un elemento strutturale di [!DNL Commerce]. I moduli costituiscono 
 4. Per registrare e installare il modulo, eseguire `bin/magento setup:upgrade`.
 5. Verifica che il modulo funzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412453?captions=ita&learn=on)
 
 ### Il file module.xml
 
