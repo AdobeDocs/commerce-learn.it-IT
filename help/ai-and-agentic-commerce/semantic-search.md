@@ -35,5 +35,5 @@ La ricerca tradizionale delle parole chiave corrisponde alle parole esatte, ma g
 
 ## Risorse aggiuntive
 
-&#x200B;- Per le distribuzioni in Adobe Commerce su Cloud, Prem e Adobe Commerce as a Cloud Service, consulta [[!DNL Live Search] Ricerca semantica](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} nella _Guida a Live Search_.
-&#x200B;- Per le distribuzioni tramite Adobe Commerce Optimizer, vedere [Impostazioni - Ricerca avanzata](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} nella _Guida di Commerce Optimizer_.
+&#x200B;- Per le distribuzioni in Adobe Commerce su Cloud, Prem e Adobe Commerce as a Cloud Service, consulta [[!DNL Live Search] Ricerca semantica](https://experienceleague.adobe.com/it/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} nella _Guida a Live Search_.
+&#x200B;- Per le distribuzioni tramite Adobe Commerce Optimizer, vedere [Impostazioni - Ricerca avanzata](https://experienceleague.adobe.com/it/docs/commerce/optimizer/settings#advanced-search){target="_blank"} nella _Guida di Commerce Optimizer_.
