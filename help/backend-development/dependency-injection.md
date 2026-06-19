@@ -1,15 +1,14 @@
 ---
 title: Esempio di iniezione di dipendenza
-description: L'iniezione di dipendenza consente a un oggetto di dichiarare le proprie dipendenze, fornite da un oggetto esterno, promuovendo flessibilità e modularità.
-kt: 5621
-doc-type: video
+description: 'Scopri l’iniezione di dipendenza in Adobe Commerce: un pattern di progettazione in cui gli oggetti dichiarano le dipendenze per l’iniezione esterna, migliorando la flessibilità.'
+doc-type: Technical Video
 duration: 313
-activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
-role: Admin, Developer
+role: Developer
 level: Beginner, Intermediate
+jira: KT-5621
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 TQID: https://experienceleague.adobe.com/YeGW-u2OTpZLdYjV7P6lToQ-C0L8Qh9Uco8bNPIvjuA
 product_v2:
@@ -25,9 +24,9 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: 85
 ht-degree: 0%
 
 ---
@@ -36,7 +35,7 @@ ht-degree: 0%
 
 L&#39;iniezione di dipendenza è un pattern di progettazione che consente a un oggetto A di dichiarare le proprie dipendenze a un oggetto esterno B che fornisce tali dipendenze. Le dipendenze dichiarate da A sono solitamente interfacce di classe e le dipendenze fornite da B sono implementazioni concrete per tali interfacce.
 
-## A chi serve questo video?
+## Pubblico previsto
 
 * Sviluppatori
 
@@ -46,5 +45,4 @@ L&#39;iniezione di dipendenza è un pattern di progettazione che consente a un o
 
 ## Risorse utili
 
-* [Iniezione di dipendenza](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 * [Guida per gli sviluppatori PHP](https://developer.adobe.com/commerce/php/development/)
