@@ -48,7 +48,7 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 * Scopri come includere un importo totale risparmiato per il riepilogo del carrello.
 * Scopri come unire le righe nel riepilogo del carrello in un’unica sezione comprimibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441193?captions=ita&learn=on)
 
 ## Documentazione aggiuntiva
 

@@ -58,4 +58,4 @@ Scopri come navigare nella vetrina di Adobe Commerce su Edge Delivery Services, 
 * Lavorare con il carrello e gli ordini: aggiungi articoli, estrai come ospite, annulla gli ordini, riordina ed elabora le restituzioni.
 * Aggiorna le informazioni sull&#39;account, unisci i carrelli clienti e ospiti e mantieni la coerenza dell&#39;estrazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446770?captions=ita&learn=on)
