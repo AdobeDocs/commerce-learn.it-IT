@@ -1,6 +1,6 @@
 ---
 title: Riepilogo ordini Edge Delivery Services all'acquisto
-description: Scopri Adobe Edge Delivery Services e come aggiornare la sezione di riepilogo degli ordini del menu a discesa Commerce al momento del pagamento.
+description: Scopri come aggiornare il riepilogo degli ordini di rilascio del carrello di Adobe Commerce, incluse le stime di spedizione, la visualizzazione dei risparmi totali e il layout di sezione comprimibile.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -22,25 +22,25 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: 197
 ht-degree: 0%
 
 ---
 
 # Aggiorna il riepilogo del carrello all&#39;acquisto
 
-Scopri come apportare modifiche al riepilogo degli ordini del menu a discesa del carrello di Adobe Commerce per Edge Delivery Services.  Esistono diversi esempi di come migliorare rapidamente il layout o le informazioni fornite a un cliente al momento del pagamento.
+Scopri come apportare modifiche al riepilogo degli ordini del menu a discesa del carrello di Adobe Commerce per Edge Delivery Services. Sono disponibili diversi esempi su come migliorare il layout o le informazioni fornite a un cliente al momento del pagamento.
 
 ## Cosa imparerai
 
-Scopri come utilizzare Adobe Commerce cart drop in e regolare l’esperienza del carrello.  Esistono diversi modi per migliorare il carrello apportando alcune modifiche o aggiornamenti minori al codice.
+Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regolare l’esperienza del carrello. Esistono diversi modi per migliorare il carrello apportando modifiche o aggiornamenti minori al codice.
 
 ## A chi serve questo video?
 
 * Sviluppatori che devono imparare a implementare queste personalizzazioni per il riepilogo dell’ordine.
-* I commercianti possono comprendere le opzioni disponibili utilizzando le funzioni native per migliorare l’esperienza del cliente in relazione al riepilogo degli ordini.
+* I commercianti che desiderano comprendere le opzioni disponibili utilizzando funzioni native per migliorare l’esperienza del cliente in relazione al riepilogo dell’ordine.
 
 ## Contenuto video
 
