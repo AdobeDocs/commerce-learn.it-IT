@@ -1,53 +1,48 @@
 ---
-title: Edge Delivery Services customize checkout
-description: Learn how Developer Ali customizes Adobe Commerce checkout, including delivery options and multi-step checkout, using best practices and code reuse. ​
+title: Personalizza estrazione di Edge Delivery Services
+description: Scopri come personalizzare il pagamento di Adobe Commerce, incluse le opzioni di consegna e il pagamento in più passaggi tramite i componenti e le best practice di Edge Delivery Services.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 885
-last-substantial-update: 2025-1-2
+last-substantial-update: 2025-01-02
 jira: KT-16723
 exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
 TQID: https://experienceleague.adobe.com/sHAJy3AIwUgyWlGcViRb9ZT0ymIOap6HybG--NbI0jM
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: 143
 ht-degree: 0%
 
 ---
 
-# Customize checkout experience
+# Personalizzare l’esperienza di pagamento
 
-Learn how to customize the checkout experience in Adobe Commerce from the Edge Delivery Services cart drop in component, focusing on modifying shipping options and implementing a multi-step checkout process.
+Scopri come personalizzare l’esperienza di pagamento in Adobe Commerce dal componente di rilascio del carrello Edge Delivery Services, concentrandoti sulla modifica delle opzioni di spedizione e sull’implementazione di un processo di pagamento in più passaggi.
 
 ## Cosa imparerai
 
-Learn examples for customization of the Edge Delivery Services cart drop in checkout experience by removing and re-adding elements like shipping options and estimated costs, and implementing a multi-step checkout process, all while reusing existing code and following best practices. &#x200B;
+Scopri come personalizzare l’esperienza di pagamento del carrello Edge Delivery Services modificando gli elementi, implementando un processo in più passaggi e seguendo le best practice.
 
 ## A chi serve questo video?
 
-* Developers and technical professionals working with Adobe Commerce, Edge Delivery Services and using the cart drop in
+* Sviluppatori e professionisti tecnici che lavorano con Adobe Commerce, Edge Delivery Services e utilizzano il carrello
 
 ## Contenuto video
 
-* Customization of Checkout Experience &#x200B;
-* Implementation of Multi-Step Checkout&#x200B;
-* Reusing Existing Code and Best Practices
+* Personalizzazione dell’esperienza di pagamento
+* Implementazione del checkout con più passaggi
+* Riutilizzo del codice e delle best practice esistenti
 
->[!VIDEO](https://video.tv.adobe.com/v/3442658?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Multi-step guest checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=it)
+* [Pagamento in più passaggi](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
