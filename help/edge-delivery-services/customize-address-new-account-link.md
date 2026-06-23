@@ -58,4 +58,4 @@ I ruoli che traggono vantaggio dalla lettura di questa trascrizione includono:
 
 ## Documentazione aggiuntiva
 
-* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)
+* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=it)

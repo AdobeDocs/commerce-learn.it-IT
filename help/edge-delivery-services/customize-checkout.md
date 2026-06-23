@@ -50,4 +50,4 @@ Scopri come personalizzare l’esperienza di pagamento del carrello Edge Deliver
 
 ## Documentazione aggiuntiva
 
-* [Pagamento in più passaggi](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Pagamento in più passaggi](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=it)
