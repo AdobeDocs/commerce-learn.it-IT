@@ -44,7 +44,7 @@ ht-degree: 0%
 * Per aggiungere nuovi segreti, aggiungi il file
 * Evita di eseguire il commit del file perché contiene informazioni riservate
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421068?captions=ita&learn=on)
 
 ## Esempio di codice
 
