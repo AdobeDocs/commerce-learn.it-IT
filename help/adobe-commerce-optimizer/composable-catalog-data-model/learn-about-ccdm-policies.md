@@ -79,7 +79,7 @@ I criteri sono filtri leggeri in un **catalogo condiviso**, non regole raggruppa
 
 * [Perché esiste il modello dati del catalogo componibile](./why-ccdm-exists.md)
 * [Scopri le visualizzazioni del catalogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/it/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
 * [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 
