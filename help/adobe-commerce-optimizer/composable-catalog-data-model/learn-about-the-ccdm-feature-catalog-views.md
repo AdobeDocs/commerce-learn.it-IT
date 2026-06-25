@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 208
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -30,9 +30,10 @@ Le visualizzazioni del catalogo consentono di gestire ogni pubblico in modo dive
 * Come una vetrina utilizza una vista a catalogo per filtrare prodotti e prezzi (ad esempio, Celport)
 * Visualizzazione del catalogo con ID univoci e valore aziendale di un’unica fonte di verità
 
->[!VIDEO](https://video.tv.adobe.com/v/3491270?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
 
 ## Contenuto correlato
 
-* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

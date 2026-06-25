@@ -10,7 +10,7 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -33,4 +33,5 @@ Scopri come configurare e distribuire App Builder Starter Kit per Salesforce Com
 * Clonare App Builder Starter Kit e configurare i file di ambiente utilizzando Adobe IO CLI.
 * Distribuisci l’app e conferma la corretta registrazione di azioni ed eventi nell’area di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476090?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+

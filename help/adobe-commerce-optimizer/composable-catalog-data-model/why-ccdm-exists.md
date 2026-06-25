@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -31,7 +31,7 @@ I moderni team di commerce vendono spesso tra **marchi**, **aree geografiche**, 
 * Funzionamento delle visualizzazioni del catalogo come &quot;obiettivo&quot; tra un catalogo di base condiviso e una vetrina o un pubblico specifico
 * Modalità di utilizzo delle API di Merchandising Services in modo che le esperienze headless rimangano allineate al catalogo configurato
 
->[!VIDEO](https://video.tv.adobe.com/v/3491293?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
 
 ## La sfida con i cataloghi in silos
 
@@ -53,14 +53,15 @@ Questa separazione:**da cui provengono i dati** (origine catalogo) rispetto a **
 
 ## Visualizzazioni catalogo come obiettivo della vetrina
 
-Come descritto in [Visualizzazioni catalogo per Merchandising Services](https://experienceleague.adobe.com/it/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, una visualizzazione catalogo si comporta come una **lente**: gli acquirenti visualizzano solo i prodotti, i prezzi e le regole consentiti, mentre il **catalogo base** rimane il sistema di record condiviso. Questo modello è direttamente abbinato a **Servizi di merchandising**, pertanto i client API passano la vista corretta (e le relative intestazioni) e ricevono una risposta coerente e basata su criteri per ogni esperienza.
+Come descritto in [Visualizzazioni catalogo per Merchandising Services](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, una visualizzazione catalogo si comporta come una **lente**: gli acquirenti visualizzano solo i prodotti, i prezzi e le regole consentiti, mentre il **catalogo base** rimane il sistema di record condiviso. Questo modello è direttamente abbinato a **Servizi di merchandising**, pertanto i client API passano la vista corretta (e le relative intestazioni) e ricevono una risposta coerente e basata su criteri per ogni esperienza.
 
 Per informazioni più dettagliate su come questi pezzi si adattano a un flusso end-to-end, vedere la procedura dettagliata per sviluppatori [Creare un catalogo componibile per la vetrina](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Contenuto correlato
 
 * [Scopri le visualizzazioni del catalogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/it/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Creare un catalogo componibile per la vetrina](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+
