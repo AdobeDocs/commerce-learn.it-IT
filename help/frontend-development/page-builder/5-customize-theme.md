@@ -1,14 +1,13 @@
 ---
-title: Page Builder for developers - Theme customization
-description: Learn how to customize the Page Builder theme.
-kt: 5654
-doc-type: video
+title: Page Builder per sviluppatori - Personalizzazione del tema
+description: Scopri come personalizzare il tema Page Builder modificando MENO variabili, ignorando CSS e applicando stili personalizzati per creare un’esperienza unica nella vetrina.
+jira: KT-5654
+doc-type: Technical Video
 duration: 523
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: e88e6056-a7c8-4b89-b992-777e74467135
 badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
 TQID: https://experienceleague.adobe.com/ZSNMuV1WFKlo3B-dyOp2g8eLfg4oa0Nh-KXzWMtYCoA
@@ -24,20 +23,20 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: 142
 ht-degree: 0%
 
 ---
 
-# Page Builder for developers - Theme customization
+# Page Builder per sviluppatori - Personalizzazione del tema
 
 {{only-for-on-prem-commerce-cloud}}
 
 In questo video:
 
-* Customize the Page Builder theme
+* Personalizzare il tema Page Builder
 
 ## A chi serve questo video?
 
@@ -48,7 +47,7 @@ In questo video:
 
 >[!NOTE]
 >
->Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=it).
+>Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione di Page Builder](https://experienceleague.adobe.com/it/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430987?captions=ita&learn=on)
 
@@ -56,4 +55,4 @@ In questo video:
 
 [Documentazione per gli sviluppatori di Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guida di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=it)
+[Guida di Page Builder](https://experienceleague.adobe.com/it/docs/commerce-admin/page-builder/introduction)

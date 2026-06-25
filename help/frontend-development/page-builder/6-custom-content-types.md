@@ -1,14 +1,13 @@
 ---
-title: Page Builder for developers - Custom content types
-description: Learn how to customize and create content types. Understand the steps involved in creating a content type​. Understand the steps involved in extending an existing content type.
-kt: 5655
-doc-type: video
+title: Page Builder per sviluppatori - Tipi di contenuto personalizzati
+description: Scopri come personalizzare e creare tipi di contenuto di Page Builder, compresi i passaggi per creare un nuovo tipo di contenuto da zero ed estenderne uno esistente.
+jira: KT-5655
+doc-type: Technical Video
 duration: 1058
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
 badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
 TQID: https://experienceleague.adobe.com/nAM2YJScViK-UiyNtArtvXJyg0qZw-DReCFo0EdnTtI
@@ -24,22 +23,22 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 165
+source-wordcount: 166
 ht-degree: 0%
 
 ---
 
-# Page Builder for developers - Custom content types
+# Page Builder per sviluppatori - Tipi di contenuto personalizzati
 
 {{only-for-on-prem-commerce-cloud}}
 
 In questo video:
 
-* Customize and create additional content types
-* Understand the steps involved in creating a content type&#x200B;
-* Understand the steps involved in extending an existing content type
+* Personalizzare e creare tipi di contenuto aggiuntivi
+* Comprendere i passaggi necessari per creare un tipo di contenuto
+* Comprendere i passaggi necessari per estendere un tipo di contenuto esistente
 
 ## A chi serve questo video?
 
@@ -50,7 +49,7 @@ In questo video:
 
 >[!NOTE]
 >
->Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=it).
+>Questo contenuto riflette la versione Page Builder 1.0.0 per Adobe Commerce 2.3.1. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione di Page Builder](https://experienceleague.adobe.com/it/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430881?captions=ita&learn=on)
 
@@ -58,4 +57,4 @@ In questo video:
 
 [Documentazione per gli sviluppatori di Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guida di Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=it)
+[Guida di Page Builder](https://experienceleague.adobe.com/it/docs/commerce-admin/page-builder/introduction)

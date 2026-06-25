@@ -1,10 +1,9 @@
 ---
 title: Aggiungere un modulo JavaScript
-description: Learn how to build a simple JavaScript module in Adobe Commerce that displays a Hello World greeting, using RequireJS, a layout update, and a template.
+description: Scopri come creare un semplice modulo JavaScript in Adobe Commerce che visualizzi un saluto Hello World utilizzando RequireJS, un aggiornamento del layout e un modello.
 jira: KT-5612
 doc-type: Technical Video
-duration: 260
-activity: use
+duration: 267
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Developer
@@ -22,9 +21,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: 135
 ht-degree: 0%
 
 ---
@@ -33,29 +32,29 @@ ht-degree: 0%
 
 {{only-for-on-prem-commerce-cloud}}
 
-Learn how to develop a simple JavaScript module that shows the greeting &quot;Hello World&quot; on the storefront.
+Scopri come sviluppare un semplice modulo JavaScript che mostra il saluto &quot;Hello World&quot; sulla vetrina.
 
 ## A chi serve questo video?
 
 * Sviluppatori
 
-## Steps
+## Passaggi
 
-1. Create a module.
-2. Add `requirejs-config.js` and a JavaScript module file.
-3. Create a layout update that loads a template for the module.
-4. Create the template file.
-5. Register the module and test it on the storefront.
+1. Crea un modulo.
+2. Aggiungere `requirejs-config.js` e un file del modulo JavaScript.
+3. Crea un aggiornamento del layout che carica un modello per il modulo.
+4. Crea il file modello.
+5. Registra il modulo e testalo sulla vetrina.
 
 ## Contenuto video
 
-* Set up the module and RequireJS configuration.
-* Wire the script through a layout update and template.
-* Verify the greeting on the page.
+* Imposta il modulo e la configurazione RequireJS.
+* Collegare lo script tramite un aggiornamento del layout e un modello.
+* Verifica il saluto sulla pagina.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
 
 ## Risorse utili
 
-* [JavaScript developer guide](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Calling and initializing JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Guida per gli sviluppatori di JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Chiamata e inizializzazione di JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
