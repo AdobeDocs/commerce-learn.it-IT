@@ -1,14 +1,13 @@
 ---
 title: Panoramica di Adobe Commerce as a Cloud Service
 description: Scopri Adobe Commerce as a Cloud Service. Una soluzione flessibile, scalabile ed efficiente per operazioni digitali dinamiche con un'architettura componibile.
-kt: 17219
+jira: KT-17219
 doc-type: Technical Video
-duration: 232
-audience: all
-last-substantial-update: 2025-2-3
+duration: 231
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
 TQID: https://experienceleague.adobe.com/5qPs-Bkz-AgLjlQfgdHMh7nXyew33l3kz58HBGiqse8
@@ -25,7 +24,7 @@ role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 267
 ht-degree: 0%
@@ -34,7 +33,7 @@ ht-degree: 0%
 
 # Panoramica di Adobe Commerce as a Cloud Service
 
-Adobe Commerce as a Cloud Service offre una soluzione flessibile, scalabile ed efficiente per le aziende, con funzionalità native per il cloud come il ridimensionamento automatico elastico e gli aggiornamenti automatici. Semplifica l’onboarding con il provisioning self-service e vanta un’architettura componibile per l’implementazione indipendente dei servizi ed estensibilità API-first. I servizi preconfigurati e la distribuzione continua di nuove funzioni assicurano prestazioni ottimali e facilità d&#39;uso, rendendola ideale per aziende dinamiche e in crescita
+Adobe Commerce as a Cloud Service offre una soluzione flessibile, scalabile ed efficiente per le aziende, con funzionalità native per il cloud come il ridimensionamento automatico elastico e gli aggiornamenti automatici. Semplifica l’onboarding con il provisioning self-service e offre un’architettura componibile per l’implementazione indipendente dei servizi ed estensibilità API-first. I servizi preconfigurati e la distribuzione continua di nuove funzioni assicurano prestazioni ottimali e facilità d&#39;uso, rendendola ideale per aziende dinamiche e in crescita
 
 ## Cosa imparerai
 

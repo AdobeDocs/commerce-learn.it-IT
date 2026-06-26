@@ -1,14 +1,13 @@
 ---
 title: Architettura Commerce as a Cloud Service
 description: Scopri l’architettura di Adobe Commerce as a Cloud Service e le sue funzioni chiave per soluzioni di e-commerce scalabili, sicure e flessibili.
-kt: 17220
+jira: KT-17220
 doc-type: Technical Video
 duration: 235
-audience: all
-last-substantial-update: 2025-1-30
+last-substantial-update: 2025-01-30
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
 TQID: https://experienceleague.adobe.com/pQAnr0G7c7lFtXj0xPQu3OnYkUvkW-T9sZh-dEHJ3rY
@@ -29,33 +28,33 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: 291
 ht-degree: 0%
 
 ---
 
 # Architettura di Adobe Commerce as a Cloud Service
 
-Adobe Commerce as a cloud service offre una piattaforma di hosting sicura e automatizzata con funzioni self-service per la gestione delle applicazioni commerce. Le funzioni chiave includono la gestione delle risorse tramite Adobe Experience Manager, la copertura API completa con le API GraphQL e REST e i servizi di merchandising intelligente. La piattaforma supporta un’architettura completamente headless, che consente agli sviluppatori di utilizzare vari framework front-end come React e Angular. Fornisce inoltre una moderna vetrina headless con authoring basato su documenti e test A/B nativi. Inoltre, Adobe Commerce si integra con Adobe Experience Cloud per esperienze di e-commerce personalizzate e offre estesi strumenti per gli sviluppatori, tra cui Adobe Developer App Builder e API mesh.
+Adobe Commerce as a Cloud Service offre una piattaforma di hosting sicura e automatizzata con funzioni self-service per la gestione delle applicazioni commerce. Le funzioni chiave includono la gestione delle risorse tramite Adobe Experience Manager, la copertura API completa con le API GraphQL e REST e i servizi Adobe Merchandising intelligenti. La piattaforma supporta un’architettura completamente headless, che consente agli sviluppatori di utilizzare vari framework front-end come React e Angular. Fornisce inoltre una moderna vetrina headless con authoring basato su documenti e test A/B nativi. Inoltre, Adobe Commerce si integra con Adobe Experience Cloud per esperienze di e-commerce personalizzate e offre estesi strumenti per gli sviluppatori, tra cui Adobe Developer App Builder e API mesh.
 
 ## Cosa imparerai
 
-Scopri l’architettura e le funzionalità chiave di Adobe Commerce as a Cloud Service. Elementi che includono hosting sicuro, copertura API, architettura headless e funzionalità di integrazione
+Scopri l’architettura e le funzioni chiave di Adobe Commerce as a Cloud Service. Gli elementi includono hosting sicuro, copertura API, architettura headless e funzionalità di integrazione.
 
 ## A chi serve questo video?
 
 * Manager di e-commerce: informazioni sulle funzionalità di Adobe Commerce.
 * Sviluppatori per scoprire l’architettura, le API e gli strumenti di integrazione della piattaforma.
 * Esperti di marketing digitale per scoprire come Adobe Commerce può migliorare le esperienze dei clienti.
-* Amministratori IT per comprendere gli aspetti di sicurezza e hosting del servizio cloud.
-* I responsabili di prodotto potranno vedere in che modo la piattaforma supporta vari obiettivi aziendali e servizi di merchandising.
+* Amministratori IT per comprendere gli aspetti di sicurezza e hosting di Cloud Service.
+* I responsabili di prodotto potranno vedere in che modo la piattaforma supporta vari obiettivi aziendali e servizi Adobe Merchandising.
 
 ## Contenuto video
 
 * Hosting sicuro e automatizzato: Adobe Commerce fornisce una piattaforma di hosting sicura e automatizzata con funzioni self-service per la gestione delle applicazioni commerce.
 * Copertura API completa: la piattaforma supporta una copertura API estesa tramite API GraphQL e REST, consentendo un’integrazione perfetta con sistemi di terze parti.
-* Architettura headless: architettura completamente scollegata che consente agli sviluppatori di utilizzare vari framework front-end, offrendo flessibilità e prestazioni.
+* Architettura disaccoppiata: l’architettura completamente disaccoppiata consente agli sviluppatori di utilizzare vari framework front-end, offrendo flessibilità e prestazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443275?captions=ita&learn=on)

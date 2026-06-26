@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
 workflow-type: tm+mt
-source-wordcount: 505
+source-wordcount: 507
 ht-degree: 0%
 
 ---
@@ -46,23 +46,23 @@ Scopri come utilizzare le nuove API REST dei clienti in Adobe Commerce as a Clou
 
 * Esegui l’autenticazione con Adobe IMS utilizzando le credenziali server-to-server per ottenere un token di accesso per le richieste API
 * Utilizza il formato dell’endpoint REST API corretto per Commerce as a Cloud Service
-* Creare e aggiornare gli account cliente a livello di programmazione utilizzando le richieste POST e PUT con payload JSON appropriati
+* Creare e aggiornare gli account del cliente a livello di programmazione utilizzando le richieste POST e PUT con payload JSON appropriati
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479370?captions=ita&learn=on)
 
 ## Esempi di codice
 
-Prima di iniziare, raccogliere tutti i valori richiesti da [Experience Cloud](https://experience.adobe.com) e [Adobe Developer Console](https://developer.adobe.com/console). La predisposizione di questi valori garantisce un processo di configurazione fluido.
+Prima di iniziare, raccogli tutti i valori richiesti da [Experience Cloud](https://experience.adobe.com) e [Adobe Developer Console](https://developer.adobe.com/console). La predisposizione di questi valori garantisce un processo di configurazione fluido.
 
 >[!NOTE]
 >
->Assicurati di lavorare nell’organizzazione corretta. La selezione dell’organizzazione influisce sulle istanze e sugli ambienti visibili in Experience Cloud e Developer Console.
+>Assicurati di lavorare nell’organizzazione corretta. La selezione dell’organizzazione influisce sulle istanze e sugli ambienti visibili sia in Experience Cloud che in Developer Console.
 
 ### Dettagli istanza - experience.adobe.com
 
 I dettagli dell’istanza contengono elementi come l’ID istanza, gli endpoint GraphQL e le credenziali.
 
-### Dettagli sviluppatore - https://developer.adobe.com/console/
+### Dettagli sviluppatore - [developer.adobe.com/console](https://developer.adobe.com/console/)
 
 In Developer Console puoi gestire le credenziali API, inclusi ID client, segreti client e token di accesso. È inoltre possibile creare nuovi tipi di credenziali, ad esempio l&#39;autenticazione da server a server o da app nativa.
 
@@ -74,7 +74,6 @@ In Developer Console puoi gestire le credenziali API, inclusi ID client, segreti
 | Endpoint REST | `<rest_endpoint>` | experience.adobe.com |
 | ID client | `<client_id>` | developer.adobe.com/console |
 | Segreto client | `<client_secret>` | developer.adobe.com/console |
-
 
 ## Passaggio 1: ottenere il token di accesso (autenticazione server-to-server)
 
