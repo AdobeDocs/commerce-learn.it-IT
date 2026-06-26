@@ -57,4 +57,4 @@ Scopri l’architettura e le funzioni chiave di Adobe Commerce as a Cloud Servic
 * Copertura API completa: la piattaforma supporta una copertura API estesa tramite API GraphQL e REST, consentendo un’integrazione perfetta con sistemi di terze parti.
 * Architettura disaccoppiata: l’architettura completamente disaccoppiata consente agli sviluppatori di utilizzare vari framework front-end, offrendo flessibilità e prestazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443275?captions=ita&learn=on)
