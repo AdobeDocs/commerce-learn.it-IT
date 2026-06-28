@@ -1,34 +1,23 @@
 ---
-title: Ottimizzazione di Adobe Commerce con l'architettura di riferimento globale per i pacchetti in blocco
-description: Scopri come configurare Adobe Commerce utilizzando l’architettura di riferimento globale per pacchetti in blocco per una gestione efficiente del codice e il controllo delle versioni.
+title: Modello di architettura di riferimento globale per pacchetti bulk
+description: Scopri come configurare Adobe Commerce utilizzando il modello GRA per pacchetti in blocco per una gestione del codice efficiente, il controllo delle versioni e implementazioni scalabili con più istanze.
 jira: KT-16726
-doc-type: tutorial
-duration: 391
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 296
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="Intervento di Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributo di Tony Evers"
-old-role: Architect, Developer
-role: Developer, User, Leader
+badge: label="Intervento di Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributo di Tony Evers"
+role: Developer
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
 source-wordcount: 1188
 ht-degree: 0%
@@ -53,7 +42,7 @@ Vantaggi:
 * Flessibilità per installare diverse versioni storiche del GRA su istanze diverse, consentendo rilasci graduali
 * Flessibilità per il supporto e la manutenzione di più versioni principali della GRA
 * Supporto per il controllo delle versioni semantiche della GRA
-* Semplicità, gli sviluppatori non hanno bisogno di più competenze rispetto ai normali modelli di sviluppo per singolo negozio
+* Semplicità; gli sviluppatori non hanno bisogno di più competenze rispetto ai normali modelli di sviluppo per singolo punto vendita
 * Non sono necessari strumenti speciali, infrastrutture complesse o strategie speciali di ramificazione
 * La combinazione di pacchetti in una versione viene sempre sviluppata e testata insieme
 
@@ -180,7 +169,7 @@ git commit -m 'initialize Brand X repository'
 git push -u origin main
 ```
 
-Installa Adobe Commerce con `bin/magento setup:install`. Install the GRA sample modules in the deployment repository with Composer:
+Installa Adobe Commerce con `bin/magento setup:install`. Installa i moduli di esempio GRA nell’archivio di distribuzione con Composer:
 
 ```bash
 composer config repositories.gra-foundation vcs git@github.com:AntonEvers/gra-bulk-foundation.git
@@ -193,18 +182,18 @@ git commit -m 'install GRA foundation'
 git push origin main
 ```
 
-That last command should result in the following output to prove that the module is installed and working:
+L’ultimo comando dovrebbe produrre il seguente output per dimostrare che il modulo è installato e funzionante:
 
 ```bash
 GRA One module is installed successfully and working!
 GRA Two module is installed successfully and working!
 ```
 
-You can create multiple bulk packages to organize code. For instance, a third-party bulk package for third-party code that is not available through Composer. Everything that you would traditionally install in `app/code` should now be in the `src/` directory of the bulk package. An exception to that rule is code that is only used in a single instance. These packages are called local packages.
+Puoi creare più pacchetti in blocco per organizzare il codice. Ad esempio, un pacchetto in blocco di terze parti per il codice di terze parti che non è disponibile tramite Composer. Tutto ciò che si installa tradizionalmente in `app/code` ora dovrebbe trovarsi nella directory `src/` del pacchetto bulk. Un&#39;eccezione a tale regola è il codice utilizzato solo in una singola istanza. Questi pacchetti sono denominati pacchetti locali.
 
-### Install local packages
+### Installare pacchetti locali
 
-The deployment repository hosts local packages. They do not live in the GRA bulk package. The location of the local packages is not `app/code` but `packages/local`. Instruct Composer to treat this directory as a repository:
+Il repository di distribuzione ospita i pacchetti locali. Non vivono nel pacchetto di gra bulk. Il percorso dei pacchetti locali non è `app/code` ma `packages/local`. Compositore istruzioni per trattare questa directory come un archivio:
 
 ```bash
 composer config repositories.local path 'packages/local/*/*'
@@ -213,7 +202,7 @@ git commit -m 'initialize local composer package storage'
 git push origin main
 ```
 
-Add the example module that is hosted at <https://github.com/AntonEvers/module-example-local>:
+Aggiungere il modulo di esempio ospitato in <https://github.com/AntonEvers/module-example-local>:
 
 ```bash
 mkdir -p packages/local
@@ -231,13 +220,13 @@ bin/magento module:enable AntonEvers_Local
 bin/magento test:local
 ```
 
-That last command should result in the following output to prove that the module is installed and working:
+L’ultimo comando dovrebbe produrre il seguente output per dimostrare che il modulo è installato e funzionante:
 
 ```bash
 Local module is installed successfully and working!
 ```
 
-Commit the local module to the brand repository:
+Esegui il commit del modulo locale nell’archivio del brand:
 
 ```bash
 git add packages/local/antonevers/module-local app/etc/config.php composer.json composer.lock 
@@ -245,49 +234,49 @@ git commit -m 'add local module'
 git push origin main
 ```
 
-## Overview of code locations
+## Panoramica delle posizioni del codice
 
-Only if the third-party does not offer installation through a Composer repository, you can store third-party modules in the `src/` directory of your foundation repository or a dedicated third-party bulk package.
+Solo se la terza parte non offre l&#39;installazione tramite un repository Composer, è possibile memorizzare i moduli di terze parti nella directory `src/` dell&#39;archivio di base o in un pacchetto bulk di terze parti dedicato.
 
-* **Adobe Commerce core**: available through repo.magento.com.
-* **Third-party modules**: available through the Marketplace or a vendor&#39;s own Composer repository.
-* **Third-party modules fallback option**: stored in `src/` of a bulk package.
-* **GRA foundation code**: stored in `src/` of the foundation bulk package.
-* **Local code**: stored in the `packages/local` directory of the deployment repository.
+* **Adobe Commerce core**: disponibile tramite repo.magento.com.
+* **Moduli di terze parti**: disponibili tramite Marketplace o l&#39;archivio del Compositore di un fornitore.
+* **Opzione di fallback moduli di terze parti**: archiviata in `src/` di un pacchetto bulk.
+* **Codice GRA Foundation**: archiviato in `src/` del pacchetto bulk di foundation.
+* **Codice locale**: archiviato nella directory `packages/local` dell&#39;archivio di distribuzione.
 
-## Develop a GRA module
+## Sviluppare un modulo GRA
 
-Install the bulk package from source to enable Git in the bulk package directory:
+Installa il pacchetto bulk dall’origine per abilitare Git nella directory del pacchetto bulk:
 
 ```bash
 rm -r vendor/antonevers/gra-bulk-foundation
 composer install --prefer-source
 ```
 
-The bulk package has been checked out using Git. When you enter the `vendor/antonevers/gra-bulk-foundation` directory, you are also entering the gra-bulk-foundation Git repository. You can create, checkout and merge branches in this directory.
+Il pacchetto bulk è stato estratto utilizzando Git. Quando si immette la directory `vendor/antonevers/gra-bulk-foundation`, si immette anche l&#39;archivio Git gra-bulk-foundation. Puoi creare, estrarre e unire rami in questa directory.
 
-Add Composer dependencies to the composer.json file at the root of the GRA bulk package, which is the only file in the bulk package that Composer evaluates.
+Aggiungi le dipendenze del Compositore al file compositore.json nella radice del pacchetto bulk GRA, che è l’unico file nel pacchetto bulk valutato da Composer.
 
-## Include third-party modules to the GRA bulk package
+## Includi moduli di terze parti nel pacchetto di massa GRA
 
-Add third-party packages in the require section of the composer.json at the root of the GRA foundation to add them to your GRA. That way, the packages are always installed in all your instances through composer.
+Aggiungi pacchetti di terze parti nella sezione richiesta del file compositore.json nella directory principale della GRA Foundation per aggiungerli alla GRA. In questo modo, i pacchetti vengono sempre installati in tutte le istanze tramite Compositore.
 
-## Deliver your code
+## Distribuisci il codice
 
-To deliver code to the main branch, there are 2 paths. First the local modules, which are merged to the main branch. Run Composer update for those modules. Do not allow developers to update composer.lock in their ticket branches to reduce conflicts. Only update the composer.lock file in staging and production branches, which reduces the risk of conflicts.
+Per consegnare il codice al ramo principale, sono disponibili 2 percorsi. Innanzitutto i moduli locali, che vengono uniti al ramo principale. Esegui l’aggiornamento del Compositore per tali moduli. Non consentire agli sviluppatori di aggiornare compositore.lock nei rami dei ticket per ridurre i conflitti. Aggiorna il file compositore.lock solo nei rami di staging e produzione, riducendo il rischio di conflitti.
 
-Secondly, the GRA bulk packages, which are merged into the main branch of the GRA bulk repository. Then you can add a Git tag to the main branch, versioning the Composer package. Require your new version of the GRA bulk package in the composer.json of the deployment repository to install it.
+In secondo luogo, i pacchetti GRA bulk, che vengono uniti nel ramo principale dell’archivio GRA bulk. Quindi puoi aggiungere un tag Git al ramo principale, creando versioni del pacchetto Compositore. Richiedi la nuova versione del pacchetto bulk GRA nel file compositore.json dell’archivio di distribuzione per installarlo.
 
 ## Strategia di diramazione
 
-This GRA pattern works with all branching strategies so long as you mirror the branching strategy of the deployment repositories in your GRA bulk repository. For releases, create a release branch with the same name in both repositories. For development, create a ticket branch in both repositories.
+Questo modello GRA funziona con tutte le strategie di diramazione purché rispecchi la strategia di diramazione degli archivi di distribuzione nell’archivio in blocco GRA. Per le versioni, crea un ramo della versione con lo stesso nome in entrambi gli archivi. Per lo sviluppo, crea una sezione ticket in entrambi gli archivi.
 
-In ticket branches, you should almost never have to update the composer.lock file. Just check out the right branches in your development environment for both the store and the GRA foundation repository with Git. The exception is when you update requirements in the GRA foundation composer.json file. Upgrading the GRA foundation in the deployment repository is only done when building the release, or when building a QA branch.
+Nei rami ticket non dovrebbe quasi mai essere necessario aggiornare il file compositore.lock. È sufficiente controllare i rami giusti nell’ambiente di sviluppo sia per lo store che per l’archivio GRA foundation con Git. L&#39;eccezione si verifica quando si aggiornano i requisiti nel file compositore.json di GRA Foundation. L’aggiornamento di GRA Foundation nell’archivio di distribuzione viene eseguito solo durante la creazione della versione o durante la creazione di un ramo di controllo qualità.
 
 ## Esempi di codice
 
-The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
+Gli esempi di codice di questo articolo sono disponibili come set di archivi Git, che puoi utilizzare per testare la verifica di concetto.
 
 * Un esempio di archivio di produzione: <https://github.com/AntonEvers/gra-bulk-brand-x>
-* The GRA code repository: <https://github.com/AntonEvers/gra-bulk-foundation>
-* An example local module: <https://github.com/AntonEvers/module-example-local>
+* Archivio del codice GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
+* Esempio di modulo locale: <https://github.com/AntonEvers/module-example-local>
