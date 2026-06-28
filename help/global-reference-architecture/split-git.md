@@ -1,15 +1,13 @@
 ---
-title: Configurazione di Adobe Commerce con l’architettura di riferimento globale Git Split
-description: Scopri come configurare Adobe Commerce utilizzando l’architettura di riferimento globale Split Git per una gestione del codice efficiente e una distribuzione semplificata. ​
-kt: 16725
-doc-type: tutorial
-duration: 515
-audience: all
-last-substantial-update: 2025-1-6
+title: Architettura di riferimento globale Git divisa
+description: Scopri come configurare Adobe Commerce utilizzando l’architettura di riferimento globale Split Git per una gestione del codice efficiente e una distribuzione semplificata.
+jira: KT-16725
+doc-type: Tutorial
+duration: 330
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Intervento di Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributo di Tony Evers"
+badge: label="Intervento di Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributo di Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
@@ -29,9 +27,9 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 1555
+source-wordcount: 1529
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Vantaggi:
 
 * Riutilizzo del codice tramite un archivio di codice condiviso
 * Semplice pattern GRA, adatto anche per team con limitata conoscenza del Compositore
-* Oltre ai moduli, ai temi e ai Language Pack di Adobe Commerce, è possibile installare qualsiasi tipo di pacchetto Composer tramite questo modello, inclusi compositore-plugin, compositore-metapackage, componente magento2 e patch
+* Puoi installare qualsiasi pacchetto Compositore tramite questo modello, inclusi moduli, temi, Language Pack, Compositore-plugin, Compositore-metapackage, Magento2-component e patch
 * Possibilità di rilasciare in fasi, pianificando le versioni per le aree nelle proprie finestre di manutenzione
 * Supporto per i tag Git a scopo amministrativo, non per il controllo della distribuzione
 * Garantire che la combinazione di pacchetti in una distribuzione di produzione sia sviluppata e testata in questa esatta configurazione
@@ -61,7 +59,7 @@ Svantaggi:
 
 * Nessuna flessibilità aggiuntiva rispetto ad altri modelli GRA
 * Impossibile aggiornare o declassare singoli moduli per istanza, aggiornare o declassare sempre l&#39;intero GRA
-* Nella maggior parte dei casi, il modello dei pacchetti bulk è un adattamento migliore in quanto è ugualmente semplice, ma più convenzionale
+* Nella maggior parte dei casi, il modello dei pacchetti bulk è un&#39;alternativa migliore in quanto è ugualmente semplice, ma più convenzionale
 
 ## Configurare Adobe Commerce con il pattern Git GRA diviso
 
@@ -153,7 +151,7 @@ git commit -m 'initialize GRA package storage'
 git push origin main
 ```
 
-Questi due archivi memorizzano pacchetti di terze parti e pacchetti GRA. Può esistere un codice esclusivo per ogni istanza di Adobe Commerce. Crea un percorso per archiviare questi pacchetti locali nell’archivio gra-split-brand-x.
+Questi due archivi memorizzano pacchetti di terze parti e pacchetti GRA. Alcuni codici sono esclusivi per ogni istanza di Adobe Commerce. Crea un percorso per archiviare questi pacchetti locali nell’archivio gra-split-brand-x.
 
 ```bash
 cd ../gra-split-brand-x
@@ -166,7 +164,7 @@ git push origin main
 
 ### Dove memorizzare diversi tipi di codice
 
-Adobe Commerce è un’applicazione Compositore. Il modo migliore per eseguire l’installazione è sempre tramite gli archivi del Compositore. Solo se un fornitore di moduli non offre l’installazione tramite un archivio Compositore, puoi archiviare moduli di terze parti nell’archivio di terze parti. La posizione preferita per il codice personalizzato è nell’archivio GRA. Quando un modulo viene utilizzato solo da una specifica istanza, diventa codice locale.
+Adobe Commerce è un’applicazione Compositore. Il modo migliore per eseguire l’installazione è sempre tramite gli archivi del Compositore. Solo se un fornitore di moduli non offre l’installazione tramite un archivio Compositore, puoi archiviare moduli di terze parti nell’archivio di terze parti. La posizione preferita per il codice personalizzato è nell’archivio GRA. Quando una specifica istanza utilizza un modulo, questo diventa codice locale.
 
 Riepilogo:
 
@@ -189,7 +187,7 @@ Il Compositore può trattare la directory dei pacchetti come un archivio del com
 ]
 ```
 
-Composer cerca i file compositore.json con due livelli di profondità nelle tre directory di archiviazione. Creare sottodirectory nelle tre directory di archiviazione del codice esattamente come apparirebbero nella directory `vendor/`.
+Composer cerca i file compositore.json con due livelli di profondità nelle tre directory di archiviazione. Creare sottodirectory nelle tre directory di archiviazione del codice esattamente come appaiono nella directory `vendor/`.
 
 Ad esempio: se un pacchetto è installato normalmente in `vendor/example-corp/module-example/`, è necessario archiviarlo in `packages/3rdparty/example-corp/module-example/`. Il Compositore esegue il collegamento simbolico del pacchetto a `vendor/example-corp/module-example/` quando necessario.
 
@@ -223,11 +221,11 @@ Adobe Commerce non riconosce automaticamente i nuovi moduli. Per eseguire il com
 
 ### Installare i moduli di esempio
 
-Come prova di concetto, installa moduli di esempio per vedere come funziona il modello GRA.
+Per vedere come funziona il modello GRA, installa moduli di esempio come prova di concetto.
 
 Eseguire `composer install` e `bin/magento install` prima di continuare.
 
-Esistono 3 moduli di test per su GitHub:
+Su GitHub sono disponibili 3 moduli di test:
 
 1. [module-example-local](https://github.com/AntonEvers/module-example-local)
 2. [module-example-gra](https://github.com/AntonEvers/module-example-gra)
@@ -253,7 +251,7 @@ bin/magento module:enable AntonEvers_Local
 bin/magento test:local
 ```
 
-L’ultimo comando dovrebbe produrre il seguente output per dimostrare che il modulo è installato e funzionante:
+L’ultimo comando genera il seguente output per dimostrare che il modulo è installato e funzionante:
 
 ```bash
 Local module is installed successfully and working!
@@ -308,7 +306,7 @@ Il risultato è la seguente struttura di directory:
 
 Eseguire `composer install` e `bin/magento install` nella directory gra-development.
 
-È ora possibile confermare le modifiche direttamente dalle directory `packages/3rdparty`, `packages/gra` e `package/local`. Git invia le modifiche all’archivio Git a cui si collegano le directory. È importante che il comando git commit venga eseguito all&#39;interno della directory `packages/3rdparty`, `packages/gra` o `package/local`. Non eseguire il commit Git nella directory principale del progetto.
+È ora possibile confermare le modifiche direttamente dalle directory `packages/3rdparty`, `packages/gra` e `packages/local`. Git invia le modifiche all’archivio Git a cui si collegano le directory. È importante che il comando git commit venga eseguito all&#39;interno della directory `packages/3rdparty`, `packages/gra` o `packages/local`. Non eseguire il commit Git nella directory principale del progetto.
 
 ### Installare i moduli di esempio
 
@@ -340,14 +338,14 @@ bin/magento test:gra
 bin/magento test:3rdparty
 ```
 
-L’ultimo comando dovrebbe produrre il seguente output per dimostrare che il modulo è installato e funzionante:
+L’ultimo comando genera il seguente output per dimostrare che il modulo è installato e funzionante:
 
 ```bash
 GRA module is installed successfully and working!
 3rd party module is installed successfully and working!
 ```
 
-Se vedi l’output qui sopra, puoi eseguirne il commit nell’archivio del brand. Eseguire `git remote -v` per verificare che si stia eseguendo il commit al remoto corretto.
+Se vedi l’output qui sopra, puoi eseguirne il commit nell’archivio del brand. Per verificare che si stia eseguendo il commit al remoto corretto, eseguire `git remote -v`.
 
 ```bash
 cd packages/gra
@@ -369,7 +367,7 @@ git push origin main
 
 ### Consegna del codice alle istanze
 
-Unisci gli archivi GRA e di terze parti all’archivio gra-split-brand-x per distribuire il codice a un’istanza di Adobe Commerce. Eseguire `composer require`, `bin/magento module:enable` e confermare il risultato.
+Per distribuire il codice a un’istanza di Adobe Commerce, unisci gli archivi GRA e di terze parti all’archivio gra-split-brand-x. Eseguire `composer require`, `bin/magento module:enable` e confermare il risultato.
 
 ```bash
 cd gra-split-brand-x
