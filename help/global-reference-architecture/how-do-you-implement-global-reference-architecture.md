@@ -53,6 +53,6 @@ Scopri come implementare Global Reference Architecture o GRA. Scopri le decision
 * Bacheca di controllo globale: su quali funzioni lavorare
 * Concetto alternativo per l’utilizzo di GRA come marketplace dei moduli
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457216?captions=ita&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
