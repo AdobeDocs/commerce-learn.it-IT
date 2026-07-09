@@ -33,7 +33,7 @@ La ricerca tradizionale delle parole chiave corrisponde alle parole esatte, ma g
 * Esempi reali di intento dell’acquirente e maggiore rilevanza delle ricerche
 * Vantaggi principali: maggiore rilevanza, meno ricerche senza risultati e migliori esperienze di acquisto
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492311?captions=ita)
 
 ## Risorse aggiuntive
 
