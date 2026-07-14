@@ -50,4 +50,4 @@ Scopri come creare un ticket di supporto in Adobe Experience League per Adobe Co
 
 ## Guida di Commerce Knowledge Base all&#39;Adobe Help Center
 
-[Inviare un caso di supporto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Inviare un caso di supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
