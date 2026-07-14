@@ -38,7 +38,7 @@ Scopri come cercare, rivedere, commentare e inoltrare un ticket di supporto in A
 * Scopri come aggiungere un commento a un ticket di supporto aperto
 * Scopri come e alcuni motivi per l’inoltro di un ticket di supporto
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445319?captions=ita&learn=on)
 
 ## Guida di Commerce Knowledge Base all&#39;Adobe Help Center
 
