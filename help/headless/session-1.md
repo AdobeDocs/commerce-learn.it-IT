@@ -1,14 +1,12 @@
 ---
 title: Sessione architettura headless 1
-description: Scopri cos’è l’architettura headless, il commerce componibile e le esperienze personalizzate
-kt: 13144
-doc-type: tutorial
+description: Scopri l’architettura headless, il e-commerce componibile e le esperienze personalizzate con Adobe Commerce ed esplora i vantaggi di una vetrina separata.
+jira: KT-13144
+doc-type: Value Video
 duration: 1952
-audience: all
 last-substantial-update: 2023-04-25T00:00:00.000Z
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
@@ -32,20 +30,20 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 58b3a0c27f74abac23412518e4a5747bbe4cf240
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: 141
 ht-degree: 0%
 
 ---
 
 # Architettura Adobe Commerce headless
 
-Panoramica di alto livello sulla storia di Adobe Commerce e su come le cose si sono spostate per supportare completamente headless.  I vantaggi dell’architettura headless includono parità tra i punti di contatto, separazione delle attività di sviluppo, maggiore scalabilità e molto altro.
+Panoramica di alto livello sulla storia di Adobe Commerce e su come le cose si sono spostate per supportare completamente headless. I vantaggi dell’architettura headless includono parità tra i punti di contatto, separazione delle attività di sviluppo, maggiore scalabilità e vantaggi aggiuntivi.
 
 ## Cosa imparerai
 
-Scopri cosa è headless e come Adobe Commerce supporta completamente l’architettura headless.
+Scopri cos’è headless e come Adobe Commerce supporta completamente l’architettura headless.
 
 ## A chi serve questo video?
 
