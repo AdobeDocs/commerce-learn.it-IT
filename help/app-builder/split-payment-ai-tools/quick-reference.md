@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 
 ## Riferimento file per file
 
-### [Creazione di un POC di pagamento frazionato: strumenti App Builder e AI](./overview.md)
+### Creazione di un POC di pagamento frazionato: strumenti App Builder e AI
+
+[Creazione di un POC di pagamento frazionato: strumenti App Builder e AI](./overview.md)
 
 **Scopo:** Introduzione e orientamento per l&#39;esercitazione.
 
@@ -32,8 +34,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Utilizzo esercitazione:** Apertura della sezione. Imposta il contesto prima di qualsiasi passaggio tecnico.
 
 
-### [Dividi POC pagamento: decisioni su architettura e progettazione](./architecture-and-decisions.md)
+### Dividi pagamento POC: decisioni su architettura e progettazione
 
+[Dividi pagamento POC: decisioni su architettura e progettazione](./architecture-and-decisions.md)
 
 **Scopo:** spiegazione dettagliata di ogni decisione di architettura nel PoC.
 
@@ -50,8 +53,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Utilizzo esercitazione:** sezione &quot;Architettura&quot; o &quot;Funzionamento&quot;. Può essere saltato da sviluppatori esperti di Commerce, ma è essenziale per i nuovi arrivati di App Builder.
 
 
-### [Dividi POC pagamento: prerequisiti e configurazione dell&#39;ambiente](./prerequisites-and-setup.md)
+### Dividi POC pagamento: prerequisiti e impostazione dell&#39;ambiente
 
+[Dividi POC pagamento: prerequisiti e impostazione dell&#39;ambiente](./prerequisites-and-setup.md)
 
 **Scopo:** completare l&#39;elenco di controllo prima della verifica prima della scrittura del codice o dell&#39;esecuzione delle richieste.
 
@@ -66,8 +70,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Utilizzo esercitazione:** sezione &quot;Prerequisiti&quot; o &quot;Guida introduttiva&quot;. Deve essere completato in modo interattivo, non solo letto.
 
 
-### [Dividi POC pagamento: riferimento variabili ambiente](./env-reference.md)
+### Dividi pagamento POC: riferimento variabili ambiente
 
+[Dividi pagamento POC: riferimento variabili ambiente](./env-reference.md)
 
 **Scopo:** tutte le variabili di ambiente per tutti e tre i componenti in un&#39;unica posizione.
 
@@ -82,8 +87,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Uso del tutorial:** Barra laterale di riferimento o sezione &quot;Configurazione&quot;. Utilizzato anche come complemento ai prompt di generazione.
 
 
-### [Dividi POC pagamento: richiesta di IA modulo Commerce](./commerce-module-prompt.md)
+### Dividi pagamento POC: richiesta di IA del modulo Commerce
 
+[Dividi pagamento POC: richiesta di IA del modulo Commerce](./commerce-module-prompt.md)
 
 **Scopo:** richiesta di IA completa e autonoma per generare l&#39;intero modulo PHP `Client_SplitPayment`.
 
@@ -101,8 +107,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Uso dell&#39;esercitazione:** sezione &quot;Generare il modulo Commerce&quot;. Il prompt stesso è l’artefatto: gli sviluppatori lo copiano nel loro strumento di intelligenza artificiale e lo eseguono.
 
 
-### [Dividi POC pagamento: richiesta di IA di App Builder Orchestrator](./orchestrator-prompt.md)
+### Dividi pagamento POC: App Builder Orchestrator AI prompt
 
+[Dividi pagamento POC: App Builder Orchestrator AI prompt](./orchestrator-prompt.md)
 
 **Scopo:** richiesta di IA completa e autonoma per generare l&#39;applicazione App Builder `split-payment-orchestrator`.
 
@@ -120,8 +127,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Utilizzo dell&#39;esercitazione:** sezione &quot;Generare l&#39;applicazione App Builder&quot;. Accedi al prompt dei moduli di Commerce.
 
 
-### [Dividi POC pagamento: richiesta IA estensione interfaccia utente di Experience Cloud](./experience-cloud-ui-prompt.md)
+### Dividi pagamento POC: richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud
 
+[Dividi pagamento POC: richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](./experience-cloud-ui-prompt.md)
 
 **Scopo:** richiesta di IA per generare l&#39;estensione opzionale di SDK dell&#39;interfaccia utente di amministrazione di Experience Cloud.
 
@@ -137,8 +145,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Utilizzo dell&#39;esercitazione:** Sezione facoltativa &quot;Ulteriori informazioni&quot; o &quot;Percorso di produzione&quot;. Può essere ignorato se il tutorial si concentra solo sul PoC.
 
 
-### [Dividi POC pagamento: guida alla verifica e alla verifica](./testing-and-verification.md)
+### Dividi pagamento POC: guida al test e alla verifica
 
+[Dividi pagamento POC: guida al test e alla verifica](./testing-and-verification.md)
 
 **Scopo:** guida dettagliata ai test per ogni componente nell&#39;ordine di verifica corretto.
 
@@ -160,8 +169,9 @@ In questa pagina viene riepilogato come è organizzata la serie di tutorial proo
 **Utilizzo esercitazione:** sezione &quot;Test&quot; o &quot;Verifica&quot;. È utile anche come riferimento per la risoluzione dei problemi.
 
 
-### [Dividi POC pagamento: passaggi successivi alla verifica del concetto](./next-steps.md)
+### Dividi pagamento POC: passaggi successivi alla prova di concetto
 
+[Dividi pagamento POC: passaggi successivi alla prova di concetto](./next-steps.md)
 
 **Scopo:** roadmap per l&#39;evoluzione del PoC in modelli pronti per la produzione.
 
