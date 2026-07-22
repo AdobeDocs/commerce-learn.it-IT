@@ -33,4 +33,4 @@ Impostare gli URL dell&#39;istanza di destinazione, le credenziali Adobe IMS e l
 * Recupera l&#39;ID client Adobe IMS e il segreto client da **Project** > **OAuth Server-to-Server** in Adobe Developer Console.
 * Copia l’ID dell’organizzazione di destinazione e configura le impostazioni dell’host CDMS, della porta e del server locale in modo che corrispondano al tuo ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496173?captions=ita&learn=on)
