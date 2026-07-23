@@ -33,7 +33,7 @@ L’agente di intelligenza artificiale finalizza l’implementazione, pulisce il
 Le credenziali e l’ambiente sono configurati per distribuire e registrare la nuova estensione di spedizione.
 Il test Storefront conferma l&#39;apparizione delle tariffe di spedizione esterne e il funzionamento previsto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481365?captions=ita&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
 
