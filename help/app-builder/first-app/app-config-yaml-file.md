@@ -11,16 +11,11 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
 TQID: https://experienceleague.adobe.com/iK4PPaI2-vxQK32DMfkMRZMgNYpLExMbNge2lXIJzLg
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3f243b43695e65d63cb25142ec5a886ce390d502
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: 96
 ht-degree: 0%
@@ -40,7 +35,7 @@ Questo file determina la configurazione dell&#39;applicazione.
 * Il file `app.config.yaml` ha discusso
 * Come vengono collegate le definizioni ad altri file `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430843?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
 ## Esempio di codice
 
@@ -78,4 +73,5 @@ Questi valori statici vengono utilizzati nel modulo di esempio nel file `actions
 ```
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+
 

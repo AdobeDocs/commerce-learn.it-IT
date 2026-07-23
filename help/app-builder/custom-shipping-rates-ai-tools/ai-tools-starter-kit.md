@@ -10,7 +10,7 @@ duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -34,7 +34,8 @@ Scopri come utilizzare gli strumenti basati sull’intelligenza artificiale di A
 * Gli strumenti MCP espongono comandi e dati utilizzati dall’agente per pianificare e generare il codice.
 * L’intelligenza artificiale automatizza i requisiti, l’architettura e le decisioni di implementazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481352?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
 
