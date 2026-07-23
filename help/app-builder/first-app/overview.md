@@ -4,7 +4,7 @@ description: Scopri Adobe Developer App Builder con Adobe Commerce, compresi pre
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 864c348235569cb18aa89a88885208a8225eec7a
 workflow-type: tm+mt
 source-wordcount: 332
 ht-degree: 0%
@@ -36,7 +36,7 @@ Questo tutorial presenta i seguenti prerequisiti:
 * È stato concesso l’accesso completo o di prova ad App Builder
 * [L’applicazione Adobe Developer App Builder è stata creata](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}
 * [Il progetto Adobe Developer App Builder è stato creato](https://developer.adobe.com/console){target="_blank"}
-* [Le aree di lavoro di Adobe Developer App Builder sono state create - Passaggio 2.6](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [Le aree di lavoro di Adobe Developer App Builder sono state create - Passaggio 2](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [Sono stati eseguiti i comandi CLI AIO per inizializzare il progetto ed eseguire](https://developer.adobe.com/runtime){target="_blank"}
 
 Per ulteriori informazioni sulla creazione della prima applicazione App Builder, puoi visualizzare il seguente post di blog per informazioni su questa configurazione iniziale [In che modo App Builder contribuisce a stimolare l&#39;agilità aziendale per la piattaforma commerce](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
