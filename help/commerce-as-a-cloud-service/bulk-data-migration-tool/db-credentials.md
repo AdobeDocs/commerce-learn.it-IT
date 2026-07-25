@@ -33,4 +33,4 @@ Configurare la connessione al database di origine nel file `.my.cnf` prima di es
 * Utilizza i comandi del tunnel CLI di Magento Cloud per ottenere i valori dell’host, dell’utente, della password, della porta e del database.
 * Conferma la connettività host e porta prima di eseguire lo strumento se l’origine è locale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496163?captions=ita&learn=on)

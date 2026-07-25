@@ -33,4 +33,4 @@ Prepara Docker e accedi allo strumento di migrazione dati in blocco per migrare 
 * Estrarre il pacchetto di strumenti e impostare le autorizzazioni della cartella corrette.
 * Rivedi il file `.env.example` configurato nei video successivi di questa serie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496128?captions=ita&learn=on)
