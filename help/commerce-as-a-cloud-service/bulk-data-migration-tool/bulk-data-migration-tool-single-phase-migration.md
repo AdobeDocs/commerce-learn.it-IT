@@ -34,4 +34,4 @@ Esegui una migrazione in un’unica fase quando l’ambiente sorgente può riman
 * Controlla il rapporto di riepilogo della migrazione: il passaggio 8 (verifica integrità dati) registra gli errori senza arrestare la pipeline, pertanto un’esecuzione completata non garantisce una verifica pulita.
 * Questo comando monofase è una pipeline completa e autonoma: non utilizzarlo come passaggio all’interno del flusso di lavoro in modalità di manutenzione (migrazione graduale), che dispone di comandi dedicati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496322?captions=ita&learn=on)
