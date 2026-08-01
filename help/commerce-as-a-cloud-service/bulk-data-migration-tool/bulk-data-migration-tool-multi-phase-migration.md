@@ -32,4 +32,4 @@ Esegui una migrazione multifase quando l’ambiente sorgente deve essere bloccat
 * La fase uno viene eseguita mentre l&#39;origine è ancora attiva: `bin console migration:before-maintenance` controlla la configurazione, inizializza l&#39;ambiente, si connette al CDMS, registra la migrazione, esegue test funzionali e crea dati di test sintetici. Non attivare la modalità di manutenzione fino al termine di questa fase.
 * La terza fase consiste nell&#39;estrazione da un ambiente bloccato: `bin/console migration:during-maintenance` riapre i tunnel PaaS se necessario, estrae dall&#39;origine, pulisce le visualizzazioni di gestione temporanea, carica nel target ACCS, esegue la verifica e pulisce i dati di test sul target.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496419?captions=ita&learn=on)
