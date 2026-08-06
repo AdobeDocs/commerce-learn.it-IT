@@ -3,12 +3,12 @@ title: Sessione architettura headless 1
 description: Scopri l’architettura headless, il e-commerce componibile e le esperienze personalizzate con Adobe Commerce ed esplora i vantaggi di una vetrina separata.
 jira: KT-13144
 doc-type: Value Video
-duration: 1952
-last-substantial-update: 2023-04-25T00:00:00.000Z
+duration: 1951
+last-substantial-update: 2023-04-25
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-role: Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer
+level: Beginner
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
 TQID: https://experienceleague.adobe.com/f-pR5V-DQaw-dn5KrcD1jrtb5kZq2EHKNgsnHwdzUaE
 product_v2:
@@ -30,7 +30,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 58b3a0c27f74abac23412518e4a5747bbe4cf240
+source-git-commit: 1306693fd0e2277c671adb2d609de2533a2a13ae
 workflow-type: tm+mt
 source-wordcount: 141
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 # Architettura Adobe Commerce headless
 
-Panoramica di alto livello sulla storia di Adobe Commerce e su come le cose si sono spostate per supportare completamente headless. I vantaggi dell’architettura headless includono parità tra i punti di contatto, separazione delle attività di sviluppo, maggiore scalabilità e vantaggi aggiuntivi.
+Panoramica di alto livello sulla storia di Adobe Commerce e sull’evoluzione della piattaforma per supportare completamente headless. I vantaggi dell’architettura headless includono parità tra i punti di contatto, separazione delle attività di sviluppo, maggiore scalabilità e vantaggi aggiuntivi.
 
 ## Cosa imparerai
 

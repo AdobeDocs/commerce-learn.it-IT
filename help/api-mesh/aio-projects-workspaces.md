@@ -4,13 +4,13 @@ description: Scopri come utilizzare Adobe Developer Console per lavorare con pro
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2023-02-08T00:00:00Z
+last-substantial-update: 2026-08-03T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: c73744d503de5023e5c001d0534200522db55b04
+source-git-commit: 8155d699c1dd34cba776ffb928ab2d835b5a4d4b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -38,11 +38,11 @@ Questo tutorial illustra come creare un progetto e un’area di lavoro che conte
 
 ## Informazioni su Adobe Developer Console
 
-In Adobe Developer Console, la seguente gerarchia rappresenta l&#39;organizzazione delle API all&#39;interno dell&#39;organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, sull&#39;accesso alla console e sulla risoluzione dei problemi di base, visitare il sito [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
+In Adobe Developer Console, la seguente gerarchia descrive l&#39;organizzazione delle API nell&#39;organizzazione: `Organization > Project > Workspace > [API]`. Per ulteriori informazioni su Adobe App Builder, sull&#39;accesso alla console e sulla risoluzione dei problemi di base, visitare il sito [Creazione della prima applicazione App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Introduzione ai progetti in Adobe Developer Console
 
-Tutto il lavoro di sviluppo in Adobe Developer Console viene fatto come parte di un progetto. Un progetto può includere uno o più prodotti e una combinazione di API, eventi, runtime e plug-in. Per ulteriori dettagli sui progetti nella console Adobe Developer, visita [Progetti](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
+Tutto il lavoro di sviluppo in Adobe Developer Console viene eseguito come parte di un progetto. Un progetto può includere uno o più prodotti e una combinazione di API, eventi, runtime e plug-in. Per ulteriori dettagli sui progetti nella console Adobe Developer, visita [Progetti](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
 Per ulteriori informazioni sull&#39;utilizzo di progetti e aree di lavoro nel contesto di Mesh API, vedere [Modificare progetti e aree di lavoro](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
 
