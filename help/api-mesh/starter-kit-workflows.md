@@ -11,15 +11,12 @@ role: Developer
 level: Beginner
 exl-id: 8add45cc-f0cb-43a6-99d9-6b89beff6b19
 TQID: https://experienceleague.adobe.com/OhEdoSE6OOV1QiwBAf7eusIAkHxxXBsgcaV3wzV0KWI
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: c73744d503de5023e5c001d0534200522db55b04
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+autotag-review: '2026-08-11T19:13:44.815Z'
+source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
 workflow-type: tm+mt
 source-wordcount: 138
 ht-degree: 0%
@@ -41,10 +38,10 @@ Scopri i flussi di lavoro GitHub inclusi nel kit di avvio Mesh API per la distri
 * Flusso di lavoro deployMesh che distribuisce o aggiorna automaticamente una rete
 * Test di carico con il flusso di lavoro del test di carico K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464532?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## Documentazione correlata
 
 * [Kit starter mesh API per archivio GitHub](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guida all’implementazione di Adobe Developer OAuth server to server](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Playlist dei video Mesh API](https://experienceleague.adobe.com/it/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Playlist dei video Mesh API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
