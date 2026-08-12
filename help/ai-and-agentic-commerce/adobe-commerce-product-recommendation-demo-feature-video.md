@@ -3,7 +3,9 @@ title: Demo sui consigli di prodotto per Adobe Commerce - Video sulle funzioni
 description: Scopri come aggiungere i consigli di prodotto Adobe Sensei a una pagina dei dettagli di prodotto Adobe Commerce, incluse le regole di esclusione relative alla fascia di prezzo e al prezzo esaurito.
 feature: Recommendations
 topic: Commerce
-role: AdminUser
+role:
+  - Admin
+  - User
 level: Beginner
 doc-type: Feature Video
 duration: 235
