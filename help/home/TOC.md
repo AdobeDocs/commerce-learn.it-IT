@@ -4,7 +4,7 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: c3b81a5ffc652bc7ce7640b67fe5529067607251
+source-git-commit: ac5024c37b1cee5aa090ea8163c3fd7758b811a5
 workflow-type: tm+mt
 source-wordcount: '975'
 ht-degree: 3%
