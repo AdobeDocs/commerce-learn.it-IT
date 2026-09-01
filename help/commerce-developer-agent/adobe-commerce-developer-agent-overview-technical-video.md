@@ -34,7 +34,7 @@ Adobe Commerce Developer Agent trasforma una richiesta in inglese semplice in un
 * Esposizione di limiti e messaggi come configurazione aziendale che il team dello store può regolare dopo il lancio
 * Anteprima della procedura dettagliata completa: blueprint, sviluppo, connessione, distribuzione, configurazione e test
 
->[!VIDEO](https://video.tv.adobe.com/v/3502440)
+>[!VIDEO](https://video.tv.adobe.com/v/3502455?captions=ita)
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 

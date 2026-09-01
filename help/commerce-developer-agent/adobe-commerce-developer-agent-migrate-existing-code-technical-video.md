@@ -35,7 +35,7 @@ Non tutti i progetti iniziano da una configurazione vuota. Questo esempio migra 
 * Generazione di un blueprint di webhook sincroni che sostituiscono la logica legacy più rischiosa con un diagramma dell’architettura
 * Creazione dell’implementazione con un file di test corrispondente scritto accanto a ciascun gestore
 
->[!VIDEO](https://video.tv.adobe.com/v/3502483)
+>[!VIDEO](https://video.tv.adobe.com/v/3502535?captions=ita)
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
