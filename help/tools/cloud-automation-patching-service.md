@@ -47,4 +47,4 @@ Adobe Commerce Patching Automation è una funzione all&#39;interno di Adobe Comm
 
 ## Documentazione correlata
 
-* [Documentazione sull&#39;automazione dell&#39;applicazione di patch](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentazione sull&#39;automazione dell&#39;applicazione di patch](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/caps-tool/intro)
