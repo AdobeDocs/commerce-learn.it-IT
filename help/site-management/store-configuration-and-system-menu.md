@@ -35,7 +35,7 @@ Esplora l’area di lavoro di amministrazione di Adobe Commerce, dal filtraggio 
 * Passare dalla vista predefinita a quella salvata e aggiornare una vista esistente.
 * Passa alla configurazione del negozio ed esplora le impostazioni generali, di catalogo, di sicurezza, del cliente e di vendita.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473179?captions=ita&learn=on)
 
 ## Visualizzazioni griglia salvate
 
