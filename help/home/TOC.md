@@ -4,13 +4,11 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Video e tutorial su Adobe Commerce {#tutorials}
 
@@ -114,7 +112,7 @@ ht-degree: 3%
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../backend-development/create-module.md)
     + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [Metodi di spedizione e consegna](../site-management/shipping-delivery.md)
   + [Griglie e filtri di amministrazione](../site-management/admin-grids-and-filters.md)
   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
+  + [Navigare nella configurazione del negozio e nel menu Sistema](../site-management/store-configuration-and-system-menu.md)
   + Servizi Adobe Commerce {#adobe-commerce-services}
     + [Configurare Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
     + [Configura servizi di pagamento](../site-management/configure-adobe-payment-services.md)
