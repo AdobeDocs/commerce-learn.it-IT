@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
-last-substantial-update: 2026-05-15T00:00:00Z
+last-substantial-update: 2026-05-15T00:00:00.000Z
 jira: KT-18624
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
-
 ---
-
 # Perché esiste il modello dati del catalogo componibile
 
 I moderni team di commerce vendono spesso tra **marchi**, **aree geografiche**, **concessionari** e **canali digitali**. Quando ogni canale mantiene la propria copia del catalogo, i team dedicano più tempo a riconciliare SKU, prezzi e disponibilità che a migliorare l’esperienza dell’acquirente. Il **Adobe Composable Catalog Data Model (CCDM)** dietro **Adobe Commerce Optimizer** è progettato per invertire tale pattern: **un catalogo unificato** in un livello SaaS, con **visualizzazioni catalogo** e **criteri** che definiscono ciò che ogni vetrina o integrazione può visualizzare.
@@ -31,7 +43,7 @@ I moderni team di commerce vendono spesso tra **marchi**, **aree geografiche**, 
 * Funzionamento delle visualizzazioni del catalogo come &quot;obiettivo&quot; tra un catalogo di base condiviso e una vetrina o un pubblico specifico
 * Modalità di utilizzo delle API di Merchandising Services in modo che le esperienze headless rimangano allineate al catalogo configurato
 
->[!VIDEO](https://video.tv.adobe.com/v/3491293?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
 
 ## La sfida con i cataloghi in silos
 
@@ -53,15 +65,15 @@ Questa separazione:**da cui provengono i dati** (origine catalogo) rispetto a **
 
 ## Visualizzazioni catalogo come obiettivo della vetrina
 
-Come descritto in [Visualizzazioni catalogo per Merchandising Services](https://experienceleague.adobe.com/it/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, una visualizzazione catalogo si comporta come una **lente**: gli acquirenti visualizzano solo i prodotti, i prezzi e le regole consentiti, mentre il **catalogo base** rimane il sistema di record condiviso. Questo modello è direttamente abbinato a **Servizi di merchandising**, pertanto i client API passano la vista corretta (e le relative intestazioni) e ricevono una risposta coerente e basata su criteri per ogni esperienza.
+Come descritto in [Visualizzazioni catalogo per Merchandising Services](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, una visualizzazione catalogo si comporta come una **lente**: gli acquirenti visualizzano solo i prodotti, i prezzi e le regole consentiti, mentre il **catalogo base** rimane il sistema di record condiviso. Questo modello è direttamente abbinato a **Servizi di merchandising**, pertanto i client API passano la vista corretta (e le relative intestazioni) e ricevono una risposta coerente e basata su criteri per ogni esperienza.
 
 Per informazioni più dettagliate su come questi pezzi si adattano a un flusso end-to-end, vedere la procedura dettagliata per sviluppatori [Creare un catalogo componibile per la vetrina](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Contenuto correlato
 
 * [Scopri le visualizzazioni del catalogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/it/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Creare un catalogo componibile per la vetrina](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 

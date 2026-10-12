@@ -10,26 +10,33 @@ duration: 624
 last-substantial-update: 2025-04-07T00:00:00.000Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-TQID: https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c
+TQID: 'https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: '1127'
 ht-degree: 0%
-
 ---
-
 # Rilevare indirizzi IP per ambienti diversi
 
 Scopri come rilevare gli indirizzi IP per diversi ambienti in un progetto Adobe Commerce Cloud. Utilizzando una serie di comandi, tra cui Adobe Commerce CLI, sed, xargs, dig, grep e sort -u, gli utenti possono identificare gli indirizzi IP per gli ambienti di sviluppo, staging e produzione.
@@ -63,7 +70,7 @@ Lo strumento CLI di Magento-Cloud è progettato per aiutare sviluppatori e ammin
 
 In questa sezione iniziale del codice di esempio, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` richiede l&#39;URL per l&#39;ambiente. Il valore restituito è simile al seguente `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. Ogni tanto assomiglia di più a `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Questo primo comando è piuttosto semplice e ora è il momento di passare al comando successivo.
 
-Per ulteriori informazioni, leggere [Panoramica di Cloud CLI](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Per ulteriori informazioni, leggere [Panoramica di Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Utilizzo di `sed` per ricerca e sostituzione
 
@@ -121,16 +128,16 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## Il comando `grep`
 
-Talvolta viene restituita una stringa come parte del risultato di `dig`. A questo scopo, l’obiettivo è solo gli indirizzi IP e sono composti da numeri con punti. Per assicurarsi che l&#39;output finale contenga solo numeri, è possibile regolare il comando. Al termine, la sintassi finale è ` grep '^\d'`.  By adding `'^\d'`, the command `grep` only keeps numbers and disregard anything else.
+Talvolta viene restituita una stringa come parte del risultato di `dig`. A questo scopo, l’obiettivo è solo gli indirizzi IP e sono composti da numeri con punti. Per assicurarsi che l&#39;output finale contenga solo numeri, è possibile regolare il comando. Al termine, la sintassi finale è ` grep '^\d'`.  Aggiungendo `'^\d'`, il comando `grep` mantiene solo i numeri e ignora tutto il resto.
 
 ## Il comando `sort`
 
-By using `sort -u`, it removes any duplicates from the list of IPs. Duplicates only happen when looking in development levels.
+Utilizzando `sort -u`, verranno rimossi tutti i duplicati dall&#39;elenco degli IP. I duplicati si verificano solo quando si esaminano i livelli di sviluppo.
 
-These lower level environments are multi-tenant and share underlying servers with many other projects. Development environments are single servers, and never a cluster. Therefore, when the dig command is looping over each iteration, it returns the same IP many times. So, by using the command `sort -u`, all duplicate IPs are removed and only unique IP addresses remain.
+Questi ambienti di livello inferiore sono multi-tenant e condividono i server sottostanti con molti altri progetti. Gli ambienti di sviluppo sono server singoli e non cluster. Pertanto, quando il comando dig esegue il ciclo su ogni iterazione, restituisce più volte lo stesso IP. Pertanto, utilizzando il comando `sort -u`, tutti gli IP duplicati vengono rimossi e rimangono solo indirizzi IP univoci.
 
 
 
 ## Documentazione correlata
 
-* [Regional IP Addresses](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Indirizzi IP regionali](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
