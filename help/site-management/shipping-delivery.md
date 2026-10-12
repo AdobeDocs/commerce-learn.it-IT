@@ -60,6 +60,6 @@ La gestione dei metodi di spedizione e consegna è fondamentale per essere sicur
 
 ## Risorse aggiuntive
 
-* [Impostazioni di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-* [Metodi di consegna di base - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-* [Configurazione del vettore di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+* [Impostazioni di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=it)
+* [Metodi di consegna di base - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=it#basic-delivery-methods)
+* [Configurazione del vettore di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=it)
