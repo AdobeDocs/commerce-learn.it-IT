@@ -1,25 +1,40 @@
 ---
 title: Introduzione a GraphQL
-description: Scopri come utilizzare GraphQL su Adobe Commerce e  [!DNL Magento Open Source]. Utilizza le chiamate GET e POST di GraphQL per Adobe Commerce e  [!DNL Magento Open Source].
-short-description: Scopri come utilizzare le chiamate GET e POST di GraphQL per Adobe Commerce e  [!DNL Magento Open Source].
+description: Scopri come utilizzare GraphQL in Adobe Commerce e [!DNL Magento Open Source]. Utilizzo delle chiamate di GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
+short-description: Scopri come utilizzare le chiamate di GraphQL GET e POST per Adobe Commerce e [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 duration: 286
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 0%
-
+source-wordcount: '514'
+ht-degree: 6%
 ---
-
 # Introduzione a GraphQL
 
 Questa è la parte 1 della serie per GraphQL e Adobe Commerce. GraphQL è rapidamente diventato lo standard di settore per la potenza delle applicazioni lato client che comunicano con un back-end. È un argomento sempre più rilevante per gli sviluppatori di Adobe Commerce, in quanto la piattaforma continua a espandere le proprie funzionalità nel regno delle implementazioni headless.
@@ -45,7 +60,7 @@ GraphQL consente a un client di descrivere in modo esplicito _esattamente_ i dat
 Il runtime che implementa le specifiche GraphQL può essere creato in qualsiasi linguaggio. Adobe Commerce e [!DNL Magento Open Source] utilizzano
 [graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} implementazione PHP e crea i propri livelli sopra di esso.
 
-[Visualizza la documentazione completa di GraphQL](https://graphql.org/learn){target="_blank"}
+[Consulta la documentazione completa di GraphQL](https://graphql.org/learn){target="_blank"}
 
 ## Utilizzo di un client GraphQL
 

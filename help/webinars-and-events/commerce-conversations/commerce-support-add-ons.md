@@ -10,23 +10,34 @@ duration: 371
 last-substantial-update: 2025-04-10T00:00:00.000Z
 jira: KT-17737
 exl-id: d0ba9c55-d43c-4ff3-b9b7-678f42a9dc4f
-TQID: https://experienceleague.adobe.com/i90NlOinNlM5lyP0WML4UI2hl2PhyxFCzzujcx8amSU
+TQID: 'https://experienceleague.adobe.com/i90NlOinNlM5lyP0WML4UI2hl2PhyxFCzzujcx8amSU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 180
+source-wordcount: '180'
 ht-degree: 0%
-
 ---
-
 # Componenti aggiuntivi del supporto Commerce
 
 Adobe Commerce fornisce supporto completo ai clienti tramite vari piani e componenti aggiuntivi. Il supporto Expert Success include la risoluzione dei problemi tecnici 24 ore su 24, 7 giorni su 7, guide alle best practice e risorse autonome. Ultimate Success offre leadership strategica e assistenza tecnica proattiva, con ruoli che tengono traccia dello stato di distribuzione e suggeriscono miglioramenti. Inoltre, Adobe offre componenti aggiuntivi come i direttori tecnici degli account per la gestione di più prodotti e la gestione degli eventi per occasioni speciali. Gli acceleratori di successo si concentrano sulla preparazione tecnica, la trasformazione organizzativa e l’adozione dei prodotti per massimizzare i vantaggi dei prodotti Adobe.

@@ -1,6 +1,6 @@
 ---
 title: Tronca registri
-description: Learn how to triage a failed deployment because of a full hard drive by truncating large log files.
+description: Scopri come eseguire il triage di una distribuzione non riuscita a causa di un disco rigido completo troncando i file di registro di grandi dimensioni.
 feature: Cloud, Site Management
 topic: Commerce, Development
 old-role: Architect, Developer
@@ -11,30 +11,38 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+TQID: 'https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Troubleshooting
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 0%
-
 ---
-
 # Tronca registri
 
-Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your Adobe Commerce Cloud environment.
+Scopri come effettuare il triage e una distribuzione non riuscita a causa di un disco rigido completo. Scopri come trovare e quali comandi possono essere eseguiti per liberare spazio nell’ambiente Adobe Commerce Cloud.
 
-If you think you might need these log files, you can `rsync` them or use other methods to get a copy available off the server before you truncate them.
+Se si ritiene che possano essere necessari questi file di registro, è possibile `rsync` o utilizzare altri metodi per ottenere una copia disponibile dal server prima di troncarli.
 
 ## Per chi è questo video
 
@@ -43,16 +51,16 @@ If you think you might need these log files, you can `rsync` them or use other m
 
 ## Contenuto video
 
-* Diagnose and Resolve a failed deployment
-* Where some common large log files are found
-* Quick method to truncate a log file
+* Diagnosticare e risolvere una distribuzione non riuscita
+* Dove si trovano alcuni file di registro di grandi dimensioni comuni
+* Metodo rapido per troncare un file di registro
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454591?captions=ita&learn=on)
 
 
 ## Comandi utilizzati nel video
 
-To check hard drive space `df -h`. Presta attenzione allo sviluppo/mapper/xxxx della linea
+Per controllare lo spazio del disco rigido `df -h`. Presta attenzione allo sviluppo/mapper/xxxx della linea
 
 ```SHELL
 df -h
@@ -72,7 +80,7 @@ tmpfs                                   5.0M     0  5.0M   0% /run/lock
 ```
 
 
-Display the files and their sizes in human readable format such as kb, mb and gb using the command `ls -lah`
+Visualizzare i file e le relative dimensioni in un formato leggibile, ad esempio kb, mb e gb, utilizzando il comando `ls -lah`
 
 ```SHELL
 ls -lah
@@ -92,9 +100,9 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 -rw-rw-r-- 1 web web  516 Dec  6  2023 system.log
 ```
 
-## Examples for truncate log
+## Esempi per troncare il registro
 
-After you ssh into the right project and environment, change into the `var/log` directory. Then you can truncate a file with something similar to `> some-log-file.log`
+Dopo aver eseguito il ssh nel progetto e nell&#39;ambiente corretti, passare alla directory `var/log`. È quindi possibile troncare un file con un elemento simile a `> some-log-file.log`
 
 ```BASH
 > support_report.log 
@@ -103,4 +111,4 @@ After you ssh into the right project and environment, change into the `var/log` 
 
 ## Documentazione correlata
 
-* [Health notifications](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notifiche stato](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

@@ -1,6 +1,6 @@
 ---
 title: Acquisti assistiti dal venditore
-description: Learn how to add you can offer immediate assistance to both guests and customers who have registered for an account with your store.
+description: Scopri come aggiungere puoi offrire assistenza immediata sia agli ospiti che ai clienti che si sono registrati per un account con il tuo negozio.
 kt: 10548
 doc-type: feature video
 duration: 205
@@ -12,37 +12,47 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
-TQID: https://experienceleague.adobe.com/9qnfo3NF9pAkdPwwwTwVfNLhhk8s-6oNwFito7IkFsU
+TQID: 'https://experienceleague.adobe.com/9qnfo3NF9pAkdPwwwTwVfNLhhk8s-6oNwFito7IkFsU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '120'
 ht-degree: 0%
-
 ---
-
 # Acquisti assistiti dal venditore
 
-Customers sometimes need assistance to complete a purchase. Some customers like to shop online, but might prefer to order by phone. You can offer immediate assistance to both guests and customers who have registered for an account with your store.
+I clienti a volte hanno bisogno di assistenza per completare un acquisto. Ad alcuni clienti piace fare acquisti online, ma potrebbe preferire ordinare per telefono. Puoi offrire assistenza immediata sia agli ospiti che ai clienti che si sono registrati per un account presso il tuo negozio.
 
 ## A chi serve questo video?
 
-* Sales managers
-* Customer Service Representatives
+* Responsabili vendite
+* Rappresentanti del servizio clienti
 
 ## Contenuto video
 
@@ -50,5 +60,5 @@ Customers sometimes need assistance to complete a purchase. Some customers like 
 
 ## Risorse aggiuntive
 
-* [Provide Shopper Assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=it)
-* [Shopping assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=it#shopping-assistance)
+* [Fornisci assistenza agli acquirenti - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=it)
+* [Assistenza per gli acquisti - [!DNL Commerce] Guida agli acquisti e ai negozi](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=it#shopping-assistance)

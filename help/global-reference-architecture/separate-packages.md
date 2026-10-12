@@ -4,37 +4,50 @@ description: Ottimizza Adobe Commerce con pacchetti GRA separati. Scopri configu
 jira: KT-16727
 doc-type: Tutorial
 duration: 340
-last-substantial-update: 2025-01-06
+last-substantial-update: 2025-01-06T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Intervento di Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributo di Tony Evers"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+TQID: 'https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2099
+source-wordcount: '2099'
 ht-degree: 0%
-
 ---
-
 # Schema dell&#39;architettura di riferimento globale dei pacchetti separati
 
 {{only-for-on-prem-commerce-cloud}}
@@ -219,7 +232,8 @@ Per creare una nuova versione, esegui l’aggiornamento del compositore nel prog
 
 ## Controllo delle versioni
 
-Il controllo delle versioni in pacchetti separati GRA è sinonimo di assegnazione di tag ai moduli in Git. I tag Git creano versioni numerate dei pacchetti installati da Composer.Il corretto approccio al controllo delle versioni consente il flusso automatico dei pacchetti, mantenendo al contempo la sicurezza.
+Il controllo delle versioni in pacchetti separati GRA è sinonimo di assegnazione di tag ai moduli in Git. I tag Git creano versioni numerate dei pacchetti installati da Composer.
+Il corretto approccio al controllo delle versioni consente il flusso automatico dei pacchetti, mantenendo al contempo la sicurezza.
 
 Due esempi:
 
@@ -255,7 +269,8 @@ In questo esempio viene mostrata una definizione di dipendenze allentata. Con `~
 
 Non appena rilasci una nuova versione di uno dei pacchetti menzionati, questa viene installata automaticamente con l’aggiornamento del Compositore.
 
-Applicare il controllo delle versioni semantiche. È possibile apprendere tutte le informazioni sul controllo delle versioni semantiche in <https://semver.org/>. In particolare, si consiglia di leggere le domande frequenti. Con il controllo delle versioni semantiche, i numeri in &quot;1.0.0&quot; sono denominati MAJOR.MINOR.PATCH. Le versioni secondarie e patch di un pacchetto possono essere introdotte senza interrompere l’applicazione.È possibile includere automaticamente le patch e scegliere manualmente aggiornamenti minori. Tieni presente che in questo modo puoi sostenere costi aggiuntivi scegliendo manualmente ogni modifica minore:
+Applicare il controllo delle versioni semantiche. È possibile apprendere tutte le informazioni sul controllo delle versioni semantiche in <https://semver.org/>. In particolare, si consiglia di leggere le domande frequenti. Con il controllo delle versioni semantiche, i numeri in &quot;1.0.0&quot; sono denominati MAJOR.MINOR.PATCH. Le versioni secondarie e patch di un pacchetto possono essere introdotte senza interrompere l’applicazione.
+È possibile includere automaticamente le patch e scegliere manualmente aggiornamenti minori. Tieni presente che in questo modo puoi sostenere costi aggiuntivi scegliendo manualmente ogni modifica minore:
 
 ```json
 {
@@ -287,7 +302,8 @@ Tipi di ramo comuni nelle strategie di ramificazione e archivi in cui sono prese
 
 **Rami di controllo qualità/sviluppo**: simile ai rami di rilascio.
 
-**Ramo principale**: esiste in ogni archivio ed è sempre il ramo che rappresenta lo stato di produzione o pronto per la produzione. Nel ramo principale viene applicato il tag al codice per le versioni di rilascio.Assicurati di scegliere una strategia di ramificazione con un minimo sovraccarico di manutenzione. Ad esempio, l’unione del ramo principale in rami di controllo qualità, UAT, rilascio o sviluppo dopo un rilascio di hotfix è un’attività di manutenzione generale. Maggiore è il numero di pacchetti, maggiore sarà il numero di archivi e più ripetitive saranno le attività di sovraccarico.
+**Ramo principale**: esiste in ogni archivio ed è sempre il ramo che rappresenta lo stato di produzione o pronto per la produzione. Nel ramo principale viene applicato il tag al codice per le versioni di rilascio.
+Assicurati di scegliere una strategia di ramificazione con un minimo sovraccarico di manutenzione. Ad esempio, l’unione del ramo principale in rami di controllo qualità, UAT, rilascio o sviluppo dopo un rilascio di hotfix è un’attività di manutenzione generale. Maggiore è il numero di pacchetti, maggiore sarà il numero di archivi e più ripetitive saranno le attività di sovraccarico.
 
 Utilizzare uno strumento come mixu/gr per eseguire operazioni di routine su più archivi Git in un batch: <https://github.com/mixu/gr>
 

@@ -10,33 +10,52 @@ duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-TQID: https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM
+TQID: 'https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Privacy
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 1305
+source-wordcount: '1305'
 ht-degree: 0%
-
 ---
-
 # Commercio componibile
 
 Il Commercio componibile è un approccio architettonico nell’e-commerce che comporta la separazione del livello di presentazione front-end dalla funzionalità di e-commerce back-end. &#x200B; Consente alle aziende di selezionare e combinare i componenti o i moduli migliori per creare una soluzione personalizzata. Questo approccio comporta la suddivisione della tradizionale piattaforma monolitica di e-commerce in servizi o microservizi più piccoli e indipendenti che possono essere composti insieme. Il commercio componibile offre vantaggi quali flessibilità, scalabilità, personalizzazione, agilità e la possibilità di semplificare le integrazioni con altri sistemi e tecnologie.
@@ -57,29 +76,29 @@ Le aziende possono trarre vantaggio dal commercio componibile in diversi modi:
 
 **Flessibilità e personalizzazione:** Composable commerce consente alle aziende di selezionare e combinare i componenti o i microservizi migliori per creare una soluzione di e-commerce personalizzata che soddisfi le loro esigenze specifiche. Consente alle aziende di adattare la propria piattaforma per offrire esperienze cliente uniche, implementare funzionalità specializzate e differenziarsi nel mercato.
 
-**Scalabilità e agilità:** Grazie a un&#39;architettura componibile, le aziende possono scalare in modo indipendente diversi componenti della piattaforma di e-commerce. This means they can allocate resources and scale specific functionalities based on demand, ensuring optimal performance and cost-efficiency. Composable commerce also enables agile development practices, allowing teams to work on different components simultaneously and deploy changes independently, resulting in faster time-to-market.
+**Scalabilità e agilità:** Grazie a un&#39;architettura componibile, le aziende possono scalare in modo indipendente diversi componenti della piattaforma di e-commerce. Ciò significa che possono allocare risorse e scalare funzionalità specifiche in base alla domanda, garantendo prestazioni ottimali e costi contenuti. Il Commercio componibile consente inoltre di adottare procedure di sviluppo agili, consentendo ai team di lavorare simultaneamente su componenti diversi e di implementare modifiche in modo indipendente, velocizzando il time-to-market.
 
-**Integration Capabilities:** Composable commerce facilitates seamless integration with third-party systems, services, and technologies. Companies can easily connect their e-commerce platform with various tools such as payment gateways, ERP systems, CRM systems, marketing automation platforms, and more. This integration capability enables businesses to leverage the best-of-breed solutions and create a unified ecosystem that enhances operational efficiency and customer experience.
+**Funzionalità di integrazione:** Composable commerce semplifica l&#39;integrazione con sistemi, servizi e tecnologie di terze parti. Le aziende possono collegare facilmente la loro piattaforma di e-commerce con vari strumenti come gateway di pagamento, sistemi ERP, sistemi di gestione delle relazioni con i clienti, piattaforme di automazione di marketing e altro ancora. Questa funzionalità di integrazione consente alle aziende di sfruttare le migliori soluzioni disponibili e creare un ecosistema unificato che migliora l&#39;efficienza operativa e l&#39;esperienza del cliente.
 
-**Future-Proofing:** Composable commerce provides companies with the flexibility to adapt and evolve their e-commerce platform as technology and market trends change. It allows businesses to easily add or replace components, integrate new technologies, and stay ahead of the competition. This future-proofing capability ensures that companies can continuously innovate and meet evolving customer expectations.
+**Future-Proofing:** Composable commerce offre alle aziende la flessibilità di adattare e evolvere la propria piattaforma di e-commerce con l&#39;evolversi della tecnologia e delle tendenze di mercato. Consente alle aziende di aggiungere o sostituire facilmente componenti, integrare nuove tecnologie e restare all&#39;avanguardia rispetto alla concorrenza. Questa capacità a prova di futuro assicura che le aziende possano continuamente innovare e soddisfare le aspettative dei clienti in continua evoluzione.
 
-**Developer Empowerment:** Composable commerce empowers developers by providing them with the flexibility to work with different technologies, languages, and frameworks. It allows developers to focus on specific components or microservices, enabling specialization and expertise. This empowerment leads to increased developer productivity, faster development cycles, and the ability to leverage the latest tools and technologies.
+**Autorizzazione per sviluppatori:** Commerce componibile consente agli sviluppatori di utilizzare tecnologie, linguaggi e framework diversi con la flessibilità necessaria. Consente agli sviluppatori di concentrarsi su componenti o microservizi specifici, abilitando la specializzazione e le competenze. Questa responsabilizzazione consente di aumentare la produttività degli sviluppatori, velocizzare i cicli di sviluppo e sfruttare gli strumenti e le tecnologie più recenti.
 
-Overall, composable commerce enables companies to create a highly flexible, scalable, and customizable e-commerce platform that can adapt to changing business needs, deliver exceptional customer experiences, and drive growth and success in the digital marketplace.
+Nel complesso, il commercio elettronico consente alle aziende di creare una piattaforma di e-commerce altamente flessibile, scalabile e personalizzabile in grado di adattarsi alle mutevoli esigenze aziendali, fornire esperienze cliente eccezionali e stimolare la crescita e il successo nel mercato digitale.
 
-## What capabilities does Adobe Commerce have for composable commerce
+## Quali funzionalità offre Adobe Commerce per il commerce componibile
 
-Adobe Commerce provides several capabilities to support merchants in adopting and implementing composable commerce:
+Adobe Commerce offre diverse funzionalità per supportare i commercianti nell’adozione e implementazione di Commerce componibile:
 
-**Composable Commerce Methodology:** Adobe Commerce offers a composable commerce methodology that guides merchants in understanding and implementing the principles of composable architecture. This methodology helps businesses leverage the benefits of flexibility, scalability, and customization while considering factors like complexity, technical maturity, and project size.
+**Metodologia Commerce componibile:** Adobe Commerce offre una metodologia commerce componibile che guida i commercianti nella comprensione e nell&#39;implementazione dei principi dell&#39;architettura componibile. Questa metodologia consente alle aziende di sfruttare i vantaggi della flessibilità, della scalabilità e della personalizzazione, tenendo conto di fattori quali complessità, maturità tecnica e dimensioni del progetto.
 
-**Feature-Rich Functionality:** Adobe Commerce provides a comprehensive set of features accessible through its GraphQLAPI. This feature-rich functionality allows merchants to minimize the number of vendors required in their commerce stack, reducing time-to-market challenges. It enables businesses to launch faster while maintaining the flexibility to compose and integrate additional third-party services or capabilities as their commerce stack evolves.
+**Funzionalità avanzate:** Adobe Commerce fornisce un set completo di funzionalità accessibili tramite GraphQLAPI. Questa funzionalità avanzata consente ai commercianti di ridurre al minimo il numero di fornitori richiesti nel proprio stack commerciale, riducendo le sfide del time-to-market. Consente alle aziende di avviarsi più rapidamente mantenendo al contempo la flessibilità necessaria per comporre e integrare servizi o funzionalità di terze parti man mano che il loro stack commerce si evolve.
 
-**Hybrid Front-End Experiences:** Adobe Commerce supports both headless and non-headless front-end experiences within the same ecosystem. This flexibility allows merchants to choose the most suitable architectural approach for each specific front-end use case. It enables a gradual transition to a headless and composable architecture without the need for a simultaneous migration of the entire system.
+**Esperienze front-end ibride:** Adobe Commerce supporta esperienze front-end headless e non headless nello stesso ecosistema. Questa flessibilità consente ai commercianti di scegliere l’approccio architetturale più adatto per ogni caso d’uso front-end specifico. Consente una transizione graduale a un&#39;architettura headless e componibile senza la necessità di una migrazione simultanea dell&#39;intero sistema.
 
-**API Mesh:** Adobe Commerce&#39;s API Mesh simplifies the integration of multiple microservices, third-party tools, and applications into a unified API endpoint for front-end developers. It allows developers to combine multiple data sources into a single GraphQL endpoint, reducing complexity and streamlining the development and maintenance of new features and experiences.
+**Mesh API:** La Mesh API di Adobe Commerce semplifica l&#39;integrazione di più microservizi, strumenti di terze parti e applicazioni in un endpoint API unificato per sviluppatori front-end. Consente agli sviluppatori di combinare più origini dati in un unico endpoint GraphQL, riducendo la complessità e semplificando lo sviluppo e la manutenzione di nuove funzioni ed esperienze.
 
-**Adobe App Builder:** Adobe App Builder is a serverless extensibility platform that allows merchants to create custom microservices, build custom experiences, and extend Adobe solutions. Con App Builder, i commercianti possono creare app sicure e scalabili che estendono le funzionalità native di Adobe Commerce e si integrano con soluzioni di terze parti. Questo elimina la necessità per i commercianti di creare e mantenere la propria infrastruttura per personalizzazioni e microservizi, riducendo la complessità e il costo totale di proprietà.
+**Adobe App Builder:** Adobe App Builder è una piattaforma di estensibilità senza server che consente ai commercianti di creare microservizi personalizzati, creare esperienze personalizzate ed estendere le soluzioni Adobe. Con App Builder, i commercianti possono creare app sicure e scalabili che estendono le funzionalità native di Adobe Commerce e si integrano con soluzioni di terze parti. Questo elimina la necessità per i commercianti di creare e mantenere la propria infrastruttura per personalizzazioni e microservizi, riducendo la complessità e il costo totale di proprietà.
 
 Queste funzionalità fornite da Adobe Commerce semplificano l’adozione e l’implementazione di soluzioni commerce componibili, consentendo ai commercianti di sfruttare i vantaggi di flessibilità, scalabilità, personalizzazione e funzionalità di integrazione riducendo al contempo la complessità e lo sforzo di sviluppo.
 
