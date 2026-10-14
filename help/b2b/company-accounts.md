@@ -54,7 +54,7 @@ ht-degree: 0%
 ---
 # Gestire gli account aziendali
 
-Per gli esercenti B2B, la pagina _[!UICONTROL Companies]_&#x200B;elenca tutti gli account aziendali correnti e il loro stato. Puoi gestire i tuoi account aziendali qui ed eventuali richieste di approvazione in sospeso vengono visualizzate nella parte superiore dell’elenco. I controlli standard dell&#39;area di lavoro possono essere utilizzati per filtrare l&#39;elenco, modificare il layout delle colonne, salvare le visualizzazioni ed esportare i dati.
+Per gli esercenti B2B, la pagina _[!UICONTROL Companies]_elenca tutti gli account aziendali correnti e il loro stato. Puoi gestire i tuoi account aziendali qui ed eventuali richieste di approvazione in sospeso vengono visualizzate nella parte superiore dell’elenco. I controlli standard dell&#39;area di lavoro possono essere utilizzati per filtrare l&#39;elenco, modificare il layout delle colonne, salvare le visualizzazioni ed esportare i dati.
 
 {{b2b-feature}}
 
@@ -66,9 +66,9 @@ Per gli esercenti B2B, la pagina _[!UICONTROL Companies]_&#x200B;elenca tutti gl
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410772?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Risorse aggiuntive
 
-* [Account società](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Gestire gli account aziendali](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Account società](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Gestire gli account aziendali](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
