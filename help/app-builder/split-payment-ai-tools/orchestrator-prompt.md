@@ -8,14 +8,12 @@ level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
-last-substantial-update: 2026-04-27T00:00:00Z
+last-substantial-update: 2026-04-27
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 0%
-
+source-wordcount: '945'
+ht-degree: 1%
 ---
-
 # Dividi pagamento POC: App Builder Orchestrator AI prompt
 
 Utilizzare questa pagina per copiare il prompt completo che genera il progetto **split-payment-orchestrator**: le azioni Web **payment-orchestrator** I/O Event consumer, **payment-accept** e **payment-rifiuta**, **demo-dashboard** e il client REST di Commerce.
@@ -217,8 +215,8 @@ Gli eventi di I/O di Adobe Commerce possono distribuire il payload in diverse fo
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
 * Dividi gli importi da `value.extension_attributes` (controlla sia `extension_attributes` che `extensionAttributes`):
-   * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
-   * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
+  * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
+  * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
 **Flusso:**
 1. Estrai valore; se `orderId` manca, registra l&#39;errore e restituisce `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`
