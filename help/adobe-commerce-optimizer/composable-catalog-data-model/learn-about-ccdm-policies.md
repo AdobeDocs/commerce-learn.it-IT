@@ -44,7 +44,7 @@ Se una **vista catalogo** è l&#39;obiettivo che determina ciò che gli acquiren
 * Criteri TRIGGER attivati dalle intestazioni di richiesta API (ad esempio `AC-Policy-Brand`)
 * Aggiornamento dei criteri nelle operazioni quotidiane senza ricompilazione del catalogo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491432?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 Un **criterio** è un **filtro di accesso ai dati**. Esamina gli attributi del prodotto e applica le regole che determinano quali prodotti può esporre una vista catalogo. I criteri si trovano sopra il catalogo composabile condiviso e non duplicano i dati del catalogo.
 
@@ -91,7 +91,7 @@ I criteri sono filtri leggeri in un **catalogo condiviso**, non regole raggruppa
 
 * [Perché esiste il modello dati del catalogo componibile](./why-ccdm-exists.md)
 * [Scopri le visualizzazioni del catalogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/it/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [Visualizzazioni catalogo per servizi di merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guida [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Guida introduttiva all’API di merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 
