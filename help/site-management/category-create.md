@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -63,10 +63,10 @@ Prima di aggiungere prodotti al catalogo, è necessario stabilire la struttura d
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410135?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## Risorse aggiuntive
 
-* [Crea categorie - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=it)
-* [Autorizzazioni categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=it)
-* [Navigazione superiore - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=it)
+* [Crea categorie - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [Autorizzazioni categoria - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [Navigazione superiore - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

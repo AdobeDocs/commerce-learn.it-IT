@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ Scopri come creare un ticket di supporto in Adobe Experience League per Adobe Co
 * Scopri come cambiano gli articoli consigliati a seconda delle informazioni utilizzate nel modulo
 * Informazioni sul testo segnaposto trovato nei campi del modulo per comprendere il tipo di informazioni necessarie per una richiesta di supporto valida
 
->[!VIDEO](https://video.tv.adobe.com/v/3449561?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Guida di Commerce Knowledge Base all&#39;Adobe Help Center
 
-[Inviare un caso di supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Inviare un caso di supporto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

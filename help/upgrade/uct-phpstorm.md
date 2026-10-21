@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -63,10 +63,10 @@ In questo video:
 * Installare ed eseguire UCT da PhpStorm.
 * Rivedi i rapporti di HTML e assegna priorità alle correzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/344406?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## Risorse aggiuntive
 
-* [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=it){target="_blank"}
+* [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
 * [Plug-in Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=it){target="_blank"}
+* [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

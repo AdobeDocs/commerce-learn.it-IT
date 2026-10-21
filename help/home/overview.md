@@ -54,14 +54,14 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 ---
 # Tutorial su Commerce {#videos}
 
-Ti diamo il benvenuto nella raccolta di video e tutorial [!DNL Commerce]. L&#39;utilizzo di queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html?lang=it), offre l&#39;opportunità di scoprire come utilizzare Adobe Commerce e Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori back-end, sviluppatori front-end, amministratori di sistema, commercianti e altri ruoli all’interno della tua organizzazione.
+Ti diamo il benvenuto nella raccolta di video e tutorial [!DNL Commerce]. L&#39;utilizzo di queste risorse, insieme alla [documentazione](https://experienceleague.adobe.com/docs/commerce.html), offre l&#39;opportunità di scoprire come utilizzare Adobe Commerce e Magento Open Source per supportare la tua attività di e-commerce. La raccolta è progettata per fornire contenuti utili per sviluppatori back-end, sviluppatori front-end, amministratori di sistema, commercianti e altri ruoli all’interno della tua organizzazione.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -72,11 +72,11 @@ Ti diamo il benvenuto nella raccolta di video e tutorial [!DNL Commerce]. L&#39;
 
 >[!TIP]
 >
->Lo spazio [Eventi Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=it) consente di accedere al contenuto degli eventi registrati che è possibile visualizzare su richiesta.
+>Lo spazio [Eventi Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) consente di accedere al contenuto degli eventi registrati che è possibile visualizzare su richiesta.
 
 ## Risorse aggiuntive
 
-* [Documentazione per esercenti](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=it)
+* [Documentazione per esercenti](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
 * [Documentazione per gli sviluppatori](https://developer.adobe.com/commerce)
 * [Adobe Digital Learning Services - Catalogo corsi Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 

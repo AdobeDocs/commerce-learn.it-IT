@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -61,4 +61,4 @@ Scopri come trovare avvisi, criteri, flussi di lavoro e destinazioni in New Reli
 * Scopri le notifiche, i criteri e i flussi di lavoro degli avvisi
 * Il salvataggio della destinazione e la convalida della nuova e-mail sono stati aggiunti a un criterio
 
->[!VIDEO](https://video.tv.adobe.com/v/3441212?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

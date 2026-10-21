@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -71,4 +71,4 @@ Scopri come Adobe Commerce sta rivoluzionando l’e-commerce con soluzioni di in
 * Accelerare l’espansione globale con l’innovazione del catalogo
 * Miglioramento dell&#39;esperienza di vetrina tramite Commerce conversazionale
 
->[!VIDEO](https://video.tv.adobe.com/v/3475703?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)

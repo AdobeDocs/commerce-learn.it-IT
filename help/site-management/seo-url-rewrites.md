@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
 TQID: 'https://experienceleague.adobe.com/rMtOFlHuXwFeZzdDdeYfANHlZM6mQYPr-Z7oTkyjaQ8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -61,9 +61,9 @@ Lo strumento di riscrittura URL consente di modificare qualsiasi URL associato a
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410125?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
 
 ## Risorse aggiuntive
 
-* [Riscritture URL - [!DNL Commerce] Guida a merchandising e promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=it)
-* [Generale > Web - [!DNL Commerce] Guida di riferimento alla configurazione](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=it)
+* [Riscritture URL - [!DNL Commerce] Guida a merchandising e promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+* [Generale > Web - [!DNL Commerce] Guida di riferimento alla configurazione](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

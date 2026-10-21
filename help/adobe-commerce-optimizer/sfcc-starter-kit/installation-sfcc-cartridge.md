@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -51,5 +51,5 @@ Scopri come installare e configurare la cartuccia Adobe Commerce Optimizer per u
 * Importa definizioni di processi e oggetti personalizzati per supportare il tracciamento e la sincronizzazione.
 * Esegui il test di un endpoint API personalizzato per confermare l’installazione e prepararti per la sincronizzazione del catalogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476078?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
 

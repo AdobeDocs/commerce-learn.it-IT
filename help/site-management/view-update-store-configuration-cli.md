@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Dimostrazione di come visualizzare, impostare e trovare i valori di configurazio
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3439978?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## Alcuni comandi utilizzati nell&#39;esercitazione
 
@@ -87,5 +87,5 @@ Per visualizzare una pagina nel terminale e visualizzare i numeri di riga `cat -
 
 ## Risorse aggiuntive
 
-* [Strumento Riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=it){target="_blank"}
-* [Configurare la sicurezza dell’amministratore](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=it){target="_blank"}
+* [Strumento Riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Configurare la sicurezza dell’amministratore](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

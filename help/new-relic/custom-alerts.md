@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -56,4 +56,4 @@ Scopri come creare avvisi personalizzati in New Relic per monitorare il traffico
 * Informazioni su come impostare le soglie per gli avvisi in base all’aggregazione dei dati.
 * Configurare gli avvisi con livelli di gravità e assegnati ai criteri esistenti per controllare i flussi di lavoro e le destinazioni delle notifiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440779?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

@@ -41,7 +41,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -62,10 +62,10 @@ Questa sessione introduce Adobe Commerce API Mesh Starter Kit. È progettato per
 * Strumenti di test incorporati: include un server GraphQL (Yoga) preconfigurato e riavvii automatici del server per uno sviluppo senza soluzione di continuità.
 * Apprendimento pratico: clona il kit di avvio, configura gli endpoint e testa le risposte API direttamente nel browser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464025?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## Documentazione correlata
 
 * [Kit starter mesh API per archivio GitHub](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [documentazione Adobe Developer graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [Playlist dei video Mesh API](https://experienceleague.adobe.com/it/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Playlist dei video Mesh API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

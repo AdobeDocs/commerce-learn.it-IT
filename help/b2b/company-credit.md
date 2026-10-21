@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Gestisci credito società
 
-Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispongono di crediti aziendali possono effettuare acquisti sul proprio conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
+Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_e dispongono di crediti aziendali possono effettuare acquisti sul proprio conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
 
 È possibile impostare i seguenti parametri relativi al credito per ciascun profilo società:
 
@@ -70,9 +70,9 @@ Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispon
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410760?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Risorse aggiuntive
 
-* [Configura pagamento in acconto](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gestisci credito società](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/credit-company)
+* [Configura pagamento in acconto](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gestisci credito società](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

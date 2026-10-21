@@ -51,7 +51,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -78,7 +78,7 @@ Lo strumento Quality Patches (Patch di qualità) è un’utility per riga di com
 
 Queste patch sono sviluppate da Adobe Developers e dalla community Magento Open Source per migliorare la stabilità e le prestazioni. Non è consigliabile applicare un numero elevato di patch, in quanto ciò potrebbe complicare gli aggiornamenti futuri.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454077?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Perché utilizzare lo strumento di correzione della qualità
 
@@ -110,8 +110,8 @@ Prima di applicare le patch, è fondamentale verificarle in un ambiente di stagi
 
 ## Articoli e video correlati
 
-* [Ricerca di strumenti Quality Patch](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=it)
-* [Note sulla versione](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Ricerca di strumenti Quality Patch](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Note sulla versione](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github per patch](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Utilizzo dello strumento di correzione di qualità](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Video tecnico su QPT](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Utilizzo dello strumento di correzione di qualità](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Video tecnico su QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

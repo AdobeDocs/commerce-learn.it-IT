@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
@@ -72,8 +72,8 @@ I ruoli che traggono vantaggio dalla lettura di questa trascrizione includono:
 * Convalida e gestione degli errori per i campi di input degli indirizzi, per garantire che gli utenti ricevano un feedback immediato sulle voci errate o incomplete, migliorando l’esperienza utente.
 * Estensione della dashboard dell’account utente che aggiunge una nuova voce di menu nella barra laterale alla dashboard dell’account utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442914?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=it)
+* [Account utente](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)

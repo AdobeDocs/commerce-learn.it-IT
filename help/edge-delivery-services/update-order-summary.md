@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 * Scopri come includere un importo totale risparmiato per il riepilogo del carrello.
 * Scopri come unire le righe nel riepilogo del carrello in un’unica sezione comprimibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441193?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Riepilogo ordine](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=it)
+* [Riepilogo ordine](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

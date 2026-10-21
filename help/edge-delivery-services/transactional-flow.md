@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Scopri come utilizzare il menu a discesa del carrello di Adobe Commerce e regola
 * Flessibilità del test A/B. Abilitazione delle configurazioni tramite SharePoint, per consentire agli addetti al marketing di controllare e testare tali funzioni.
 * Controllo Marketing Avanzato. Gestione e test semplificati delle configurazioni, per migliorare l’esperienza utente e l’efficacia del marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442359?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Configura riepilogo carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=it)
+* [Configura riepilogo carrello](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

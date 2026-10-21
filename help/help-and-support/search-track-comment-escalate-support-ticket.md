@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Scopri come cercare, rivedere, commentare e inoltrare un ticket di supporto in A
 * Scopri come aggiungere un commento a un ticket di supporto aperto
 * Scopri come e alcuni motivi per l’inoltro di un ticket di supporto
 
->[!VIDEO](https://video.tv.adobe.com/v/3445319?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
 
 ## Guida di Commerce Knowledge Base all&#39;Adobe Help Center
 
-[Inviare un caso di supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Inviare un caso di supporto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 0%
@@ -87,8 +87,8 @@ Una volta che il visitatore analizza il codice QR con il proprio dispositivo, lâ
 
 ## Risorse utili
 
-[Visualizzatore AR per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=it){target="_blank"}
-[Gestione dei modelli 3D di prodotto con AR Viewer per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=it){target="_blank"}
+[Visualizzatore AR per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[Gestione dei modelli 3D di prodotto con AR Viewer per Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Estensione Adobe Commerce Marketplace
 
