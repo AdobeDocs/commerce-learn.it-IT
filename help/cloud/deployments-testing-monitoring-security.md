@@ -56,7 +56,7 @@ Scopri le strategie di implementazione di Adobe Commerce Cloud, le best practice
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432830?captions=ita&learn=on)
 
 ## Documentazione di Experience League citata nel video
 
