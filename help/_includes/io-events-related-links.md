@@ -3,11 +3,9 @@ title: Pagine correlate agli eventi I/O
 description: Collegamenti a pagine correlate negli eventi IO
 source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # Collegamenti correlati a eventi IO
 
 ## Ulteriori tutorial correlati
@@ -22,4 +20,4 @@ ht-degree: 0%
 
 ## Documentazione di Adobe Developer
 
-* [Eventi di Adobe I/O per la panoramica di Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* [Panoramica di Adobe I/O Events per Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
