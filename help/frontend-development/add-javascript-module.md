@@ -66,7 +66,7 @@ Scopri come sviluppare un semplice modulo JavaScript che mostra il saluto &quot;
 * Collegare lo script tramite un aggiornamento del layout e un modello.
 * Verifica il saluto sulla pagina.
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507649?captions=ita&learn=on)
 
 ## Risorse utili
 
