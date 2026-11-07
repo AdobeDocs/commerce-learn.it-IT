@@ -70,7 +70,7 @@ Crea una pagina che restituisca JSON con un parametro.
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/35816?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507767?captions=ita&learn=on)
 
 ## Risorse utili
 

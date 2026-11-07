@@ -54,4 +54,4 @@ Adobe Commerce fornisce supporto completo ai clienti tramite vari piani e compon
 * Scopri i componenti aggiuntivi disponibili.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505279?captions=ita&learn=on)

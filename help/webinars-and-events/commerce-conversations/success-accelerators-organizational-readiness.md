@@ -57,4 +57,4 @@ Scopri gli acceleratori di successo di Adobe per prepararsi all’organizzazione
 * Gestione delle modifiche e strategie di comunicazione
 * Recensione digitale e benchmark
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505736?captions=ita&learn=on)
