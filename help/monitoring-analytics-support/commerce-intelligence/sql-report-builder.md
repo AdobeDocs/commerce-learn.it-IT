@@ -1,14 +1,15 @@
 ---
 title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
-description: Scopri come utilizzare Adobe Commerce Intelligence SQL Report Builder per eseguire query nel data warehouse, visualizzare i risultati e creare grafici senza attendere i cicli di aggiornamento dei rapporti.
+description: Scopri come eseguire query in un data warehouse con Adobe Commerce Intelligence SQL Report Builder, esaminare i risultati e creare grafici senza attendere i cicli di aggiornamento dei rapporti.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 last-substantial-update: 2023-02-10T00:00:00.000Z
+jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
 product_v2:
@@ -36,13 +37,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 # SQL REPORT BUILDER
 
 Adobe Commerce Intelligence SQL Report Builder consente di eseguire query nel data warehouse, esaminare i risultati e trasformarli in grafici. Quando si creano report con SQL, non si attendono cicli di aggiornamento per perfezionare le colonne create. Se qualcosa non funziona, modifica ed esegui nuovamente la query fino a quando l’output non corrisponde a quello previsto.

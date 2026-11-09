@@ -3,10 +3,10 @@ title: Commerce Intelligence - Preparazione per il futuro
 description: Guarda questa serie di video per comprendere meglio i cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
 landing-page-description: Guarda questa serie di video per comprendere meglio i cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
 short-description: Guarda questa serie di video per comprendere meglio i cambiamenti senza precedenti che plasmano il futuro del commercio digitale.
-kt: 10411
-doc-type: feature video
+jira: KT-10411
+doc-type: Technical Video
 duration: 1516
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

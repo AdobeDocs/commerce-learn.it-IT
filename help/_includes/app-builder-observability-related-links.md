@@ -1,18 +1,16 @@
 ---
 title: Pagine correlate all’osservabilità di App Builder
 description: Collegamenti a pagine correlate nella sezione Osservabilità di App Builder
-source-git-commit: 99fa7198f6386e411b35e1124fde72f51bd02533
+source-git-commit: 53888e376f3532b8b32e938d562d73703b061685
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '33'
 ht-degree: 0%
-
 ---
-
-# Collegamenti relativi alla sovrascrittura di App Builder
+# Collegamenti relativi all’osservabilità di App Builder
 
 ## Risorse correlate di App Builder Observability
 
-* [Perché era necessaria l’osservabilità](../observability/overview.md)
-* [Apri telemetria](../observability/open-telemetry.md)
-* [Configurazione e configurazione demo](../observability/demo-setup-configuration.md)
-* [Demo](../observability/demo.md)
+* [Panoramica sull’osservabilità](/help/monitoring-analytics-support/observability/overview.md)
+* [OpenTelemetry](/help/monitoring-analytics-support/observability/open-telemetry.md)
+* [Configurazione e configurazione demo](/help/monitoring-analytics-support/observability/demo-setup-configuration.md)
+* [Demo](/help/monitoring-analytics-support/observability/demo.md)

@@ -1,16 +1,16 @@
 ---
-title: Cerca, rivedi, commenta e inoltra una richiesta di assistenza
-description: Scopri come cercare, rivedere, commentare e inoltrare un ticket di supporto in Adobe Experience League per Adobe Commerce, compresi i motivi per cui si inoltra un caso.
+title: Aggiungere o rimuovere i controlli, chiudere o riaprire un ticket
+description: Scopri come aggiungere e rimuovere gli osservatori, chiudere un ticket di supporto e riaprire un ticket chiuso entro 14 giorni in Adobe Experience League per Adobe Commerce.
 feature: Customer Service, Support
 topic: Commerce
 role: Admin
 level: Beginner
 doc-type: Tutorial
-duration: 209
+duration: 173
 last-substantial-update: 2024-08-23T00:00:00.000Z
-jira: KT-16049
-exl-id: 15b560bd-29f7-4866-86a4-ef548a5ac953
-TQID: 'https://experienceleague.adobe.com/-ATvMO7lsgqxCIZpBJTYLFeDrWYKRKgZPaZMk-aSsoQ'
+jira: KT-16050
+exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
+TQID: 'https://experienceleague.adobe.com/oMaFarsBJxR0XQzrXGDV0Ry4ZGBKU0EzUMFHIQe7S54'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -30,14 +30,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 ---
-# Cerca, rivedi, commenta e inoltra una richiesta di assistenza
+# Gestisci i controlli, chiudi e riapri i ticket
 
-Scopri come cercare, rivedere, commentare e inoltrare un ticket di supporto in Adobe Experience League per Adobe Commerce.
+Scopri come aggiungere e rimuovere gli osservatori e come chiudere e riaprire un ticket di supporto in Adobe Experience League per Adobe Commerce.
 
 ## A chi serve questo video?
 
@@ -45,11 +45,11 @@ Scopri come cercare, rivedere, commentare e inoltrare un ticket di supporto in A
 
 ## Contenuto video {#video-content}
 
-* Scopri come cercare un ticket
-* Scopri come aggiungere un commento a un ticket di supporto aperto
-* Scopri come e alcuni motivi per l’inoltro di un ticket di supporto
+* Scopri come aggiungere e rimuovere gli osservatori per un ticket
+* Scopri come chiudere un ticket di supporto
+* Scopri come riaprire un ticket di supporto
 
->[!VIDEO](https://video.tv.adobe.com/v/3445319?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441360?captions=ita&learn=on)
 
 ## Guida di Commerce Knowledge Base all&#39;Adobe Help Center
 

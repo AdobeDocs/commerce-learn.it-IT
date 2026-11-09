@@ -1,12 +1,12 @@
 ---
-title: Commerce Intelligence - Cohort Report Builder
-description: Learn how to use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
-landing-page-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
-short-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
-kt: 10288
-doc-type: feature video
+title: Commerce Intelligence - Report Builder coorte
+description: Scopri come utilizzare Commerce Intelligence Cohort Report Builder per creare report e analisi ottimizzati per la tua azienda.
+landing-page-description: Guarda questo video per scoprire come utilizzare Commerce Intelligence Cohort Report Builder per creare report e analisi ottimizzati per la tua azienda.
+short-description: Guarda questo video per scoprire come utilizzare Commerce Intelligence Cohort Report Builder per creare report e analisi ottimizzati per la tua azienda.
+jira: KT-10288
+doc-type: Technical Video
 duration: 103
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -43,22 +43,20 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 262
+source-wordcount: '262'
 ht-degree: 0%
-
 ---
+# Commerce Intelligence - Report Builder coorte
 
-# Commerce Intelligence - Cohort Report Builder
-
-Have you ever wanted to study how different subsets of your users behave over time? For example, ever wondered if users who register during a promo period have a higher average lifetime revenue than users who don&#39;t? If the answer is _Yes_, then the Cohort Report Builder is the perfect tool for you. Commerce Intelligence is optimized to perform this analysis and make it relevant to your business.
+Hai mai desiderato studiare il comportamento nel tempo di diversi sottoinsiemi di utenti? Ad esempio, ti sei mai chiesto se gli utenti che si registrano durante un periodo promozionale abbiano un ricavo medio di durata più elevato rispetto agli utenti che non lo fanno? Se la risposta è _Sì_, la coorte Report Builder è lo strumento ideale per te. Commerce Intelligence è ottimizzata per eseguire questa analisi e renderla rilevante per la tua azienda.
 
 In questo video:
 
-* What cohort analysis is
-* Why it&#39;s important
-* How to build your own cohort analysis
+* Che cos’è l’analisi per coorte
+* Perché è importante
+* Come creare una tua analisi per coorte
 
 >[!TIP]
 >
@@ -75,6 +73,6 @@ In questo video:
 
 ## Risorse utili
 
-[Using the Cohort Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=it)
+[Utilizzo della coorte Report Builder - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=it)
 
-[Create a qualitative cohort analysis - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=it)
+[Creazione di un’analisi qualitativa per coorte - Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=it)
