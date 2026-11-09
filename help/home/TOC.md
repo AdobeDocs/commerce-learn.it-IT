@@ -4,15 +4,39 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1016'
 ht-degree: 3%
 ---
 
 # Video e tutorial su Adobe Commerce {#tutorials}
 
 + [Tutorial su [!DNL Commerce]](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+  + [Panoramica](../commerce-as-a-cloud-service/overview.md)
+  + [Architettura](../commerce-as-a-cloud-service/architecture.md)
+  + Presentazione del prodotto {#product-overview}
+    + [Introduzione](../commerce-as-a-cloud-service/product-overview/introduction.md)
+    + [Esperienza di configurazione](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+    + [Authoring dei contenuti](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+    + [Localizzare e pianificare i contenuti](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+    + [Creazione di contenuti basati su GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+    + [Servizi di gestione catalogo e merchandising](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+    + [Sperimentazione su Commerce storefront](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+    + [Velocità vetrina Commerce](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+    + [percorso completo vetrina Commerce](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+    + [Vetrina componibile e architettura modulare](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+    + [Estensibilità](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+    + [Modernizzazione e migrazione](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+    + [Chiusura](../commerce-as-a-cloud-service/product-overview/closing.md)
+  + Strumento di migrazione dati in blocco {#bulk-data-migration-tool}
+    + [Introduzione](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+    + [Credenziali Source](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+    + [Credenziali DB](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+    + [Credenziali di Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+    + [Migrazione monofase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+    + [Migrazione multifase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + Risoluzione dei problemi {#troubleshooting}
     + [SSL non valido](../cloud/troubleshooting/invalid-ssl.md)
@@ -44,32 +68,6 @@ ht-degree: 3%
     + [Richiesta di supporto](../cloud/best-practices/support-request.md)
     + [Elenco di controllo pre-avvio](../cloud/best-practices/pre-launch-checklist.md)
 + Guida introduttiva {#getting-started}
-  + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-    + [Panoramica](../commerce-as-a-cloud-service/overview.md)
-    + [Architettura](../commerce-as-a-cloud-service/architecture.md)
-    + Webapi-rest{#webapi-rest}
-      + [Clienti](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-    + Panoramica del prodotto{#product-overview}
-      + [Introduzione](../commerce-as-a-cloud-service/product-overview/introduction.md)
-      + [Esperienza di installazione](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [Authoring dei contenuti](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
-      + [Localizzare e pianificare il contenuto](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
-      + [Creazione di contenuti basati su GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-      + [Servizi di gestione catalogo e merchandising](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
-      + [Sperimentazione su Commerce storefront](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-      + [Velocità vetrina Commerce](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-      + [Percorso completo negozio Commerce](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-      + [Vetrina componibile e architettura modulare](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-      + [Estensibilità](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-      + [Modernizzazione e migrazione](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-      + [chiusura](../commerce-as-a-cloud-service/product-overview/closing.md)
-    + Strumento di migrazione dati in blocco{#bulk-data-migration-tool}
-      + [Introduzione](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-      + [Credenziali Source](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-      + [Credenziali DB](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-      + [Credenziali di Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-      + [Migrazione monofase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-      + [Migrazione multifase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + Migrazione ad Adobe Commerce{#migrating-to-adobe-commerce}
     + [Panoramica](../migrating-to-adobe-commerce/overview.md)
     + Preparazione{#preparation}
@@ -101,6 +99,10 @@ ht-degree: 3%
     + [Acquisizione webhook](../back-office-integrations/webhook-ingestion.md)
     + [Meccanismo di esecuzione di nuovi tentativi](../back-office-integrations/retry-mechanism.md)
 
++ API e integrazione {#apis-and-integration}
+  + Esempi pratici di REST e GraphQL {#examples}
+    + [Clienti con REST](../apis-and-integration/examples/customer.md)
+
 + Estensibilità {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
     + [Panoramica](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -112,7 +114,7 @@ ht-degree: 3%
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../backend-development/create-module.md)
     + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
