@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Monitoraggio, analisi e supporto {#monitoring-analytics-support}
 
-+ [Home dei tutorial di Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/overview)
++ [Home dei tutorial di Commerce](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/overview)
 + Guida e supporto {#help-and-support}
   + [Creare un ticket di supporto](help-and-support/create-a-support-ticket.md)
   + [Cerca, tieni traccia, commenta e inoltra ticket di supporto](help-and-support/search-track-comment-escalate-support-ticket.md)
