@@ -1,0 +1,382 @@
+---
+title: Creare un prodotto configurabile
+description: Scopri come creare un prodotto configurabile utilizzando l’API REST e l’amministratore Commerce.
+jira: KT-14586
+doc-type: Tutorial
+duration: 1760
+audience: all
+activity: use
+last-substantial-update: 2023-12-15T00:00:00.000Z
+feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
+topic: Commerce, Integrations, Content Management
+role: Developer, User
+level: Beginner
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+TQID: 'https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+workflow-type: tm+mt
+source-wordcount: '998'
+ht-degree: 0%
+---
+# Creare un prodotto configurabile
+
+Un prodotto configurabile è un prodotto principale di più prodotti semplici. Definisci un prodotto configurabile per richiedere all’acquirente di effettuare una o più scelte per selezionare una variante di prodotto specifica. Ad esempio, se il prodotto è una camicia, l&#39;acquirente deve scegliere le opzioni di dimensione e colore per selezionare la camicia.
+
+Sebbene un prodotto configurabile utilizzi più SKU e la configurazione iniziale possa richiedere un po’ di tempo, alla fine potrai risparmiare tempo. Se prevedi di espandere la tua attività, il tipo di prodotto configurabile è una buona scelta per i prodotti con più opzioni.
+
+Prima di creare un prodotto configurabile, verifica che tutti i prodotti semplici da includere nel prodotto configurabile siano disponibili in Adobe Commerce. Crea quelli che non esistono.
+
+In questo tutorial, scopri come creare un prodotto configurabile utilizzando l’API REST e l’amministratore Adobe Commerce.
+
+Utilizza l’API REST per creare un prodotto configurabile:
+
+1. Ottieni gli attributi per un [set di attributi](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) per utilizzare i numeri ID per le chiamate API successive.
+1. Crea prodotti semplici da utilizzare nel prodotto configurabile.
+1. Crea un prodotto configurabile vuoto e associa i prodotti semplici.
+1. Imposta gli attributi del prodotto configurabile.
+1. Popola il prodotto configurabile vuoto con prodotti semplici.
+1. Ottieni il prodotto configurabile e tutti gli attributi.
+1. Ottieni i prodotti secondari assegnati per il prodotto configurabile.
+1. Elimina l’associazione di prodotti semplici a prodotti configurabili.
+
+Quando crei prodotti configurabili dall’amministratore di Adobe Commerce, puoi creare prima i prodotti semplici o utilizzare lo strumento automatizzato che crea nuovi prodotti semplici da utilizzare mediante la procedura guidata.
+
+## A chi serve questo video?
+
+* Gestori di siti Web
+* eCommerce merchandisers
+* Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti configurabili in Adobe Commerce utilizzando l’API REST
+
+## Contenuto video
+
+>[!VIDEO](https://video.tv.adobe.com/v/3426381?learn=on)
+
+## Ottieni gli attributi del colore utilizzando cURL
+
+In questo esempio, per il set di attributi 10 viene restituito l&#39;intero set di attributi con tutti i singoli attributi. Può essere lunga, centinaia di linee non sono rare. Durante l’esame della risposta, l’ID attributo del colore sarà probabilmente al centro. Accelerare la ricerca di questi valori utilizzando grep o altri metodi per cercare i risultati. La mia risposta era vicina alla riga 665 ed è inclusa nel seguente snippet della risposta JSON.
+
+```json
+...
+{
+        "attribute_id": 93,
+        "attribute_code": "color",
+        "frontend_input": "select",
+        "entity_type_id": "4",
+        "is_required": false,
+        "options": [
+            {
+                "label": " ",
+                "value": ""
+            },
+            {
+                "label": "Red",
+                "value": "13"
+            },
+            {
+                "label": "Blue",
+                "value": "14"
+            },
+            {
+                "label": "Green",
+                "value": "15"
+            }
+        ],
+...
+```
+
+
+Per recuperare gli ID attributo per configurare il prodotto configurabile, aggiornare la porzione `attribute-sets/10/attributes` della seguente richiesta cURL per sostituire `10` con l&#39;ID del set di attributi nell&#39;ambiente. Questa richiesta utilizza il metodo GET.
+
+```bash
+curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
+--header 'Authorization: Bearer {{Your Bearer Token}}'
+```
+
+## Creare il primo prodotto semplice utilizzando cURL
+
+### Regolare gli ID ambiente e i dettagli del prodotto
+
+Crea il primo prodotto semplice utilizzando l’API per inviare la seguente richiesta POST utilizzando cURL.
+
+Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
+
+* Cambia `"attribute-set": 10` per sostituire `10` con l&#39;ID del set di attributi dal tuo ambiente.
+* Cambia `"value": "13"` per sostituire `13` con il valore del tuo ambiente.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=aff63a1634f6f1a773e7a4894bf1a55c' \
+--data '{
+  "product": {
+    "sku": "Kids-Hawaiian-Ukulele-red",
+    "name": "Kids Hawaiian Ukulele Red",
+    "attribute_set_id": 10,
+    "price": 12.50,
+    "status": 1,
+    "visibility": 1,
+    "type_id": "simple",
+    "weight": "0.5",
+    "extension_attributes": {
+        "stock_item": {
+            "qty": "10",
+            "is_in_stock": true
+        }
+    },
+    "custom_attributes": [
+        {
+            "attribute_code": "color",
+            "value": "13"
+        }
+    ]
+  }
+}
+'
+```
+
+## Creare il secondo prodotto semplice utilizzando cURL
+
+Crea il secondo prodotto semplice utilizzando l’API per inviare la seguente richiesta POST utilizzando cURL.
+
+Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
+
+* Cambia `"attribute_set_id": 10,` e sostituisci `10` con l&#39;ID del set di attributi da nell&#39;ambiente.
+* Cambia `"value": "14"` e sostituisci `14` con il valore del tuo ambiente.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=aff63a1634f6f1a773e7a4894bf1a55c' \
+--data '{
+  "product": {
+    "sku": "Kids-Hawaiian-Ukulele-Blue",
+    "name": "Kids Hawaiian Ukulele Blue",
+    "attribute_set_id": 10,
+    "price": 15,
+    "status": 1,
+    "visibility": 1,
+    "type_id": "simple",
+    "weight": "0.5",
+    "extension_attributes": {
+        "stock_item": {
+            "qty": "20",
+            "is_in_stock": true
+        }
+    },
+    "custom_attributes": [
+        {
+            "attribute_code": "color",
+            "value": "14"
+        }
+    ]
+  }
+}
+'
+```
+
+## Creare il terzo prodotto semplice utilizzando cURL
+
+Crea il terzo prodotto semplice inviando la seguente richiesta POST utilizzando cURL.
+
+Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
+
+* Cambia `"attribute_set_id": 10,` per sostituire `10` con l&#39;ID del set di attributi dal tuo ambiente.
+* Cambia `"value": "15"` e sostituisci `15` con il valore del tuo ambiente.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=aff63a1634f6f1a773e7a4894bf1a55c' \
+--data '{
+  "product": {
+    "sku": "Kids-Hawaiian-Ukulele-Green",
+    "name": "Kids Hawaiian Ukulele Green",
+    "attribute_set_id": 10,
+    "price": 25,
+    "status": 1,
+    "visibility": 1,
+    "type_id": "simple",
+    "weight": "0.5",
+    "extension_attributes": {
+        "stock_item": {
+            "qty": "30",
+            "is_in_stock": true
+        }
+    },
+    "custom_attributes": [
+        {
+            "attribute_code": "color",
+            "value": "15"
+        }
+    ]
+  }
+}
+'
+```
+
+## Crea un prodotto configurabile vuoto utilizzando cURL
+
+Crea un prodotto configurabile vuoto inviando la seguente richiesta POST utilizzando cURL.
+
+Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
+
+* Cambia `"attribute_set_id": 10,` e sostituisci `10` con l&#39;ID del set di attributi dal tuo ambiente.
+* Cambia `"value": "93"` e sostituisci `93` con il valore del tuo ambiente.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=aff63a1634f6f1a773e7a4894bf1a55c' \
+--data '{
+  "product": {
+    "sku": "Kids-Hawaiian-Ukulele",
+    "name": "Kids Hawaiian Ukulele",
+    "attribute_set_id": 10,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "configurable",
+    "weight": "0.5",
+    "custom_attributes": [
+        {
+            "attribute_code": "color",
+            "value": "93"
+        }
+    ]
+  }
+}'
+```
+
+## Imposta le opzioni disponibili per il prodotto configurabile
+
+Imposta le opzioni disponibili per il prodotto configurabile inviando la seguente richiesta POST utilizzando cURL.
+
+Prima di inviare la richiesta, modifica `"attribute_id": 93,` per sostituire `93` con l&#39;ID attributo del tuo ambiente.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=aff63a1634f6f1a773e7a4894bf1a55c' \
+--data '{
+  "option": {
+    "attribute_id": "93",
+    "label": "Color",
+    "position": 0,
+    "is_use_default": true,
+    "values": [
+      {
+        "value_index": 9
+      }
+    ]
+  }
+}'
+```
+
+Se si dimentica di impostare le opzioni per il prodotto configurabile (padre), viene visualizzato un errore quando si tenta di associare un prodotto figlio al prodotto configurabile. Il messaggio di errore è simile al seguente esempio:
+
+`{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
+
+## Collega il prodotto secondario al configurabile
+
+Ora hai creato tre semplici prodotti:
+
+* `"Kids Hawaiian Ukulele Red"`,
+* `"Kids-Hawaiian-Ukulele-Blue"`
+* `"Kids-Hawaiian-Ukulele-Green"`
+
+Aggiungi questi prodotti semplici come elementi secondari del prodotto configurabile inviando la seguente richiesta POST. Invia una richiesta separata per ciascun prodotto.
+
+Per ogni richiesta, aggiorna il valore `childSKU` con il valore per il prodotto secondario che stai aggiungendo. Nell&#39;esempio seguente il prodotto semplice `kids-Hawaiian-Ukulele-red` viene assegnato al prodotto configurabile con SKU `Kids-Hawaiian-Ukulele-red`.
+
+
+```bash
+curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/child' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=aff63a1634f6f1a773e7a4894bf1a55c' \
+--data '{
+  "childSku": "Kids-Hawaiian-Ukulele-red"
+}
+'
+```
+
+## Ottieni un prodotto configurabile utilizzando cURL
+
+Ora che hai creato un prodotto configurabile con tre SKU secondarie assegnate. Puoi visualizzare gli ID collegati per i prodotti assegnati inviando la seguente richiesta GET utilizzando cURL. Questa richiesta restituisce informazioni dettagliate sul prodotto configurabile.
+
+```json
+...
+        "configurable_product_links": [
+            155,
+            157,
+            156
+        ]
+...
+```
+
+Di seguito viene utilizzato il metodo GET
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulele' \
+--header 'Authorization: Bearer {{Your Bearer Token}}'
+```
+
+## Ottieni il prodotto secondario associato a un prodotto configurabile
+
+Restituisci solo gli elementi figlio associati al prodotto configurabile inviando la seguente richiesta GET. La risposta includerà tutti gli attributi del prodotto secondario, inclusi SKU e prezzo.
+
+Di seguito viene utilizzato il metodo GET
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-hawaiian-ukulele/children' \
+--header 'Authorization: Bearer {{Your Bearer Token}}'
+```
+
+## Elimina o rimuovi un prodotto secondario dal prodotto principale configurabile
+
+Puoi rimuovere un prodotto secondario da un prodotto configurabile senza eliminare il prodotto dal catalogo inviando la seguente richiesta DELETE utilizzando cURL.
+
+```bash
+curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
+--header 'Authorization: Bearer {{Your Bearer Token}}'
+```
+
+## Risorse aggiuntive
+
+* [Crea un tutorial di prodotto configurabile](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [Prodotto configurabile](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+* [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
