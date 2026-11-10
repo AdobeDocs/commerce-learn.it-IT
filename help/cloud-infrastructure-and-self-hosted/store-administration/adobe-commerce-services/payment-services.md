@@ -58,7 +58,7 @@ I servizi di pagamento per Adobe Commerce e Magento Open Source consentono alle 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410790?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 
