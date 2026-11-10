@@ -4,9 +4,9 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -57,26 +57,26 @@ ht-degree: 3%
         + [Standard di codice in-process](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA {#qa}
         + [Blocco del codice](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + Risoluzione dei problemi {#troubleshooting}
-    + [SSL non valido](../cloud/troubleshooting/invalid-ssl.md)
-    + [Valutazione e risoluzione di 2 errori comuni del sito](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [Valori di configurazione](../cloud/troubleshooting/config-values.md)
-    + [Tronca registri](../cloud/troubleshooting/truncate-logs.md)
-  + [Gestione di progetti e ambienti](../cloud/project-environment-management.md)
-  + [Come viene ridimensionato Adobe Commerce Cloud](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [Hosting compatibile con HIPAA](../cloud/hippa-ready-hosting.md)
-  + [Rileva indirizzo IP](../cloud/detect-ip-address.md)
-  + [Limita l’accesso tramite Fastly](../cloud/limit-website-access-using-fastly.md)
-  + Onboarding tecnico e handoff hardware {#technical-onboarding-hardware-handoff}
-    + [Best practice per l’infrastruttura e lo sviluppo](../cloud/infrastructure-development-best-practices.md)
-    + [Fastly](../cloud/fastly.md)
-    + [Configurazione e debug](../cloud/configuration-and-debugging.md)
-    + [Distribuzione, test, monitoraggio e sicurezza](../cloud/deployments-testing-monitoring-security.md)
-    + [Offerte, supporto e comunicazioni SaaS e passaggi successivi](../cloud/saas-offerings-support-communications-next-steps.md)
-  + Best practice {#commerce-cloud-best-practices}
-    + [Richiesta di supporto](../cloud/best-practices/support-request.md)
-    + [Elenco di controllo pre-avvio](../cloud/best-practices/pre-launch-checklist.md)
+  + Operazioni cloud {#cloud-operations}
+    + Risoluzione dei problemi {#troubleshooting}
+      + [SSL non valido](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [Valutazione e risoluzione di 2 errori comuni del sito](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [Valori di configurazione](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [Tronca registri](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [Gestione di progetti e ambienti](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Come viene ridimensionato Adobe Commerce Cloud](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [Hosting compatibile con HIPAA](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [Rileva indirizzo IP](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [Limita l’accesso tramite Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + Onboarding tecnico e handoff hardware {#technical-onboarding-hardware-handoff}
+      + [Best practice per l’infrastruttura e lo sviluppo](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [Configurazione e debug](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [Distribuzione, test, monitoraggio e sicurezza](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [Offerte, supporto e comunicazioni SaaS e passaggi successivi](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + Best practice {#commerce-cloud-best-practices}
+      + [Richiesta di supporto](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [Elenco di controllo pre-avvio](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
 + Guida introduttiva {#getting-started}
   + Funzionalità Commerce {#capabilities}
     + [Opzioni commerce disponibili](../capabilities/adobes-available-commerce-options.md)
@@ -115,7 +115,7 @@ ht-degree: 3%
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../backend-development/create-module.md)
     + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
