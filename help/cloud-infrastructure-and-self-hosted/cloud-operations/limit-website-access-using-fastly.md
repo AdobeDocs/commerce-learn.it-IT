@@ -75,6 +75,6 @@ if ( !(client.ip ~ allowlist) && !req.http.Fastly-FF) { error 403 "Forbidden";}
 
 ## Documentazione correlata
 
-* [Rilevamento di indirizzi IP dannosi](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
-* [VCL personalizzato per consentire le richieste](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
-* [VCL personalizzato per richieste di blocco](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
+* [Rilevamento di indirizzi IP dannosi](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
+* [VCL personalizzato per consentire le richieste](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
+* [VCL personalizzato per richieste di blocco](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
