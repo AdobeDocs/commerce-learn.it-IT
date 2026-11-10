@@ -4,7 +4,7 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '1022'
 ht-degree: 3%
@@ -128,6 +128,13 @@ ht-degree: 3%
     + [Gestisci riscritture URL per SEO (Search Engine Optimization)](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
     + [Visualizzatore AR](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
     + [Importazione e aggiornamento del catalogo](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + Gestione dei contenuti {#content-management}
+    + [Panoramica di Page Builder](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [Creare blocchi statici e dinamici](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [Crea widget](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [Utilizzare i modelli di contenuto](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [Staging dei contenuti](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [Gestire la raccolta file multimediali](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + Guida introduttiva {#getting-started}
   + Funzionalità Commerce {#capabilities}
     + [Opzioni commerce disponibili](../capabilities/adobes-available-commerce-options.md)
@@ -157,7 +164,7 @@ ht-degree: 3%
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../backend-development/create-module.md)
     + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -280,13 +287,6 @@ ht-degree: 3%
     + [Cerca, rivedi, commenta e inoltra ticket di supporto](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gestire lo stato e i controllori dei ticket di supporto](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Gestione dei contenuti {#content}
-  + [Panoramica di Page Builder](../site-management/page-builder-overview.md)
-  + [Creare blocchi statici e dinamici](../site-management/static-dynamic-blocks.md)
-  + [Crea widget](../site-management/widgets.md)
-  + [Utilizzare i modelli di contenuto](../site-management/content-templates.md)
-  + [Staging dei contenuti](../site-management/content-staging.md)
-  + [Gestire la raccolta file multimediali](../site-management/media-gallery.md)
 + Strumenti di marketing {#marketing}
   + [Crea regole prezzo catalogo](../site-management/catalog-price-rules.md)
   + [Crea regole prezzo carrello](../site-management/cart-price-rules.md)
