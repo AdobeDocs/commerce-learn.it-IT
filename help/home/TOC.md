@@ -4,9 +4,9 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,13 +77,22 @@ ht-degree: 3%
     + Best practice {#commerce-cloud-best-practices}
       + [Richiesta di supporto](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [Elenco di controllo pre-avvio](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + Strumenti operativi {#tools}
+      + [Dashboard dello strumento di analisi a livello di sito](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Servizio di applicazione di patch per l&#39;automazione cloud](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Osservazione per Adobe Commerce](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Panoramica dello strumento Quality Patch](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Strumento Quality Patch](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [Individuazione di un IP dannoso](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [Impostazione delle notifiche di avviso](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [Avvisi personalizzati](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + Guida introduttiva {#getting-started}
   + Funzionalità Commerce {#capabilities}
     + [Opzioni commerce disponibili](../capabilities/adobes-available-commerce-options.md)
     + [Connessione dati](../capabilities/data-connection.md)
     + [Dimostrazione completa di Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce componibile](../capabilities/what-is-composable-commerce.md)
-    + [Strumento Quality Patch](../capabilities/quality-patch-tool.md)
   + Creare prodotti {#create-products}
     + [Prodotto semplice](../site-management/create-simple-product.md)
     + [Prodotto virtuale](../site-management/create-virtual-product.md)
@@ -115,7 +124,7 @@ ht-degree: 3%
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../backend-development/create-module.md)
     + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [Note voce preventivo](../b2b/quote-line-item-notes.md)
     + [GraphQL sconto voce preventivo](../b2b/quote-graphql-line-item-discount.md)
     + [API REST sconto voce preventivo](../b2b/quote-rest-api-line-item-notes.md)
-+ Strumenti e servizi esterni {#tools}
-  + [Dashboard dello strumento di analisi a livello di sito](../tools/site-wide-analysis-tool.md)
-  + [Servizio di applicazione di patch per l&#39;automazione cloud](../tools/cloud-automation-patching-service.md)
-  + [Osservazione per Adobe Commerce](../tools/observation-tool.md)
-  + [Strumento Quality Patch](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [Individuazione di un IP dannoso](../new-relic/malicious-ip.md)
-    + [Impostazione delle notifiche di avviso](../new-relic/new-relic-alert-notification-setup.md)
-    + [Avvisi personalizzati](../new-relic/custom-alerts.md)

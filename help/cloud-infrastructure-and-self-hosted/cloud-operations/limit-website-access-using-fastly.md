@@ -44,9 +44,9 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '182'
 ht-degree: 0%
 ---
 # Utilizzare Fastly per negare l&#39;accesso a un intero sito Web
@@ -63,7 +63,7 @@ Limita l’accesso al sito Adobe Commerce con Fastly Edge ACL e VCL personalizza
 * Sviluppatore Adobe Commerce
 * Site Reliability Engineer
 
->[!VIDEO](https://video.tv.adobe.com/v/3464787?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
 
 ## Esempio di codice
 
@@ -75,6 +75,6 @@ if ( !(client.ip ~ allowlist) && !req.http.Fastly-FF) { error 403 "Forbidden";}
 
 ## Documentazione correlata
 
-* [Rilevamento di indirizzi IP dannosi](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
-* [VCL personalizzato per consentire le richieste](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
-* [VCL personalizzato per richieste di blocco](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
+* [Rilevamento di indirizzi IP dannosi](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip)
+* [VCL personalizzato per consentire le richieste](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
+* [VCL personalizzato per richieste di blocco](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
