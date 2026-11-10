@@ -61,11 +61,11 @@ Ogni installazione di Adobe Commerce e Magento Open Source supporta una gerarchi
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
+>Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Risorse aggiuntive
 
-* [Siti Web, store e visualizzazioni - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
-* [Gerarchia e categoria radice - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)
+* [Siti Web, store e visualizzazioni - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/it/docs/commerce-admin/start/setup/websites-stores-views)
+* [Gerarchia e categoria radice - [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/it/docs/commerce-admin/catalog/categories/category-root)

@@ -60,6 +60,6 @@ Gestisci i metodi di spedizione e consegna per consegnare i prodotti ai tuoi cli
 
 ## Risorse aggiuntive
 
-* [Impostazioni di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [Metodi di consegna di base - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [Configurazione del vettore di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [Impostazioni di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/it/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [Metodi di consegna di base - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/it/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [Configurazione del vettore di spedizione - [!DNL Commerce] Guida ai negozi e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/it/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
