@@ -1,0 +1,467 @@
+---
+title: Creare un prodotto bundle
+description: Scopri come creare un prodotto bundle utilizzando l’API REST e l’amministratore Commerce.
+jira: KT-14589
+doc-type: Technical Video
+duration: 1335
+audience: all
+activity: use
+last-substantial-update: 2024-1-8
+feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
+topic: Commerce, Integrations, Content Management
+role: Developer, User
+level: Beginner
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+TQID: 'https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+workflow-type: tm+mt
+source-wordcount: '673'
+ht-degree: 0%
+---
+# Creare un prodotto bundle
+
+Un prodotto bundle è un modo per raggruppare diversi prodotti sotto un prodotto principale. Questi prodotti secondari possono essere un set definito di prodotti o offrire alcune varianti che forniscono opzioni di configurazione flessibili per i clienti. L&#39;impostazione dei tipi di prodotto del bundle richiede un po&#39; più di tempo ed è necessario fare una certa pianificazione prima di configurarli. Tuttavia, l&#39;offerta di prodotti in bundle migliora l&#39;esperienza di acquisto rendendo più facile per i clienti di personalizzare le loro selezioni di prodotti.
+
+Ad esempio, puoi offrire un pacchetto di prodotti denominato `Learning to surf` nel tuo negozio Web. Il bundle è il prodotto principale che funge da contenitore per i prodotti secondari assegnati che specificano le opzioni disponibili:
+
+* Una tavola da surf standard
+* Un tipico guinzaglio da tavola
+* Pinne rosse da tavola da surf
+
+Quando si desidera una flessibilità aggiuntiva, si consiglia di consentire diverse opzioni di prodotti secondari. Ciò richiede un uso più complesso delle opzioni e dei prodotti secondari. Per espandere l&#39;esempio precedente, le opzioni finali sono:
+
+* Una tavola da surf standard
+* Un tipico guinzaglio da tavola
+* Scelta del colore della pinna:
+  * Rosso
+  * Blu
+  * Giallo
+
+Che il bundle sia un gruppo statico di prodotti semplici o diversi prodotti con varianti, le opzioni di configurazione flessibili rendono i tipi di prodotto bundle uno strumento di merchandising univoco e potente per lo store di Adobe Commerce.
+
+Prima di creare un prodotto bundle, verifica che tutti i prodotti semplici da includere nel prodotto bundle siano disponibili in Adobe Commerce. Crea quelli che non esistono.
+
+In questa esercitazione, scopri come creare un prodotto bundle utilizzando l’API REST e l’amministratore Adobe Commerce.
+
+Utilizza l’API REST per definire un prodotto bundle:
+
+1. Creare prodotti semplici da utilizzare nel prodotto bundle.
+1. Crea un prodotto bundle e associa i prodotti semplici.
+1. Ottieni il prodotto del bundle e tutte le opzioni associate.
+1. Elimina un’opzione da una sezione del bundle prodotti.
+1. Ripristina le opzioni per un prodotto bundle.
+
+Quando crei i prodotti bundle da Adobe Commerce Admin, puoi creare prima i prodotti semplici o utilizzare lo strumento automatizzato per creare prodotti semplici utilizzando una procedura guidata.
+
+## A chi serve questo video?
+
+* Gestori di siti Web
+* eCommerce merchandisers
+* Nuovi sviluppatori di Adobe Commerce che desiderano imparare a creare prodotti bundle in Adobe Commerce utilizzando l’API REST
+
+## Contenuto video
+
+>[!VIDEO](https://video.tv.adobe.com/v/3454510?captions=ita&learn=on)
+
+## Creare prodotti con REST
+
+I seguenti comandi creano tutti i prodotti necessari per definire il prodotto del bundle in questo esempio: cinque prodotti semplici e un prodotto del bundle con tre opzioni.
+
+Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
+
+* Cambia `"attribute-set": 4` per sostituire `4` con l&#39;ID del set di attributi dal tuo ambiente.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3' \
+--data '{
+  "product": {
+    "sku": "10-ft-beginner-surfboard",
+    "name": "10 Foot Beginner surfboard",
+    "attribute_set_id": 4,
+    "price": 100,
+    "type_id": "simple",
+    "extension_attributes": {
+      "stock_item": {
+        "qty": 100,
+        "is_in_stock":true
+      }
+    }
+  }
+}
+'
+```
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3' \
+--data '{
+  "product": {
+    "sku": "8-ft-surboard-leash",
+    "name": "8 Foot surboard leash",
+    "attribute_set_id": 4,
+    "price": 50,
+    "type_id": "simple",
+    "extension_attributes": {
+      "stock_item": {
+        "qty": 100,
+        "is_in_stock":true
+      }
+    }
+  }
+}
+'
+```
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3' \
+--data '{
+  "product": {
+    "sku": "red-fins-and-fin-plugs",
+    "name": "Red fins and fin plugs",
+    "attribute_set_id": 4,
+    "price": 15,
+    "type_id": "simple",
+    "extension_attributes": {
+      "stock_item": {
+        "qty": 100,
+        "is_in_stock":true
+      }
+    }
+  }
+}
+'
+```
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3' \
+--data '{
+  "product": {
+    "sku": "blue-fins-and-fin-plugs",
+    "name": "Blue fins and fin plugs",
+    "attribute_set_id": 4,
+    "price": 15,
+    "type_id": "simple",
+    "extension_attributes": {
+      "stock_item": {
+        "qty": 100,
+        "is_in_stock":true
+      }
+    }
+  }
+}
+'
+```
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3' \
+--data '{
+  "product": {
+    "sku": "yellow-fins-and-fin-plugs",
+    "name": "Yellow fins and fin plugs",
+    "attribute_set_id": 4,
+    "price": 15,
+    "type_id": "simple",
+    "extension_attributes": {
+      "stock_item": {
+        "qty": 100,
+        "is_in_stock":true
+      }
+    }
+  }
+}
+'
+```
+
+## Creare un prodotto bundle e assegnare i prodotti semplici come opzioni
+
+Crea un prodotto bundle inviando la seguente richiesta POST.
+
+Prima di inviare la richiesta, aggiorna l’esempio con i valori per il tuo ambiente.
+
+* Cambia `"attribute_set_id": 4,` e sostituisci `4` con l&#39;ID del set di attributi dal tuo ambiente.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3' \
+--data '{
+  "product": {
+    "sku": "beginner-surfboard",
+    "name": "Beginner Surfboard",
+    "attribute_set_id": 4,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "bundle",
+    "extension_attributes": {
+      "stock_item": {
+        "qty": 100,
+        "is_in_stock":true
+      },
+      "bundle_product_options": [
+        {
+          "option_id": 0,
+          "position": 1,
+          "sku": "surfboard-essentials",
+          "title": "Beginners 10ft Surfboard",
+          "type": "checkbox",
+          "required": true,
+          "product_links": [
+            {
+              "sku": "10-ft-beginner-surfboard",
+              "option_id": 1,
+              "qty": 1,
+              "position": 1,
+              "is_default": false,
+              "price": 100,
+              "price_type": 0,
+              "can_change_quantity": 0
+            }
+          ]
+        },
+        {
+          "option_id": 1,
+          "position": 2,
+          "sku": "surboard-leash",
+          "title": "Surfboard leash",
+          "type": "checkbox",
+          "required": true,
+          "product_links": [
+            {
+              "sku": "8-ft-surboard-leash",
+              "option_id": 2,
+              "qty": 1,
+              "position": 1,
+              "is_default": false,
+              "price": 50,
+              "price_type": 0,
+              "can_change_quantity": 0
+            }
+          ]
+        },
+        {
+          "option_id": 3,
+          "position": 2,
+          "sku": "surfboard-color",
+          "title": "Choose a color for the fins and fin plugs",
+          "type": "radio",
+          "required": true,
+          "product_links": [
+            {
+              "sku": "red-fins-and-fin-plugs",
+              "option_id": 2,
+              "qty": 1,
+              "position": 1,
+              "is_default": false,
+              "price": 0,
+              "price_type": 0,
+              "can_change_quantity": 0
+            },
+            {
+              "sku": "blue-fins-and-fin-plugs",
+              "option_id": 2,
+              "qty": 1,
+              "position": 2,
+              "is_default": false,
+              "price": 0,
+              "price_type": 0,
+              "can_change_quantity": 0
+            },
+            {
+              "sku": "yellow-fins-and-fin-plugs",
+              "option_id": 3,
+              "qty": 1,
+              "position": 3,
+              "is_default": false,
+              "price": 0,
+              "price_type": 0,
+              "can_change_quantity": 0
+            }
+          ]
+        }
+      ]
+    },
+    "custom_attributes": [
+      {
+        "attribute_code": "price_view",
+        "value": "0"
+      }
+    ]
+  },
+  "saveOptions": true
+}
+'
+```
+
+## Eliminare un’opzione da un prodotto bundle
+
+Rimuovi un prodotto secondario da un prodotto bundle senza eliminare il prodotto dal catalogo inviando la seguente richiesta DELETE utilizzando cURL.
+
+```bash
+curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-products/beginner-surfboard/options/35/children/blue-fins-and-fin-plugs' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3'
+```
+
+## Ripristina opzioni prodotto
+
+Quando aggiorni le opzioni del prodotto bundle, assicurati di includere tutte le opzioni che desideri associare a questo prodotto. Se il set di opzioni originale conteneva tre prodotti ed uno è stato rimosso, includi tutte e tre le opzioni nella richiesta POST per garantire che il bundle di prodotto specifichi tutte le opzioni. Se hai incluso solo l’opzione rimossa, il pacchetto di prodotti aggiornato includerà solo tale opzione.
+
+Individua l’ID opzione esaminando la risposta dalla creazione per il prodotto bundle. In tale risposta, `option_id` è `35`.
+
+```json
+...
+,
+            {
+                "option_id": 35,
+                "title": "added back color options for fins and fin plugs",
+                "required": true,
+                "type": "radio",
+                "position": 2,
+                "sku": "beginner-surfboard",
+                "product_links": [
+                    {
+                        "id": "77",
+                        "sku": "red-fins-and-fin-plugs",
+                        "option_id": 35,
+                        "qty": 1,
+                        "position": 1,
+                        "is_default": false,
+                        "price": 15,
+                        "price_type": null,
+                        "can_change_quantity": 0
+                    },
+                    {
+                        "id": "78",
+                        "sku": "blue-fins-and-fin-plugs",
+                        "option_id": 35,
+                        "qty": 1,
+                        "position": 2,
+                        "is_default": false,
+                        "price": 15,
+                        "price_type": null,
+                        "can_change_quantity": 0
+                    },
+                    {
+                        "id": "79",
+                        "sku": "yellow-fins-and-fin-plugs",
+                        "option_id": 35,
+                        "qty": 1,
+                        "position": 3,
+                        "is_default": false,
+                        "price": 15,
+                        "price_type": null,
+                        "can_change_quantity": 0
+                    }
+                ]
+            }
+...
+```
+
+Aggiorna il pacchetto di prodotti per aggiungere l’opzione rimossa inviando la seguente richiesta POST.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3' \
+--data '{
+  "option": {
+    "option_id": 35,
+    "title": "Choose a color for the fins and fin plugs",
+    "required": true,
+    "type": "radio",
+    "position": 2,
+    "sku": "beginner-surfboard",
+    "product_links": [
+      {
+        "sku": "red-fins-and-fin-plugs",
+        "option_id": 35,
+        "qty": 1,
+        "position": 1,
+        "is_default": false,
+        "price": 0,
+        "price_type": null,
+        "can_change_quantity": 0,
+        "extension_attributes": {}
+      },
+      {
+        "sku": "blue-fins-and-fin-plugs",
+        "option_id": 35,
+        "qty": 1,
+        "position": 2,
+        "is_default": false,
+        "price": 0,
+        "price_type": null,
+        "can_change_quantity": 0,
+        "extension_attributes": {}
+      },
+      {
+        "sku": "yellow-fins-and-fin-plugs",
+        "option_id": 35,
+        "qty": 1,
+        "position": 3,
+        "is_default": false,
+        "price": 0,
+        "price_type": null,
+        "can_change_quantity": 0,
+        "extension_attributes": {}
+      }
+    ],
+    "extension_attributes": {}
+  }
+}'
+```
+
+## Risorse aggiuntive
+
+* [Tutorial su come creare un bundle](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Prodotto bundle](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=it){target="_blank"}
+* [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

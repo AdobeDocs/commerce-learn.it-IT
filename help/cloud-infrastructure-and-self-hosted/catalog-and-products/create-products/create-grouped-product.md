@@ -1,0 +1,256 @@
+---
+title: Creare un prodotto raggruppato
+description: Scopri come creare un prodotto raggruppato utilizzando l’API REST e l’amministratore Commerce.
+jira: KT-14585
+doc-type: Tutorial
+duration: 979
+audience: all
+activity: use
+last-substantial-update: 2023-11-30T00:00:00.000Z
+feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
+topic: Commerce, Integrations, Content Management
+role: Developer, User
+level: Beginner
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+TQID: 'https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+workflow-type: tm+mt
+source-wordcount: '559'
+ht-degree: 0%
+---
+# Creare un prodotto raggruppato
+
+Un prodotto raggruppato è costituito da semplici prodotti autonomi presentati come un gruppo. Puoi offrire varianti di un singolo prodotto o raggrupparle per stagione o tema. Prima di creare un prodotto raggruppato, verifica che tutti i prodotti semplici da includere nel gruppo siano disponibili in Adobe Commerce e creane altri inesistenti.
+
+Questa esercitazione spiega come creare un prodotto raggruppato utilizzando l’API REST e l’amministratore Adobe Commerce.
+
+Utilizza l’API REST per creare un prodotto di gruppo in Admin:
+
+1. Crea un prodotto raggruppato vuoto.
+1. Creare prodotti semplici da utilizzare nel prodotto raggruppato.
+1. Popola il prodotto raggruppato vuoto con prodotti semplici.
+1. Crea un prodotto raggruppato vuoto e associa i prodotti semplici.
+
+   Quando si associano prodotti semplici al prodotto raggruppato, l&#39;attributo di ordinamento (`position`) nel payload viene utilizzato dal front-end per visualizzare i prodotti associati nell&#39;ordine desiderato. Se l&#39;attributo `position` non è specificato, i prodotti vengono visualizzati nell&#39;ordine in cui sono stati aggiunti al prodotto raggruppato.
+
+Crea prima i prodotti semplici quando crei prodotti raggruppati dall’amministratore di Adobe Commerce. Quando si è pronti a creare il prodotto raggruppato, associare i prodotti semplici assegnandoli al prodotto raggruppato in un unico batch.
+
+## A chi serve questo video?
+
+* Gestori di siti Web
+* eCommerce merchandisers
+* Nuovi sviluppatori Adobe Commerce che desiderano imparare a creare prodotti raggruppati in Adobe Commerce utilizzando l’API REST.
+
+## Contenuto video
+
+>[!VIDEO](https://video.tv.adobe.com/v/3454046?captions=ita&learn=on)
+
+## Impostazione del prodotto raggruppato
+
+In questo esempio, esistono tre prodotti semplici (creati per primi) e un prodotto raggruppato. Al prodotto raggruppato sono associati due prodotti semplici e al prodotto raggruppato viene aggiunto il terzo prodotto semplice.
+
+## Creare il primo prodotto semplice utilizzando cURL
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+  "product": {
+    "sku": "product-sku-one",
+    "name": "Simple product one",
+    "attribute_set_id": 4,
+    "price": 1.11,
+    "type_id": "simple"
+  }
+}
+```
+
+## Creare il secondo prodotto semplice utilizzando cURL
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+  "product": {
+    "sku": "product-sku-two",
+    "name": "Simple Product two",
+    "attribute_set_id": 4,
+    "price": 2.22,
+    "type_id": "simple"
+  }
+}
+```
+
+## Creare il terzo prodotto semplice utilizzando cURL
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+  "product": {
+    "sku": "product-sku-three",
+    "name": "Simple product three",
+    "attribute_set_id": 4,
+    "price": 3.33,
+    "type_id": "simple"
+  }
+}
+```
+
+## Creare un prodotto raggruppato vuoto utilizzando cURL
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=28a020734488eef2600f8d5c7f302b53; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+    "product":{
+        "sku":"my-new-grouped-product",
+        "name":"This is my New Grouped Product",
+        "attribute_set_id":4,
+        "type_id":"grouped",
+        "visibility":4
+    }
+}
+'
+```
+
+## Aggiungere il primo e il secondo prodotto semplice al prodotto raggruppato
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=28a020734488eef2600f8d5c7f302b53; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+    "items":[
+        {
+            "sku":"my-new-grouped-product",
+            "link_type":"associated",
+            "linked_product_sku":"product-sku-one",
+            "linked_product_type":"simple",
+            "position":1,
+            "extension_attributes":{
+            "qty":1
+            }
+        },
+        {
+            "sku":"my-new-grouped-product",
+            "link_type":"associated",
+            "linked_product_sku":"product-sku-two",
+            "linked_product_type":"simple",
+            "position":2,
+            "extension_attributes":{
+            "qty":1
+            }
+        }
+    ]
+}
+'
+```
+
+## Aggiungere il terzo prodotto semplice al prodotto raggruppato esistente
+
+Includere il numero di posizione appropriato (tranne `1` o `2`), utilizzato per i primi due prodotti originariamente associati al prodotto raggruppato. In questo esempio, la posizione è `4`.
+
+```bash
+curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2' \
+--data '{
+    "entity":{
+        "sku":"my-new-grouped-product",
+        "link_type":"associated",
+        "linked_product_sku":"product-sku-three",
+        "linked_product_type":"simple",
+        "position":4,
+        "extension_attributes":{
+            "qty":1
+        }
+    }
+}
+
+'
+```
+
+## Eliminare un prodotto semplice da un prodotto raggruppato
+
+Per [eliminare un prodotto semplice](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) da un prodotto raggruppato, utilizzare: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+
+Per individuare gli elementi da utilizzare come `{type}`, utilizzare xdebug per acquisire la richiesta e valutare i $linkTypes: `related`, `crosssell`, `uupsell` e `associated`.
+![Tipi di collegamento prodotto raggruppati - testo alternativo](/help/assets/site-management/catalog/grouped-types.png "Tipi di collegamento prodotto raggruppati acquisiti durante la sessione xdebug")
+
+Quando si collegavano i prodotti semplici al prodotto raggruppato, il payload conteneva alcune sezioni simili alle seguenti:
+
+```bash
+        {
+            "sku":"my-new-grouped-product",
+            "link_type":"associated",
+            "linked_product_sku":"product-sku-two",
+            "linked_product_type":"simple",
+            "position":2,
+            "extension_attributes":{
+            "qty":1
+            }
+        }
+```
+
+Nel payload, il valore `link_type` `associated` fornisce il valore `{type}` richiesto nella richiesta DELETE. L&#39;URL della richiesta sarà simile a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+
+Vedere la richiesta cURL per eliminare il prodotto semplice con SKU `product-sku-three` dal prodotto raggruppato con SKU `my-new-grouped-product`:
+
+```bash
+curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2'
+```
+
+## Ottenere un prodotto raggruppato utilizzando cURL
+
+```bash
+curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-sku' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=3b797a6cc3c5c71f2193109fb9838b12'
+```
+
+## Risorse aggiuntive
+
+* [Creare e gestire prodotti raggruppati](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Prodotto Raggruppato](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=it){target="_blank"}
+* [Tutorial REST per Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

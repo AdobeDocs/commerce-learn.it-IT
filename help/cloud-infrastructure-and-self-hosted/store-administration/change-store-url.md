@@ -1,0 +1,69 @@
+---
+title: Modificare l’URL di un archivio
+description: Scopri come modificare l'URL di base dell'archivio [!DNL Commerce] in Admin.
+jira: KT-5605
+doc-type: Feature Video
+duration: 136
+audience: all
+activity: use
+last-substantial-update: 2023-04-27T00:00:00.000Z
+feature: Configuration, System, Native Luma Frontend Development
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
+exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
+TQID: 'https://experienceleague.adobe.com/HZ-Kb40VUz9ZAorJ7q7fvIMSof2h-AtKJElJcIShTQs'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: aa64eb87-f03e-49eb-a367-66fa1adc2192
+    internal-label: Native Luma Frontend Development
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+workflow-type: tm+mt
+source-wordcount: '143'
+ht-degree: 0%
+---
+# Modificare l’URL di un archivio
+
+Ogni sito web in un’installazione di Adobe Commerce o Magento Open Source ha un URL di base per la vetrina e un altro URL per l’amministratore. Questo video mostra come modificare l’URL di base per il tuo archivio.
+
+## A chi serve questo video?
+
+* Amministratori store
+* Gestori di siti Web
+
+## Contenuto video
+
+>[!NOTE]
+>
+>Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview).
+
+>[!VIDEO](https://video.tv.adobe.com/v/3507857?captions=ita&learn=on)
+
+## Risorse aggiuntive
+
+* [URL store - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/it/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [Utilizza un URL amministratore personalizzato -  [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/it/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
