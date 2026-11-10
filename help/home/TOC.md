@@ -4,9 +4,9 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1024'
 ht-degree: 3%
 ---
 
@@ -37,6 +37,26 @@ ht-degree: 3%
     + [Credenziali di Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [Migrazione monofase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [Migrazione multifase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ Infrastruttura cloud e hosting autonomo {#cloud-infrastructure-and-self-hosted}
+  + Piattaforma e migrazione {#platform-and-migration}
+    + [Marketing](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [Modello di consegna globale](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [Ruoli di amministratore](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [Flussi di marketing](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [Opzioni vetrina](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [Condivisione dei dati](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [Più siti Web](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [Esperienza - Dati lead e promozioni](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [Migrare da una soluzione con hosting autonomo](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + Migrazione ad Adobe Commerce {#migrating-to-adobe-commerce}
+      + [Panoramica](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + Preparazione {#preparation}
+        + [Valuta team e progetto](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + Personalizzazioni {#customizations}
+        + [Standard di codice in-process](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [Blocco del codice](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + Risoluzione dei problemi {#troubleshooting}
     + [SSL non valido](../cloud/troubleshooting/invalid-ssl.md)
@@ -47,16 +67,6 @@ ht-degree: 3%
   + [Come viene ridimensionato Adobe Commerce Cloud](../cloud/how-adobe-commerce-cloud-scales.md)
   + [Hosting compatibile con HIPAA](../cloud/hippa-ready-hosting.md)
   + [Rileva indirizzo IP](../cloud/detect-ip-address.md)
-  + [Marketing](../cloud/marketecture.md)
-  + [Modello di consegna globale](../cloud/global-delivery-model.md)
-  + [Ruoli di amministratore](../cloud/admin-roles.md)
-  + [Flussi di marketing](../cloud/marketing-flows.md)
-  + [Opzioni vetrina](../cloud/storefront-options.md)
-  + [Condivisione dei dati](../cloud/data-sharing.md)
-  + [Più siti Web](../cloud/multiple-websites.md)
-  + [Esperienza - Dati lead e promozioni](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [Migrare da una soluzione con hosting autonomo](../cloud/overview.md)
   + [Limita l’accesso tramite Fastly](../cloud/limit-website-access-using-fastly.md)
   + Onboarding tecnico e handoff hardware {#technical-onboarding-hardware-handoff}
     + [Best practice per l’infrastruttura e lo sviluppo](../cloud/infrastructure-development-best-practices.md)
@@ -68,15 +78,6 @@ ht-degree: 3%
     + [Richiesta di supporto](../cloud/best-practices/support-request.md)
     + [Elenco di controllo pre-avvio](../cloud/best-practices/pre-launch-checklist.md)
 + Guida introduttiva {#getting-started}
-  + Migrazione ad Adobe Commerce{#migrating-to-adobe-commerce}
-    + [Panoramica](../migrating-to-adobe-commerce/overview.md)
-    + Preparazione{#preparation}
-      + [Valuta team e progetto](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + Personalizzazioni{#customizations}
-      + [Standard di codice in-process](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [Blocco del codice](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Funzionalità Commerce {#capabilities}
     + [Opzioni commerce disponibili](../capabilities/adobes-available-commerce-options.md)
     + [Connessione dati](../capabilities/data-connection.md)
@@ -114,7 +115,7 @@ ht-degree: 3%
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../backend-development/create-module.md)
     + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
