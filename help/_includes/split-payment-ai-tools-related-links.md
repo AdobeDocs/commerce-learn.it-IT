@@ -1,13 +1,11 @@
 ---
 title: Pagamento diviso POC AI Strumenti pagine correlate
-description: Collegamenti a pagine correlate in Estensibilità - Adobe Developer App Builder - Utilizzare gli strumenti di intelligenza artificiale per creare un POC di pagamento frazionato
-source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
+description: Collegamenti ai tutorial e alle risorse di riferimento per la verifica dei pagamenti divisi in App Builder.
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
-
 ---
-
 # Collegamenti correlati al POC di pagamento frazionato
 
 ## Tutte le risorse di questa serie

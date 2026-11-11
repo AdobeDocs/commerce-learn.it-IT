@@ -4,7 +4,7 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
 source-wordcount: '1035'
 ht-degree: 3%
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Sconti su voci di preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Note voce preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Sviluppo e aggiornamenti delle applicazioni {#application-development-and-upgrades}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Aggiungi un attributo di prodotto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -189,6 +189,20 @@ ht-degree: 3%
     + [Test tramite l’URL di App Builder](../app-builder/first-app/testing-app-builder-url.md)
     + [Conclusione](../app-builder/first-app/conclusion.md)
     + [Codice sorgente del modulo di esempio](https://github.com/magento/app-builder-samples){target="_blank"}
+
+  + Utilizza gli strumenti di intelligenza artificiale per creare un POC di pagamento frazionato {#create-a-split-payment-poc}
+    + [Strumenti di App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
+    + [Demo completa](../app-builder/split-payment-ai-tools/full-demo.md)
+    + [Guida dettagliata all’implementazione](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+    + [Decisioni relative all&#39;architettura e alla progettazione](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+    + [Prerequisiti e configurazione dell’ambiente](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+    + [Test e verifica](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+    + [Passaggi successivi](../app-builder/split-payment-ai-tools/next-steps.md)
+    + Risorse di riferimento {#split-payment-resources}
+      + [Riferimento delle variabili di ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
+      + [Prompt di IA del modulo Commerce](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+      + [prompt di IA per orchestrator di App Builder](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+      + [Richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
 
 + Guida introduttiva {#getting-started}
   + Funzionalità Commerce {#capabilities}
@@ -258,19 +272,6 @@ ht-degree: 3%
     + [Mutazioni](../graphql-rest/graphql-mutations.md)
     + [Schema](../graphql-rest/graphql-schema.md)
   + Altri tutorial ed eventi di I/O su App Builder {#adobe-developer-app-builder}
-    + Utilizza gli strumenti di intelligenza artificiale per creare un POC di pagamento frazionato {#create-a-split-payment-poc}
-      + [Strumenti di App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
-      + [Demo completa](../app-builder/split-payment-ai-tools/full-demo.md)
-      + [Guida dettagliata all’implementazione](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
-      + [Decisioni relative all&#39;architettura e alla progettazione](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
-      + [Prerequisiti e configurazione dell’ambiente](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-      + [Test e verifica](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-      + [Passaggi successivi](../app-builder/split-payment-ai-tools/next-steps.md)
-      + Risorse di riferimento {#split-payment-resources}
-        + [Riferimento delle variabili di ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
-        + [Prompt di IA del modulo Commerce](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-        + [prompt di IA per orchestrator di App Builder](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-        + [Richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
     + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
       + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
       + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
