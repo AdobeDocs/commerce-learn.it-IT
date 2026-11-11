@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.029Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questi tutorial descrivono lo sviluppo e gli aggiornamenti in-process esistenti per Adobe Commerce su infrastrutture cloud e implementazioni con hosting autonomo. Per lo sviluppo di nuove funzionalità o una migrazione di personalizzazione appropriata, inizia con [Introduzione ad App Builder](../../app-builder/introduction-to-app-builder.md).
+>Questi tutorial descrivono lo sviluppo e gli aggiornamenti in-process esistenti per Adobe Commerce su infrastrutture cloud e implementazioni con hosting autonomo. Per lo sviluppo di nuove funzionalità o una migrazione di personalizzazione appropriata, inizia con [Introduzione ad App Builder](../../app-builder/foundations/introduction-to-app-builder.md).
 
 Un modulo è un elemento strutturale di [!DNL Commerce]. I moduli costituiscono la base del sistema. In genere per avviare una personalizzazione si crea un modulo.
 
@@ -53,7 +53,7 @@ Un modulo è un elemento strutturale di [!DNL Commerce]. I moduli costituiscono 
 4. Per registrare e installare il modulo, eseguire `bin/magento setup:upgrade`.
 5. Verifica che il modulo funzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412453?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
 ### Il file module.xml
 

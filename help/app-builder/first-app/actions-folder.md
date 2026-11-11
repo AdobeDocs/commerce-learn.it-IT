@@ -1,6 +1,6 @@
 ---
 title: Cartella delle azioni
-description: Scopri i file e le cartelle di JavaScript nella cartella delle azioni di App Builder, inclusi l’autenticazione OAuth e i modelli di connessione Commerce per l’applicazione di esempio.
+description: Esplora la cartella delle azioni di App Builder e i relativi file JavaScript, inclusi l’autenticazione OAuth e i modelli di connessione Commerce nell’applicazione di esempio.
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # Informazioni sulla cartella delle azioni {#actions-folder}
 
 La cartella `actions` per questa app di esempio contiene alcuni file JavaScript e una cartella denominata `commerce`. Il JavaScript mostrato è un utile file di esempio che può essere riutilizzato se è rilevante per il tuo lavoro. Questa cartella consente di risparmiare tempo nelle attività di sviluppo durante la connessione all’applicazione Adobe Commerce tramite OAuth e REST.
@@ -52,7 +50,7 @@ I nomi effettivi delle cartelle in questo esempio sono arbitrari, ma conoscerne 
 * Scopo del file JavaScript trovato nelle cartelle `actions` e `commerce`
 * Panoramica rapida dei file di autenticazione OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3421080?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Esempi di codice
 
