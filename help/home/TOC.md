@@ -4,7 +4,7 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '1035'
 ht-degree: 3%
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Sconti su voci di preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Note voce preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Sviluppo e aggiornamenti delle applicazioni {#application-development-and-upgrades}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Aggiungi un attributo di prodotto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -203,6 +203,12 @@ ht-degree: 3%
       + [Prompt di IA del modulo Commerce](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
       + [prompt di IA per orchestrator di App Builder](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
       + [Richiesta di IA per l’estensione dell’interfaccia utente di Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+
+  + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
+    + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+    + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+    + [Implementazione e test](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+    + [Fornire feedback ad Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
 
 + Guida introduttiva {#getting-started}
   + Funzionalità Commerce {#capabilities}
@@ -272,11 +278,6 @@ ht-degree: 3%
     + [Mutazioni](../graphql-rest/graphql-mutations.md)
     + [Schema](../graphql-rest/graphql-schema.md)
   + Altri tutorial ed eventi di I/O su App Builder {#adobe-developer-app-builder}
-    + Creare tariffe di spedizione personalizzate utilizzando gli strumenti AI {#custom-shipping-rates-ai-tools}
-      + [Introduzione e configurazione](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-      + [Strumenti di intelligenza artificiale e kit di avvio Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-      + [Implementazione e test](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-      + [Fornire feedback ad Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
     + Eventi I/O per Adobe Commerce {#io-events}
       + [Eventi I/O introduttivi](../io-events/getting-started-io-events.md)
       + [Installazione di Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
