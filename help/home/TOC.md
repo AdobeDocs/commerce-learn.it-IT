@@ -4,9 +4,9 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1025'
 ht-degree: 3%
 ---
 
@@ -144,6 +144,16 @@ ht-degree: 3%
     + [Consigli per Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
     + [Dimostrazione completa di Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
     + [Integrare Commerce con AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + B2B per Adobe Commerce {#b2b}
+    + [Gestire gli account aziendali](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [Gestisci cataloghi condivisi](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [Gestisci credito società](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [Ordini di acquisto e approvazioni](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + Virgolette {#quotes}
+      + [Rappresentante commerciale avvia offerta](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [Convalida preventivo da amministratore](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [Sconti su voci di preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [Note voce preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + Guida introduttiva {#getting-started}
   + Funzionalità Commerce {#capabilities}
     + [Opzioni commerce disponibili](../capabilities/adobes-available-commerce-options.md)
@@ -160,6 +170,10 @@ ht-degree: 3%
 + API e integrazione {#apis-and-integration}
   + Esempi pratici di REST e GraphQL {#examples}
     + [Clienti con REST](../apis-and-integration/examples/customer.md)
+    + Offerte B2B {#b2b-quotes}
+      + [Rappresentante commerciale avvia l&#39;API REST dell&#39;offerta](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [GraphQL sconto voce preventivo](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [Note sulle voci del preventivo REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + Estensibilità {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -172,7 +186,7 @@ ht-degree: 3%
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../backend-development/create-module.md)
     + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
@@ -294,17 +308,3 @@ ht-degree: 3%
     + [Creare un ticket di supporto](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Cerca, rivedi, commenta e inoltra ticket di supporto](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gestire lo stato e i controllori dei ticket di supporto](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ B2B per Adobe Commerce {#b2b}
-  + [Gestire gli account aziendali](../b2b/company-accounts.md)
-  + [Gestisci cataloghi condivisi](../b2b/shared-catalogs.md)
-  + [Gestisci credito società](../b2b/company-credit.md)
-  + [Ordini di acquisto e approvazioni](../b2b/purchase-orders.md)
-  + Citazione {#b2b-quote}
-    + [Rappresentante commerciale avvia offerta](../b2b/sales-rep-initiates-quote.md)
-    + [Convalida preventivo da amministratore](../b2b/quote-validation-admin-panel.md)
-    + [Rappresentante commerciale avvia l&#39;API REST dell&#39;offerta](../b2b/sales-rep-initiates-quote-api.md)
-    + [Sconti su voci di preventivo](../b2b/quote-line-item-discount.md)
-    + [Note voce preventivo](../b2b/quote-line-item-notes.md)
-    + [GraphQL sconto voce preventivo](../b2b/quote-graphql-line-item-discount.md)
-    + [API REST sconto voce preventivo](../b2b/quote-rest-api-line-item-notes.md)
