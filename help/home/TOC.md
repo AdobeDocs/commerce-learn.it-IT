@@ -4,9 +4,9 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1028'
 ht-degree: 3%
 ---
 
@@ -154,6 +154,25 @@ ht-degree: 3%
       + [Convalida preventivo da amministratore](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
       + [Sconti su voci di preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Note voce preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + Sviluppo e aggiornamenti delle applicazioni {#application-development-and-upgrades}
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [Creare un modulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [Aggiungi un attributo di prodotto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [Esempio di iniezione di dipendenza](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Replica lenta del cluster Galera](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [Cache query MySQL](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [PT Query Digest](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [Connettere ed eseguire query sul database di Adobe Commerce](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Aggiornamenti Commerce {#upgrades}
+      + [Workshop sull’aggiornamento ad Adobe Commerce 2.4](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [Panoramica di Upgrade Compatibility Tool](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [Utilizzare Upgrade Compatibility Tool in PhpStorm](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + Tecniche di implementazione dell&#39;architettura di riferimento globale {#global-reference-architecture-implementation-techniques}
+      + [Panoramica](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [Dividi Git](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [Pacchetti in blocco](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [Pacchetti separati](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
 + Guida introduttiva {#getting-started}
   + Funzionalità Commerce {#capabilities}
     + [Opzioni commerce disponibili](../capabilities/adobes-available-commerce-options.md)
@@ -185,19 +204,6 @@ ht-degree: 3%
     + [Migra codice esistente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Sviluppo back-end {#backend-development}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
-    + [Creare un modulo](../backend-development/create-module.md)
-    + [Aggiungi un attributo di prodotto](../backend-development/add-product-attribute.md)
-    + [Esempio di iniezione di dipendenza](../backend-development/dependency-injection.md)
-    + [Replica lenta del cluster Galera](../backend-development/galera-db-slow-replication.md)
-    + [Cache query MySQL](../backend-development/mysql-query-cache.md)
-    + [PT Query Digest](../backend-development/pt-query-digest.md)
-    + [Connettere ed eseguire query sul database di Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
-    + Aggiornamenti Commerce {#upgrade}
-      + [Workshop sull’aggiornamento ad Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
-      + [Panoramica di Upgrade Compatibility Tool](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [Utilizzare Upgrade Compatibility Tool in PhpStorm](../upgrade/uct-phpstorm.md)
   + Sviluppo Luma front-end {#frontend-development}
     + Page Builder PaaS/SaaS per sviluppatori {#page-builder}
       + [1 - Introduzione](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -284,12 +290,6 @@ ht-degree: 3%
     + [Crea mesh API GraphQL a origine singola](../api-mesh/graphql-single-source.md)
     + [Creazione di più mesh API GraphQL di origine](../api-mesh/graphql-multiple-source.md)
 
-+ Architettura di riferimento globale {#global-reference-architecture-implementation-techniques}
-  + [Panoramica](../global-reference-architecture/overview.md)
-  + [Dividi Git](../global-reference-architecture/split-git.md)
-  + [Pacchetti in blocco](../global-reference-architecture/bulk-packages.md)
-  + [Pacchetti separati](../global-reference-architecture/separate-packages.md)
-  + [Monorepo](../global-reference-architecture/monorepo.md)
 + Monitoraggio, analisi e supporto {#monitoring-analytics-support}
   + Osservabilità {#observability}
     + [Panoramica sull’osservabilità](../monitoring-analytics-support/observability/overview.md)
