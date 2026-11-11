@@ -64,6 +64,6 @@ Per il flusso di lavoro API, vedere [Il rappresentante commerciale avvia un prev
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430579?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

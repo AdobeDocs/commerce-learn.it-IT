@@ -65,6 +65,6 @@ Per il flusso di lavoro API, consulta [Sconti su voci di preventivo con GraphQL]
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445593?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
