@@ -1,10 +1,10 @@
 ---
 title: Estensibilità out-of-process per Adobe Commerce
-description: Scopri Adobe Developer App Builder e come l’estensibilità out-of-process consente di creare estensioni Commerce sicure e scalabili senza problemi di compatibilità in-process.
+description: Scopri come Adobe Developer App Builder consente estensioni Commerce out-of-process sicure e scalabili, riducendo al contempo i problemi di compatibilità in-process.
 jira: KT-11433
 doc-type: Tutorial
 duration: 300
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -34,13 +34,11 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 761
+source-wordcount: '757'
 ht-degree: 0%
-
 ---
-
 # Introduzione ad App Builder
 
 In passato, lo sviluppo Adobe Commerce utilizzava l’estensibilità in-process. Il modello in-process richiede che qualsiasi nuovo codice sia compatibile con gli aggiornamenti, la versione PHP del server e molte altre applicazioni e servizi server essenziali utilizzati da Commerce. Adobe Developer App Builder utilizza l’estensibilità out-of-process per evitare questi problemi di compatibilità.

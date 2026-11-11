@@ -19,12 +19,6 @@ feature_v2:
     internal-label: Compliance
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
-  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
-    internal-label: Cloud
-  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
-    internal-label: Marketing Tools
 subfeature_v2:
   - id: c4af0798-d497-5e6b-8380-19812c26d00a
     internal-label: Console
@@ -34,9 +28,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
-    internal-label: Experienced
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+autotag-review: '2026-11-11T17:29:20.958Z'
+source-git-commit: 20b453fcf567eee25d70450bdc9b739f16623f68
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 0%
@@ -282,7 +275,7 @@ Ora che disponi delle informazioni corrette, immetti questi valori nella console
 
 Puoi trovare il nome host e il nome utente SSH dalle credenziali cloud nella console Cloud.
 
-![Console Adobe Commerce Cloud](./assets/cloud-ui-screenshot.png "Console Adobe Commerce Cloud")
+![Console Adobe Commerce Cloud](/help/backend-development/assets/cloud-ui-screenshot.png "Console Adobe Commerce Cloud")
 
 Ecco un esempio: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 Il nome host SSH è tutto dopo il segno @: `ssh.us-4.magento.cloud` in questo esempio.
@@ -336,9 +329,9 @@ Per accedere direttamente al database MariaDB, utilizza SSH per accedere all’a
 
 Quindi utilizzare i valori di configurazione nell&#39;interfaccia utente grafica MySQL. Nell&#39;esempio seguente viene utilizzato MySQL Workbench, ma tutte le app che supportano le connessioni MySQL avranno campi simili.
 
-![Esempio di connessione a MySQL Workbench](./assets/mysql-workbench-after-connecting.png "Esempio di connessione a MySQL Workbench")
+![Esempio di connessione a MySQL Workbench](/help/backend-development/assets/mysql-workbench-after-connecting.png "Esempio di connessione a MySQL Workbench")
 
-![Esempio di connessione TablePlus](./assets/tablesPlus-db-connection.png "Esempio di connessione TablePlus")
+![Esempio di connessione TablePlus](/help/backend-development/assets/tablesPlus-db-connection.png "Esempio di connessione TablePlus")
 
 Dopo aver configurato la connessione, puoi utilizzare un’interfaccia utente grafica MySQL per eseguire query su un progetto Adobe Commerce Cloud remoto.
 

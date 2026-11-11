@@ -1,10 +1,10 @@
 ---
 title: Framework di estensibilità ed eventi commerce
-description: Scopri il framework di estensibilità di Adobe Developer App Builder, le sue funzionalità chiave e come l’evento commerce consente integrazioni in tempo reale con Adobe Commerce.
+description: Scopri il framework di estensibilità di Adobe Developer App Builder, le sue funzionalità e il modo in cui l’evento Commerce supporta le integrazioni in tempo reale di Adobe Commerce.
 jira: KT-11740
 doc-type: Tutorial
 duration: 228
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,13 +37,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:10.558Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 65
+source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # Framework di estensibilità per App Builder
 
 Questa dimostrazione funzionale descrive App Builder e le sue potenziali applicazioni per Adobe Commerce. Questo video fornisce un’introduzione al framework di estensibilità, ai principali vantaggi e funzionalità per i clienti.

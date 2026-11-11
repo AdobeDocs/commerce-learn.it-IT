@@ -49,9 +49,9 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2371'
 ht-degree: 0%
 ---
 # Elenco di controllo pre-avvio
@@ -120,7 +120,7 @@ Adobe Commerce Cloud utilizza un cluster MariaDB Galera come database per gli am
 * [Best practice per le configurazioni MySQL](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Avvisi gestiti su Adobe Commerce: [Avvisi MariaDB](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * Best practice per la [configurazione del database](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-* [Replica cluster Galera e controllo del flusso](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"} (analisi approfondita)
+* [Replica cluster Galera e controllo del flusso](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"} (analisi approfondita)
 
 1. [La connessione slave MySQL](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} è consigliata per migliorare le prestazioni durante carichi di database elevati.
 2. Verificare che il formato della riga per tutte le tabelle del database sia impostato su [DYNAMIC anziché COMPACT](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (in particolare per le migrazioni on-premise al cloud).

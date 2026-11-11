@@ -1,6 +1,6 @@
 ---
 title: Test tramite l’URL di Adobe Developer App Builder
-description: Scopri come distribuire e testare la prima applicazione Adobe Developer App Builder utilizzando l’URL del progetto, incluso dove trovare l’URL dopo una distribuzione corretta.
+description: Scopri come distribuire e testare l’applicazione Adobe Developer App Builder utilizzando l’URL del progetto, incluso dove trovare l’URL dopo la distribuzione.
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:26.961Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # Test tramite l’URL di App Builder {#testing-app-builder-url}
 
 Scopri come testare la nuova applicazione Adobe Developer App Builder utilizzando l’URL del progetto.
