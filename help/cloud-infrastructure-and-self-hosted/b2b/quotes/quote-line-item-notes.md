@@ -1,25 +1,21 @@
 ---
-title: Livelli di convalida delle offerte B2B nell’amministratore di Adobe Commerce
-description: Scopri come Adobe Commerce applica la convalida delle quotazioni nel pannello di amministrazione per garantire che le procedure di quotazione B2B siano accurate, coerenti e complete prima dell’invio.
+title: Utilizzo di Adobe Commerce per mostrare le note di una riga per un preventivo
+description: Scopri come aggiungere e visualizzare le note sulle voci in un preventivo B2B in Adobe Commerce, consentendo a compratori e venditori di condividere i dettagli a livello di articolo durante il processo di offerta.
 doc-type: Technical Video
-duration: 330
-jira: KT-13470
+duration: 209
+jira: KT-13799
 last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: User
+role: Admin, User
 level: Beginner
-exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
-autotag-review: '2026-08-11T19:20:51.899Z'
-TQID: 'https://experienceleague.adobe.com/UVj-9pN-4ftzPsagPPa9wVPCyNl2WCt4-fJep95zueo'
+exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
+autotag-review: '2026-08-11T19:20:45.961Z'
+TQID: 'https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-    internal-label: Order Management System
-  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-    internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
   - id: 8d0b446f-5b16-5a10-b272-01143504a11c
@@ -46,14 +42,16 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '83'
 ht-degree: 0%
 ---
-# Convalida delle offerte di vendita B2B tramite il pannello di amministrazione
+# Note voce offerta di vendita B2B {#b2b-sales-quote-line-item-discount}
 
-Scopri i passaggi di convalida e le aree forniti dalla funzionalità Offerte B2B di Adobe Commerce per garantire un processo di offerta coerente e valido.
+Scopri come utilizzare le note sugli elementi riga per un preventivo B2B di Adobe Commerce.
+
+Per il flusso di lavoro API, consulta [Note sugli elementi riga preventivo con REST](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md).
 
 {{b2b-feature}}
 
@@ -61,9 +59,10 @@ Scopri i passaggi di convalida e le aree forniti dalla funzionalità Offerte B2B
 
 * Gestori di siti Web
 * eCommerce merchandisers
+* Sviluppatori
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3423720?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423693?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

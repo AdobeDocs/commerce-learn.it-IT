@@ -1,17 +1,17 @@
 ---
-title: Utilizzo di Adobe Commerce per mostrare le note di una riga per un preventivo
-description: Scopri come aggiungere e visualizzare le note sulle voci in un preventivo B2B in Adobe Commerce, consentendo a compratori e venditori di condividere i dettagli a livello di articolo durante il processo di offerta.
+title: Sconti su articoli di linea per un preventivo B2B in Adobe Commerce
+description: Scopri come applicare e visualizzare gli sconti sugli articoli di riga in un preventivo B2B utilizzando l’amministratore Adobe Commerce, incluso come i valori degli sconti vengono visualizzati nei riepiloghi rivolti all’acquirente.
 doc-type: Technical Video
-duration: 209
-jira: KT-13799
+duration: 214
+jira: KT-13798
 last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
+role: Developer, User
 level: Beginner
-exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
-autotag-review: '2026-08-11T19:20:45.961Z'
-TQID: 'https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA'
+exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
+autotag-review: '2026-08-11T19:20:43.162Z'
+TQID: 'https://experienceleague.adobe.com/xTeO2Z72A3pQC9d9f13CdV-zZUOUZFM50LZxO9OXz9M'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -34,6 +34,8 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
@@ -42,14 +44,16 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '83'
 ht-degree: 0%
 ---
 # Sconto articolo riga offerta di vendita B2B
 
-Scopri come utilizzare le note sugli elementi riga per un preventivo B2B di Adobe Commerce.
+Scopri come utilizzare lo sconto per elemento riga e visualizzare i valori utilizzando l’amministratore Adobe Commerce.
+
+Per il flusso di lavoro API, consulta [Sconti su voci di preventivo con GraphQL](../../../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md).
 
 {{b2b-feature}}
 
@@ -61,6 +65,6 @@ Scopri come utilizzare le note sugli elementi riga per un preventivo B2B di Adob
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3423693?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445593?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

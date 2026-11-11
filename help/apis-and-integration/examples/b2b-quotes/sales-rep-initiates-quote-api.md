@@ -1,21 +1,28 @@
 ---
-title: Utilizzo di GraphQL per mostrare uno sconto per elemento riga
-description: Scopri come utilizzare GraphQL per applicare sconti sugli articoli riga in un’offerta di vendita B2B in Adobe Commerce e recuperare i valori di sconto risultanti nelle risposte alle query.
+title: Agente di vendita avvia il preventivo B2B utilizzando l’API REST
+description: Scopri in che modo un rappresentante commerciale utilizza l’API REST di Adobe Commerce per avviare un preventivo B2B per conto di un acquirente, inclusa la configurazione degli endpoint e la gestione della risposta.
 doc-type: Technical Video
-duration: 99
-jira: KT-13800
+duration: 232
+jira: KT-13797
 last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Developer, User
+role: Admin, User
 level: Beginner
-exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
-autotag-review: '2026-08-11T19:20:40.966Z'
-TQID: 'https://experienceleague.adobe.com/9z3JbEtLShByucwPm4eHYriFz6A-VWk87tEaib-BqSw'
+exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
+subfeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
+autotag-review: '2026-08-11T19:20:55.155Z'
+TQID: 'https://experienceleague.adobe.com/elXcWY-CMiT6C7N-HsySbgG4Il6NweppaNd10c59r8E'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
   - id: 8d0b446f-5b16-5a10-b272-01143504a11c
@@ -24,18 +31,11 @@ feature_v2:
     internal-label: Quotes
   - id: e9004f3c-09ae-5d24-acd2-fa0987fdb66e
     internal-label: Companies
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-    internal-label: Accounts
-subfeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
@@ -44,23 +44,25 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '73'
 ht-degree: 0%
 ---
-# Sconto articolo riga offerta di vendita B2B tramite GraphQL
+# Il rappresentante commerciale avvia il preventivo con l’API REST
 
-Scopri come utilizzare lo sconto per elemento riga e vedere i valori con GraphQL
+Scopri come il rappresentante commerciale può avviare il preventivo dall’API REST di Adobe Commerce.
 
 {{b2b-feature}}
 
 ## A chi serve questo video?
 
+* Gestori di siti Web
+* eCommerce merchandisers
 * Sviluppatori
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3420419?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423711?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

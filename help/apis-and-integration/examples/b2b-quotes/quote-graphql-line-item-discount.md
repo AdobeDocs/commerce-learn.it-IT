@@ -1,17 +1,17 @@
 ---
-title: Utilizzo dell’API REST di Adobe Commerce per le note delle voci
-description: Scopri come utilizzare l’API REST di Adobe Commerce per aggiungere e recuperare note di voci in un preventivo di vendita B2B, consentendo l’accesso programmatico ai commenti di acquirenti e venditori.
+title: Utilizzo di GraphQL per mostrare uno sconto per elemento riga
+description: Scopri come utilizzare GraphQL per applicare sconti sugli articoli riga in un’offerta di vendita B2B in Adobe Commerce e recuperare i valori di sconto risultanti nelle risposte alle query.
 doc-type: Technical Video
-duration: 159
-jira: KT-13801
+duration: 99
+jira: KT-13800
 last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Developer, User
 level: Beginner
-exl-id: ee8b03e6-2f8f-474f-9180-acdc120f87a4
-autotag-review: '2026-08-11T19:20:48.605Z'
-TQID: 'https://experienceleague.adobe.com/9NfnpDlPqBmoeFRrZL4Kxq-VZqhtjc6BYHDJZ6s6DXY'
+exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
+autotag-review: '2026-08-11T19:20:40.966Z'
+TQID: 'https://experienceleague.adobe.com/9z3JbEtLShByucwPm4eHYriFz6A-VWk87tEaib-BqSw'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '65'
 ht-degree: 0%
 ---
-# Note sulla riga dell’offerta di vendita B2B tramite API REST
+# Sconto articolo riga offerta di vendita B2B tramite GraphQL
 
-Scopri come utilizzare le note sugli elementi di riga per un preventivo B2B di Adobe Commerce tramite l’API REST.
+Scopri come utilizzare lo sconto per elemento riga e vedere i valori con GraphQL
 
 {{b2b-feature}}
 
@@ -61,6 +61,6 @@ Scopri come utilizzare le note sugli elementi di riga per un preventivo B2B di A
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3443493?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420419?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

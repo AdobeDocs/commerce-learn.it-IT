@@ -38,14 +38,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '680'
 ht-degree: 0%
 ---
 # Crea regole prezzo carrello
 
-Le regole di prezzo del carrello applicano sconti agli articoli nel carrello in base alle condizioni impostate. Lo sconto può essere applicato automaticamente quando le condizioni vengono soddisfatte o quando il cliente immette un codice coupon valido. Lo sconto viene visualizzato nel carrello sotto il subtotale. Puoi attivare o disattivare una regola per una stagione o una promozione modificandone lo stato e l’intervallo di date.
+Le regole di prezzo del carrello applicano sconti agli articoli nel carrello in base alle condizioni impostate. Gli sconti si applicano quando le condizioni vengono soddisfatte o quando un cliente inserisce un codice coupon valido. Lo sconto viene visualizzato nel carrello sotto il subtotale. Attiva o disattiva una regola per una stagione o una promozione modificandone lo stato e l’intervallo di date.
 
 ## A chi serve questo video?
 
@@ -61,7 +61,7 @@ Le regole di prezzo del carrello applicano sconti agli articoli nel carrello in 
 
 ## Problemi relativi alla visualizzazione dei prezzi
 
-In alcuni casi, ogni riga deve mostrare lo sconto applicato, ma i valori visualizzati potrebbero non corrispondere esattamente. Ciò si verifica quando una regola del prezzo del carrello applica uno sconto su più prodotti e la suddivisione non si divide in modo uniforme su due posizioni decimali.
+Gli sconti di voci visualizzate a volte differiscono a causa dell&#39;arrotondamento. Questa differenza si verifica quando una regola del prezzo del carrello applica uno sconto su più prodotti e il frazionamento produce importi con più di due posizioni decimali.
 
 >[!BEGINSHADEBOX]
 
@@ -102,9 +102,9 @@ Prodotto 2 = 1,99
 Lo sconto totale dei due prodotti ora quando sommato corrisponde allo sconto effettivo fornito a un cliente.
 >[!ENDSHADEBOX]
 
-Ecco una schermata come apparirebbe nell’amministratore per un ordine con questo scenario:
+La schermata Admin seguente mostra gli sconti per le voci di riga per questo esempio:
 
-![Visualizzazione amministratore con elementi ordinati con valori diversi](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Visualizzazione amministratore con elementi ordinati con valori diversi](../../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### Altre soluzioni potenziali e perché non sono state utilizzate
 
@@ -130,7 +130,7 @@ tuttavia, se arriviamo a questo punto, ciò dimostrerebbe che sono stati dati 4 
 
 >[!ENDSHADEBOX]
 
-Problema simile se il terzo decimale veniva rimosso per tutti gli elementi, lo sconto fornito risultava insufficiente.
+Se si elimina il terzo decimale per tutti gli articoli, lo sconto totale risulterà troppo basso.
 
 >[!BEGINSHADEBOX]
 
@@ -154,5 +154,5 @@ tuttavia, se si lascia cadere il terzo decimale, si vedrebbe che $3,98 è stato 
 
 ## Risorse aggiuntive
 
-* [Crea una regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=it){target="_blank"}
-* [Codici coupon - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=it){target="_blank"}
+* [Crea una regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/it/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Codici coupon - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/it/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

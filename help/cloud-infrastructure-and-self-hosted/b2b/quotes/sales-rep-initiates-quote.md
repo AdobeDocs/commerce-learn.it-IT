@@ -1,21 +1,25 @@
 ---
-title: Sconti su articoli di linea per un preventivo B2B in Adobe Commerce
-description: Scopri come applicare e visualizzare gli sconti sugli articoli di riga in un preventivo B2B utilizzando l’amministratore Adobe Commerce, incluso come i valori degli sconti vengono visualizzati nei riepiloghi rivolti all’acquirente.
+title: Agente di vendita avvia l'offerta
+description: Scopri come i rappresentanti commerciali possono avviare le offerte B2B dal pannello di amministrazione di Adobe Commerce, filtrare per utente e sito web, creare bozze e controllare la visibilità delle offerte.
 doc-type: Technical Video
-duration: 214
-jira: KT-13798
+duration: 264
+jira: KT-13794
 last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Developer, User
+role: Admin, User
 level: Beginner
-exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
-autotag-review: '2026-08-11T19:20:43.162Z'
-TQID: 'https://experienceleague.adobe.com/xTeO2Z72A3pQC9d9f13CdV-zZUOUZFM50LZxO9OXz9M'
+exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
+autotag-review: '2026-08-11T19:20:58.973Z'
+TQID: 'https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
   - id: 8d0b446f-5b16-5a10-b272-01143504a11c
@@ -24,8 +28,6 @@ feature_v2:
     internal-label: Quotes
   - id: e9004f3c-09ae-5d24-acd2-fa0987fdb66e
     internal-label: Companies
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-    internal-label: Accounts
 subfeature_v2:
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
@@ -34,8 +36,6 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
@@ -44,14 +44,16 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '84'
 ht-degree: 0%
 ---
-# Sconto articolo riga offerta di vendita B2B
+# Rappresentante commerciale avvia il preventivo
 
-Scopri come utilizzare lo sconto per elemento riga e visualizzare i valori utilizzando l’amministratore Adobe Commerce.
+Scopri in che modo il rappresentante commerciale può avviare il preventivo dal pannello di amministrazione, filtrare per utente e sito Web, preventivi provvisori, visibilità del preventivo e molte altre funzioni.
+
+Per il flusso di lavoro API, vedere [Il rappresentante commerciale avvia un preventivo con REST](../../../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md).
 
 {{b2b-feature}}
 
@@ -59,10 +61,9 @@ Scopri come utilizzare lo sconto per elemento riga e visualizzare i valori utili
 
 * Gestori di siti Web
 * eCommerce merchandisers
-* Sviluppatori
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3445593?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430579?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

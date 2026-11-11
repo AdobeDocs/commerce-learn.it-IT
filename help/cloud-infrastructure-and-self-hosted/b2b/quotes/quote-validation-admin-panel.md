@@ -1,26 +1,23 @@
 ---
-title: Agente di vendita avvia il preventivo B2B utilizzando l’API REST
-description: Scopri in che modo un rappresentante commerciale utilizza l’API REST di Adobe Commerce per avviare un preventivo B2B per conto di un acquirente, inclusa la configurazione degli endpoint e la gestione della risposta.
+title: Livelli di convalida delle offerte B2B nell’amministratore di Adobe Commerce
+description: Scopri come Adobe Commerce applica la convalida delle quotazioni nel pannello di amministrazione per garantire che le procedure di quotazione B2B siano accurate, coerenti e complete prima dell’invio.
 doc-type: Technical Video
-duration: 232
-jira: KT-13797
+duration: 330
+jira: KT-13470
 last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
+role: User
 level: Beginner
-exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
-subfeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
-autotag-review: '2026-08-11T19:20:55.155Z'
-TQID: 'https://experienceleague.adobe.com/elXcWY-CMiT6C7N-HsySbgG4Il6NweppaNd10c59r8E'
+exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
+autotag-review: '2026-08-11T19:20:51.899Z'
+TQID: 'https://experienceleague.adobe.com/UVj-9pN-4ftzPsagPPa9wVPCyNl2WCt4-fJep95zueo'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-    internal-label: Accounts
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
     internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
@@ -31,6 +28,11 @@ feature_v2:
     internal-label: Quotes
   - id: e9004f3c-09ae-5d24-acd2-fa0987fdb66e
     internal-label: Companies
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+subfeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -44,14 +46,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '72'
 ht-degree: 0%
 ---
-# Il rappresentante commerciale avvia il preventivo con l’API REST
+# Convalida delle offerte di vendita B2B tramite il pannello di amministrazione
 
-Scopri come il rappresentante commerciale può avviare il preventivo dall’API REST di Adobe Commerce.
+Scopri i passaggi di convalida e le aree forniti dalla funzionalità Offerte B2B di Adobe Commerce per garantire un processo di offerta coerente e valido.
 
 {{b2b-feature}}
 
@@ -59,10 +61,9 @@ Scopri come il rappresentante commerciale può avviare il preventivo dall’API 
 
 * Gestori di siti Web
 * eCommerce merchandisers
-* Sviluppatori
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3423711?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423720?captions=ita&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
