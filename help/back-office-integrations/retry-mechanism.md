@@ -3,7 +3,7 @@ title: Utilizzare la funzionalità nativa di un meccanismo di ripetizione
 description: Scopri come utilizzare il meccanismo di esecuzione di nuovi tentativi di Adobe I/O Events per creare applicazioni resilienti che includono condizioni di esecuzione di nuovi tentativi, strategie di back-off e indicatori visivi.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31T00:00:00.000Z
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '377'
 ht-degree: 0%
 ---
 # Utilizzare il meccanismo di esecuzione di nuovi tentativi di Adobe I/O Events per migliorare la resilienza delle applicazioni
@@ -53,11 +53,11 @@ Scopri come funziona il meccanismo di esecuzione dei nuovi tentativi nel contest
 * Indicatori visivi nella console per sviluppatori, ad esempio icone di avviso per eventi non riusciti e icone a freccia circolare per eventi ritentati.
 * Le azioni di runtime &quot;consumer&quot; svolgono un ruolo fondamentale nella determinazione dei codici di stato delle risposte HTTP appropriati per la gestione degli eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449081?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## Documentazione correlata
 
-* [Webhook non in grado di gestire un evento](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook disattivato e contrassegnato come instabile](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook non in grado di gestire un evento](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-cannot-handle-a-specific-event-but-handles-others)
+* [Webhook disattivato e contrassegnato come instabile](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstabledisabled)

@@ -4,7 +4,7 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 3%
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Sconti su voci di preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Note voce preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Sviluppo e aggiornamenti delle applicazioni {#application-development-and-upgrades}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Aggiungi un attributo di prodotto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -215,13 +215,6 @@ ht-degree: 3%
     + [Opzioni commerce disponibili](../capabilities/adobes-available-commerce-options.md)
     + [Connessione dati](../capabilities/data-connection.md)
     + [Commerce componibile](../capabilities/what-is-composable-commerce.md)
-  + Kit di avvio per l&#39;integrazione back office {#back-office-integration-starter-kit}
-    + [Dimostrazione del kit di avvio](../back-office-integrations/starter-kit-demo.md)
-    + [Integrazioni](../back-office-integrations/integrations.md)
-    + [Organizzazione codice Source](../back-office-integrations/source-code-organization.md)
-    + [Integrazione dell’ultimo miglio](../back-office-integrations/last-mile-integration.md)
-    + [Acquisizione webhook](../back-office-integrations/webhook-ingestion.md)
-    + [Meccanismo di esecuzione di nuovi tentativi](../back-office-integrations/retry-mechanism.md)
 
 + API e integrazione {#apis-and-integration}
   + GraphQL Foundation {#graphql-rest}
@@ -254,6 +247,14 @@ ht-degree: 3%
       + [Configurare Adobe Commerce](../io-events/configure-commerce.md)
       + [Sviluppo modulo Adobe Commerce](../io-events/commerce-module-development.md)
       + [Eventi condizionali di Adobe Commerce](../io-events/conditional-events.md)
+
+  + Kit di avvio per l&#39;integrazione back office {#back-office-integration-starter-kit}
+    + [Dimostrazione del kit di avvio](../back-office-integrations/starter-kit-demo.md)
+    + [Integrazioni](../back-office-integrations/integrations.md)
+    + [Organizzazione codice Source](../back-office-integrations/source-code-organization.md)
+    + [Integrazione dell’ultimo miglio](../back-office-integrations/last-mile-integration.md)
+    + [Acquisizione webhook](../back-office-integrations/webhook-ingestion.md)
+    + [Meccanismo di esecuzione di nuovi tentativi](../back-office-integrations/retry-mechanism.md)
 
 + Estensibilità {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
