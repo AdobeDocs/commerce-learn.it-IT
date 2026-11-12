@@ -3,11 +3,11 @@ title: Eseguire una query tramite GraphQL
 description: Scopri come eseguire una query utilizzando GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Questa è un’introduzione a GraphQL utilizzando le chiamate GET e POST.
 landing-page-description: Scopri come eseguire una query utilizzando GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Questa è un’introduzione a GraphQL utilizzando le chiamate GET e POST.
 short-description: Scopri come eseguire una query utilizzando GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Questa è un’introduzione a GraphQL utilizzando le chiamate GET e POST.
-kt: 13937
-doc-type: video
+jira: KT-13937
+doc-type: Tutorial
 duration: 651
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -31,7 +31,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 Questa è la parte 2 della serie per GraphQL e Adobe Commerce. In questo tutorial e video, scopri le query GraphQL e come eseguirle su Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450066?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 

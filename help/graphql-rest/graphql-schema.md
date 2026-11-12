@@ -3,11 +3,11 @@ title: Linguaggio dello schema con GraphQL
 description: Scopri lo schema associato a GraphQL. Leggi una descrizione dello schema, insieme ad alcuni pattern e modi interessanti per leggere lo schema.
 landing-page-description: Questa è un’introduzione a GraphQL. Informazioni sullo schema e come interpretare alcuni degli elementi
 short-description: Questa è un’introduzione a GraphQL. Informazioni sullo schema e come interpretare alcuni degli elementi
-kt: 13939
-doc-type: video
+jira: KT-13939
+doc-type: Tutorial
 duration: 363
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 Questa è la parte 4 della serie per GraphQL e Adobe Commerce. Le query e le mutazioni utilizzate si basano su un grafico dati specifico implementato sul server, che il runtime di GraphQL utilizza e utilizza per risolvere la query. La specifica di GraphQL definisce un linguaggio agnostico per esprimere i tipi e le relazioni del grafico dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446618?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Video e tutorial correlati su GraphQL in questa serie
 
