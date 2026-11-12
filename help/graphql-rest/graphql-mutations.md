@@ -3,11 +3,11 @@ title: Eseguire una mutazione utilizzando GraphQL
 description: Introduzione all'esecuzione di una mutazione tramite GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando le chiamate POST.
 landing-page-description: Introduzione all'esecuzione di una mutazione tramite GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando le chiamate POST.
 short-description: Introduzione all'esecuzione di una mutazione tramite GraphQL su Adobe Commerce e [!DNL Magento Open Source]. Esegui la prima mutazione utilizzando le chiamate POST.
-kt: 13938
-doc-type: video
+jira: KT-13938
+doc-type: Tutorial
 duration: 268
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -34,7 +34,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%

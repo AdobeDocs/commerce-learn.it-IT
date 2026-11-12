@@ -3,7 +3,7 @@ title: Integrazione dell’ultimo miglio nel kit di avvio Commerce
 description: Scopri l’integrazione dell’ultimo miglio in Commerce utilizzando gli hook di estensibilità per la convalida, la trasformazione, la pre-elaborazione, l’invio e la post-elaborazione.
 doc-type: Technical Video
 duration: 557
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%

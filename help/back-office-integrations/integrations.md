@@ -3,7 +3,7 @@ title: Best practice per il kit di avvio dell’integrazione di Commerce
 description: Scopri le best practice per le integrazioni Adobe Commerce tramite il kit di avvio, dalla configurazione e l’onboarding di GitHub fino alla distribuzione, alla convalida e alla pubblicazione.
 doc-type: Technical Video
 duration: 602
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
