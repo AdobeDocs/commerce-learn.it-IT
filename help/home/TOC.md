@@ -4,10 +4,10 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 3%
+source-wordcount: '1039'
+ht-degree: 2%
 ---
 
 # Video e tutorial su Adobe Commerce {#tutorials}
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Sconti su voci di preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Note voce preventivo](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Sviluppo e aggiornamenti delle applicazioni {#application-development-and-upgrades}
-    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=it)
+    + [Procedure consigliate per la modifica delle tabelle di database](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creare un modulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Aggiungi un attributo di prodotto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Esempio di iniezione di dipendenza](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -268,8 +268,19 @@ ht-degree: 3%
     + [Migra codice esistente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Sviluppo Luma front-end {#frontend-development}
-    + Page Builder PaaS/SaaS per sviluppatori {#page-builder}
+
++ Sviluppo storefront {#storefront-development}
+  + vetrina Commerce su Edge Delivery Services {#edge-delivery-services}
+    + Guida introduttiva {#getting-started}
+      + [Modifica del flusso transazionale](../edge-delivery-services/transactional-flow.md)
+      + [Usa attributi prodotto per articoli carrello](../edge-delivery-services/product-attributes-cart-items.md)
+      + [Aggiorna il riepilogo dell&#39;ordine all&#39;acquisto](../edge-delivery-services/update-order-summary.md)
+      + [Aggiunta di BOPIS al pagamento](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [Personalizza estrazione](../edge-delivery-services/customize-checkout.md)
+      + [Personalizzare il layout di un indirizzo](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Esperienza di acquisto](../edge-delivery-services/shopper-experience.md)
+  + Sviluppo di vetrine basate su Luma e PHP {#frontend-development}
+    + Page Builder per sviluppatori {#page-builder}
       + [1 - Introduzione](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configurazione e contenuto](../frontend-development/page-builder/2-config-create-content.md)
       + [3 - Temi](../frontend-development/page-builder/3-themes.md)
@@ -278,27 +289,18 @@ ht-degree: 3%
       + [6 - Tipi di contenuto personalizzati](../frontend-development/page-builder/6-custom-content-types.md)
     + [Aggiungere un modulo JavaScript](../frontend-development/add-javascript-module.md)
     + [Creare una pagina](../frontend-development/create-page.md)
-    + Servizi di consegna Edge {#edge-delivery-services}
-      + Guida introduttiva {#getting-started}
-        + [Modifica del flusso transazionale](../edge-delivery-services/transactional-flow.md)
-        + [Usa attributi prodotto per articoli carrello](../edge-delivery-services/product-attributes-cart-items.md)
-        + [Aggiorna il riepilogo dell&#39;ordine all&#39;acquisto](../edge-delivery-services/update-order-summary.md)
-        + [Aggiunta di BOPIS al pagamento](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [Personalizza estrazione](../edge-delivery-services/customize-checkout.md)
-        + [Personalizzare il layout di un indirizzo](../edge-delivery-services/customize-address-new-account-link.md)
-        + [Esperienza di acquisto](../edge-delivery-services/shopper-experience.md)
-    + Architettura headless {#headless-architecture}
-      + Introduzione a headless {#introduction-to-headless}
-        + [Architettura headless - Sessione 1](../headless/session-1.md)
-      + Introduzione a PWA Studio {#introduction}
-        + [Panoramica](../pwa/introduction/1-overview.md)
-        + [Strumenti PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
-        + [Launch](../pwa/introduction/3-launch.md)
-        + [VERSO L&#39;ALTO](../pwa/introduction/4-upward.md)
-        + [Introduzione](../pwa/introduction/5-getting-started.md)
-        + [Peregrina](../pwa/introduction/6-peregrine.md)
-      + [Sviluppo Docker PWA](../pwa/pwa-docker-development.md)
-      + [Configurare Venia per lo sviluppo](../pwa/set-up-venia-for-dev.md)
+  + Architettura headless e PWA Studio {#headless-architecture}
+    + Introduzione a headless {#introduction-to-headless}
+      + [Architettura headless - Sessione 1](../headless/session-1.md)
+    + Introduzione a PWA Studio {#introduction}
+      + [Panoramica](../pwa/introduction/1-overview.md)
+      + [Strumenti PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [Launch](../pwa/introduction/3-launch.md)
+      + [VERSO L&#39;ALTO](../pwa/introduction/4-upward.md)
+      + [Introduzione](../pwa/introduction/5-getting-started.md)
+      + [Peregrina](../pwa/introduction/6-peregrine.md)
+    + [Sviluppo Docker PWA](../pwa/pwa-docker-development.md)
+    + [Configurare Venia per lo sviluppo](../pwa/set-up-venia-for-dev.md)
 
 + Monitoraggio, analisi e supporto {#monitoring-analytics-support}
   + Osservabilità {#observability}
