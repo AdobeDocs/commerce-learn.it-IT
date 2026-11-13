@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 130
-last-substantial-update: 2025-04-16T00:00:00.000Z
+last-substantial-update: 2025-04-16
 jira: KT-17808
 exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
 TQID: 'https://experienceleague.adobe.com/Mjy1W-NPjazJUYLSHUvS040K6Co-sG1aqvDTWCeCdoE'
@@ -33,7 +33,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -55,4 +55,4 @@ Gli Adobe Commerce Success Accelerator per l’adozione e l’abilitazione inclu
 * Formazione lato scrivania con più sessioni per colmare le lacune di competenze e allinearsi alle priorità strategiche.
 * Creazione di autorizzazioni di accesso e governance della progettazione per garantire l’adozione corretta dei prodotti e le relative best practice.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463086?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457657?learn=on)

@@ -4,7 +4,7 @@ description: Scopri come sfruttare un’architettura di riferimento globale per 
 jira: KT-14040
 doc-type: Value Video
 duration: 1817
-last-substantial-update: 2023-09-27T00:00:00.000Z
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Developer, User, Leader
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -69,6 +69,6 @@ Scopri come sfruttare Global Reference Architecture o GRA. Per preparare al megl
 * Raccolta dei requisiti
 * Quando coinvolgi il team di QA?
 
->[!VIDEO](https://video.tv.adobe.com/v/3456008?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] per utenti aziendali - Gestione clienti'
-description: Scopri le autorizzazioni consigliate per il servizio clienti, la creazione di un cliente in [!DNL Admin], la gestione delle informazioni sui clienti e la creazione di gruppi di clienti.
+description: Scopri le autorizzazioni del servizio clienti, la creazione di clienti in [!DNL Admin], la gestione delle informazioni sui clienti e i gruppi di clienti per il tuo store Commerce.
 kt: 5779
-doc-type: video
+doc-type: Technical Video
 duration: 308
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -33,9 +33,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 ---
 # [!DNL Commerce] per utenti aziendali - Gestione clienti
@@ -53,10 +53,10 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/330196?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36189?learn=on)
 
 ## Risorse aggiuntive
 
-[Crea un account cliente individuale - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=it)
+[Crea un account cliente individuale - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=it)
+[Gruppi di clienti - [!DNL Commerce] Guida alla gestione clienti](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

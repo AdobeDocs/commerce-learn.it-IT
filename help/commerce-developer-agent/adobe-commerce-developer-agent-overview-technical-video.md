@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 186
-last-substantial-update: 2026-08-28T00:00:00.000Z
+last-substantial-update: 2026-08-28
 jira: KT-22473
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Adobe Commerce Developer Agent trasforma una richiesta in inglese semplice in un
 * Esposizione di limiti e messaggi come configurazione aziendale che il team dello store può regolare dopo il lancio
 * Anteprima della procedura dettagliata completa: blueprint, sviluppo, connessione, distribuzione, configurazione e test
 
->[!VIDEO](https://video.tv.adobe.com/v/3502455?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3502440)
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 

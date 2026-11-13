@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 1449
-last-substantial-update: 2025-10-10T00:00:00.000Z
+last-substantial-update: 2025-10-10
 jira: KT-19376
 exl-id: 66ae4364-1918-4ca5-8709-9596ead0e4af
 TQID: 'https://experienceleague.adobe.com/KAmLP-EQhBLLUC3U9ykcOV6ZEFiv8Dj5swc3w2CkjTU'
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -71,10 +71,10 @@ Scopri come Adobe Commerce sta rivoluzionando l’e-commerce con soluzioni di in
 * Accelerare l’espansione globale con l’innovazione del catalogo
 * Miglioramento dell&#39;esperienza di vetrina tramite Commerce conversazionale
 
->[!VIDEO](https://video.tv.adobe.com/v/3475703?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)
 
 ## Tutorial correlati
 
-* [Panoramica di Commerce MCP](https://experienceleague.adobe.com/it/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
-* [Percorso di apprendimento agente sviluppatore Commerce](https://experienceleague.adobe.com/it/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer: modello dati catalogo componibile](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Panoramica di Commerce MCP](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Percorso di apprendimento agente sviluppatore Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: modello dati catalogo componibile](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

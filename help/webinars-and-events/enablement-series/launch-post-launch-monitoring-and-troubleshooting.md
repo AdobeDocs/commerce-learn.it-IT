@@ -8,7 +8,7 @@ role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3576
-last-substantial-update: 2024-05-07T00:00:00.000Z
+last-substantial-update: 2024-05-07
 jira: KT-15467
 exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
 TQID: 'https://experienceleague.adobe.com/sSK6X9LrKA5LUgdELTzfyNZu8RP9juyYGDdGQfPni4w'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -69,8 +69,8 @@ Questo webinar fornisce diverse best practice e suggerimenti per la preparazione
 
 ## Tutorial correlati
 
-* [Infrastruttura cloud e self-hosted: elenco di controllo pre-avvio](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Infrastruttura cloud e self-hosted: avvisi di New Relic](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
-* [Creare un ticket di supporto](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Infrastruttura cloud e self-hosted: elenco di controllo pre-avvio](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infrastruttura cloud e self-hosted: avvisi di New Relic](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Creare un ticket di supporto](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

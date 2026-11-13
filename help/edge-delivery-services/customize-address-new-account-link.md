@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 856
-last-substantial-update: 2025-01-13T00:00:00.000Z
+last-substantial-update: 2025-01-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
 TQID: 'https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8'
@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -72,7 +72,7 @@ I ruoli che traggono vantaggio dalla lettura di questa trascrizione includono:
 * Convalida e gestione degli errori per i campi di input degli indirizzi, per garantire che gli utenti ricevano un feedback immediato sulle voci errate o incomplete, migliorando l’esperienza utente.
 * Estensione della dashboard dell’account utente che aggiunge una nuova voce di menu nella barra laterale alla dashboard dell’account utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442914?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentazione aggiuntiva
 

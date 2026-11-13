@@ -2,10 +2,10 @@
 title: '[!DNL Commerce] per utenti aziendali - Griglie dati'
 description: Scopri come utilizzare le griglie dati in [!DNL Commerce Admin].
 kt: 5759
-doc-type: video
+doc-type: Technical Video
 duration: 192
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Search
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -34,7 +34,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -53,10 +53,10 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=it).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330078?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35960?learn=on)
 
 ## Risorse aggiuntive
 
-[Controlli griglia amministrazione - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html?lang=it)
+[Controlli griglia amministrazione - [!DNL Commerce] Guida introduttiva](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
