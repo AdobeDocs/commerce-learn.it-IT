@@ -62,7 +62,7 @@ Scegli una delle opzioni seguenti per ulteriori informazioni.
 
 ## Creazione manuale dei prodotti {#manual-import}
 
-Prendi in considerazione la creazione manuale del prodotto per un catalogo di piccole dimensioni con aggiornamenti non frequenti. L’accesso a ciascun prodotto richiede tempo e una formazione di base sull’amministratore di Commerce. La gestione manuale del catalogo è adatta a situazioni specifiche, anziché alla maggior parte dei negozi. Per istruzioni, vedere [Creare un prodotto](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Se combini metodi di gestione catalogo, limita le modifiche manuali una volta introdotta l’automazione. Gli aggiornamenti automatici rischiano di sovrascrivere le modifiche manuali e di causare confusione. Quando un&#39;integrazione gestisce il catalogo tramite automazione e API, limita la gestione del catalogo nell&#39;amministratore tramite [ruoli utente e autorizzazioni](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
+Prendi in considerazione la creazione manuale del prodotto per un catalogo di piccole dimensioni con aggiornamenti non frequenti. L’accesso a ciascun prodotto richiede tempo e una formazione di base sull’amministratore di Commerce. La gestione manuale del catalogo è adatta a situazioni specifiche, anziché alla maggior parte dei negozi. Per istruzioni, vedere [Creare un prodotto](https://experienceleague.adobe.com/it/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Se combini metodi di gestione catalogo, limita le modifiche manuali una volta introdotta l’automazione. Gli aggiornamenti automatici rischiano di sovrascrivere le modifiche manuali e di causare confusione. Quando un&#39;integrazione gestisce il catalogo tramite automazione e API, limita la gestione del catalogo nell&#39;amministratore tramite [ruoli utente e autorizzazioni](https://experienceleague.adobe.com/it/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
 
 ### Quando considerare questo approccio
 
@@ -77,7 +77,7 @@ Prendi in considerazione la creazione manuale del prodotto per un catalogo di pi
 ## Admin CSV import tool {#admin-csv}
 
 Questo strumento consente al proprietario di un negozio di importare un catalogo utilizzando un file CSV creato dall’amministratore di commerce.
-[Importa dati da Commerce Admin](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[Importa dati da Commerce Admin](https://experienceleague.adobe.com/it/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 Pro:
 Il caricamento di un file CSV dall’amministratore è un approccio diretto alla gestione del catalogo. Consente aggiornamenti più rapidi dei prodotti del catalogo a un catalogo di dimensioni moderate.
@@ -171,6 +171,6 @@ Contro:
 ## Risorse aggiuntive
 
 * [Importare dati utilizzando un nuovo CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Documentazione principale sui dati di importazione](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
-* [Note sulla versione di Adobe Commerce 2.4.6](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [Documentazione principale sui dati di importazione](https://experienceleague.adobe.com/it/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Note sulla versione di Adobe Commerce 2.4.6](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [Utenti, ruoli e autorizzazioni](../store-administration/users-roles-permissions.md){target="_blank"}
