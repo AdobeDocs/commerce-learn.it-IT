@@ -55,9 +55,9 @@ Nel primo di una serie di webinar in quattro parti, Adobe Commerce presenta due 
 
 ## Tutorial correlati
 
-* [Confrontare le opzioni Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
-* [Panoramica di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [Confrontare le opzioni Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Panoramica di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
 
 ## Video aggiuntivi di questa serie
 
