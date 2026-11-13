@@ -55,12 +55,12 @@ In questo video:
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Il contenuto del video riflette la versione 2.3.1 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?learn=on)
 
 ## Risorse aggiuntive
 
-[Modelli e-mail - [!DNL Commerce] Guida dell&#39;amministratore di sistema](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[Modelli e-mail - [!DNL Commerce] Guida dell&#39;amministratore di sistema](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=it)
 
-[Variabili e comunicazioni ai clienti - [!DNL Commerce] Guida all&#39;amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[Variabili e comunicazioni ai clienti - [!DNL Commerce] Guida all&#39;amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=it#variables-and-customer-communications)

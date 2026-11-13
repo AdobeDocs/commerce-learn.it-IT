@@ -89,6 +89,6 @@ La roadmap di Adobe Commerce per il 2026 delinea una strategia completa per migl
 
 ## Tutorial correlati
 
-* [Connessione dati](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Panoramica sull’osservabilità](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Introduzione ad App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Connessione dati](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Panoramica sull’osservabilità](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Introduzione ad App Builder](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
