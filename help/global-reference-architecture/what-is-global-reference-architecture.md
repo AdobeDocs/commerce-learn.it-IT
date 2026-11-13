@@ -40,12 +40,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '86'
 ht-degree: 1%
 ---
 # Architettura di riferimento globale
+
+>[!NOTE]
+>
+>Questa serie tratta l’infrastruttura cloud Adobe Commerce e le distribuzioni con hosting autonomo.
 
 Scopri l’architettura di riferimento globale, alcuni concetti fondamentali e i vantaggi di questo approccio.
 

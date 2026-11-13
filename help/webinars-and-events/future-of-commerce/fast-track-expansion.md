@@ -34,9 +34,9 @@ topic_v2:
     internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '235'
 ht-degree: 0%
 ---
 # Espansione Fast Track
@@ -62,7 +62,7 @@ Scopri come Adobe Commerce consente alle aziende di velocizzare la loro espansio
 
 ## Tutorial correlati
 
-* [Adobe Commerce Optimizer: visualizzazioni catalogo](https://experienceleague.adobe.com/it/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce Optimizer: visualizzazioni catalogo](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
 * [Adobe Commerce as a Cloud Service: gestione dei cataloghi e merchandising](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## Video aggiuntivi di questa serie
