@@ -83,9 +83,9 @@ topic_v2:
     internal-label: Insights
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '375'
 ht-degree: 0%
 ---
 # Riduzione del sommario per le integrazioni Adobe Commerce
@@ -112,5 +112,12 @@ Evidenzia la disponibilità di connessioni dati per un flusso di dati fluido tra
 * Spiegazione delle sfide e dei costi associati all’integrazione di vari sistemi e punti di contatto in un ambiente di commercio digitale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428768?learn=on)
+
+## Tutorial correlati
+
+* [Introduzione ad App Builder](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Introduzione a Mesh API](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Introduzione a Adobe I/O Events](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [Connessione dati](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

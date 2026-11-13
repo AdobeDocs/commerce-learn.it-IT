@@ -36,9 +36,9 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '299'
 ht-degree: 0%
 ---
 # Responsabilità condivisa
@@ -65,3 +65,8 @@ Scopri in che modo Adobe e gli esercenti condividono la responsabilità di mante
 * [Canali di notifica](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
 * [Bollettini sulla sicurezza di Adobe](https://helpx.adobe.com/it/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
 * [Proteggere il sito e l&#39;infrastruttura commerce](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+
+## Tutorial correlati
+
+* [Infrastruttura cloud e self-hosted: distribuzioni, test, monitoraggio e sicurezza](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [Infrastruttura cloud e self-hosted: elenco di controllo pre-avvio](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

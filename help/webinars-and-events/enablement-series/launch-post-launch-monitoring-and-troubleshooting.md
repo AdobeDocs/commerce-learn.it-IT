@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce launch, post-lancio, monitoraggio continuo e risoluzione dei problemi
-description: Scopri le best practice e i suggerimenti per preparare e lanciare un sito web. Scopri come scegliere l’ambiente di staging corretto, fornire dettagli rilevanti nei ticket di supporto e utilizzare lo stesso strumento di monitoraggio del team di supporto per una comunicazione migliore.
+title: Avviare, monitorare e risolvere i problemi in Adobe Commerce Cloud
+description: Scopri come preparare, avviare, monitorare e risolvere i problemi di Adobe Commerce Cloud utilizzando ambienti di staging, ticket di supporto dettagliati e strumenti di monitoraggio condivisi.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 old-role: Architect, Data Architect, Leader
@@ -41,9 +41,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '388'
 ht-degree: 0%
 ---
 # Avviare, monitorare e risolvere i problemi in Adobe Commerce Cloud
@@ -66,5 +66,11 @@ Questo webinar fornisce diverse best practice e suggerimenti per la preparazione
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428990?learn=on)
+
+## Tutorial correlati
+
+* [Infrastruttura cloud e self-hosted: elenco di controllo pre-avvio](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infrastruttura cloud e self-hosted: avvisi di New Relic](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Creare un ticket di supporto](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

@@ -4,9 +4,9 @@ user-guide-description: Scopri Adobe Commerce e Magento Open Source tramite vide
 breadcrumb-title: Video e tutorial
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1042'
 ht-degree: 2%
 ---
 
@@ -260,14 +260,7 @@ ht-degree: 2%
 
 + Estensibilità {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
-    + [Panoramica](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
-    + [Blueprint e fasi di sviluppo](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
-    + [Connettere le integrazioni](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
-    + [Distribuire, associare, installare](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
-    + [Configurazione e test](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
-    + [Migra codice esistente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
-    + [Conclusione](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
-    + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
+    + [Percorso di apprendimento agente sviluppatore](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Sviluppo storefront {#storefront-development}
   + vetrina Commerce su Edge Delivery Services {#edge-delivery-services}

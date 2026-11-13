@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '235'
 ht-degree: 0%
 ---
 # Tassi di conversione sovrapprezzo
@@ -53,6 +53,12 @@ Scopri come Adobe Commerce sta trasformando le vetrine digitali con strumenti al
 * Strumenti di editing video integrati
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505720?captions=ita&learn=on)
+
+## Tutorial correlati
+
+* [Commerce storefront su Edge Delivery Services: esperienza dell&#39;acquirente](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: creazione di contenuti di intelligenza artificiale generativi](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: sperimentazione in vetrina](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## Video aggiuntivi di questa serie
 

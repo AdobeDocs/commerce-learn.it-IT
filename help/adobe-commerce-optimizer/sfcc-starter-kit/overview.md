@@ -27,9 +27,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '209'
 ht-degree: 0%
 ---
 # Informazioni sul kit di avvio Salesforce Commerce Cloud
@@ -49,3 +49,12 @@ Scopri Commerce Optimizer Salesforce Commerce Cloud Connector, uno strumento pro
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473986?captions=ita&learn=on)
 
+
+## Continua la serie starter-kit
+
+1. [Panoramica dell’architettura](./architecture-overview.md)
+2. [Installare la cartuccia SFCC](./installation-sfcc-cartridge.md)
+3. [Kit di avvio App Builder](./app-builder-starter-kit.md)
+4. [Dimostrazione completa](./end-to-end-demo.md)
+
+Per i concetti condivisi di App Builder, vedere [Introduzione ad App Builder](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
