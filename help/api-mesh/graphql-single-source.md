@@ -4,7 +4,7 @@ description: Scopri come utilizzare API Mesh su Adobe Commerce e Adobe App Build
 jira: KT-11804
 doc-type: Tutorial
 duration: 485
-last-substantial-update: 2023-02-08T00:00:00.000Z
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,7 +37,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Questo video aiuta gli sviluppatori a comprendere come creare una mesh con un’
 * Creazione di una trama da un file di configurazione JSON
 * Accesso all’endpoint GraphQL appena creato
 
->[!VIDEO](https://video.tv.adobe.com/v/3419720?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?learn=on)
 
 ## Creare il file di configurazione JSON
 

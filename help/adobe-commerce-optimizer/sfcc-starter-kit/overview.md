@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 230
-last-substantial-update: 2025-10-20T00:00:00.000Z
+last-substantial-update: 2025-10-20
 jira: KT-18990
 exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
 product_v2:
@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Scopri Commerce Optimizer Salesforce Commerce Cloud Connector, uno strumento pro
 * scopri lo scopo del kit di avvio per l’integrazione con Salesforce Commerce Cloud.
 * Comprendere dove installare il kit di avvio
 
->[!VIDEO](https://video.tv.adobe.com/v/3473986?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
 
 
 ## Continua la serie starter-kit
@@ -57,4 +57,4 @@ Scopri Commerce Optimizer Salesforce Commerce Cloud Connector, uno strumento pro
 3. [Kit di avvio App Builder](./app-builder-starter-kit.md)
 4. [Dimostrazione completa](./end-to-end-demo.md)
 
-Per i concetti condivisi di App Builder, vedere [Introduzione ad App Builder](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
+Per i concetti condivisi di App Builder, vedere [Introduzione ad App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).

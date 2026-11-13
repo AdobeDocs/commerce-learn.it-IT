@@ -3,7 +3,7 @@ title: Creare un attributo di prodotto
 description: Scopri come creare un attributo di prodotto a livello di programmazione in Adobe Commerce, inclusi gli attributi di tipo a discesa con modelli di back-end, front-end e origine personalizzati.
 doc-type: Tutorial
 duration: 491
-last-substantial-update: 2023-02-10T00:00:00.000Z
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.031Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -52,7 +52,7 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3412440?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## Esempio di codice
 

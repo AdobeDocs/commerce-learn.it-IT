@@ -3,7 +3,7 @@ title: Diagnosticare la replica del database di Galera nei registri di query len
 description: Scopri in che modo la progettazione di replica di Galera DB rallenta le sincronizzazioni secondarie del database, come identificare questi eventi nei registri di query lente di MySQL e come ridurre al minimo l’impatto.
 doc-type: Technical Video
 duration: 452
-last-substantial-update: 2023-07-18T00:00:00.000Z
+last-substantial-update: 2023-07-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Developer
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Per consentire la sincronizzazione dei database di replica con il database prima
 * Le esecuzioni in blocco si verificano solo sul primario. Le repliche avvengono una alla volta
 * Per aiutare la replica a tenere il passo con il principale, crea un batch delle commit di grandi dimensioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423541?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Risorse utili
 

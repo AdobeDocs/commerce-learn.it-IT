@@ -4,7 +4,7 @@ description: Scopri come utilizzare Mesh API su Adobe Commerce e Adobe App Build
 jira: KT-11802
 doc-type: Tutorial
 duration: 422
-last-substantial-update: 2023-08-27T00:00:00.000Z
+last-substantial-update: 2023-08-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,7 +37,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -63,7 +63,7 @@ API Mesh combina più origini di dati per ottenere una singola risposta da utili
 * Caso d&#39;uso per eseguire il controllo dell&#39;inventario in tempo reale al momento del pagamento
 * Spostare le attività di sviluppo e l’utilizzo delle risorse dall’applicazione commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3421887?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?learn=on)
 
 ## Casi d’uso di esempio
 

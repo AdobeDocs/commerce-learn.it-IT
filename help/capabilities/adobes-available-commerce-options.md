@@ -2,9 +2,9 @@
 title: Opzioni di e-commerce disponibili in Adobe
 description: Confronta le opzioni di implementazione di Adobe Commerce (on-premise, cloud, SaaS e Commerce Optimizer) e scopri come scegliere il modello giusto per la tua azienda.
 jira: KT-20236
-doc-type: tutorial
+doc-type: Tutorial
 duration: 360
-last-substantial-update: 2026-2-25
+last-substantial-update: 2026-02-25
 feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
@@ -28,7 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -51,10 +51,10 @@ Scopri le opzioni commerce di Adobe. Scopri alcune delle funzioni principali, co
 * Scopri quando modernizzare le vetrine senza sostituire il backend
 * Identificare la soluzione migliore in base alle risorse DevOps, alla scalabilità e agli obiettivi aziendali
 
->[!VIDEO](https://video.tv.adobe.com/v/3480251?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## Documentazione correlata
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/it/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/it/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
