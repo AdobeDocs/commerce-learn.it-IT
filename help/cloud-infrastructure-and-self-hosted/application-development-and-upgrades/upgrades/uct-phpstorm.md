@@ -3,7 +3,7 @@ title: Utilizzare Upgrade Compatibility Tool in PhpStorm
 description: Scopri come utilizzare Upgrade Compatibility Tool con il plug-in PhpStorm per individuare e correggere le incompatibilità prima dell’aggiornamento.
 doc-type: Technical Video
 duration: 416
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer
@@ -32,7 +32,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.964Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Lo strumento di compatibilità per l’aggiornamento (UCT) analizza in pochi min
 In questo video:
 
 * Funzionamento di Upgrade Compatibility Tool
-* Come utilizzarlo con il plug-in Magento PhpStorm
+* Come utilizzarlo con il plugin Magento PhpStorm
 * Come leggere i risultati di HTML in base alla gravità del modulo e al conteggio delle incompatibilità
 
 ## A chi serve questo video?
@@ -58,10 +58,10 @@ In questo video:
 * Installare ed eseguire UCT da PhpStorm.
 * Rivedi i rapporti di HTML e assegna priorità alle correzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/344406?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## Risorse aggiuntive
 
-* [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=it){target="_blank"}
+* [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
 * [Plug-in Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=it){target="_blank"}
+* [Versioni rilasciate](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

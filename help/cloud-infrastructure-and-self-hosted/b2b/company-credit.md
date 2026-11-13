@@ -4,7 +4,7 @@ description: Scopri come gli utenti dell’account aziendale B2B possono acquist
 doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Gestisci credito società
 
-Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispongono di crediti aziendali possono effettuare acquisti sul proprio conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
+Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_e dispongono di crediti aziendali possono effettuare acquisti sul proprio conto fino al limite di credito concesso. Con questa funzione, i clienti possono controllare lo stato del credito della loro azienda dal dashboard del loro account.
 
 È possibile impostare i seguenti parametri relativi al credito per ciascun profilo società:
 
@@ -70,9 +70,9 @@ Le aziende che hanno abilitato _[!UICONTROL Payment on Account]_&#x200B;e dispon
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410760?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Risorse aggiuntive
 
-* [Configura pagamento in acconto](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gestisci credito società](https://experienceleague.adobe.com/it/docs/commerce-admin/b2b/companies/credit-company)
+* [Configura pagamento in acconto](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gestisci credito società](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

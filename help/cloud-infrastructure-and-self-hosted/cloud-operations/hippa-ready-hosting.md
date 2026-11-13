@@ -7,7 +7,7 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 324
-last-substantial-update: 2025-05-30T00:00:00.000Z
+last-substantial-update: 2025-05-30
 jira: KT-14593
 exl-id: 60314a97-1922-490f-be18-e5e5998075e2
 TQID: 'https://experienceleague.adobe.com/m1MKUwzUn4qsOhqnFYo94qaO9o9jA5tsrTyEHxtPlno'
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -71,10 +71,10 @@ Adobe Commerce offre una soluzione compatibile con HIPAA progettata per aiutare 
 * La soluzione include meccanismi di registrazione migliorati per PHI e offre funzionalità di integrazione sia con prodotti Adobe interni che con servizi esterni di terze parti.
 * Adobe Commerce offre un ambiente di staging speciale per il supporto e la risoluzione dei problemi, garantendo la protezione dei dati sensibili e il pieno mirroring dell’ambiente di produzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463185?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177?learn=on)
 
 ## Documentazione aggiuntiva
 
-* [Preparazione HIPAA - Connessione dati](https://experienceleague.adobe.com/it/docs/commerce/data-connection/hipaa-readiness)
-* [Preparazione HIPAA - Conformità](https://experienceleague.adobe.com/it/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [Installa connessione dati](https://experienceleague.adobe.com/it/docs/commerce/data-connection/fundamentals/install)
+* [Preparazione HIPAA - Connessione dati](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [Preparazione HIPAA - Conformità](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Installa connessione dati](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

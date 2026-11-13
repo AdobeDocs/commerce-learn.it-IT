@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 624
-last-substantial-update: 2025-04-07T00:00:00.000Z
+last-substantial-update: 2025-04-07
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
 TQID: 'https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c'
@@ -32,7 +32,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '1127'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Lo strumento CLI di Magento-Cloud è progettato per aiutare sviluppatori e ammin
 
 In questa sezione iniziale del codice di esempio, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` richiede l&#39;URL per l&#39;ambiente. Il valore restituito è simile al seguente `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. Ogni tanto assomiglia di più a `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Questo primo comando è piuttosto semplice e ora è il momento di passare al comando successivo.
 
-Per ulteriori informazioni, leggere [Panoramica di Cloud CLI](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Per ulteriori informazioni, leggere [Panoramica di Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Utilizzo di `sed` per ricerca e sostituzione
 
@@ -140,4 +140,4 @@ Questi ambienti di livello inferiore sono multi-tenant e condividono i server so
 
 ## Documentazione correlata
 
-* [Indirizzi IP regionali](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Indirizzi IP regionali](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
