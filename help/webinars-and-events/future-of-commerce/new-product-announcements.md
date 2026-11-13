@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '281'
 ht-degree: 0%
 ---
 # Annunci di nuovi prodotti
@@ -52,6 +52,12 @@ Nel primo di una serie di webinar in quattro parti, Adobe Commerce presenta due 
 * Percorsi di adozione flessibili e incrementali consentono alle aziende di effettuare la transizione al proprio ritmo, con supporto continuo per le soluzioni esistenti e tempistiche di supporto estese per le versioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
+
+## Tutorial correlati
+
+* [Confrontare le opzioni Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Panoramica di Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Panoramica di Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 ## Video aggiuntivi di questa serie
 

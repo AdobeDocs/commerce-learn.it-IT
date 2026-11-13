@@ -2,7 +2,7 @@
 title: Crescita aziendale con la roadmap di Adobe Vision Forward
 description: Scopri la roadmap di Adobe Commerce per vetrine B2B, personalizzazione in tempo reale, pagamenti ed esperienze di sviluppatori e commercianti basate sull’intelligenza artificiale.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
-topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
+topic: Administration, Commerce, Development, Headless, Performance, Personalization, Security
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -62,9 +62,9 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '221'
 ht-degree: 0%
 ---
 # Crescita aziendale con la roadmap di Adobe Vision Forward
@@ -85,4 +85,10 @@ La roadmap di Adobe Commerce per il 2026 delinea una strategia completa per migl
 * Centro commerciale ed esperienza di amministrazione
 * Miglioramenti di esperienza e osservabilità per sviluppatori
 
->[!VIDEO](https://video.tv.adobe.com/v/3475714?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)
+
+## Tutorial correlati
+
+* [Connessione dati](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Panoramica sull’osservabilità](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Introduzione ad App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)

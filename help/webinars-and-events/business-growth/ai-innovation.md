@@ -2,7 +2,7 @@
 title: Crescita aziendale con innovazione basata su intelligenza artificiale
 description: 'Esplora la crescita dell’eCommerce basata sull’intelligenza artificiale con Adobe Commerce: migliora la reperibilità, ottimizza gli store front ed espandi a livello globale.'
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '207'
 ht-degree: 0%
 ---
 # Crescita aziendale con innovazione basata su intelligenza artificiale
@@ -71,4 +71,10 @@ Scopri come Adobe Commerce sta rivoluzionando l’e-commerce con soluzioni di in
 * Accelerare l’espansione globale con l’innovazione del catalogo
 * Miglioramento dell&#39;esperienza di vetrina tramite Commerce conversazionale
 
->[!VIDEO](https://video.tv.adobe.com/v/3475703?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)
+
+## Tutorial correlati
+
+* [Panoramica di Commerce MCP](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Percorso di apprendimento agente sviluppatore Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: modello dati catalogo componibile](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

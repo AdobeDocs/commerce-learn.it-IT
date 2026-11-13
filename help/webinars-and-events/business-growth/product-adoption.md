@@ -2,7 +2,7 @@
 title: Semplificare la migrazione di Adobe Commerce con gli strumenti di intelligenza artificiale
 description: Scopri come Adobe Commerce semplifica la migrazione cloud con strumenti di intelligenza artificiale, l’adozione modulare e lo sviluppo più rapido per una crescita aziendale scalabile.
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -40,9 +40,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '283'
 ht-degree: 0%
 ---
 # Crescita aziendale attraverso la semplificazione dell&#39;adozione di nuovi prodotti
@@ -63,4 +63,10 @@ Adobe Commerce sta semplificando la crescita delle aziende aiutandole a passare 
 * L’estensibilità di App Builder consente di scollegare la logica personalizzata in funzioni senza server per semplificarne la manutenzione.
 * I miglioramenti apportati a Storefront migliorano le prestazioni e la creazione di contenuti con componenti integrati e distribuzione Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475756?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
+
+## Tutorial correlati
+
+* [Migrazione ad Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [Introduzione ad App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Commerce storefront su Edge Delivery Services: esperienza dell&#39;acquirente](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
