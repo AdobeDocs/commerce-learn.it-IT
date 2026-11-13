@@ -54,7 +54,7 @@ Questa guida fornisce una panoramica completa su come individuare, convalidare e
 * Scopri come modificare e ignorare i valori di configurazione tramite il pannello di amministrazione, l’archivio del codice e i file specifici dell’ambiente.
 * Scopri le best practice per mantenere impostazioni di configurazione coerenti in diversi ambienti utilizzando strumenti come app:config:dump e l’interfaccia utente di amministrazione di Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505789?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
 
 ## Documentazione di Experience League correlata
 

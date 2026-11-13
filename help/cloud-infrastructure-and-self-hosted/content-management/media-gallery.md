@@ -54,7 +54,7 @@ Con Adobe Commerce o Magento Open Source 2.4, i commercianti possono utilizzare 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3411045?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343785?learn=on)
 
 ## Risorse aggiuntive
 
