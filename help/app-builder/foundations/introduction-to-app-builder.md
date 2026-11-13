@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '809'
 ht-degree: 0%
 ---
 # Introduzione ad App Builder
@@ -45,7 +45,7 @@ In passato, lo sviluppo Adobe Commerce utilizzava l’estensibilità in-process.
 
 ## App Builder per Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3432197?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder è una piattaforma di estensibilità senza server per l’integrazione e la creazione di esperienze personalizzate al fine di estendere le soluzioni Adobe, ed è ora disponibile per Adobe Commerce. Con App Builder, puoi creare app sicure e scalabili che estendono le funzionalità native di Commerce e si integrano con soluzioni di terze parti. In qualità di sviluppatore, ora puoi sfruttare l’estensibilità fuori processo con Adobe Commerce, il che a sua volta offre vantaggi immediati e a lungo termine.
 
@@ -109,6 +109,6 @@ Sei pronto a iniziare a sviluppare? Il seguente collegamento contiene applicazio
 
 ## Esempio specifico per l’offerta
 
-Per un&#39;integrazione Adobe Commerce Optimizer basata su App Builder, segui il [Salesforce Commerce Cloud Starter Kit](https://experienceleague.adobe.com/it/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). La serie descrive l&#39;architettura, l&#39;installazione della cartuccia Salesforce, il kit di avvio App Builder e una dimostrazione end-to-end.
+Per un&#39;integrazione Adobe Commerce Optimizer basata su App Builder, segui il [Salesforce Commerce Cloud Starter Kit](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview). La serie descrive l&#39;architettura, l&#39;installazione della cartuccia Salesforce, il kit di avvio App Builder e una dimostrazione end-to-end.
 
 {{$include /help/_includes/app-builder-related-links.md}}
