@@ -4,7 +4,7 @@ description: Scopri come aggiungere [!DNL Live Search] al tuo store e creare esp
 doc-type: Feature Video
 duration: 543
 audience: all
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -64,12 +64,12 @@ Breve introduzione a [!DNL Live Search] da Adobe Commerce. [!DNL Live Search] co
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3452577?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
 
 
 ## Risorse aggiuntive
 
 * [Dimostrazione completa di Live Search](live-search-full-demonstration.md){target="_blank"}
 * [[!DNL Live Search] per consigli](live-search-recommendations.md){target="_blank"}
-* [Panoramica di [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=it){target="_blank"}
-* [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=it){target="_blank"}
+* [Panoramica di [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+* [Connettore servizi Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

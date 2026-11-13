@@ -6,12 +6,12 @@ duration: 309
 audience: all
 activity: use
 jira: KT-13907
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/it/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applicabile solo ai progetti Adobe Commerce on Cloud (infrastruttura PaaS gestita da Adobe) e ai progetti on-premise."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 TQID: 'https://experienceleague.adobe.com/BzcXZIYUFoXFVDzIf5yBuebeqjVR7tEt3S-ytvbTCE0'
 product_v2:
@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -57,9 +57,9 @@ La gestione temporanea dei contenuti offre al team aziendale la possibilità di 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410855?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343784?learn=on)
 
 ## Risorse aggiuntive
 
-* [Gestione temporanea dei contenuti - [!DNL Commerce] Guida alla progettazione e al contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=it){target="_blank"}
-* [Anteprima di una campagna - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=it){target="_blank"}
+* [Gestione temporanea dei contenuti - [!DNL Commerce] Guida alla progettazione e al contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+* [Anteprima di una campagna - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}

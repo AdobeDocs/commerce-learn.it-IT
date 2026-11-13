@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 340
-last-substantial-update: 2024-10-09T00:00:00.000Z
+last-substantial-update: 2024-10-09
 jira: KT-16185
 exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
 TQID: 'https://experienceleague.adobe.com/UsYDjLhPMDrZBX6g5InoFcYiIS6DL8Qp03fIiY6Gs1U'
@@ -67,7 +67,7 @@ topic_v2:
     internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -88,4 +88,4 @@ Adobe Commerce è una piattaforma di eCommerce cloud ibrido disponibile su AWS e
 * Servizi avanzati basati sull’intelligenza artificiale. Potrai acquisire familiarità con i servizi intelligenti e basati su API come la ricerca in tempo reale, i consigli sui prodotti basati su intelligenza artificiale e i servizi di catalogo per migliorare l’esperienza del cliente e l’efficienza operativa.
 * Strumenti per sviluppatori completi. Scopri la suite di strumenti per sviluppatori nativi per il cloud e senza server, come API Mesh e App Builder, che consentono un’integrazione e una personalizzazione senza soluzione di continuità per estendere le funzionalità commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433508?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)

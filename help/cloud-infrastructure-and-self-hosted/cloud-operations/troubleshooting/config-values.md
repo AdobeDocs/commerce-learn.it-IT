@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 709
-last-substantial-update: 2024-11-08T00:00:00.000Z
+last-substantial-update: 2024-11-08
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
 TQID: 'https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs'
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -54,14 +54,14 @@ Questa guida fornisce una panoramica completa su come individuare, convalidare e
 * Scopri come modificare e ignorare i valori di configurazione tramite il pannello di amministrazione, l’archivio del codice e i file specifici dell’ambiente.
 * Scopri le best practice per mantenere impostazioni di configurazione coerenti in diversi ambienti utilizzando strumenti come app:config:dump e l’interfaccia utente di amministrazione di Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505789?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
 
 ## Documentazione di Experience League correlata
 
-* [Esporta configurazione](https://experienceleague.adobe.com/it/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-* [Ignora impostazioni configurazione](https://experienceleague.adobe.com/it/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-* [Impostare i valori di configurazione](https://experienceleague.adobe.com/it/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-* [Config reference config.php](https://experienceleague.adobe.com/it/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-* [Dettagli tecnici della guida alla configurazione](https://experienceleague.adobe.com/it/docs/commerce-operations/configuration-guide/deployment/technical-details)
-* [Valori di configurazione bloccati](https://experienceleague.adobe.com/it/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-* [Valori salvati in env.php](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+* [Esporta configurazione](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+* [Ignora impostazioni configurazione](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+* [Impostare i valori di configurazione](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+* [Config reference config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+* [Dettagli tecnici della guida alla configurazione](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+* [Valori di configurazione bloccati](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+* [Valori salvati in env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

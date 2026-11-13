@@ -3,7 +3,7 @@ title: Crea widget
 description: Scopri come creare e modificare i widget in modo che il contenuto venga aggiornato automaticamente nel tuo store.
 doc-type: Tutorial
 duration: 236
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Developer, User
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -53,9 +53,9 @@ I widget sono componenti riutilizzabili che possono essere creati e modificati p
 * Scopri cosa sono i widget e dove vengono visualizzati.
 * Crea e gestisci i widget in Admin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411057?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
 
 ## Risorse aggiuntive
 
-* [Widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=it){target="_blank"}
-* [Crea e gestisci widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=it){target="_blank"}
+* [Widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [Crea e gestisci widget - [!DNL Commerce] Guida a contenuto e progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html){target="_blank"}
