@@ -6,7 +6,7 @@ jira: KT-10646
 duration: 134
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Shopping Cart
 topic: Commerce, Administration
 role: Admin, User
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -58,9 +58,9 @@ I servizi di pagamento per Adobe Commerce e Magento Open Source consentono alle 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3410790?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343990?learn=on)
 
 ## Risorse aggiuntive
 
-* [Guida ai servizi di pagamento](https://experienceleague.adobe.com/it/docs/commerce/payment-services/guide-overview)
-* [Connettore servizi Commerce](https://experienceleague.adobe.com/it/docs/commerce/user-guides/integration-services/saas)
+* [Guida ai servizi di pagamento](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview)
+* [Connettore servizi Commerce](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas)

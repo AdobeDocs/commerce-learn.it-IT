@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 737
-last-substantial-update: 2026-07-24T00:00:00.000Z
+last-substantial-update: 2026-07-24
 jira: KT-22139
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -44,4 +44,4 @@ Esegui una migrazione in un’unica fase quando l’ambiente sorgente può riman
 * Controlla il rapporto di riepilogo della migrazione: il passaggio 8 (verifica integrità dati) registra gli errori senza arrestare la pipeline, pertanto un’esecuzione completata non garantisce una verifica pulita.
 * Questo comando monofase è una pipeline completa e autonoma: non utilizzarlo come passaggio all’interno del flusso di lavoro in modalità di manutenzione (migrazione graduale), che dispone di comandi dedicati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496322?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)

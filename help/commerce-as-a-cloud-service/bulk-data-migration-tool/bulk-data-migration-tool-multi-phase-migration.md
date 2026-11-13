@@ -6,7 +6,7 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00.000Z
+last-substantial-update: 2026-07-27
 jira: KT-22157
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -17,7 +17,7 @@ feature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Esegui una migrazione multifase quando l’ambiente sorgente deve essere bloccat
 * La fase uno viene eseguita mentre l&#39;origine è ancora attiva: `bin console migration:before-maintenance` controlla la configurazione, inizializza l&#39;ambiente, si connette al CDMS, registra la migrazione, esegue test funzionali e crea dati di test sintetici. Non attivare la modalità di manutenzione fino al termine di questa fase.
 * La terza fase consiste nell&#39;estrazione da un ambiente bloccato: `bin/console migration:during-maintenance` riapre i tunnel PaaS se necessario, estrae dall&#39;origine, pulisce le visualizzazioni di gestione temporanea, carica nel target ACCS, esegue la verifica e pulisce i dati di test sul target.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496419?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)

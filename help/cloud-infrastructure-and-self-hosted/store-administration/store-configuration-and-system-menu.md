@@ -11,7 +11,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
 duration: 427
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 jira: KT-19031
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Esplora l’area di lavoro di amministrazione di Adobe Commerce, dal filtraggio 
 * Passare dalla vista predefinita a quella salvata e aggiornare una vista esistente.
 * Passa alla configurazione del negozio ed esplora le impostazioni generali, di catalogo, di sicurezza, del cliente e di vendita.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473179?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## Visualizzazioni griglia salvate
 
@@ -70,6 +70,6 @@ Il menu [!UICONTROL Stores] consente di accedere alle impostazioni dello store. 
 
 * [Filtri griglia di amministrazione](admin-grids-and-filters.md)
 * [Visualizzare e impostare le configurazioni amministratore tramite la riga di comando](view-update-store-configuration-cli.md)
-* [Strumenti di amministrazione e area di lavoro](https://experienceleague.adobe.com/it/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Controlli griglia di amministrazione](https://experienceleague.adobe.com/it/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Ambito sito, archivio e visualizzazione](https://experienceleague.adobe.com/it/docs/commerce-admin/start/setup/websites-stores-views)
+* [Strumenti di amministrazione e area di lavoro](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Controlli griglia di amministrazione](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Ambito sito, archivio e visualizzazione](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)

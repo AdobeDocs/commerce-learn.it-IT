@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 189
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Security, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -59,10 +59,10 @@ Se altri membri del team o provider di servizi necessitano dell&#39;accesso, è 
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/3443515?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## Risorse aggiuntive
 
-[Gestisci account utente amministratore - [!DNL Commerce] Guida di Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=it)
+[Gestisci account utente amministratore - [!DNL Commerce] Guida di Admin Systems](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Ruoli utente - [!DNL Commerce] Guida all&#39;amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=it)
+[Ruoli utente - [!DNL Commerce] Guida all&#39;amministrazione](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

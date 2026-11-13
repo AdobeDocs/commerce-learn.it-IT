@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 136
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -59,11 +59,11 @@ Ogni sito web in un’installazione di Adobe Commerce o Magento Open Source ha u
 
 >[!NOTE]
 >
->Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview).
+>Il contenuto del video riflette la versione 2.1.0 di. Per informazioni sugli aggiornamenti nelle versioni successive, consulta le [note sulla versione](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507857?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Risorse aggiuntive
 
-* [URL store - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/it/docs/commerce-admin/stores-sales/site-store/store-urls)
-* [Utilizza un URL amministratore personalizzato -  [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/it/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
+* [URL store - [!DNL Commerce] Guida agli store e all&#39;esperienza di acquisto](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [Utilizza un URL amministratore personalizzato -  [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
