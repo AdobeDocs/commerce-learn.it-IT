@@ -44,12 +44,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 ---
 # Utilizzo dell&#39;architettura di riferimento globale
+
+>[!NOTE]
+>
+>Questa serie tratta l’infrastruttura cloud Adobe Commerce e le distribuzioni con hosting autonomo.
 
 Scopri come sfruttare Global Reference Architecture o GRA. Per preparare al meglio una GRA per un’implementazione di successo, gli esperti Adobe discutono le diverse fasi del progetto e approfondiscono la fase di scoperta. Vengono discusse le risorse QA e il motivo per cui sono una risorsa preziosa per un’implementazione GRA.
 
@@ -65,6 +69,6 @@ Scopri come sfruttare Global Reference Architecture o GRA. Per preparare al megl
 * Raccolta dei requisiti
 * Quando coinvolgi il team di QA?
 
->[!VIDEO](https://video.tv.adobe.com/v/3456008?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

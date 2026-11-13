@@ -1,6 +1,6 @@
 ---
 title: Come si progetta l'architettura di riferimento globale
-description: Scopri come progettare un’architettura di riferimento globale. Scopri tecniche e idee per garantire che il progetto Global Reference Architecture inizi sulla strada giusta
+description: Scopri come progettare l’architettura di riferimento globale per Adobe Commerce, comprese le tecniche di gestione del codice, la documentazione, gli strumenti e le responsabilità del team.
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
@@ -42,12 +42,16 @@ topic_v2:
     internal-label: Implementation
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 ---
 # Architettura per GRA
+
+>[!NOTE]
+>
+>Questa serie tratta l’infrastruttura cloud Adobe Commerce e le distribuzioni con hosting autonomo.
 
 Scopri come progettare Global Reference Architecture o GRA in breve. Per preparare meglio un’implementazione di tipo GRA, gli esperti di Adobe discutono cosa è e cosa non è un GRA. Una discussione dettagliata sulla gestione del codice utilizzando pacchetti separati, split Git e monorepo. Altri argomenti relativi a documentazione, strumenti e aspettative del personale sono trattati per elaborare le loro parti per una corretta implementazione della GRA.
 
