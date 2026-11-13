@@ -62,5 +62,5 @@ I servizi di pagamento per Adobe Commerce e Magento Open Source consentono alle 
 
 ## Risorse aggiuntive
 
-* [Guida ai servizi di pagamento](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview)
-* [Connettore servizi Commerce](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas)
+* [Guida ai servizi di pagamento](https://experienceleague.adobe.com/it/docs/commerce/payment-services/guide-overview)
+* [Connettore servizi Commerce](https://experienceleague.adobe.com/it/docs/commerce/user-guides/integration-services/saas)
