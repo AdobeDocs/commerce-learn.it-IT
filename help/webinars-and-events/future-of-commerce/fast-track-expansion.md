@@ -58,7 +58,7 @@ Scopri come Adobe Commerce consente alle aziende di velocizzare la loro espansio
 * Integrazione perfetta di assortimenti di prodotti di prime e terze parti
 * Sviluppo accelerato della vetrina con menu a discesa e temi
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505306?captions=ita&learn=on)
 
 ## Tutorial correlati
 

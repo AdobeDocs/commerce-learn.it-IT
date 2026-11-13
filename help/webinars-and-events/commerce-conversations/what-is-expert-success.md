@@ -52,4 +52,4 @@ Scopri Adobe Commerce expert success plan. Ulteriori informazioni sui dettagli, 
 * Tre canali di supporto.
 * Obiettivi del livello di servizio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505673?captions=ita&learn=on)

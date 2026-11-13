@@ -49,7 +49,7 @@ In questo video:
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/35946?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330062?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 
