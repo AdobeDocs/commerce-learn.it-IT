@@ -52,7 +52,7 @@ Scopri come Adobe Commerce sta trasformando le vetrine digitali con strumenti al
 * Componenti pronti per gli sviluppatori e SDK
 * Strumenti di editing video integrati
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505720?captions=ita&learn=on)
 
 ## Tutorial correlati
 
