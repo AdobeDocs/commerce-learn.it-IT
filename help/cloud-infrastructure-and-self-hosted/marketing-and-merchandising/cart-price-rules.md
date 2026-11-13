@@ -154,5 +154,5 @@ tuttavia, se si lascia cadere il terzo decimale, si vedrebbe che $3,98 è stato 
 
 ## Risorse aggiuntive
 
-* [Crea una regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [Codici coupon - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [Crea una regola prezzo carrello - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/it/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Codici coupon - [!DNL Commerce] Guida al merchandising e alle promozioni](https://experienceleague.adobe.com/it/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
