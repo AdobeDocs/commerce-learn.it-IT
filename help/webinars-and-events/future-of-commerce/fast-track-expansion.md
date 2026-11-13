@@ -62,8 +62,8 @@ Scopri come Adobe Commerce consente alle aziende di velocizzare la loro espansio
 
 ## Tutorial correlati
 
-* [Adobe Commerce Optimizer: visualizzazioni catalogo](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
-* [Adobe Commerce as a Cloud Service: gestione dei cataloghi e merchandising](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
+* [Adobe Commerce Optimizer: visualizzazioni catalogo](https://experienceleague.adobe.com/it/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce as a Cloud Service: gestione dei cataloghi e merchandising](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## Video aggiuntivi di questa serie
 

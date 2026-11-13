@@ -85,7 +85,7 @@ Il webinar illustra inoltre la flessibilità e l&#39;innovazione introdotte da E
 
 ## Tutorial correlati
 
-* [Commerce storefront su Edge Delivery Services: esperienza dell&#39;acquirente](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Personalizzare il pagamento in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
+* [Commerce storefront su Edge Delivery Services: esperienza dell&#39;acquirente](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Personalizzare il pagamento in Edge Delivery Services](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

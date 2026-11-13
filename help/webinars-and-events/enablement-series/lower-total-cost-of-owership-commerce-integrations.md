@@ -115,9 +115,9 @@ Evidenzia la disponibilità di connessioni dati per un flusso di dati fluido tra
 
 ## Tutorial correlati
 
-* [Introduzione ad App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [Introduzione a Mesh API](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
-* [Introduzione a Adobe I/O Events](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
-* [Connessione dati](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Introduzione ad App Builder](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Introduzione a Mesh API](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Introduzione a Adobe I/O Events](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [Connessione dati](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
