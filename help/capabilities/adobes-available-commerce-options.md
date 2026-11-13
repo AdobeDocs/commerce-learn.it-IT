@@ -2,9 +2,9 @@
 title: Opzioni di e-commerce disponibili in Adobe
 description: Confronta le opzioni di implementazione di Adobe Commerce (on-premise, cloud, SaaS e Commerce Optimizer) e scopri come scegliere il modello giusto per la tua azienda.
 jira: KT-20236
-doc-type: tutorial
+doc-type: Tutorial
 duration: 360
-last-substantial-update: 2026-2-25
+last-substantial-update: 2026-02-25
 feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
@@ -28,7 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%

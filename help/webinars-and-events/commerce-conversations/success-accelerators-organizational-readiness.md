@@ -1,13 +1,13 @@
 ---
 title: Preparazione organizzativa per gli acceleratori di successo
-description: Scopri gli acceleratori di successo di Adobe per prepararsi all’organizzazione. La preparazione dell’organizzazione Commerce Success Accelerator facilita la pianificazione strategica, i flussi di lavoro, la gestione delle modifiche e la revisione digitale.
+description: Scopri in che modo Adobe Commerce Success Accelerator supporta la preparazione organizzativa tramite pianificazione strategica, flussi di lavoro, gestione dei cambiamenti e revisione digitale.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 133
-last-substantial-update: 2025-04-29T00:00:00.000Z
+last-substantial-update: 2025-04-29
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
 TQID: 'https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU'
@@ -35,9 +35,9 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # Acceleratori di successo per la preparazione dell’organizzazione

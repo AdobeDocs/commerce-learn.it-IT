@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] per utenti aziendali - Impostazioni archivio'
-description: Scopri le impostazioni internazionali, le informazioni di archiviazione, gli URL sicuri e non sicuri, il titolo del sito web, il logo, le informazioni sul copyright, i logo e-mail di comunicazione, gli indirizzi e-mail di archiviazione, le opzioni di valuta e i tassi di valuta.
+description: Scopri le impostazioni locali, le informazioni di archiviazione, gli URL sicuri/non sicuri, il titolo del sito, i logo, il copyright, i logo e gli indirizzi e-mail, le opzioni di valuta e i tassi di cambio.
 kt: 5764
-doc-type: video
+doc-type: Technical Video
 duration: 390
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -31,9 +31,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 ---
 # [!DNL Commerce] per utenti aziendali - Impostazioni archivio
