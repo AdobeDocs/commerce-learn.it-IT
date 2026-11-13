@@ -109,6 +109,6 @@ Sei pronto a iniziare a sviluppare? Il seguente collegamento contiene applicazio
 
 ## Esempio specifico per l’offerta
 
-Per un&#39;integrazione Adobe Commerce Optimizer basata su App Builder, segui il [Salesforce Commerce Cloud Starter Kit](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). La serie descrive l&#39;architettura, l&#39;installazione della cartuccia Salesforce, il kit di avvio App Builder e una dimostrazione end-to-end.
+Per un&#39;integrazione Adobe Commerce Optimizer basata su App Builder, segui il [Salesforce Commerce Cloud Starter Kit](https://experienceleague.adobe.com/it/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). La serie descrive l&#39;architettura, l&#39;installazione della cartuccia Salesforce, il kit di avvio App Builder e una dimostrazione end-to-end.
 
 {{$include /help/_includes/app-builder-related-links.md}}
