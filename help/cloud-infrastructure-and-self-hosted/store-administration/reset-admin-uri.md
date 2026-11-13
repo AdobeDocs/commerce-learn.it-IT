@@ -46,7 +46,7 @@ ht-degree: 0%
 
 Per recuperare l’accesso all’amministratore dopo una modifica URL errata, reimposta l’URI amministratore utilizzando l’interfaccia della riga di comando di Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439700?captions=ita&learn=on)
 
 ## Alcuni comandi utilizzati nell&#39;esercitazione
 

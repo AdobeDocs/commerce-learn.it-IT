@@ -56,7 +56,7 @@ Gestisci i metodi di spedizione e consegna per consegnare i prodotti ai tuoi cli
 
 ## Contenuto video
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410207?captions=ita&learn=on)
 
 ## Risorse aggiuntive
 
